@@ -11,7 +11,7 @@ This repository contains a best attempt at unifying funding panel meeting outcom
 | MRC       | 324      | 7,522        | 3,063      | 339        | 16              | 0         |
 | NERC      | 153      | 7,966        | 2,353      | 3,231      | 32              | 299       |
 | STFC      | 27       | 1,145        | 283        | 0          | 0               | 0         |
-| **Total** | **1450** | **40,509**   | **11045**  | **11,730** | **589**         | **373**   |
+| **Total** | **1450** | **40,509**   | **11,045**  | **11,730** | **589**         | **373**   |
 
 The data for each panel is spread across a number of locations and a wide array of document formats and layouts, making analysis across meetings and funding bodies effectively impossible. Interrogation of these meetings is crucial as they mark the actual point at which final funding decisions are made and offers the only insight, publicly available, into unfunded proposals. Without a unified and standardised representation of this data, investigations into systematic bias or the actual competitiveness of particular opportunities is not possible. While imperfect and incomplete, I hope this data allows for further research to tackle pressing questions of inequality in funding allocation under UKRI and its subsidiary councils.
 
