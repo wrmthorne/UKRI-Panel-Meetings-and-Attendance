@@ -1,0 +1,151 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, November 2018 Panel Meeting",
+  "year": "2018",
+  "meeting_date": "2018-11",
+  "source_file": "Research GRants Panel, November 2018 Meeting.xlsx",
+  "count_of_applications": "23",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/S005129/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Kriszta Szendroi",
+      "holding_organisation": "University College London",
+      "grant_title": "Contemporary Hasidic Yiddish",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S005005/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Robert Parker",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Lexicon of Greek Personal Names- Lower Egypt and the Fayum",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S004882/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Tatiana Tkacukova",
+      "holding_organisation": "Birmingham City University",
+      "grant_title": "Language of DIY Justice: Communication practices & processes",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S004742/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Richard Rushton",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Cinema Memory and the Digital Archive: 1930s Britain and Beyond",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S006273/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Alexander Metcalfe",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Power, society, and (dis)connectivity in medieval Sardinia",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S006125/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rob Drummond",
+      "holding_organisation": "Manchester Metropolitan University",
+      "grant_title": "Manchester Voices: A community-oriented project on language use, language attitudes, and regional and social identities",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S005463/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006435/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00520X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005137/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004300/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004696/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005390/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005250/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003754/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003207/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004904/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004734/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00307X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004203/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004947/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005528/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005595/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2018,
+  "meeting_reference": "1-338118001",
+  "meeting_name": "FoF February 2018",
+  "meeting_date": "20180222",
+  "applications": [
+    {
+      "application_id": "AH/R013543/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Nicola Kerrie Shaughnessy",
+      "project": "Autism Re-Imagined: Creative Resources for Schools and Communities",
+      "research_organisation": "University of Kent",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S00002X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Selina Todd",
+      "project": "Housing, Culture and Women's Citizenship in Britain, c.1945 to the present",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/R013233/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Laura King",
+      "project": "The Role of Objects and Places in Remembrance Culture: Using research in an artistic collaboration",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S000240/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "4"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Catherine Teresa Eagleton",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Fabrizio James Nevola",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    }
+  ]
+}

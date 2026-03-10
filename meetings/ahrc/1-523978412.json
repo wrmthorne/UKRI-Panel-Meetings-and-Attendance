@@ -1,0 +1,117 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-523978412",
+  "meeting_name": "UK Turkey Creative Industries Networking Grants Mar 2020",
+  "meeting_date": "20200402",
+  "applications": [
+    {
+      "application_id": "AH/V003828/1",
+      "route": "Standard",
+      "lead_applicant": "Ms Donna Close",
+      "project": "5G: Fusing the Istanbul theatre and games sectors for a more sustainable, productive and connected future",
+      "research_organisation": "University of Brighton",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V003933/1",
+      "route": "Standard",
+      "lead_applicant": "Dr ELIF OZDEN YENIGUN",
+      "project": "Crafting Technology for Textiles",
+      "research_organisation": "Royal College of Art",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V004131/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Michael Ellison",
+      "project": "Transtraditional Istanbul",
+      "research_organisation": "University of Bristol",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V003909/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V00378X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V003631/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V003410/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V003755/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V003682/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Rajinder Dudrah",
+      "organisation": "City of Bristol College",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Aylin Orbasli",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Naren Barfield",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    }
+  ]
+}

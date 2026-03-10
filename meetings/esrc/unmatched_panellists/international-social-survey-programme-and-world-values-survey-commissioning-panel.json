@@ -1,0 +1,42 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "International Social Survey Programme and World Values Survey Commissioning Panel",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "panellists": [
+    {
+      "name": "Anni Laihanen",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Mollie Rawlins",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Cristina Iannelli",
+      "organisation": "University of Edinburgh",
+      "role": "Chair"
+    },
+    {
+      "name": "Anat Bardi",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Carla Xena",
+      "organisation": "University of Essex",
+      "role": "Member"
+    },
+    {
+      "name": "Toby James",
+      "organisation": "University of East Anglia",
+      "role": "Member"
+    },
+    {
+      "name": "Vera Lomazzi",
+      "organisation": "University of Bergamo",
+      "role": "Member"
+    }
+  ]
+}

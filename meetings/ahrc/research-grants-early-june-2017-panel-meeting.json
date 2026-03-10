@@ -1,0 +1,156 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, early June 2017 Panel Meeting",
+  "year": "2017",
+  "meeting_date": "2017-06",
+  "source_file": "1706-early-research-grants-meeting.xlsx",
+  "count_of_applications": "24",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/P013910/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Jeffrey Dean",
+      "holding_organisation": "Birmingham City University",
+      "grant_title": "Interpreting the Mensural Notation of Music: An Expert System Based on the Theory of Johannes Tinctoris",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P015069/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Stephen Lambert",
+      "holding_organisation": "Cardiff University",
+      "grant_title": "Attic inscriptions in UK collections (AIUK)",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P014569/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Stephen Pinfield",
+      "holding_organisation": "University of Sheffield",
+      "grant_title": "Open Access in Theory and Practice: The Uses of Theory in Research on Open Access and their Relationship with Practice",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P014976/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Martin Zebracki",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Queer Memorials: International Comparative Perspectives on Sexual Diversity and Social Inclusivity (QMem)",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P015077/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Derek Matravers",
+      "holding_organisation": "Open University",
+      "grant_title": "Cultural Property",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P014178/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Peter Shirlow",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "The Art of Reconciliation: Do reconciliation-funded arts projects transform conflict?",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P013872/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013813/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P01450X/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N009762/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009409/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009123/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006108/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P008518/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014062/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000352/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000042/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001499/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000166/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014151/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013953/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P01366X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000069/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000271/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

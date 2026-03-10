@@ -1,0 +1,697 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2023,
+  "meeting_reference": "1-910929379",
+  "meeting_name": "Engage the Public with the Future of Health and Care in the UK (NHS 75) (March 23)",
+  "meeting_date": "20230309",
+  "applications": [
+    {
+      "application_id": "AH/X012174/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Claire Cassidy",
+      "project": "Using Philosophical Dialogues with Children to Understand Care and Wellbeing for Siblings of those with Life-Limiting Conditions",
+      "research_organisation": "University of Strathclyde",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X012263/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Bethan Evans",
+      "project": "Imagining Better Futures of Health and Social Care with and for People with Energy Limiting Chronic Illnesses",
+      "research_organisation": "University of Liverpool",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X012034/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jasmine Hearn",
+      "project": "Making the invisible, visible: co-creating novel approaches to endometriosis pain communication",
+      "research_organisation": "Manchester Metropolitan University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X012573/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mary Stewart",
+      "project": "Ageing, Health, and Social Care: The meaningful engagement of autistic people with learning disabilities in supported living services in Scotland",
+      "research_organisation": "Heriot-Watt University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X012298/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Maxinne Margaret Panagopoulos",
+      "project": "Rural Health and Care: Past, Present and Future",
+      "research_organisation": "University of the Highlands and Islands",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X012409/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Stephanie Jane Snow",
+      "project": "NHS 75/150",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X01231X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rachel Carroll",
+      "project": "Empowering children to shape the future of research on social inequality and health",
+      "research_organisation": "Teesside University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X012387/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Myrtle Emmanuel",
+      "project": "Re-igniting Windrush folk song and stories to improve African-Caribbean mental health disparities",
+      "research_organisation": "University of Greenwich",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X012603/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Lisa Anne-Marie Dikomitis",
+      "project": "Imagining mental healthcare: engaging underserved local communities in Kent (INTERACT)",
+      "research_organisation": "University of Kent",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/X012239/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Kim Wiltshire",
+      "project": "Home from Home: Building Independence in Community Health Settings",
+      "research_organisation": "Edge Hill University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/X012328/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/X012530/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/X012204/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/X01214X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/X012247/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/X012360/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/X012433/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/X012042/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/X012085/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/X012069/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/X012336/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/X012441/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/X012476/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "23"
+    },
+    {
+      "application_id": "AH/X012166/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "24"
+    },
+    {
+      "application_id": "AH/X012549/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "25"
+    },
+    {
+      "application_id": "AH/X012050/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "26"
+    },
+    {
+      "application_id": "AH/X012131/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "27"
+    },
+    {
+      "application_id": "AH/X012557/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "28"
+    },
+    {
+      "application_id": "AH/X012255/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "29"
+    },
+    {
+      "application_id": "AH/X01259X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "30"
+    },
+    {
+      "application_id": "AH/X012697/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "31"
+    },
+    {
+      "application_id": "AH/X012115/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "32"
+    },
+    {
+      "application_id": "AH/X012522/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "33"
+    },
+    {
+      "application_id": "AH/X012107/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "34"
+    },
+    {
+      "application_id": "AH/X012077/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "35"
+    },
+    {
+      "application_id": "AH/X012395/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "36"
+    },
+    {
+      "application_id": "AH/X012689/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "37"
+    },
+    {
+      "application_id": "AH/X012638/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "38"
+    },
+    {
+      "application_id": "AH/X012352/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "39"
+    },
+    {
+      "application_id": "AH/X012611/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "40"
+    },
+    {
+      "application_id": "AH/X012514/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "41"
+    },
+    {
+      "application_id": "AH/X01228X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012018/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012093/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012123/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012182/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012190/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012220/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012271/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012301/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012344/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012379/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012425/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012468/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012484/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012492/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012506/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012565/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012581/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012646/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012654/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "1",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012662/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012670/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Catherine Teresa Eagleton",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Gavin Miller",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Linda Monckton",
+      "organisation": "Historic Bldgs & Mnts Commis for England",
+      "role": "Member"
+    },
+    {
+      "name": "Mr Niyah Judah Campbell",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Alis Elena Oancea",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Professor James Stark",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Louise Moody",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Sara Patricia Houston",
+      "organisation": "Roehampton University",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN862",
+  "meeting_name": "OPP 141 - EPSRC Mathematical Sciences Fellowship Interview Panel Dec 2024 - Post Doctoral",
+  "meeting_date": "2024-12-11 09:00:00",
+  "meeting_convenor": "Foxell, Dr E",
+  "applications": [
+    {
+      "application_id": "APP6592",
+      "title": "New Techniques In Solvable Models: From Quantum Curves To Correlation Functions",
+      "applicant": "Ryan, Dr P",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "387432.84",
+      "award_id": "EP/U536969/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FU536969%2F1",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP6643",
+      "title": "Topological entanglement measures for excited states in Integrable Quantum Theories",
+      "applicant": "Santamaria-Sanz, L",
+      "lead_organisation": "City St George’s, University of London",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13187",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Roberts, G",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Burstall, F",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Chhita, S",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Dunning, C",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Hoyle, R",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    }
+  ]
+}

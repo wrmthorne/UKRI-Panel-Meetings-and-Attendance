@@ -1,0 +1,177 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-731523347",
+  "meeting_name": "Research Networking - July 2021",
+  "meeting_date": "20210809",
+  "applications": [
+    {
+      "application_id": "AH/W000903/1",
+      "route": "Standard",
+      "lead_applicant": "Ms Samantha Jury",
+      "project": "Visual Arts and Theatre Collaboration - new models for art practices in post-conflict situations",
+      "research_organisation": "University of Hertfordshire",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W002752/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Camille Mathieu",
+      "project": "Aqueous Territory: Learning from Louisiana's Colonial Histories and Watery Extremes",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W000695/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Roisin Higgins",
+      "project": "Towards a Sociosomatic History of Northern Ireland's Troubles",
+      "research_organisation": "Teesside University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W000849/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Luc-André Brunet",
+      "project": "Global Histories of Peace and Anti-Nuclear Activism",
+      "research_organisation": "The Open University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W001497/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Julia Laite",
+      "project": "What is Public History Now?  Exploring engagement, impact, collaboration and coproduction in History Higher Education",
+      "research_organisation": "Birkbeck College",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/W002175/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Cassandra Elizabeth Gorman",
+      "project": "Northern Networks: Astronomical and Medical Knowledge from the Baltic to East Central Europe, 1550-1750",
+      "research_organisation": "Anglia Ruskin University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V015524/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/W000075/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/W000377/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/W000660/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/W002795/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/W000679/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W001012/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W001128/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W001136/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W002191/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Nicola Kerrie Shaughnessy",
+      "organisation": "University of Kent",
+      "role": "Moderator"
+    }
+  ]
+}

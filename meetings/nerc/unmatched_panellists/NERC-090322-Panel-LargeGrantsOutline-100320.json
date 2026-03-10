@@ -1,0 +1,80 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Large Grant Outline MAR20",
+  "source_file": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-LargeGrantsOutline-100320.pdf",
+  "meeting_date": "Wednesday 15th & Thursday 16th July 2020",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Professor Daniel Parsons",
+      "role": "Chair",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Dr Robert Baxter",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Dr Philip Benson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Professor Sofia Consuegra del Olmo",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Dr Kathryn Goodenough",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Professor Farideh Honary",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Professor Bernd Kulessa",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Professor Owen Lewis",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Professor Antony Payne",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Dr Kelly Redeker",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Dr Alexandra Turchyn",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Dr Sami Ullah",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dr Andrew Walker",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Dr Aubrey Zerkle",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    }
+  ]
+}

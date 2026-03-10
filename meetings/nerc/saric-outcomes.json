@@ -1,0 +1,70 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "SARIC Research Translation Assessment Panel – 9th September 2014",
+  "source_file": "saric-outcomes.pdf",
+  "count_of_applications": "10",
+  "count_of_awards": "5",
+  "year": "2014",
+  "applications": [
+    {
+      "application_reference": "NE/M016919/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M016714/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M012794/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M016676/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M01679X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M010791/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "6",
+        "4.6"
+      ]
+    },
+    {
+      "application_reference": "NE/M016951/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "7",
+        "4.35"
+      ]
+    },
+    {
+      "application_reference": "NE/M01682X/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "8",
+        "3.95"
+      ]
+    },
+    {
+      "application_reference": "NE/M016897/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "9",
+        "2.85"
+      ]
+    },
+    {
+      "application_reference": "NE/M016838/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "10",
+        "2.5"
+      ]
+    }
+  ]
+}

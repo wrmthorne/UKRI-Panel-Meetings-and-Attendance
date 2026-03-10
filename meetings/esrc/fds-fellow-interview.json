@@ -1,0 +1,17 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "FDS Fellow Interview",
+  "year": "2022",
+  "meeting_date": "2022-07",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "application_reference": "ES/X00127X/1",
+      "opportunity": "FDS Strategic Fellowship",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    }
+  ]
+}

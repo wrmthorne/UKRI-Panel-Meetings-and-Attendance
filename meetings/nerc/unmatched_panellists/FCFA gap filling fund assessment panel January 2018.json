@@ -1,0 +1,40 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "(FCFA gap filling fund JAN18)",
+  "source_file": "NERC-funding-assessment-panel-members-2018/FCFA gap filling fund assessment panel January 2018.pdf",
+  "meeting_date": "21 February 2018",
+  "meeting_location": "Grange Rochester Hotel, London, SW1P 2PA",
+  "panel_secretary": "Daniel Knight",
+  "panellists": [
+    {
+      "name": "Professor Rob MacKenzie",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dr Massimo Bollasina",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Dr Sybren Drijfhout",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Professor Dr Andreas Fink Karlsruhe",
+      "role": "Member",
+      "organisation": "Institute of Technology"
+    },
+    {
+      "name": "Professor David Stainforth",
+      "role": "Member",
+      "organisation": "London School of Economics"
+    },
+    {
+      "name": "Dr Mouhamadou Bamba Sylla",
+      "role": "Member",
+      "organisation": "WASCAL"
+    }
+  ]
+}

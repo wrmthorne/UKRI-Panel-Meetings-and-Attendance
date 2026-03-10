@@ -1,0 +1,107 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-757075476",
+  "meeting_name": "AHRC Languages Fellowships Panel Meeting November 2021",
+  "meeting_date": "20211122",
+  "applications": [
+    {
+      "application_id": "AH/W010070/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Michelle Macleod",
+      "project": "Future of Language Research",
+      "research_organisation": "University of Aberdeen",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W009986/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Nicola McLelland",
+      "project": "What next for languages research in the UK?",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W010100/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Emmanuelle Labeau",
+      "project": "BRUM: Birmingham Research for Upholding Multilingualism",
+      "research_organisation": "Aston University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W009994/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W009978/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W010046/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W010097/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Janice Carruthers",
+      "organisation": "Queen's University of Belfast",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Brian Ó Raghallaigh",
+      "organisation": "Dublin City University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Angela Creese",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Hillary Ann Footitt",
+      "organisation": "University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Professor James Marcel Hegarty",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    }
+  ]
+}

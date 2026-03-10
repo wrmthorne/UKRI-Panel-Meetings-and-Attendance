@@ -1,0 +1,166 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Molecular and Cellular Medicine Board 15 - 16 June 2016",
+  "meeting_date": null,
+  "source_file": "government_web_archive/Molecular and Cellular Medicine Board 15 - 16 June 2016.xlsx",
+  "count_of_applications": "31",
+  "count_of_awards": "13",
+  "notes": "MR/N030117/1 was deferred for consideration at the next Board meeting.\n\nProposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 48/80 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "application_reference": "MR/P000096/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000320/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000185/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000231/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000312/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000177/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000509/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000282/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000444/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000355/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000738/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000363/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000525/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P00038X/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N030036/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000436/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000584/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P00041X/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000290/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000460/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000479/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P002765/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000487/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000673/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000495/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000711/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000541/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P00072X/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P000576/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P000789/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P002757/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-853306831",
+  "meeting_name": "Research Networking September 2022",
+  "meeting_date": "20220922",
+  "applications": [
+    {
+      "application_id": "AH/X007758/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Aoife McGrath",
+      "project": "Parenting and Dance Network",
+      "research_organisation": "Queen's University of Belfast",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X004953/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Yolana Pringle",
+      "project": "Negotiating health and care in humanitarian history",
+      "research_organisation": "Roehampton University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X004627/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Laura Purcell-Gates",
+      "project": "Disability and Puppetry Research Network",
+      "research_organisation": "Bath Spa University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X007790/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Serena Dyer",
+      "project": "Making Historical Dress: Hands, bodies and methods",
+      "research_organisation": "De Montfort University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X003787/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Lee David Higgins",
+      "project": "Singing for Health Research Network",
+      "research_organisation": "York St John University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X006891/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Misha Ewen",
+      "project": "Generations of Care in the Early Modern Royal Palaces",
+      "research_organisation": "Historic Royal Palaces",
+      "grant_status": "RO Withdrawn",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X004163/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lucy Arnold",
+      "project": "Haunting Issues: Children, Spectrality and Culture",
+      "research_organisation": "University of Worcester",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X004341/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X006433/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X007022/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Helena Frances Gaunt",
+      "organisation": "University of South Wales",
+      "role": "Moderator"
+    }
+  ]
+}

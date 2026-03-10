@@ -1,0 +1,192 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-412527821",
+  "meeting_name": "Research Networking January 2019",
+  "meeting_date": "20190222",
+  "applications": [
+    {
+      "application_id": "AH/S007520/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Marco Bohr",
+      "project": "VASDiV: Visual Activism and Sexual Diversity in Vietnam",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S007059/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mary Harrod",
+      "project": "Producing the Post-National Popular: The Expanding Imagination of Popular French Films and Television Series",
+      "research_organisation": "University of Warwick",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S011013/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Kimberley Lauren Brownlee",
+      "project": "Social Human Rights",
+      "research_organisation": "University of Warwick",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S010289/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Charlotte Elizabeth Wildman",
+      "project": "Challenging Domesticity in Britain, 1890-1990",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S011455/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Bolanle Adebola",
+      "project": "Commercial Law Research Network Nigeria (CLRN_N)",
+      "research_organisation": "University of Reading",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S007091/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Naomi judith Creutzfeldt",
+      "project": "Administrative Justice Network",
+      "research_organisation": "University of Westminster",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/S006710/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Adrian Curtin",
+      "project": "Representing 'Classical Music' in the Twenty-First Century",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/S01148X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Marisa Wilson",
+      "project": "Living Histories of Sugar in Scotland and the West Indies: Transnationalisms, Performance and Co-creation",
+      "research_organisation": "University of Edinburgh",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/S006214/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Gesine Manuwald",
+      "project": "Baroque Latinity",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/S01103X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/S012028/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/S010866/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/S011110/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/S007156/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/S01084X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S007695/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S010718/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Rajinder Dudrah",
+      "organisation": "City of Bristol College",
+      "role": "Moderator"
+    }
+  ]
+}

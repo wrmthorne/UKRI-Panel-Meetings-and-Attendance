@@ -1,0 +1,629 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "AHRC responsive mode: Curiosity Awards October 2024 panel 1",
+  "applications": [
+    {
+      "application_id": "41981",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "43955",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "44277",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "43074",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "43721",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "44721",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "42214",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "11"
+    },
+    {
+      "application_id": "47170",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "12"
+    },
+    {
+      "application_id": "45137",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "13"
+    },
+    {
+      "application_id": "42025",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "14"
+    },
+    {
+      "application_id": "44234",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "15"
+    },
+    {
+      "application_id": "43470",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "16"
+    },
+    {
+      "application_id": "42256",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "17"
+    },
+    {
+      "application_id": "46231",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "18"
+    },
+    {
+      "application_id": "41790",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "19"
+    },
+    {
+      "application_id": "44660",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "20"
+    },
+    {
+      "application_id": "42957",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "21"
+    },
+    {
+      "application_id": "46083",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "22"
+    },
+    {
+      "application_id": "45201",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "23"
+    },
+    {
+      "application_id": "45931",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "24"
+    },
+    {
+      "application_id": "46042",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "25"
+    },
+    {
+      "application_id": "45562",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "26"
+    },
+    {
+      "application_id": "44143",
+      "title": "Shakespeare and early modern proverbial culture",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Richard Meek",
+      "lead_organisation": "University of Hull",
+      "rank": "1"
+    },
+    {
+      "application_id": "42332",
+      "title": "Poverty & Knowledge: Anti-poverty activism as a challenge to epistemic injustice in journalism",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Rachel Broady",
+      "lead_organisation": "Liverpool John Moores University",
+      "rank": "2"
+    },
+    {
+      "application_id": "44151",
+      "title": "Contradictions in UK Migrant Law and Women's Advocacy: the case of trafficked/undocumented Filipino women",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Pauline Eadie",
+      "lead_organisation": "University of Nottingham",
+      "rank": "3"
+    },
+    {
+      "application_id": "43194",
+      "title": "Just Farming Futures: using creative methods to explore innovative alternatives in Welsh agriculture",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Agatha Herman",
+      "lead_organisation": "Cardiff University",
+      "rank": "4"
+    },
+    {
+      "application_id": "42897",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "49873",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "41817",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "45132",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "44578",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "46181",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "48097",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "43934",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "49655",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "46190",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "41778",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "48315",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "43082",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "49270",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "43050",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "43176",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "44398",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "42486",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "42502",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "41841",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "44372",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "45228",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "42777",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "42822",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "42040",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "42213",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "41870",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "44793",
+      "title": "",
+      "score": "2",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor James Clark",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Paul Cooke",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "Dan Pett",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr James Leggott",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr John Giblin",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Liam Gearon",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Melinda Haunton",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Hilary French",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Imma Ramos",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Kate Pahl",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Katharina Zinn",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Leon Cruickshank",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Andrew Linn",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Susan Hodgett",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Ting Xu",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Robin Sloan",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

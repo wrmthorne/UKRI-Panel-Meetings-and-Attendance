@@ -1,0 +1,53 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, July 2018",
+  "year": "2018",
+  "meeting_date": "2018-07",
+  "source_file": "Research Networking, July 2018 Moderation.xlsx",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/S001522/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Simon Barber",
+      "holding_organisation": "Birmingham City University",
+      "grant_title": "Songwriting Studies Research Network"
+    },
+    {
+      "application_reference": "AH/S002197/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Ms Gemma Louise Davies",
+      "holding_organisation": "Northumbria University",
+      "grant_title": "UK-Irish Criminal Justice Cooperation Network"
+    },
+    {
+      "application_reference": "AH/R01390X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S002715/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003363/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001506/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001514/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

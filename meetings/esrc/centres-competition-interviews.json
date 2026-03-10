@@ -1,0 +1,65 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Centres Competition Interviews",
+  "year": "2019",
+  "meeting_date": "2019-04",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "9",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "application_reference": "ES/S012435/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S012354/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012400/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012427/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012486/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S012532/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S012567/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S01246X/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012443/1",
+      "opportunity": "Centres Competition 2018",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

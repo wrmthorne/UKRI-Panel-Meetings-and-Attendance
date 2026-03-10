@@ -1,0 +1,707 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Grant Assessment Panel Meeting March 2018",
+  "year": "2018",
+  "meeting_date": "2018-06",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "116",
+  "count_of_awards": "33",
+  "applications": [
+    {
+      "application_reference": "ES/R005532/1",
+      "opportunity": "New Investigator",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007225/1",
+      "opportunity": "New Investigator",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007470/1",
+      "opportunity": "New Investigator",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R008612/1",
+      "opportunity": "New Investigator",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R00658X/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R006628/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007314/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007764/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007667/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R008647/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007942/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R008159/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R00739X/1",
+      "opportunity": "New Investigator",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R00854X/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007675/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007306/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007136/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007160/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006717/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006466/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006377/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006393/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005974/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006024/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006512/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006636/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007837/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007713/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008418/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R01034X/1",
+      "opportunity": "New Investigator",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007551/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008361/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006598/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008302/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006539/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006083/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005397/1",
+      "opportunity": "New Investigator",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R010285/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R008744/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R011397/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R00837X/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R005257/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R006687/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R006962/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R006482/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R006555/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007721/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007349/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R005133/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R005559/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R006148/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007527/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R00742X/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007454/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007632/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R007403/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007535/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008329/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008337/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007373/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008213/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R010064/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R010080/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006091/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006407/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006253/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R00577X/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R004234/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R004900/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007756/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007853/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006326/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006350/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006776/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006679/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006504/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007861/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007322/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007179/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007292/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R004765/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006245/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008396/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008558/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008620/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007586/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007691/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007659/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007608/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008701/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007357/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006121/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006180/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005281/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005826/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007705/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006709/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006733/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005575/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006067/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005931/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006318/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R006423/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008299/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R010005/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008639/1",
+      "opportunity": "Research Grants (open call)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005907/1",
+      "opportunity": "SDAI open call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R005729/1",
+      "opportunity": "SDAI open call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R004978/1",
+      "opportunity": "SDAI open call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R00627X/1",
+      "opportunity": "SDAI open call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/R005877/1",
+      "opportunity": "SDAI open call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R008590/1",
+      "opportunity": "SDAI open call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007683/1",
+      "opportunity": "SDAI open call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R007624/1",
+      "opportunity": "SDAI open call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005648/1",
+      "opportunity": "SDAI open call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/R005141/1",
+      "opportunity": "SDAI open call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

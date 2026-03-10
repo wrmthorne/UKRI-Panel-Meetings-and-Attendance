@@ -1,0 +1,336 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN854",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel February 2025 – New Investigator Awards",
+  "meeting_date": "2025-02-04 09:00:00",
+  "meeting_convenor": "Minter, H",
+  "applications": [
+    {
+      "application_id": "APP24784",
+      "title": "Towards data-driven turbulence control: saving energy in pipelines by suppressing turbulence",
+      "applicant": "Marensi, E",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "435187.8",
+      "award_id": "UKRI1494",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1494",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP31567",
+      "title": "DYNamic Analysis of composite liquid Hydrogen fuel tanks (DYNAH)",
+      "applicant": "Fallon, C",
+      "lead_organisation": "University of Bath",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "527541.24",
+      "award_id": "UKRI1496",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1496",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24910",
+      "title": "Engineering Twist",
+      "applicant": "Duncan, O",
+      "lead_organisation": "Manchester Metropolitan University",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "393262.07",
+      "award_id": "UKRI1495",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1495",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23255",
+      "title": "BIO-SHARP: Bioimpedance Sensing feedbacked Haptic-Assistive Robotic System for Precision Needle Navigation in Invasive Medical Procedures",
+      "applicant": "Wu, Y",
+      "lead_organisation": "University College London",
+      "outcome": "Funded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "336109.7",
+      "award_id": "UKRI1493",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1493",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23629",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP27040",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP34874",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33169",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP29349",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP38228",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33603",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP41463",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30662",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24192",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23239",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP39233",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Le Feuvre, R",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Burrows, A",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Cummins, G",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Curtis, T",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Dodds, P",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Donald, I",
+      "role": "Panellist",
+      "organisation": "Siemens plc (UK)"
+    },
+    {
+      "name": "Gerada, C",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Harris, R",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Maria Viola, I",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Norton, B",
+      "role": "Panellist",
+      "organisation": "Technological University Dublin"
+    },
+    {
+      "name": "Nowell, D",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "OSMAN, A",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Stairmand, J",
+      "role": "Panellist",
+      "organisation": "Jacobs (United Kingdom)"
+    },
+    {
+      "name": "Todd, I",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Torrente-Murciano, L",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Vanderwel, C",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Yang, Y",
+      "role": "Panellist",
+      "organisation": "Keele University"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "GAB Shortlisted Innovation Grants 2018",
+  "year": "2019",
+  "meeting_date": "2019-03",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "15",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "application_reference": "ES/S006168/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006362/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006214/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006281/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006826/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006419/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006524/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006532/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006222/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006257/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006591/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006133/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006206/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006575/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006230/1",
+      "opportunity": "GAB Innovation Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

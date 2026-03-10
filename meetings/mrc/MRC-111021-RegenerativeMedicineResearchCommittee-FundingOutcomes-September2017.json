@@ -1,0 +1,41 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "RMRC Sept 2017",
+  "meeting_date": "01/09/2017",
+  "source_file": "Regenerative-medicine-research-committee/MRC-111021-RegenerativeMedicineResearchCommittee-FundingOutcomes-September2017.xlsx",
+  "count_of_applications": "6",
+  "count_of_awards": "1",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred",
+  "applications": [
+    {
+      "application_reference": "MR/R014108/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R01423X/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R013608/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R01437X/1",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R014442/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R014388/1",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

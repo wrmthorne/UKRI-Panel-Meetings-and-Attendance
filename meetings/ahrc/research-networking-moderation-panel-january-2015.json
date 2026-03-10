@@ -1,0 +1,108 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, January 2015",
+  "year": "2015",
+  "meeting_date": "2015-01",
+  "source_file": "Networking Moderation January 2015.xlsx",
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/M008711/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Peter Jackson",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "The Practice of International History in the Twenty-First Century"
+    },
+    {
+      "application_reference": "AH/M008517/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Cormac Newark",
+      "holding_organisation": "University of Ulster",
+      "grant_title": "The operatic canon"
+    },
+    {
+      "application_reference": "AH/M008843/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Penelope Allison",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "Big Data on the Roman Table"
+    },
+    {
+      "application_reference": "AH/M009033/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Helen Stalford",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Children's Rights Judgments Network"
+    },
+    {
+      "application_reference": "AH/M009122/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Tom Walker",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "What we owe older people: who should provide care and how much care should they provide"
+    },
+    {
+      "application_reference": "AH/M008045/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Lucy Frith",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "MEDICINE, MARKETS AND MORALS: A MULTI-DISCIPLINARY RESEARCH NETWORK ON HEALTH AND SOCIAL CARE PRIORITISATION"
+    },
+    {
+      "application_reference": "AH/M008681/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Ranjana Das",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "Developing 'CEDAR': Consortium on Emerging Directions in Audience Research"
+    },
+    {
+      "application_reference": "AH/M008703/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009572/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008401/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009068/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008746/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009696/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008193/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009580/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

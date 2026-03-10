@@ -1,0 +1,181 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Infections and Immunity Board 27 – 28 October 2015",
+  "meeting_date": null,
+  "source_file": "government_web_archive/V3aJIJ2h.xlsx",
+  "count_of_applications": "34",
+  "count_of_awards": "11",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 41/73 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "application_reference": "MR/N000846/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010140/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010191/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010256/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N01037X/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N01054X/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010205/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010817/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010388/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010248/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010434/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N001451/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010280/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010469/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N009711/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010329/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010477/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010116/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010353/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010558/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010175/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010620/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010744/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010221/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N011600/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010760/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N010272/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010310/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010590/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010612/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010655/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010671/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N01068X/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N010701/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

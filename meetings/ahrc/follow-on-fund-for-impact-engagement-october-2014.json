@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Fund for Impact & Engagement, October 2014",
+  "year": "2014",
+  "meeting_date": "2014-10",
+  "source_file": "Follow-on Funding for IE Q4 2014 Meetings (1).xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/M006425/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Mark Everist",
+      "holding_organisation": "University of Southampton",
+      "grant_title": "Cantum Pulcriorem invenire - Thirteenth-Century Latin Poetry and Music: Workshop, Performance and Impact (CPI-III)"
+    },
+    {
+      "application_reference": "AH/M008665/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Matthew Hilton",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Past, present and future: connecting communities with shared histories"
+    },
+    {
+      "application_reference": "AH/M008754/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Ms Elizabeth Kenny",
+      "holding_organisation": "University of Southampton",
+      "grant_title": "Markets for the Masque"
+    },
+    {
+      "application_reference": "AH/M008789/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008576/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008762/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Fiona Macintosh",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "'Interactive/Multimedia E-Books for the Performance Archive'"
+    },
+    {
+      "application_reference": "AH/M009084/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Duska Radosavljevic",
+      "holding_organisation": "University of Kent",
+      "grant_title": "The Mums and Babies' Ensemble: Theatre-Making with The Early Years"
+    },
+    {
+      "application_reference": "AH/M008207/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00936X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Wendy Anderson",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "Metaphor in the Curriculum"
+    },
+    {
+      "application_reference": "AH/M008452/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicola Thomas",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Collaboration, mutuality and community: producing and consuming contemporary craft"
+    }
+  ]
+}

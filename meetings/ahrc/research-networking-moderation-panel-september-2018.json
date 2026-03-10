@@ -1,0 +1,107 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, September 2018",
+  "year": "2018",
+  "meeting_date": "2018-09",
+  "source_file": "Research Networking, September 2018 Moderation.xlsx",
+  "count_of_applications": "16",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/S003495/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Emma Meehan",
+      "holding_organisation": "Coventry University",
+      "grant_title": "Somatic practice, chronic pain and self-care technology: inhabiting the lived and contextual body"
+    },
+    {
+      "application_reference": "AH/S004793/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Paul Coldwell",
+      "holding_organisation": "University of the Arts London",
+      "grant_title": "Picturing the Invisible"
+    },
+    {
+      "application_reference": "AH/S005102/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Esther Leslie",
+      "holding_organisation": "Birkbeck College",
+      "grant_title": "Animate Assembly: Animation and New Life"
+    },
+    {
+      "application_reference": "AH/S003231/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Mick Finch",
+      "holding_organisation": "University of the Arts London",
+      "grant_title": "A Vision for Europe: Academic Responsibility and Action in Times of Crises"
+    },
+    {
+      "application_reference": "AH/S004939/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Paul Beaumont",
+      "holding_organisation": "University of Aberdeen",
+      "grant_title": "Where do we go from here? The development of private international law in the UK and the post Brexit environment."
+    },
+    {
+      "application_reference": "AH/S003177/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005536/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005277/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003339/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005552/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003002/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004173/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00419X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004238/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004955/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00548X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

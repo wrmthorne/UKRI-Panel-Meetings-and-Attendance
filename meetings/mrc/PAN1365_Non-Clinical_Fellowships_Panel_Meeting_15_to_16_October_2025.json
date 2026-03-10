@@ -1,0 +1,243 @@
+{
+  "council": "MRC",
+  "panel_reference": "PAN1365",
+  "panel_meeting_name": "Non-Clinical Fellowships Panel Meeting 15 to 16 October 2025",
+  "meeting_date": "15/10/2025",
+  "applications": [
+    {
+      "application_reference": "APP70415",
+      "title": "Determining Consequences of Mitotic DNA Entanglements, from Molecules to Cells",
+      "lead_applicant": "Erin Cutts",
+      "lead_organisation": "University of Sheffield",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3399",
+      "link": "https://gtr.ukri.org/projects?ref=3399"
+    },
+    {
+      "application_reference": "APP71738",
+      "title": "Mechanisms of Autophagy and Proteasomal Degradation in Targetting Disease Aggregates: An In Situ Cryo-Electron Tomography Approach",
+      "lead_applicant": "Yanling (Dorothy) Zhao",
+      "lead_organisation": "University College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3396",
+      "link": "https://gtr.ukri.org/projects?ref=3396"
+    },
+    {
+      "application_reference": "APP71981",
+      "title": "Decoding the intrinsic programme of human embryo development",
+      "lead_applicant": "Maria Rostovskaya",
+      "lead_organisation": "University of Cambridge",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3397",
+      "link": "https://gtr.ukri.org/projects?ref=3397"
+    },
+    {
+      "application_reference": "APP78126",
+      "title": "The replisome in brain development and disease",
+      "lead_applicant": "Lukas Tamayo Orrego",
+      "lead_organisation": "University of Edinburgh",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3398",
+      "link": "https://gtr.ukri.org/projects?ref=3398"
+    },
+    {
+      "application_reference": "APP68498",
+      "title": "From Onset to Inflammation: Localising the Pathogenic Mechanisms in Crohn's Disease",
+      "lead_applicant": "Thomas Fenton",
+      "lead_organisation": "University of Glasgow",
+      "score": "10",
+      "outcome": "Successful",
+      "award_id": "UKRI3395",
+      "link": "https://gtr.ukri.org/projects?ref=3395"
+    },
+    {
+      "application_reference": "APP74789",
+      "title": "Advancing epidemiological methods for evaluation of malaria vaccine effectiveness and impact",
+      "lead_applicant": "M Sanni Ali",
+      "lead_organisation": "London School of Hygiene & Tropical Medicine",
+      "score": "10",
+      "outcome": "Successful",
+      "award_id": "UKRI3394",
+      "link": "https://gtr.ukri.org/projects?ref=3394"
+    },
+    {
+      "application_reference": "APP75876",
+      "title": "Dissecting stress pathways to treat obesity",
+      "lead_applicant": "Marie Holt",
+      "lead_organisation": "University of Warwick",
+      "score": "10",
+      "outcome": "Successful",
+      "award_id": "UKRI3400",
+      "link": "https://gtr.ukri.org/projects?ref=3400"
+    },
+    {
+      "application_reference": "APP70679",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP74700",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP76504",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP65269",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP68067",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP70076",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP75737",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP77009",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "9",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Matt Lambon Ralph",
+      "organisation": "University of Cambridge",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Abigail Fraser",
+      "organisation": "University of Bristol",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Dr Claudia Metzler-Baddeley",
+      "organisation": "Cardiff University",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Doryen Bubeck",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Jamie Mann",
+      "organisation": "University of Bristol",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Richard Burchmore",
+      "organisation": "University of Glasgow",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Allan Lawrie",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Cliff Taggart",
+      "organisation": "Queen’s University Belfast",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Daniela De Angelis",
+      "organisation": "University of Cambridge",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Emily Jones",
+      "organisation": "Birkbeck, University of London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Frances Williams",
+      "organisation": "King’s College, London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Giampietro Schiavo",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Helen Picton",
+      "organisation": "University of Leeds",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Neil Vaughan",
+      "organisation": "University of Exeter",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Sandip Patel",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Sonia Rocha",
+      "organisation": "University of Liverpool",
+      "role": "Panellist"
+    }
+  ],
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "comments": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 79 out of 97 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 4 applications were withdrawn by the applicant prior to the meeting.\n\n* APP65132, APP68354 and APP72939 were deferred for consideration at the next funding meeting."
+}

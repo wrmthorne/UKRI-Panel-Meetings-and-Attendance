@@ -1,0 +1,111 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "NPIF Advance Training (Courses and Data Portal) Closing Date: 16:00 12th September 2017",
+  "source_file": "NERC-061021-NPIFAdvanceTraining-FundingOutcomes.pdf",
+  "count_of_applications": "10",
+  "count_of_awards": "6",
+  "year": "2017",
+  "applications": [
+    {
+      "application_reference": "NE/R012377/1"
+    },
+    {
+      "application_reference": "NE/R012326/1"
+    },
+    {
+      "application_reference": "NE/R012415/1"
+    },
+    {
+      "application_reference": "NE/R012385/1"
+    },
+    {
+      "application_reference": "NE/R012458/1",
+      "outcome": "Successful",
+      "ranking": "5",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/R012423/1",
+      "outcome": "Successful",
+      "ranking": "6",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/R012504/1",
+      "outcome": "Successful",
+      "ranking": "7",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/R012512/1",
+      "outcome": "Successful",
+      "ranking": "8",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/R012466/1",
+      "outcome": "Successful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/R012474/1",
+      "outcome": "Successful",
+      "ranking": "1",
+      "score": "7"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Nigel Cassidy",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Professor Nils",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Bunnefeld",
+      "role": "Member",
+      "organisation": "University of Stirling"
+    },
+    {
+      "name": "Dr Kevin Wyche",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Dr Rachel Carr",
+      "role": "Member",
+      "organisation": "University of Newcastle"
+    },
+    {
+      "name": "Dr Rachel Walcott National Museums",
+      "role": "Member",
+      "organisation": "Scotland"
+    },
+    {
+      "name": "Mr Garry Baker (Data Portal only)",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Dr Katie",
+      "role": "Member",
+      "organisation": "Tearall, Head of Skills and Careers"
+    },
+    {
+      "name": "Mr David",
+      "role": "Member",
+      "organisation": "Roberts, Senior Programme Manager (Research Careers)"
+    },
+    {
+      "name": "Mr Aaron",
+      "role": "Member",
+      "organisation": "Hughes, Programme Manager (Research Careers)"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2017/NPIF 2017 ISTC and Data Portal Panel.pdf",
+  "meeting_date": "28 September 2017"
+}

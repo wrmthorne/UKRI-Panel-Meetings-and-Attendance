@@ -1,0 +1,50 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Econ Bio Synthesis OCT21",
+  "source_file": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-SynthesisingEvidenceEconomicsBiodiversity-051021.pdf",
+  "meeting_date": "Thursday 2nd December 2021",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Professor Jane Hill",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Professor Michael Christie",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Mr Ian Dickie",
+      "role": "Member",
+      "organisation": "eftec (Economics for the Environment"
+    },
+    {
+      "name": "Dr Michela Faccioli",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Dr Anil Graves",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Professor Rosemary Hails The National",
+      "role": "Member",
+      "organisation": "Trust"
+    },
+    {
+      "name": "Dr Paola",
+      "role": "Member",
+      "organisation": "Ovando-Pol The James Hutton Institute"
+    },
+    {
+      "name": "Professor Jouni Paavola",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    }
+  ]
+}

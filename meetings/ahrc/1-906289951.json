@@ -1,0 +1,147 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-906289951",
+  "meeting_name": "Research Networking December 2022",
+  "meeting_date": "20221216",
+  "applications": [
+    {
+      "application_id": "AH/X008606/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Caitriona Beaumont",
+      "project": "Agency and Advocacy: Locating Women's Grassroots Activism in England and Ireland, 1918 to the present",
+      "research_organisation": "London South Bank University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X008797/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alexander Alexander Wragge-Morley",
+      "project": "The Arts as Medicine? New Histories of the Arts and Health",
+      "research_organisation": "Lancaster University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X010910/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rebecca Farley",
+      "project": "Networking international and transnational approaches to contemporary art in heritage practice.",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X011437/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Catrin Fflur Huws",
+      "project": "Court interpretation in Wales and the Republic of Ireland",
+      "research_organisation": "Aberystwyth University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X008622/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Valentina Cazzato",
+      "project": "Neuroscience meets Dance: Towards a neuroscientific approach to mental health and wellbeing",
+      "research_organisation": "Liverpool John Moores University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X009122/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Mathias Thaler",
+      "project": "Fail Again, Fail Better? Recuperating Failure in Utopian Politics and Research",
+      "research_organisation": "University of Edinburgh",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X010538/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Nigel Nayling",
+      "project": "Digital Network for Nautical Archaeology",
+      "research_organisation": "University of Wales Trinity Saint David",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X010848/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X006697/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X006905/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X010414/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X010872/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X011100/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Radha D'Souza",
+      "organisation": "University of Westminster",
+      "role": "Chair"
+    }
+  ]
+}

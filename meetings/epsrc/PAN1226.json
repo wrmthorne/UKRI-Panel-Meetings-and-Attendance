@@ -1,0 +1,81 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1226",
+  "meeting_name": "OPP 297 - EPSRC Mathematical Sciences Fellowship Interview Panel May 2025 - Open Fellowship",
+  "meeting_date": "2025-05-20 08:00:00",
+  "meeting_convenor": "Foxell, Dr E",
+  "applications": [
+    {
+      "application_id": "APP36246",
+      "title": "Computational  Ergodic Theory, Hyperbolic Geometry and Spectral Theory",
+      "applicant": "Pollicott, M",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1523707.08",
+      "award_id": "UKRI2026",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2026",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP29123",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP29150",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Brendle, T",
+      "role": "Chair",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Dorey, P",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Levitin, M",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Nucinkis, B",
+      "role": "Panellist",
+      "organisation": "Royal Holloway, University of London"
+    },
+    {
+      "name": "Ramage, A",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    }
+  ]
+}

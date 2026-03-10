@@ -1,0 +1,111 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1333",
+  "meeting_name": "EPSRC: ICT Prioritisation Panel July 2025 Overseas Travel Grants.",
+  "meeting_date": "2025-07-09 08:00:00",
+  "meeting_convenor": "Tresoldi, D",
+  "applications": [
+    {
+      "application_id": "APP53884",
+      "title": "How to Train Systems of LLM Agents: Novel Mathematical Foundations for Multi LLM-Agent Systems",
+      "applicant": "Tran-Thanh, L",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "26600.52",
+      "award_id": "UKRI2869",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2869",
+      "list_name": "Main",
+      "opportunity_number": "298",
+      "opportunity_name": "EPSRC overseas travel grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Prodromakis, T",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Ani, U",
+      "role": "Deputy chair",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "Abolghasemi, V",
+      "role": "Panellist",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Augusto, J",
+      "role": "Panellist",
+      "organisation": "Middlesex University"
+    },
+    {
+      "name": "Copner, N",
+      "role": "Panellist",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "De Vos, M",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Fatima, S",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Goussetis, G",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Kelly, P",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Kurlin, V",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Lehre, P",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Nyx Brain, M",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "Stein, S",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Wang, C",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Weeds, J",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Yoshida, N",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Zhou, H",
+      "role": "Panellist",
+      "organisation": "University of Leicester"
+    }
+  ]
+}

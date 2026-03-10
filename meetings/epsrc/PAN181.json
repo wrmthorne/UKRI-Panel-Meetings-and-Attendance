@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN181",
+  "meeting_name": "OPP135: EPSRC programme grants 2023",
+  "meeting_date": "2024-02-08 08:45:00",
+  "meeting_convenor": "Miller, A",
+  "applications": [
+    {
+      "application_id": "APP6526",
+      "title": "Securing Convergent Ultra-large Scale Infrastructures",
+      "applicant": "Rashid, Professor A",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "6780954.038",
+      "award_id": "EP/Z531315/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ531315%2F1",
+      "list_name": "Main",
+      "opportunity_number": "135",
+      "opportunity_name": "EPSRC programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP10688",
+      "title": "Networks of Cardiovascular Digital Twins (CVD-Net)",
+      "applicant": "Niederer, Professor S",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "8844327.93",
+      "award_id": "EP/Z531297/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ531297%2F1",
+      "list_name": "Main",
+      "opportunity_number": "135",
+      "opportunity_name": "EPSRC programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP11604",
+      "title": "Inspiring Futures for Zero Carbon Mobility (INFUZE)",
+      "applicant": "Marsden, Professor G",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "6295780.96",
+      "award_id": "EP/Z531273/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ531273%2F1",
+      "list_name": "Main",
+      "opportunity_number": "135",
+      "opportunity_name": "EPSRC programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP5877",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "135",
+      "opportunity_name": "EPSRC programme grants: full application summer 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Petropoulos, P",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Chalmers, M",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Dobson, S",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Gowing, C",
+      "role": "Panellist",
+      "organisation": "JA Consulting"
+    },
+    {
+      "name": "Martini, M",
+      "role": "Panellist",
+      "organisation": "Kingston University"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "NC EDC Commissioning OCT17",
+  "source_file": "NERC-funding-assessment-panel-members-2017/NC EDS SEP17 Panel membership for the webteam.pdf",
+  "meeting_date": "28th March 2018",
+  "meeting_location": "MRC London",
+  "panel_secretary": "Kay Heuser",
+  "panellists": [
+    {
+      "name": "Tim Wheeler",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Matthew Woollard",
+      "role": "Member",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Sandy Harrison",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Martin Siegert",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Tim Vallings Rezatec",
+      "role": "Member",
+      "organisation": "Ltd"
+    },
+    {
+      "name": "Nicki Badcock",
+      "role": "Member",
+      "organisation": ", Head of National Capability and Commissioning"
+    },
+    {
+      "name": "Simon Gardner",
+      "role": "Member",
+      "organisation": ", Joint Head of Innovation Programmes and Partnerships"
+    }
+  ]
+}

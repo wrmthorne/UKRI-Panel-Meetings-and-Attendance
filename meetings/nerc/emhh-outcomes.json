@@ -1,0 +1,282 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Environmental Microbiology and Human Health Call - November 2014 Aquatic Topic",
+  "source_file": "emhh-outcomes.pdf",
+  "count_of_applications": "13",
+  "count_of_awards": "4",
+  "year": "2014",
+  "applications": [
+    {
+      "application_reference": "NE/M011674/1",
+      "ranking": "6",
+      "scores": [
+        "1",
+        "9"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M010996/1",
+      "ranking": "5",
+      "scores": [
+        "2",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M010937/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "6",
+        "44",
+        "1",
+        "6",
+        "45",
+        "1",
+        "4",
+        "46",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "application_reference": "NE/M010775/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "6",
+        "44",
+        "6",
+        "45",
+        "1",
+        "4",
+        "46",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "application_reference": "NE/M011666/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "6",
+        "44",
+        "1",
+        "6",
+        "45",
+        "4",
+        "46",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "application_reference": "NE/M010821/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "6",
+        "44",
+        "1",
+        "6",
+        "45",
+        "1",
+        "4",
+        "46",
+        "4"
+      ]
+    },
+    {
+      "application_reference": "NE/M011631/1",
+      "ranking": "5",
+      "scores": [
+        "1",
+        "9"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M010813/1",
+      "ranking": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M011585/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "8",
+        "44",
+        "1",
+        "7",
+        "55",
+        "1",
+        "7",
+        "46",
+        "1",
+        "5",
+        "57",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M011011/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "8",
+        "44",
+        "7",
+        "55",
+        "1",
+        "7",
+        "46",
+        "1",
+        "5",
+        "57",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M011798/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "8",
+        "44",
+        "1",
+        "7",
+        "55",
+        "7",
+        "46",
+        "1",
+        "5",
+        "57",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M01181X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "8",
+        "44",
+        "1",
+        "7",
+        "55",
+        "1",
+        "7",
+        "46",
+        "5",
+        "57",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M010872/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "3",
+        "1",
+        "8",
+        "44",
+        "1",
+        "7",
+        "55",
+        "1",
+        "7",
+        "46",
+        "1",
+        "5",
+        "57",
+        "5"
+      ]
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Penny Johnes",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Dr Jon Caplin",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Dr Dominique Despeyroux",
+      "role": "Member",
+      "organisation": "Dstl"
+    },
+    {
+      "name": "Professor Paul Hunter",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Dr Danny O’Hare",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Dr Peter Sykes",
+      "role": "Member",
+      "organisation": "Cardiff Metropolitan University"
+    },
+    {
+      "name": "Dr Jim Wharfe",
+      "role": "Member",
+      "organisation": "Freelance"
+    },
+    {
+      "name": "Victor Aguilera",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Adrian Baker",
+      "role": "Member",
+      "organisation": "Dstl"
+    },
+    {
+      "name": "Elaine Connolly",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Lizzie Garratt",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Valerie McFarlane",
+      "role": "Member",
+      "organisation": "FSA"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2014/2014emhh-modpanel.pdf"
+}

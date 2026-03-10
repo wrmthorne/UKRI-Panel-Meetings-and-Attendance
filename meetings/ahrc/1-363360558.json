@@ -1,0 +1,362 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2018,
+  "meeting_reference": "1-363360558",
+  "meeting_name": "Research Grants - December 2018",
+  "meeting_date": "20181211",
+  "applications": [
+    {
+      "application_id": "AH/S006656/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Abigail Frances Floretta Green",
+      "project": "'Jewish' country houses - objects, networks, people",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S006400/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Radhika Mohanram",
+      "project": "Refugee Wales: The Afterlife of Violence",
+      "research_organisation": "Cardiff University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S005935/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Tobias Reinhardt",
+      "project": "Living Virtually: Creating and Interfacing Digital Surrogates of Textual Data Embedded (Hidden) in Cultural Heritage Artefacts",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S00663X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Gabriella Giannachi",
+      "project": "Documenting digital art: re-thinking histories and practices of documentation in the museum and beyond",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S001662/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Francis Mayle",
+      "project": "AHRC-FAPESP MoU Human-Environment Relationships in pre-Columbian Amazonia (HERCA)",
+      "research_organisation": "University of Reading",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S006060/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Emma Christine Hornby",
+      "project": "Doctrine, devotion, and cultural expression in the cults of medieval Iberian saints",
+      "research_organisation": "University of Bristol",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/S007008/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Sanja Perovic",
+      "project": "Radical Translations: The Transfer of Revolutionary Culture between Britain, France and Italy (1789-1815)",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/S006737/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/S005404/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/S006230/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/S005676/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/S005366/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/S006826/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/S006524/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/S004998/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/S005269/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Katie Edwards",
+      "project": "The Shiloh Project: Rape Culture, Religion and the Bible",
+      "research_organisation": "University of Sheffield",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/S00677X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/S005382/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/S006133/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/S007199/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/S004920/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/S006516/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/S004866/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "23"
+    },
+    {
+      "application_id": "AH/S003797/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "24"
+    },
+    {
+      "application_id": "AH/S004246/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "25"
+    },
+    {
+      "application_id": "AH/S003827/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S005617/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S006052/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S006192/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S006702/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor John H Gillespie",
+      "organisation": "University of Ulster",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Moderator"
+    },
+    {
+      "name": "Dr Caroline Campbell",
+      "organisation": "The National Gallery",
+      "role": "Moderator"
+    },
+    {
+      "name": "Dr Caroline Davis",
+      "organisation": "University of Surrey",
+      "role": "Moderator"
+    },
+    {
+      "name": "Dr James Edward Leggott",
+      "organisation": "Northumbria University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Dr Randolph Edmund Donahue",
+      "organisation": "Michigan State University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Barry Doyle",
+      "organisation": "Writtle University College",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Louise Moody",
+      "organisation": "Falmouth University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Sarah Marie Knight",
+      "organisation": "University of Ulster",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Tony Shaw",
+      "organisation": "University of Warwick",
+      "role": "Moderator"
+    }
+  ]
+}

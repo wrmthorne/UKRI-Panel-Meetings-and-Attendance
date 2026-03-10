@@ -1,0 +1,146 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1200",
+  "meeting_name": "EPSRC Physical Sciences Interview Panel - May 2025 - Programme Grants",
+  "meeting_date": "2025-05-14 07:50:00",
+  "meeting_convenor": "Sharma, U",
+  "applications": [
+    {
+      "application_id": "APP58672",
+      "title": "Quantum Many-Body Physics with Ultracold Polar Molecules",
+      "applicant": "Cornish, S",
+      "lead_organisation": "Durham University",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "9987529.52",
+      "award_id": "UKRI2226",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2226",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58884",
+      "title": "Molecular Solid Solutions (MoSS): From Concept to Applications",
+      "applicant": "Cruz-Cabeza, A",
+      "lead_organisation": "Durham University",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "7219610.52",
+      "award_id": "UKRI2227",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2227",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58650",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58690",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58928",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58950",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP59827",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "781",
+      "opportunity_name": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Vadgama, P",
+      "role": "Chair",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "Cooper, H",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Orr-Ewing, A",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Paternostro, M",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "rimmer, s",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Siller, L",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    }
+  ]
+}

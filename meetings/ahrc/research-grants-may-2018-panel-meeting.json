@@ -1,0 +1,156 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, May 2018 Panel Meeting",
+  "year": "2018",
+  "meeting_date": "2018-05",
+  "source_file": "Research Grants Panel, May 2018 Meeting.xlsx",
+  "count_of_applications": "24",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/R014752/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor David Clough",
+      "holding_organisation": "University of Chester",
+      "grant_title": "Christian Ethics of Farmed Animal Welfare",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R014817/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Howard Hotson",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Networking Archives: Assembling and analysing a meta-archive of correspondence, 1509-1714",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S000542/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Josie McLellan",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "Single Parent Action Network: a participatory history",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S001158/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Nicola Shaughnessy",
+      "holding_organisation": "University of Kent",
+      "grant_title": "Playing A/Part: Investigating the female experience of autism through drama, interactive media and participatory arts.",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S001387/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Reina Lewis",
+      "holding_organisation": "University of the Arts London",
+      "grant_title": "Modest Fashion in UK Women's Working Life",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S000569/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R013004/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S000062/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Adrian Grant",
+      "holding_organisation": "University of Ulster",
+      "grant_title": "Divided Pasts - Design Futures",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/R013802/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00145X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R014922/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R014795/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R014698/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S000151/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S000259/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R014728/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S000399/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001379/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S000038/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001166/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001255/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001263/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001492/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001468/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

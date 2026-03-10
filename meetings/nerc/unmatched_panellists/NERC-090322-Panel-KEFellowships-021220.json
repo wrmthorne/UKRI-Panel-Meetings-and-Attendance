@@ -1,0 +1,65 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "KE Fellowships DEC20 Panel Meeting",
+  "source_file": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-KEFellowships-021220.pdf",
+  "meeting_date": "9/10 February 2021",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Heather Bagnall",
+  "panellists": [
+    {
+      "name": "Professor Helen Roy",
+      "role": "Chair",
+      "organisation": "CEH"
+    },
+    {
+      "name": "Dr Helen Featherstone",
+      "role": "Deputy Chair",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Dr Sarah Mcnaughton",
+      "role": "Member",
+      "organisation": "Oxentia"
+    },
+    {
+      "name": "Dr Hazel Napier",
+      "role": "Member",
+      "organisation": "BGS"
+    },
+    {
+      "name": "Mr Patrick Burke",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Dr Candice Howarth",
+      "role": "Member",
+      "organisation": "LSE"
+    },
+    {
+      "name": "Dr Laura Vickers Harper Adams",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Dr Ian Mell",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Ms Emma Visman",
+      "role": "Member",
+      "organisation": "KCL/CEH"
+    },
+    {
+      "name": "Professor Mark Reed",
+      "role": "Member",
+      "organisation": "University of Newcastle"
+    },
+    {
+      "name": "Dr Deepa Senapathi",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ]
+}

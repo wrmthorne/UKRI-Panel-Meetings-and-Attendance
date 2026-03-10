@@ -1,0 +1,152 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-656442990",
+  "meeting_name": "Follow on Fund - May 2021",
+  "meeting_date": "20210501",
+  "applications": [
+    {
+      "application_id": "AH/V015761/1",
+      "route": "Standard",
+      "lead_applicant": "Dr James Gordon Hamilton Griffin",
+      "project": "Licensing System for 3D Printing in China - impact follow on",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V008544/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Jane Elizabeth Plastow",
+      "project": "Using arts-based workshops to share knowledge on reproductive and sexual health with rural communities in Nyanza, western Kenya.",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V008072/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Martyn Evans",
+      "project": "TradeCraft: Co-creating an Interactive Viability Roadmap for Small Maker Enterprises",
+      "research_organisation": "Manchester Metropolitan University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V015370/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Angela Crack",
+      "project": "Community-Sourced Translation Glossary for International Development Work",
+      "research_organisation": "University of Portsmouth",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W000148/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Katherine Michele Astbury",
+      "project": "Freedom and Revolution : engaging creatively with Portchester's French prisoners of war and Revolution in the Caribbean",
+      "research_organisation": "University of Warwick",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V015850/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Josie McLellan",
+      "project": "Parenting in a Pandemic: Using Community Arts to Reduce Social Isolation and Explore the Experiences and Policy Needs of Marginalised Families",
+      "research_organisation": "University of Bristol",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V008579/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Maggie Inchley",
+      "project": "The Verbatim Formula: Sometimes a Hug Goes a Long Way",
+      "research_organisation": "Queen Mary University of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/W00013X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V013254/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V003577/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/V015710/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/V015265/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Ina Berg",
+      "organisation": "The University of Manchester",
+      "role": "Chair"
+    },
+    {
+      "name": "Mr John William Cattell",
+      "organisation": "Historic Bldgs & Mnts Commis for England",
+      "role": "Member"
+    },
+    {
+      "name": "Professor James Gordon Clark",
+      "organisation": "Unknown",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Lisa Anne-Marie Dikomitis",
+      "organisation": "University of Kent",
+      "role": "Member"
+    }
+  ]
+}

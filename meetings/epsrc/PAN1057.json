@@ -1,0 +1,69 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1057",
+  "meeting_name": "EPSRC: Physical Sciences Prioritisation Panel–April 2025 - New Investigator Award",
+  "meeting_date": "2025-04-09 08:00:00",
+  "meeting_convenor": "Ghaffar, Dr T",
+  "applications": [
+    {
+      "application_id": "APP37392",
+      "title": "Electronic properties of nanoscale ferroelectric domain walls",
+      "applicant": "Hadjimichael, M",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "637096.4",
+      "award_id": "UKRI2034",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2034",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP44239",
+      "title": "Harnessing Photogeneration for Dearomative Functionalisation",
+      "applicant": "Docherty, J",
+      "lead_organisation": "Lancaster University",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "517967.56",
+      "award_id": "UKRI2033",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2033",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30912",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP31736",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ]
+}

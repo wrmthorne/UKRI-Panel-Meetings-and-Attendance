@@ -1,0 +1,97 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "S&F Allocation Advisory Group (AAG) Panel",
+  "source_file": "NERC-funding-assessment-panel-members-2016/Meeting List Template - SF AAG October 2016.pdf",
+  "meeting_date": "9-10TH November 2016",
+  "meeting_location": "Park and Porchester Suite, Thistle Kensington Gardens hotel, 104",
+  "panel_secretary": "Emma Payne",
+  "panellists": [
+    {
+      "name": "John Brodholt",
+      "role": "Chair",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Phil Ashworth",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Zoe Bond Department",
+      "role": "Member",
+      "organisation": "for Environment, Food"
+    },
+    {
+      "name": "Isabelle Durance",
+      "role": "Member",
+      "organisation": "University of Cardiff"
+    },
+    {
+      "name": "Raja Ganeshram",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Domenico Giardini",
+      "role": "Member",
+      "organisation": "ETH Zurich"
+    },
+    {
+      "name": "Neil Harris",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Tim Jickles",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Penny Johnes",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Mike Kendall",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Rob Mackenzie",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Simon Redfern",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Malcom Salisbury",
+      "role": "Member",
+      "organisation": "Shell"
+    },
+    {
+      "name": "Andy Shaw Terreflexion Consulting",
+      "role": "Member",
+      "organisation": "Ltd"
+    },
+    {
+      "name": "Nick Veck Satellite Applications",
+      "role": "Member",
+      "organisation": "Catapult"
+    },
+    {
+      "name": "Nicki Badcock, NERC",
+      "role": "Member"
+    },
+    {
+      "name": "Michelle Manning, NERC",
+      "role": "Member"
+    },
+    {
+      "name": "Emma Payne, NERC",
+      "role": "Member"
+    }
+  ]
+}

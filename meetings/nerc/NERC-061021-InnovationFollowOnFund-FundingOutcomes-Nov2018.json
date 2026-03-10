@@ -1,0 +1,58 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Innovation Follow on Fund 2018 – Panel Outcome (Assessment Panel Meeting, 07 November 2018, Bristol)",
+  "source_file": "NERC-061021-InnovationFollowOnFund-FundingOutcomes-Nov2018.pdf",
+  "count_of_applications": "9",
+  "count_of_awards": "3",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S013458/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S01344X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013490/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013504/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/S013598/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/S013482/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/S013393/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/S013466/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/S013520/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "5"
+    }
+  ]
+}

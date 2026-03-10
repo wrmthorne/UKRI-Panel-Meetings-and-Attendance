@@ -1,0 +1,177 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-618190591",
+  "meeting_name": "MS Covid 19 SPF 2020 - Panel 3 October",
+  "meeting_date": "20201014",
+  "applications": [
+    {
+      "application_id": "AH/V011057/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Oana Burcu",
+      "project": "Reducing the risks of exploitation for Romanian seasonal labour migrants after COVID-19",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V01112X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Katarina Louise Schwarz",
+      "project": "The Impacts of COVID-19 on Modern Slavery in Transition: A Case Study of Sudan",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V009788/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Muhammad Azizul Islam",
+      "project": "Toward the development of post Covid-19 gender policy measures to end modern slavery and exploitation in the Bangladeshi garment sector",
+      "research_organisation": "University of Aberdeen",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V009796/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Bruce Douglas Pinnington",
+      "project": "Implications of COVID-19 for modern slavery challenges in supply chain management",
+      "research_organisation": "University of Liverpool",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V011022/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V009125/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V009885/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V011154/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V00977X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V010212/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V010506/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V010999/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V011103/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V011146/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V011162/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Virginia Mantouvalou",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Ms Meena Poudel",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Deirdre Sheila Shaw",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "INTERNATIONAL OPPORTUNITIES FUND - PUMP PRIMING, MAY 2016",
+  "source_file": "IOF (Pump Priming) May 2016.pdf",
+  "count_of_applications": "24",
+  "count_of_awards": "5",
+  "year": "2016",
+  "applications": [
+    {
+      "application_reference": "NE/P00878X/1",
+      "ranking": "3",
+      "scores": [
+        "1",
+        "8",
+        "5"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P008798/1",
+      "ranking": "4",
+      "scores": [
+        "2",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P008453/1",
+      "ranking": "6",
+      "scores": [
+        "3",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P008534/1",
+      "ranking": "4",
+      "scores": [
+        "4",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P008100/1",
+      "ranking": "5",
+      "scores": [
+        "5",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P008046/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/P008682/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/P008739/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/P008410/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/P008569/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/P008496/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "11",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/P008038/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008313/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P00850X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008518/1",
+      "outcome": "Unsuccessful",
+      "ranking": "1",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008542/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008550/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P00864X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008704/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008712/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008720/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P008801/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/P00847X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "23",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/P008607/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "23",
+        "5"
+      ]
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Philip Ashworth",
+      "role": "Chair",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Professor Awadhesh Jha",
+      "role": "Member",
+      "organisation": "Plymouth University"
+    },
+    {
+      "name": "Professor Colin Prentice",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Professor James Brasington Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Dr Yit Arn Teh",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Professor Kevin Hiscock",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Dr Charles Knapp",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Dr Nicholas Kamenos",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Professor Mark Allen",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Professor Sofia Consuegra del Olmo",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Dr Lena Bayer-Wilfert",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Dr Friederike Otto",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Professor Dudley Shallcross",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2017/International Opportunities Fund panel list June 2017.pdf",
+  "meeting_date": "26 September 2017"
+}

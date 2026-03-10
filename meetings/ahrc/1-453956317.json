@@ -1,0 +1,192 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-453956317",
+  "meeting_name": "Follow on Fund - June 2019",
+  "meeting_date": "20190711",
+  "applications": [
+    {
+      "application_id": "AH/T004053/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Nicolas Salazar Sutil",
+      "project": "The Drying Prayers: Peace Dance from a Central African Perspective",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S011382/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paul Andrew Readman",
+      "project": "The Redress of the Past: Historical Pageants in Britain",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T001038/1",
+      "route": "Standard",
+      "lead_applicant": "Dr William Edward Higbee",
+      "project": "Building an Alternative Distribution Network for Moroccan Cinema: Online Audiences, Festival Networks and Transnational Talent Development",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T004835/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Michele Aaron",
+      "project": "Life:Moving Onwards: Ethical Praxis and the use of film in the International End of Life Community",
+      "research_organisation": "University of Warwick",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T002115/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Graham Huggan",
+      "project": "Nature Writing Beyond the Page: Tracks, Traces, Trails",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T002921/1",
+      "route": "Standard",
+      "lead_applicant": "Dr John Baker",
+      "project": "Learning the Landscape through Language: place-names and childhood education",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T001445/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Ayesha Mukherjee",
+      "project": "Famine Tales from India and Britain",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T001461/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Bryony Clare Randall",
+      "project": "Imprints of the New Modernist Editing: an intermedia exploration",
+      "research_organisation": "University of Glasgow",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/S008608/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Nicole W. Thiara",
+      "project": "On Page and on Stage: Celebrating Dalit and Adivasi Literatures and Performing Arts",
+      "research_organisation": "Nottingham Trent University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T001143/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Toby Oliver Ray Green",
+      "project": "From Monograph to Classroom: Securing the Future of West African History Through Pedagogical Innovation",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T003057/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lisa Anne Peschel",
+      "project": "Gido's coming home! Performing Music and Theatre from the Terezin/Theresienstadt Ghetto for Commemoration, Education and Inspiration",
+      "research_organisation": "University of York",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/T003820/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Heike Bartel",
+      "project": "'Consider Male Eating Disorders': A creative approach to improving access to treatment in primary health care for men and boys with eating disorders",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/T001518/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/T002972/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T003715/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T003782/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Joanna Drugan",
+      "organisation": "Anglia Ruskin University",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mary Agnes Krell",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    }
+  ]
+}

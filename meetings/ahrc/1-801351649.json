@@ -1,0 +1,102 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-801351649",
+  "meeting_name": "Follow on Fund - May 2022",
+  "meeting_date": "20220501",
+  "applications": [
+    {
+      "application_id": "AH/W009684/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Christina Horvath",
+      "project": "New Challenges on the Urban Periphery",
+      "research_organisation": "University of Bath",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W011352/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Steve Steve Presence",
+      "project": "The Documentary Film Council: Building a new infrastructure for UK nonfiction film",
+      "research_organisation": "University of the West of England",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X003132/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lise Jaillant",
+      "project": "Unlocking our Digital Past with Artificial Intelligence (LUSTRE)",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X00158X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Karim Hadjri",
+      "project": "AgeingHood's impact creation and knowledge exchange: Building new partnerships",
+      "research_organisation": "University of Sheffield",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X002098/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X000281/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/W010038/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Mark Maltby",
+      "organisation": "University of St Andrews",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Lisa Anne-Marie Dikomitis",
+      "organisation": "University of Kent",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Soumyen Bandyopadhyay Bandyopadhyay",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Martin Halvey",
+      "organisation": "University of Strathclyde",
+      "role": "Moderator"
+    }
+  ]
+}

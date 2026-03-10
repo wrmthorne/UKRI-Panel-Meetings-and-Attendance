@@ -1,0 +1,217 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-549983070",
+  "meeting_name": "Research Grants - September 2020",
+  "meeting_date": "20200901",
+  "applications": [
+    {
+      "application_id": "AH/V001779/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sara Jones",
+      "project": "Post-Socialist Britain: Memory, Representation and Political Identity amongst German, Polish, and Ukrainian Immigrants in the UK",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V004093/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Jakub Benes",
+      "project": "Europe's Last Peasant War: Violence and Revolution in Austria-Hungary and its Successors, 1917-1945",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V00509X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Glen Stewart O'Hara",
+      "project": "In All Our Footsteps: Tracking, Mapping and Experiencing Rights of Way in Post-War Britain",
+      "research_organisation": "Oxford Brookes University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V005189/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Justin Guy Marshall",
+      "project": "Crafting a Healthier Internet: People, Things and our Digital Society",
+      "research_organisation": "Northumbria University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V003852/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T007729/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V006169/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T012447/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Tom Woerner-Powell",
+      "project": "Religions of Peace: Formations of Principled Pacifism and Nonviolence in Modern Islam",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V004069/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V005650/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/V006029/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/T01105X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/V00364X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/T013427/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/T013222/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/V00560X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/T012935/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/V000950/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor William James Marshall",
+      "organisation": "University of Stirling",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Frederik Jakob Pedersen",
+      "organisation": "Imperial War Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Laura Sophie Basell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Sarah E L Bowskill",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Grace Lees-Maffei",
+      "organisation": "University of Warwick",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-425601982",
+  "meeting_name": "Research Grants - June 2019",
+  "meeting_date": "20190620",
+  "applications": [
+    {
+      "application_id": "AH/T000619/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Humera Iqbal",
+      "project": "Partition of Identity: An exploration of Belonging in Bengalis in Pakistan, 1971- 2021",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T000066/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Matthew Ratcliffe",
+      "project": "Grief: A Study of Human Emotional Experience",
+      "research_organisation": "University of York",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T001003/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Penelope Mary Allison",
+      "project": "Arch-I-Scan: Automated recording and machine learning for collating Roman ceramic tablewares and investigating eating and drinking practices",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S013202/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Megan Cavell",
+      "project": "Group Identity and the Early Medieval Riddle Tradition",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T000082/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Inge Maria Daniels",
+      "project": "Disobedient Buildings",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S012508/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Stephen Antony Cushion",
+      "project": "Countering disinformation: enhancing journalistic legitimacy in public service media",
+      "research_organisation": "Cardiff University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T000015/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Christopher Anderson",
+      "project": "Generic Visuals in the News: the role of stock photos and simple data visualizations in assembling publics",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T000104/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sam Turner",
+      "project": "TerraSAgE: Terraces as Sustainable Agricultural Environments",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T000996/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Julian John Brigstocke",
+      "project": "Transforming Atmospheric Authority: Experimental Embodiments in the Favelas of Rio de Janeiro",
+      "research_organisation": "Cardiff University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T000295/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T000279/1",
+      "route": "Early Career",
+      "lead_applicant": "Professor Emily Underwood-Lee",
+      "project": "Performance and the Maternal",
+      "research_organisation": "University of South Wales",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/T000910/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/S01182X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/T001011/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Marie Thompson",
+      "project": "Tinnitus, Auditory Knowledge and the Arts",
+      "research_organisation": "University of Lincoln",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/S007431/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/S013229/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/T000090/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/T000961/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/T00004X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/T001534/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/S013210/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/S011188/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/T000929/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "23"
+    },
+    {
+      "application_id": "AH/T00018X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "24"
+    },
+    {
+      "application_id": "AH/T001585/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "25"
+    },
+    {
+      "application_id": "AH/S012222/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "26"
+    },
+    {
+      "application_id": "AH/S01036X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "27"
+    },
+    {
+      "application_id": "AH/S012958/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "28"
+    },
+    {
+      "application_id": "AH/S013148/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "29"
+    },
+    {
+      "application_id": "AH/T000112/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "30"
+    },
+    {
+      "application_id": "AH/T001488/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "31"
+    },
+    {
+      "application_id": "AH/S01280X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S010475/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S011552/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S012036/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T000384/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T001798/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Barbara Lucy Kelly",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Amanda Bayley",
+      "organisation": "Bath Spa University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Cormac Newark",
+      "organisation": "Guildhall School of Music and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Edward Welch",
+      "organisation": "Imperial War Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Janet Ulph",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Joanne Clarke",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Matthew Reason",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Paul Weller",
+      "organisation": "Regent's Park College",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Sarah Wright",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Simon Mark Bolton",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    }
+  ]
+}

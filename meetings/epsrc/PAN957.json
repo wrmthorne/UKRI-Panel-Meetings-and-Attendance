@@ -1,0 +1,54 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN957",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel February 2025 – Overseas Travel Grant",
+  "meeting_date": "2025-02-04 09:00:00",
+  "meeting_convenor": "Minter, H",
+  "applications": [
+    {
+      "application_id": "APP23479",
+      "title": "International collaboration towards dual-functional photovoltaics enabling power transfer and optical signal transmission",
+      "applicant": "Qu, Y",
+      "lead_organisation": "Northumbria University",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "45382.24",
+      "award_id": "UKRI1491",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1491",
+      "list_name": "Main",
+      "opportunity_number": "298",
+      "opportunity_name": "EPSRC overseas travel grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33202",
+      "title": "A rapid-tooling initiative for accelerated product development and rapid-prototyping in micro-scales",
+      "applicant": "Gulcur, M",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "24113.96",
+      "award_id": "UKRI1501",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1501",
+      "list_name": "Main",
+      "opportunity_number": "298",
+      "opportunity_name": "EPSRC overseas travel grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP32051",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "298",
+      "opportunity_name": "EPSRC overseas travel grant, November 2023: responsive mode"
+    }
+  ]
+}

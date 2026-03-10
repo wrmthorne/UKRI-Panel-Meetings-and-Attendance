@@ -1,0 +1,81 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, May 2015",
+  "year": "2015",
+  "meeting_date": "2015-05",
+  "source_file": "Research Networking, May 2015 Meeting.xlsx",
+  "count_of_applications": "12",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/N000218/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Gabor Thomas",
+      "holding_organisation": "University of Reading",
+      "grant_title": "Monumentalising Kingship: Places of Royal Residence and the Making of Early Medieval British Kingdoms AD 500-800"
+    },
+    {
+      "application_reference": "AH/M011186/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Andrew Renton Mein",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "'The Book and the Sword': The Bible in the Experience and Legacy of the Great War"
+    },
+    {
+      "application_reference": "AH/M011364/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Gerry Smyth",
+      "holding_organisation": "Liverpool John Moores University",
+      "grant_title": "Marginal Irish Modernisms"
+    },
+    {
+      "application_reference": "AH/M008983/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001346/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001133/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M011577/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009483/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M011593/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001052/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N000110/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M011569/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-451553722",
+  "meeting_name": "UKRI GCRF Preventing Conflict, Building Sustainable Peace Full stage Dec 2019",
+  "meeting_date": "20191202",
+  "applications": [
+    {
+      "application_id": "AH/T008067/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Rana Jawad",
+      "project": "Social protection and sustainable peace in the Middle East and North Africa Region: Building a new welfare-centered politics",
+      "research_organisation": "University of Bath",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T008199/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Elena Isayev",
+      "project": "Imagining Futures through Un/Archived Pasts",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T008164/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Ananda Breed",
+      "project": "Mobile Arts for Peace (MAP): Informing the National Curriculum and Youth Policy for Peacebuilding in Kyrgyzstan, Rwanda, Indonesia and Nepal",
+      "research_organisation": "University of Lincoln",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T007931/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Alison Phipps",
+      "project": "Culture for Sustainable and Inclusive Peace (CUSP)",
+      "research_organisation": "University of Glasgow",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T008148/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T008059/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T008105/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T008113/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T008172/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Emma Crewe",
+      "organisation": "University of Suffolk",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Lee Jarvis",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mark Mark Johnson",
+      "organisation": "Goldsmiths College",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Rachel Clare Kerr",
+      "organisation": "King's College London",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-840843902",
+  "meeting_name": "Follow on Fund - July 2022",
+  "meeting_date": "20220720",
+  "applications": [
+    {
+      "application_id": "AH/X001628/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Michael Buser",
+      "project": "Art of Healing Follow-on: Impact and Engagement (Update)",
+      "research_organisation": "University of the West of England",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X004279/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Venda Louise Pollock",
+      "project": "On-site/Off-site: Thomas Bewick and contemporary art at National Trust Cherryburn.",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X00421X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Jerome de Groot",
+      "project": "Manchester's DNA: History, Place, Identity",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X000613/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Philip John Shaw",
+      "project": "Sensory Reading: A New Approach to Teaching & Learning GCSE English Literature",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X002985/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Henriette van der Blom",
+      "project": "Speech! Speech! Dramatising Rhetorical Citizenship",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X001040/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jessica Jacobs",
+      "project": "Storytelling For All: Empowering Bedouin Women and Men through Film and Craft Impact and Engagement",
+      "research_organisation": "Queen Mary University of London",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Carol Tully",
+      "organisation": "Bangor University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Matthew Smith",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "GCRF - Education and Gender",
+  "year": "2019",
+  "meeting_date": "2019-09",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "application_reference": "ES/T002646/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T002700/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T00262X/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002697/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002654/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002662/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002735/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002670/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002751/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T002743/1",
+      "opportunity": "UKRI-GCRF Education and Gender",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

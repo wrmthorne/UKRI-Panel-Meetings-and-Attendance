@@ -1,0 +1,30 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "2022 s Lo La",
+  "year": "2022",
+  "source_file": "awarded_grants/BBSRC-140423-AwardedGrants2022-sLoLa.xlsx",
+  "count_of_applications": "5",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "application_reference": "BB/X00306X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003051/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003086/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003027/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003035/1",
+      "outcome": "Successful"
+    }
+  ]
+}

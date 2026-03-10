@@ -1,0 +1,17 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESS Coordinator 2022 Interview",
+  "year": "2022",
+  "meeting_date": "2022-08",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "application_reference": "ES/X003817/1",
+      "opportunity": "ESS Coordinator 2022",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants Panel D September 2014",
+  "year": "2014",
+  "meeting_date": "2014-09",
+  "source_file": "AHRC Scheme Call Panel Research Grants Panel D September 2014.xlsx",
+  "count_of_applications": "14",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "application_reference": "AH/M003396/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Paul Foulkes",
+      "holding_organisation": "University of York",
+      "grant_title": "Voice and Identity: source, filter, biometric",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M005550/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Jennifer Smith",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "The Scots Syntactic Atlas",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M004155/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Nicki Hitchcott",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Post-Traumatic Growth in Testimonies from Survivors and Perpetrators of the Rwanda Genocide",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M005119/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M004287/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00550X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M004996/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005208/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M001903/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M001911/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M004112/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M003329/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M004864/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005542/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

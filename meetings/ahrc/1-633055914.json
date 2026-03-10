@@ -1,0 +1,382 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-633055914",
+  "meeting_name": "Research Grants - April 2021",
+  "meeting_date": "20210401",
+  "applications": [
+    {
+      "application_id": "AH/V014463/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Robyn Jade Adams",
+      "project": "'Shaping Scholarship: Early Donations to the Bodleian Library'",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V01384X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Katherine Cecilia Harloe",
+      "project": "Beyond 'Notability': Re-evaluating Women's Work in Archaeology, History and Heritage in Britain, 1870 - 1950",
+      "research_organisation": "University of London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V013386/1",
+      "route": "Standard",
+      "lead_applicant": "Professor M Braddick",
+      "project": "The politics of the English grain trade, 1314-1815",
+      "research_organisation": "University of Sheffield",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V011340/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Dame Franziska Schroeder",
+      "project": "Bridging the Gap - visually impaired and sighted music producers working side by side",
+      "research_organisation": "Queen's University of Belfast",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V00901X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Stefan Thor Smith",
+      "project": "Community Consultation for Quality of Life (CCQoL)",
+      "research_organisation": "University of Reading",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V011235/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Nathan Hill",
+      "project": "The Emergence of Egophoricity: a diachronic investigation into the marking of the conscious self",
+      "research_organisation": "SOAS University of London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V014625/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ann-Marie Einhaus",
+      "project": "Ephemera and writing about war in Britain, 1914 to the present",
+      "research_organisation": "Northumbria University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V013335/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V015516/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Carlo Nicolai",
+      "project": "Properties, Paradox, and Circularity. A New, Type-Free Account",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V01577X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/V014498/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/V00672X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/V009869/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/V014765/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/V015044/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/V009265/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/V008951/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/V014722/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/V014595/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/V006452/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/V014420/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/T012978/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Vincent Hughes",
+      "project": "Humans and machines: novel methods for testing speaker recognition performance",
+      "research_organisation": "University of York",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/V015400/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "23"
+    },
+    {
+      "application_id": "AH/V00834X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "24"
+    },
+    {
+      "application_id": "AH/V014773/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "25"
+    },
+    {
+      "application_id": "AH/V014382/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "26"
+    },
+    {
+      "application_id": "AH/V008935/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "27"
+    },
+    {
+      "application_id": "AH/V014854/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "28"
+    },
+    {
+      "application_id": "AH/T006404/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "29"
+    },
+    {
+      "application_id": "AH/V014889/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "30"
+    },
+    {
+      "application_id": "AH/V013211/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "31"
+    },
+    {
+      "application_id": "AH/V014315/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "32"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Jane Pavitt",
+      "organisation": "Zaha Hadid Foundation",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Qian Sun",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Deborah Anne Shaw",
+      "organisation": "University of Portsmouth",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Gareth Hugh Loudon",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jake Kaner",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Matthew Smith",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Pietari Esa Kaapa",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Rory O'Connell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ]
+}

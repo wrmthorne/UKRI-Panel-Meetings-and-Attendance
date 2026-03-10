@@ -1,0 +1,267 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-466725021",
+  "meeting_name": "Research Grants - December 2019",
+  "meeting_date": "20191217",
+  "applications": [
+    {
+      "application_id": "AH/T006528/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Richard Madgwick",
+      "project": "Feasting networks and Resilience at the end of the British Bronze Age",
+      "research_organisation": "Cardiff University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T006951/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Lucy Evans",
+      "project": "Representing Gender-Based Violence: Literature, Performance and Activism in the Anglophone Caribbean",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T004460/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Elizabeth Anne Poole",
+      "project": "#ContestingIslamophobia: Representation and Appropriation in Mediated Activism.",
+      "research_organisation": "Keele University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T006552/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Hannah O'Regan",
+      "project": "Box Office Bears: Animal baiting in early modern England",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T007109/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Shaun Evans",
+      "project": "\"Deep Mapping\" Estate Archives: A New Digital Methodology for Analyzing Estate Landscapes circa. 1500-1930",
+      "research_organisation": "Bangor University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T006862/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Nick Caddick",
+      "project": "Stories in Transition: Examining the role of arts, culture and sport in supporting veteran transition to civilian life",
+      "research_organisation": "Anglia Ruskin University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T006390/1",
+      "route": "Standard",
+      "lead_applicant": "Professor John Street",
+      "project": "Our Subversive Voice? The history and politics of English protest music",
+      "research_organisation": "University of East Anglia",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T006293/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T00178X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T006439/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T006455/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/T00682X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/T004754/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/T006633/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/T004002/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/T006307/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/T00651X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T004576/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T004711/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T004827/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T006676/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Joseph Phelan",
+      "organisation": "De Montfort University",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Jane Turner",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Qian Sun",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Aylin Orbasli",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Brandon Hamber",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Professor David Murphy",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Owen Evans",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Steve Love",
+      "organisation": "Glasgow School of Art",
+      "role": "Member"
+    }
+  ]
+}

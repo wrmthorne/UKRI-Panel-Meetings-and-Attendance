@@ -1,0 +1,383 @@
+{
+  "council": "MRC",
+  "panel_reference": "PAN1004",
+  "panel_meeting_name": "MRC - Infections & Immunity Board Meeting - March 2025",
+  "meeting_date": "25/03/2025",
+  "applications": [
+    {
+      "application_reference": "APP48480",
+      "title": "PRIME: Building infrastructure for Patients, Researchers and Industry for Myalgic Encephalomyelitis",
+      "lead_applicant": "Chris Ponting",
+      "lead_organisation": "University of Edinburgh",
+      "score": "7",
+      "outcome": "Successful",
+      "award_id": "UKRI1413",
+      "link": "https://gtr.ukri.org/projects?ref=1413"
+    },
+    {
+      "application_reference": "APP47482",
+      "title": "Novel mechanisms of cell death subversion by monkeypox virus",
+      "lead_applicant": "Mike Weekes",
+      "lead_organisation": "University of Cambridge",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1410",
+      "link": "https://gtr.ukri.org/projects?ref=1410"
+    },
+    {
+      "application_reference": "APP47677",
+      "title": "Yeast on our Skin: Decision Makers between Homeostasis and Cutaneous Allergy",
+      "lead_applicant": "Salomé LeibundGut-Landmann",
+      "lead_organisation": "University of Exeter",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1405",
+      "link": "https://gtr.ukri.org/projects?ref=1405"
+    },
+    {
+      "application_reference": "APP49233",
+      "title": "Inhibiting Mycobacterium tuberculosis Biotin Protein Ligase to target bacterial virulence factors: a novel therapeutic strategy.",
+      "lead_applicant": "Divya Tiwari",
+      "lead_organisation": "Queen Mary University of London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1407",
+      "link": "https://gtr.ukri.org/projects?ref=1407"
+    },
+    {
+      "application_reference": "APP50127",
+      "title": "UNVEILING HOST DRIVERS OF INFLUENZA POLYMERASE ACTIVITY",
+      "lead_applicant": "Carol Sheppard",
+      "lead_organisation": "Imperial College London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1412",
+      "link": "https://gtr.ukri.org/projects?ref=1412"
+    },
+    {
+      "application_reference": "APP51181",
+      "title": "The influence of the lower airway microbiome on the dynamic Mycobacterium tuberculosis populations in active pulmonary Tuberculosis",
+      "lead_applicant": "Leah Cuthbertson",
+      "lead_organisation": "University of Leicester",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1411",
+      "link": "https://gtr.ukri.org/projects?ref=1411"
+    },
+    {
+      "application_reference": "APP48987",
+      "title": "Understanding the mechanistic basis of palmitoylation in NLRP3 inflammasome activation in disease",
+      "lead_applicant": "Paras Anand",
+      "lead_organisation": "Imperial College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1408",
+      "link": "https://gtr.ukri.org/projects?ref=1408"
+    },
+    {
+      "application_reference": "APP49885",
+      "title": "Unravelling the Immune Mechanisms of Oral Tolerance to Find a Cure for Food Allergy",
+      "lead_applicant": "Alexandra Santos",
+      "lead_organisation": "King's College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1404",
+      "link": "https://gtr.ukri.org/projects?ref=1404"
+    },
+    {
+      "application_reference": "APP50964",
+      "title": "FAPESP: Deciphering Leishmania non coding RNA function at the host-parasite interface",
+      "lead_applicant": "Jeremy Mottram",
+      "lead_organisation": "University of York",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1409",
+      "link": "https://gtr.ukri.org/projects?ref=1409"
+    },
+    {
+      "application_reference": "APP53407",
+      "title": "Elucidating the mutational trajectories of mature anti-HIV1 and anti-SARS-CoV-2 antibodies through in vitro longitudinal screening",
+      "lead_applicant": "Rushad PAVRI",
+      "lead_organisation": "King's College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1406",
+      "link": "https://gtr.ukri.org/projects?ref=1406"
+    },
+    {
+      "application_reference": "APP48642",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP49598",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP52126",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP52229",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP53899",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP47920",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP51944",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP52218",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP53319",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP53363",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP53527",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP53531",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP54190",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP54647",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Wendy Barclay",
+      "organisation": "Imperial College London",
+      "role": "Chair"
+    },
+    {
+      "name": "Alison Condliffe",
+      "organisation": "University of Sheffield",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Ade Whitehouse",
+      "organisation": "University of Leeds",
+      "role": "Panellist"
+    },
+    {
+      "name": "Aras Kadioglu",
+      "organisation": "University of Liverpool",
+      "role": "Panellist"
+    },
+    {
+      "name": "Ariberto Fassati",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Clare Bryant",
+      "organisation": "University of Cambridge",
+      "role": "Panellist"
+    },
+    {
+      "name": "David Roper",
+      "organisation": "University of Warwick",
+      "role": "Panellist"
+    },
+    {
+      "name": "David Tough",
+      "organisation": "GlaxoSmithKline (United Kingdom)",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dinis Calado",
+      "organisation": "The Francis Crick Institute",
+      "role": "Panellist"
+    },
+    {
+      "name": "Elaine Bignell",
+      "organisation": "University of Exeter",
+      "role": "Panellist"
+    },
+    {
+      "name": "George Christophides",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Harish Nair",
+      "organisation": "University of Edinburgh",
+      "role": "Panellist"
+    },
+    {
+      "name": "Irina Udalova",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jo Parish",
+      "organisation": "University of Birmingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jonathan Ball",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Panellist"
+    },
+    {
+      "name": "Lucy Wedderburn",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Maximiliano Gutierrez",
+      "organisation": "The Francis Crick Institute",
+      "role": "Panellist"
+    },
+    {
+      "name": "Neil Mabbott",
+      "organisation": "University of Edinburgh",
+      "role": "Panellist"
+    },
+    {
+      "name": "Nicholas Feasey",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Panellist"
+    },
+    {
+      "name": "Rita Tewari",
+      "organisation": "University of Nottingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sean Lim",
+      "organisation": "University of Southampton",
+      "role": "Panellist"
+    },
+    {
+      "name": "Simon Jones",
+      "organisation": "Cardiff University",
+      "role": "Panellist"
+    },
+    {
+      "name": "Tania Dottorini",
+      "organisation": "University of Nottingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Teresa Lambe",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Chien-Yi Chang",
+      "organisation": "Newcastle University",
+      "role": "Associate"
+    },
+    {
+      "name": "Naveed Akbar",
+      "organisation": "University of Oxford",
+      "role": "Associate"
+    }
+  ],
+  "count_of_applications": "24",
+  "count_of_awards": "10",
+  "comments": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 24 out of 61 applications were unsuccessful at shortlisting and are not displayed here."
+}

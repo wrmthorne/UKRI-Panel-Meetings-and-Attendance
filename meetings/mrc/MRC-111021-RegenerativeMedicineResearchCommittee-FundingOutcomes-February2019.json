@@ -1,0 +1,51 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Regenerative Medicine Research Committee 27 February 2019",
+  "meeting_date": "01/02/2019",
+  "source_file": "Regenerative-medicine-research-committee/MRC-111021-RegenerativeMedicineResearchCommittee-FundingOutcomes-February2019.xlsx",
+  "count_of_applications": "8",
+  "count_of_awards": "4",
+  "notes": "Proposals are scored by all Committee members after the presentation by designated Committee members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "application_reference": "MR/S015116/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S036695/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S036946/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S036598/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S03708X/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S036989/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S03692X/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S036911/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

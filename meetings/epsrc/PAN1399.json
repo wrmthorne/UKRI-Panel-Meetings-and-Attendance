@@ -1,0 +1,121 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1399",
+  "meeting_name": "EPSRC: ICT Fellowships Interview Panel A Sept 2025",
+  "meeting_date": "2025-09-24 08:00:00",
+  "meeting_convenor": "Raikova, Dr S",
+  "applications": [
+    {
+      "application_id": "APP51771",
+      "title": "Foundations of Systemic Alignment and Introspection for Trustworthy Multi-Agent AI",
+      "applicant": "Schroeder, C",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2265341.25",
+      "award_id": "UKRI3652",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3652",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58916",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP44205",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58164",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP63543",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP64616",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dennis, L",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Liu, H",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Stein, S",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Tyukin, I",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    }
+  ]
+}

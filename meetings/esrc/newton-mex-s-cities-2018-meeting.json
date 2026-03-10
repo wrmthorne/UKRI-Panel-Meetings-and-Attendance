@@ -1,0 +1,143 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Newton Mex S Cities 2018 meeting",
+  "year": "2019",
+  "meeting_date": "2019-02",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "22",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "application_reference": "ES/S006710/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006583/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006443/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006761/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S006648/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006486/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006141/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S00632X/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006729/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006184/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006788/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006109/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006567/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006672/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006680/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006621/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006516/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006753/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006842/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S00677X/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006400/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S006834/1",
+      "opportunity": "Newton Mex S Cities 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "SWIMMR JAN20 Space Weather Instrumentation, Measurement, Modelling and Risk",
+  "source_file": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-SpaceWeatherInstrumentationMeasurementModellingRisk-300120.pdf",
+  "meeting_date": "25th - 27th March 2020",
+  "meeting_location": "Rutherford Appleton Laboratory",
+  "panel_secretary": "Dr Jennifer Morris",
+  "panellists": [
+    {
+      "name": "Professor Mark Lester",
+      "role": "Chair",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Dr Hazel Bain NOAA/",
+      "role": "Member",
+      "organisation": "University of Colorado Boulder"
+    },
+    {
+      "name": "Dr Anna Belehaki National Observatory",
+      "role": "Member",
+      "organisation": "of Athens"
+    },
+    {
+      "name": "Dr David Boteler Natural Resources",
+      "role": "Member",
+      "organisation": "Canada"
+    },
+    {
+      "name": "Professor Delores Knipp",
+      "role": "Member",
+      "organisation": "University of Colorado Boulder"
+    },
+    {
+      "name": "Dr George Millward NOAA/",
+      "role": "Member",
+      "organisation": "University of Colorado Boulder"
+    },
+    {
+      "name": "Professor Hermann Opgenoorth",
+      "role": "Member",
+      "organisation": "Umeå University"
+    },
+    {
+      "name": "Mr David Pitchford",
+      "role": "Member",
+      "organisation": "SES"
+    }
+  ]
+}

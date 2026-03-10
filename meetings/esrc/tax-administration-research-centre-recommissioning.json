@@ -1,0 +1,17 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Tax Administration Research Centre Recommissioning",
+  "year": "2018",
+  "meeting_date": "2018-05",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "0",
+  "applications": [
+    {
+      "application_reference": "ES/S002022/1",
+      "opportunity": "Centre Proposal Open call (inv",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

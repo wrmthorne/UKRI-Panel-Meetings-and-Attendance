@@ -1,0 +1,2365 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "2018 RM3",
+  "year": "2018",
+  "source_file": "awarded_grants/BBSRC-11102021-2018AwardedGrantsRM3.xlsx",
+  "count_of_applications": "395",
+  "count_of_awards": "95",
+  "applications": [
+    {
+      "application_reference": "BB/S016031/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015817/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015523/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018093/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015191/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017127/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015922/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018484/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01506X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017291/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015272/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018220/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015809/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01750X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016341/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01814X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017593/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017151/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017178/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01764X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S014594/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015760/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016554/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015752/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01585X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016368/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015256/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017933/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015140/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016775/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017771/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018646/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S014403/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S014268/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017550/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01439X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017968/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017275/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016228/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01862X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018271/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016236/1",
+      "outcome": "Successful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016430/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016090/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015728/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015469/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015248/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016813/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01733X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018263/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018131/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017658/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017607/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016864/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016589/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017623/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015965/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015450/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015973/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015221/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016449/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016163/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015418/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015507/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015078/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015035/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S014527/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018077/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015868/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015558/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015442/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015302/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017917/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016120/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016791/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016279/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018239/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015213/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018042/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017356/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016929/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016678/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016317/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01442X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S014411/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016074/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015884/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015493/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S018654/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017224/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016619/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016457/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01621X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S016198/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017828/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017631/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015108/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015353/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015116/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01523X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S01215X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S015426/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 A"
+    },
+    {
+      "application_reference": "BB/S017534/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S014497/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S013741/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017941/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016945/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016538/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015337/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015531/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016023/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017712/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017526/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017992/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018298/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015655/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017925/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018204/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S014306/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017348/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018441/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016112/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015183/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017852/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016309/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017321/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016651/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015663/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01599X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017240/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016082/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016066/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017763/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017720/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01778X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018158/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S014470/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01618X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016899/1",
+      "outcome": "Successful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017186/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017194/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016880/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016570/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01568X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01828X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01537X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015698/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017461/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016414/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016902/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015485/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015841/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015647/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01635X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016694/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01800X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017860/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015582/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S014349/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016406/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018085/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016627/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018522/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016511/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015345/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018360/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017453/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S018387/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016422/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015949/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017364/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017410/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017089/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016384/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016910/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016473/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S01859X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017119/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016465/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017003/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S016872/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S015434/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 B"
+    },
+    {
+      "application_reference": "BB/S017674/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014357/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014330/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014365/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018018/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018301/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014667/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018506/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015906/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01604X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01845X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015981/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017984/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016295/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018190/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016856/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017097/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017372/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017615/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016104/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015086/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014438/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015833/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016155/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017143/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01652X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017070/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016643/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015620/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016244/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015566/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017895/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01540X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018107/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018328/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018344/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017208/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015159/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015736/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016260/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016058/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016953/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016139/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017879/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01571X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015124/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015612/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016783/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016821/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018034/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014500/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016716/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015930/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016686/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015310/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016376/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017585/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017445/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015167/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017046/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016287/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015477/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018638/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015361/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017437/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014691/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014314/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014373/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017100/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01666X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017313/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017380/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017429/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017488/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016171/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017542/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017402/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018123/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016724/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015825/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017690/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015574/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018662/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018565/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016562/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016635/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017305/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017518/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S016333/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015515/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014462/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015094/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018166/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018611/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018336/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018115/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017038/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018174/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S014519/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018379/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S013768/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017399/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S01697X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S018352/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S015671/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 C"
+    },
+    {
+      "application_reference": "BB/S017135/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016007/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017496/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014799/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01716X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S013776/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017283/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015892/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015779/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018069/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016848/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017747/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017844/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018514/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01781X/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017054/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015787/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018530/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015132/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017062/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018549/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015701/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018492/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018468/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016767/1",
+      "outcome": "Successful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017011/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01702X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014829/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018247/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015876/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016732/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015051/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018050/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S013865/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017887/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01795X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016740/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S013008/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017976/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017739/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015329/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015264/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014616/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018603/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01649X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015027/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016597/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018395/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017836/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016252/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016759/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016481/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015639/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014543/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017666/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016961/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01831X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017232/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015914/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016546/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014713/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016805/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017569/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S013016/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015043/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014276/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018476/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018182/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016996/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016937/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016503/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017267/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016201/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017909/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016015/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015175/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015205/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016708/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014446/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015744/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017704/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018212/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S013733/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017798/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017259/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016147/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01554X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017682/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015388/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018255/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015590/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018581/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015299/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S014322/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016392/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015604/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01747X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S01683X/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015957/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018425/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017577/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018417/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018409/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S018557/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S017216/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015795/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S015396/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    },
+    {
+      "application_reference": "BB/S016600/1",
+      "outcome": "Unsuccessful",
+      "panel": "18RM3 D"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Devitt",
+      "role": "Chair",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Simone Meddle",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Eileen Wall",
+      "role": "Chair",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Michael Bailey",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Richard Barrett-Jolley",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Lisa Collins",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "James Hodge",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Paul Langford",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Nicholas Lesica",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Dorothy McKeegan",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Mark Mooney",
+      "role": "Member",
+      "organisation": "Queen's University of Belfast"
+    },
+    {
+      "name": "Matthew Nolan",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Keelin Teagasc O'Driscoll",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Rasmus Petersen",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Ramnani, Narender Royal Holloway, Univ of London",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Jaswinder Sethi",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Jon Simons",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Olivier Sparagano",
+      "role": "Member",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Mark Banfield",
+      "role": "Chair",
+      "organisation": "John Innes Centre"
+    },
+    {
+      "name": "John Crawford",
+      "role": "Chair",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Michael Shaw",
+      "role": "Chair",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Yin Chen",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Nicola Holden",
+      "role": "Member",
+      "organisation": "The James Hutton Institute"
+    },
+    {
+      "name": "Matthew Hutchings",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Konstantin Kanyuka",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Christopher Knight",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Tracy Lawson",
+      "role": "Member",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Petra Defence Science & Tech Lab Oyston",
+      "role": "Member",
+      "organisation": "DSTL"
+    },
+    {
+      "name": "Teuta Pilizota",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Gordon Simpson",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Andrew Thompson",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Daniel Wall",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Xiangming Xu",
+      "role": "Member",
+      "organisation": "National Inst of Agricultural Botany"
+    },
+    {
+      "name": "Richard Emes",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Nicola Gray",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Helen White-Cooper",
+      "role": "Chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Thorsten Allers",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Rainer Breitling",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Alessia Buscaino",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Ruaidhri CARMODY",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Nicholas Evans",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Dianne Northumbria Ford",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Andre Furger",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Lorna Harries",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Lilian Restoration of Appearance & Function Tst Hook",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Corinne Houart",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Madeline Parsons",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Katja MRC Röper",
+      "role": "Member",
+      "organisation": "Laboratory of Molecular Biology"
+    },
+    {
+      "name": "Margaret Open Saffrey",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Victoria Smith",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Michael Watson",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Tanya Whitfield",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Gabriela da Silva Xavier",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dimitrios National Zeugolis",
+      "role": "Member",
+      "organisation": "University of Ireland Galway"
+    },
+    {
+      "name": "Anastasia Callaghan",
+      "role": "Chair",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Claire Eyers",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Steven Russell",
+      "role": "Chair",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "David Stephens",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Michelangelo Campanella",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Martin Cann",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Michael Cheetham",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Ben Vernalis Research Davis",
+      "role": "Member",
+      "organisation": "Ltd"
+    },
+    {
+      "name": "Jane Grasby",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Nicholas Harmer",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Sian Henson",
+      "role": "Member",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "Louise Horsfall",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Venkateswarlu Kanamarlapudi",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Jody Mason",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Carolyn Birkbeck College Moores",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Mark Pfuhl",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Andrew Pitt",
+      "role": "Member",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Karen Polizzi",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Stephen Royle",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Jason Schnell",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "David Scott",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    }
+  ],
+  "membership_source_files": [
+    "membership/BBSRC-11102021-ResearchCommitteeMembership2018RM3.pdf"
+  ]
+}

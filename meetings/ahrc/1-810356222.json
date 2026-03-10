@@ -1,0 +1,67 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-810356222",
+  "meeting_name": "Follow on Fund - March 2022",
+  "meeting_date": "20220317",
+  "applications": [
+    {
+      "application_id": "AH/W010291/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Fiona Barclay",
+      "project": "Remembering Empire: Beyond Victims and Perpetrators (RemEm)",
+      "research_organisation": "University of Stirling",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W00609X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Simon James Morgan",
+      "project": "The Letters of Richard Cobden (1804-65) Online: an exploration in active citizenship",
+      "research_organisation": "Leeds Beckett University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W007509/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W011522/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Catherine Teresa Eagleton",
+      "organisation": "University of Worcester",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor James Gordon Clark",
+      "organisation": "Unknown",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mark Nesbitt",
+      "organisation": "Royal Botanic Gardens Kew",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1219",
+  "meeting_name": "OPP 141 - EPSRC Mathematical Sciences Fellowship Interview Panel May 2025 - Post Doctoral Fellowship",
+  "meeting_date": "2025-05-20 08:00:00",
+  "meeting_convenor": "Foxell, Dr E",
+  "applications": [
+    {
+      "application_id": "APP38895",
+      "title": "Mathematical Kinetic Theory of Particles and Waves",
+      "applicant": "Menegaki, A",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "519915.92",
+      "award_id": "UKRI2025",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=2025",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP13137",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP28685",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33531",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Brendle, T",
+      "role": "Chair",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Dorey, P",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Levitin, M",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Nucinkis, B",
+      "role": "Panellist",
+      "organisation": "Royal Holloway, University of London"
+    },
+    {
+      "name": "Ramage, A",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    }
+  ]
+}

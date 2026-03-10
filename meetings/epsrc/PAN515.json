@@ -1,0 +1,46 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN515",
+  "meeting_name": "EPSRC Physical Sciences Open Plus Fellowships Interview Panel - June 2024",
+  "meeting_date": "2024-06-26 07:30:00",
+  "meeting_convenor": "Nailor, Dr A",
+  "applications": [
+    {
+      "application_id": "APP14552",
+      "title": "PRecision, Innovative, Molecular EDiting: PRIMED for Diversification",
+      "applicant": "Goss, Professor R",
+      "lead_organisation": "University of St Andrews",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1507310.35",
+      "award_id": "EP/Z533610/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ533610%2F1",
+      "list_name": "Main",
+      "opportunity_number": "140",
+      "opportunity_name": "EPSRC open plus fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Gleeson, H",
+      "role": "Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Gillie, L",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Lancaster, T",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Webster, R",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    }
+  ]
+}

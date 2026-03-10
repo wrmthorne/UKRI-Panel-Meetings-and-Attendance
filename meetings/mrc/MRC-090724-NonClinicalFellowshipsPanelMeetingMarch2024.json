@@ -1,0 +1,101 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Non Clinical Fellowships Panel Meeting 26-27 March 2024",
+  "meeting_date": "01/03/2024",
+  "source_file": "Career-development-award-and-senior-non-clinical-f/MRC-090724-NonClinicalFellowshipsPanelMeetingMarch2024.xlsx",
+  "count_of_applications": "18",
+  "count_of_awards": "10",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. Median scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Panel meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 54/73 applications did not pass an initial shortlisting stage and were not considered further. Of the 19 applications that did pass the initial shortslisting stage, 1 application was withdrawn by the applicant prior to the meeting and 0 applications were withdrawn by the applicants following the meeting.",
+  "applications": [
+    {
+      "application_reference": "APP12042",
+      "score": "10",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP10672",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP10953",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP10708",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP11779",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP13354",
+      "score": "10",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP11102",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP12135",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP10817",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP12012",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP12092",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP13104",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP10966",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP12824",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP12724",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP15846",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP13820",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP12744",
+      "score": "9",
+      "outcome": "Successful"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Clinical Research Training Fellowship 13 November 2018",
+  "meeting_date": "13/11/2018",
+  "source_file": "Clinical-research-training-fellowship/MRC-12102021-ClinicalResearchTrainingFellowship-13November2018.xlsx",
+  "count_of_applications": "21",
+  "count_of_awards": "11",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 29/49 applications did not pass an initial triage stage and were not considered further. Of the 22 applications that did pass the initial triage stage, including 2 applications deferred from the previous meeting, 1 application was withdrawn by the applicants prior to the meeting and no applications were withdrawn by the applicants following the meeting.",
+  "applications": [
+    {
+      "application_reference": "MR/S006257/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S001530/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006435/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S001166/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006478/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006869/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S005897/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006125/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S00629X/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006230/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006168/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006516/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006370/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006346/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006737/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006729/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006788/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S006745/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006796/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S00680X/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S006842/1",
+      "score": "8",
+      "outcome": "Successful"
+    }
+  ]
+}

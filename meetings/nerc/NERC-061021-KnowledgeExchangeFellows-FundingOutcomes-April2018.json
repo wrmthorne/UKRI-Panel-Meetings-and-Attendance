@@ -1,0 +1,270 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "2018 Knowledge Exchange (KE) Fellows Rank",
+  "source_file": "NERC-061021-KnowledgeExchangeFellows-FundingOutcomes-April2018.pdf",
+  "count_of_applications": "40",
+  "count_of_awards": "8",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S006443/1",
+      "ranking": "9",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S00632X/1",
+      "ranking": "8",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006451/1",
+      "ranking": "2019",
+      "scores": [
+        "3",
+        "8",
+        "31.10"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006125/1",
+      "ranking": "7",
+      "score": "4",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006257/1",
+      "ranking": "7",
+      "score": "5",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006486/1",
+      "ranking": "7",
+      "score": "6",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S00615X/1",
+      "ranking": "7",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006400/1",
+      "ranking": "7",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006230/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/S006346/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "10"
+    },
+    {
+      "application_reference": "NE/S006184/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "11"
+    },
+    {
+      "application_reference": "NE/S005846/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "12"
+    },
+    {
+      "application_reference": "NE/S006222/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "13"
+    },
+    {
+      "application_reference": "NE/S006583/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "14"
+    },
+    {
+      "application_reference": "NE/S006524/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "15"
+    },
+    {
+      "application_reference": "NE/S006362/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "score": "16"
+    },
+    {
+      "application_reference": "NE/S006540/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "score": "17"
+    },
+    {
+      "application_reference": "NE/S006109/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006176/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006192/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006249/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006265/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006273/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006281/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S00629X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006338/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006354/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006370/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006389/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006397/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006435/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S00646X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006478/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006494/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006508/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006516/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006532/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006559/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006567/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/S006575/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Colin Mackechnie",
+      "role": "Chair",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Dr Alice Milner Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Dr Larissa Naylor",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Professor Selina Stead",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Dr Susannah Thorpe",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dr Joshua Vande Hey",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Dr Laura Vickers Harper Adams",
+      "role": "Member",
+      "organisation": "University"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2018/KE Fellows (Open) - April 2018.pdf",
+  "meeting_date": "12th- 14th June 2018"
+}

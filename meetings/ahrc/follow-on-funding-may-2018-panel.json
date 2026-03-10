@@ -1,0 +1,52 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Funding May 2018 panel",
+  "year": "2018",
+  "meeting_date": "2018-05",
+  "source_file": "Follow-on Funding for Impact and Engagement Q2 2018 Moderation.xlsx",
+  "count_of_applications": "5",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/S000054/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Adam Dinham",
+      "holding_organisation": "Goldsmiths College",
+      "grant_title": "Reimagining Religion and Belief: equipping public authorities for engagement with the real religious landscape"
+    },
+    {
+      "application_reference": "AH/R013497/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rob Ellis",
+      "holding_organisation": "University of Huddersfield",
+      "grant_title": "Animating Heritage and Stigma"
+    },
+    {
+      "application_reference": "AH/S001603/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor James Daybell",
+      "holding_organisation": "University of Plymouth",
+      "grant_title": "Gendered Interpretations at the Victoria & Albert Museum and the Vasa Museum"
+    },
+    {
+      "application_reference": "AH/R013837/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Sue Walker",
+      "holding_organisation": "University of Reading",
+      "grant_title": "Transforming science for young people: Marie Neurath and Isotype books for children"
+    },
+    {
+      "application_reference": "AH/S000763/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Mervyn Conroy",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Phronesis and the Medical Community: Follow on Impact and Engagement"
+    }
+  ]
+}

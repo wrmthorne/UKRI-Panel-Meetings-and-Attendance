@@ -1,0 +1,145 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "CC ECR Development 23-10-14",
+  "year": "2014",
+  "meeting_date": "2014-10",
+  "source_file": "CC ECR Development 23-10-14.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/M00922X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jenny Slater",
+      "holding_organisation": "Sheffield Hallam University",
+      "grant_title": "Around the toilet: Co-creating intersectional understandings of gender, disability and access"
+    },
+    {
+      "application_reference": "AH/M009327/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Anni Raw",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "'Potency and Potential' of creative connections in interstitial spaces' - learning from Latin American perspectives"
+    },
+    {
+      "application_reference": "AH/M009319/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Deborah Maxwell",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Telling the Bees"
+    },
+    {
+      "application_reference": "AH/M009092/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Naomi Millner",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "The Hospitality Project: Exploring hospitality as an arts-based praxis to remake relationships of co-production"
+    },
+    {
+      "application_reference": "AH/M009270/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Matt Brennan",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Fields of Green: Addressing Sustainability and Climate Change through Music Festival Communities"
+    },
+    {
+      "application_reference": "AH/M009300/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Olu Jenzen",
+      "holding_organisation": "University of Brighton",
+      "grant_title": "The People's Pier: The popular culture of pleasure piers and cultural regeneration through community heritage"
+    },
+    {
+      "application_reference": "AH/M009262/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nigel Bright",
+      "holding_organisation": "Manchester Metropolitan University",
+      "grant_title": "Working with social haunting: past- and present-making in two \"communities of value\""
+    },
+    {
+      "application_reference": "AH/M009181/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Gail McConnell",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "Listening to Voices: Creative Disruptions with the Hearing Voices Network"
+    },
+    {
+      "application_reference": "AH/M009114/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr helen limon",
+      "holding_organisation": "Newcastle University",
+      "grant_title": "(r)agency? Lived Practices of Anger"
+    },
+    {
+      "application_reference": "AH/M009203/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Dai O'Brien",
+      "holding_organisation": "York St John University",
+      "grant_title": "Lost Spaces"
+    },
+    {
+      "application_reference": "AH/M00919X/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Michael Skey",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "'What football players do .. is part of the kids lives': Exploring the connections between young people and sporting celebrity"
+    },
+    {
+      "application_reference": "AH/M009289/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009165/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009238/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009211/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009246/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009173/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009254/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009297/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009335/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants Panel B, June 2015 meeting",
+  "year": "2015",
+  "meeting_date": "2015-06",
+  "source_file": "Research Grants Panel B, June 2015 meeting.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/N00146X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Peter Guillery",
+      "holding_organisation": "University College London",
+      "grant_title": "Survey of London: Whitechapel Initiative",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N001567/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Helen Nicholson",
+      "holding_organisation": "Royal Holloway, Univ of London",
+      "grant_title": "For Love or Money? Collaboration between Amateur and Professional Theatre",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M00970X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr William Higbee",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Transnational Moroccan Cinema",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M00967X/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001915/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M011488/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009475/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M011194/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009831/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001095/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

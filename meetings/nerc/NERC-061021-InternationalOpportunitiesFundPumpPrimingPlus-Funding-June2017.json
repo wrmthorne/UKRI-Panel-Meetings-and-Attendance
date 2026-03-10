@@ -1,0 +1,127 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "INTERNATIONAL OPPOURTUNITIES FUND, PUMP PRIMING PLUS, JUN 2017",
+  "source_file": "NERC-061021-InternationalOpportunitiesFundPumpPrimingPlus-Funding-June2017.pdf",
+  "count_of_applications": "13",
+  "count_of_awards": "2",
+  "year": "2017",
+  "applications": [
+    {
+      "application_reference": "NE/R004994/1",
+      "ranking": "6",
+      "scores": [
+        "1",
+        "9"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005079/1",
+      "ranking": "5",
+      "scores": [
+        "2",
+        "9"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005303/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "scores": [
+        "3",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/R005028/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "4",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/R005036/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "4",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/R005249/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "4",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/R00496X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "5",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/R004900/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/R005001/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "7",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/R005311/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/R005338/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "9",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/R005095/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/R005060/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "11",
+        "7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "CCROC Assessment - Challenge 2-5 Panel",
+  "source_file": "NERC-funding-assessment-panel-members-2023/NERC-240723-PanelMeetingListCCROC15Jun2023.pdf",
+  "meeting_date": "20 July 2023",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Jess Surma",
+  "panellists": [
+    {
+      "name": "Professor Richard Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Dr Stuart Bishop North Carolina",
+      "role": "Member",
+      "organisation": "State University"
+    },
+    {
+      "name": "Dr Martha Buckley George Mason",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Dr Leon Chafik Stockholm",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Dr Miguel Ángel Morales Maqueda",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Dr Eduardo",
+      "role": "Member",
+      "organisation": "Moreno-Chamarro Barcelona Supercomputing Center"
+    },
+    {
+      "name": "Professor Simon Tett",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    }
+  ]
+}

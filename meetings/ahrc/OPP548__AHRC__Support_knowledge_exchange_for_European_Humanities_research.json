@@ -1,0 +1,89 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "OPP548: AHRC: Support knowledge exchange for European Humanities research",
+  "applications": [
+    {
+      "application_id": "45814",
+      "title": "Knowledge Exchange for Slow Hope (KESH)",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jenny Wustenberg",
+      "lead_organisation": "Nottingham Trent University",
+      "rank": ""
+    },
+    {
+      "application_id": "48084",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "45947",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "47364",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "45350",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "48144",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jaideep Gupte",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Malwina Gebalska",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": " Christa Engel",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "DanielCarey",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

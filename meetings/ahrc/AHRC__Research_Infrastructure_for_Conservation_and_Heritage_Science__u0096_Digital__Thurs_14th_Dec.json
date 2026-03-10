@@ -1,0 +1,69 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "AHRC: Research Infrastructure for Conservation and Heritage Science \\u0096 Digital (Thurs 14th Dec)",
+  "applications": [
+    {
+      "application_id": "16860",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "13904",
+      "title": "Heritage Science Data Service (HSDS)",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Julian Richards",
+      "lead_organisation": "University of York",
+      "rank": "1"
+    },
+    {
+      "application_id": "12456",
+      "title": "",
+      "score": "2",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "LeifIsaksen",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Christy Henshaw",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Fergus McDonald",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Ian Gregory",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sally Chambers",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Tim Boon",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

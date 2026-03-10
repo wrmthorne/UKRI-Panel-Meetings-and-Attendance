@@ -1,0 +1,113 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, March 2017",
+  "year": "2017",
+  "meeting_date": "2017-03",
+  "source_file": "1703-research-networking-moderation.xlsx",
+  "count_of_applications": "16",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P014275/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Henriette van der Blom",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "The Crisis of Rhetoric: Renewing Political Speech and Speechwriting"
+    },
+    {
+      "application_reference": "AH/P01481X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Simona Valeriani",
+      "holding_organisation": "Victoria and Albert Museum",
+      "grant_title": "Architectural Models in context: creativity, skill and spectacle"
+    },
+    {
+      "application_reference": "AH/R000085/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Adam Morton",
+      "holding_organisation": "Newcastle University",
+      "grant_title": "Anti-Catholicism across British History (c.1520-2000)"
+    },
+    {
+      "application_reference": "AH/P015085/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sara Wasson",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Translating Chronic Pain: A Critical and Creative Research Network"
+    },
+    {
+      "application_reference": "AH/R001340/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Simon Richards",
+      "holding_organisation": "Loughborough University",
+      "grant_title": "Delos Network"
+    },
+    {
+      "application_reference": "AH/R001677/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Alexa Wright",
+      "holding_organisation": "University of Westminster",
+      "grant_title": "Hybrid Bodies Network - An artist-led interdisciplinary study into the effects of heart transplantation on donor families"
+    },
+    {
+      "application_reference": "AH/R001294/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Karen Elisabeth McAulay",
+      "holding_organisation": "Royal Conservatoire of Scotland",
+      "grant_title": "Claimed from Stationers' Hall: the United Kingdom's Historical Copyright Music Collections"
+    },
+    {
+      "application_reference": "AH/R001529/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000298/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P015042/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001200/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009905/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013996/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009913/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000050/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001278/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

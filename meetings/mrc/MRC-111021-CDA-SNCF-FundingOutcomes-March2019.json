@@ -1,0 +1,76 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Career Development Award and Senior Non-Clinical Fellowships - 21 March 2019",
+  "meeting_date": "01/03/2019",
+  "source_file": "Career-development-award-and-senior-non-clinical-f/MRC-111021-CDA-SNCF-FundingOutcomes-March2019.xlsx",
+  "count_of_applications": "13",
+  "count_of_awards": "5",
+  "notes": null,
+  "applications": [
+    {
+      "application_reference": "MR/S007555/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S007490/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S023542/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S024190/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S024263/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S023194/1",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S024611/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S025065/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/S024204/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S024808/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S024638/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S024832/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/S024883/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

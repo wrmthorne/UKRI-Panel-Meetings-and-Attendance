@@ -1,0 +1,277 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Fund for Impact & Engagement, July 2016 Moderation",
+  "year": "2016",
+  "meeting_date": "2016-07",
+  "source_file": "Follow-on Funding for Impact and Engagement Q3 2016 Meetings.xlsx",
+  "count_of_applications": "34",
+  "count_of_awards": "24",
+  "applications": [
+    {
+      "application_reference": "AH/P005217/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Vinita Damodaran",
+      "holding_organisation": "University of Sussex",
+      "grant_title": "The Botanical and Meteorological history of the Indian Ocean 1500-1900",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P004652/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Simon Palfrey",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Demons land: a poem come true",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P004660/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Diana Paton",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Freedom to Believe: A Theatre-in-Education Project exploring Caribbean Social and Religious Histories",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/N009568/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Helen Manchester",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "Tangible Memories: Parlours of Wonder",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P005063/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Michael Northcott",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Finding Common Ground",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P00394X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Katherine Astbury",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Staging Napoleonic theatre",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P005764/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Alison Cooley",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Latin inscriptions in the Ashmolean Museum: influencing curatorial practice and extending educational scope to new audiences",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P003680/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006477/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006116/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Steven Hooper",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "Fiji's artistic heritage: impact and engagement in Fiji",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P006256/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Robin Coningham",
+      "holding_organisation": "Durham University",
+      "grant_title": "Can We Rebuild the Kasthamandap? Promoting Post-Disaster Rescue Excavations, Salvage and Subsurface Heritage Protection Protocols in Kathmandu",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P005268/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Paul Cooke",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Using Digital Tools to Challenge Xenophobia and Support International Development in South Africa",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P006051/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Morag Shiach",
+      "holding_organisation": "Queen Mary, University of London",
+      "grant_title": "Creative Hubs and Urban Development Goals (UK/Brazil)",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P006469/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Lizelle Bisschoff",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "Africa's Lost Classics' in Context",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P005594/1",
+      "grade": "5.2",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Steven Mithen",
+      "holding_organisation": "University of Reading",
+      "grant_title": "Discovering WF16: Building Engagement with Neolithic Archaeology as Pathway to Economic Development in Southern Jordan",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P005578/1",
+      "grade": "5.1",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Claire Jowitt",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "Hakluyt@400: A Commemorative Series to Enhance Public Understanding of the History of English Exploration and Voyages of Discovery",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P006000/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Mr David Whitley",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "Healthy Waterways: Connecting communities locally and globally",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P005543/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jonathan Saha",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Elephants and Empire in Colonial Burma: Exhibiting Historical Photographs in Myanmar and the UK",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P005918/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Simon Popple",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Digital Community Workspaces: Delivering Impact through Public Library and Archive networks",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P00637X/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Tom Wakeford",
+      "holding_organisation": "Coventry University",
+      "grant_title": "Resources of Hope: Giving voice to underprivileged communities in India",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P006329/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Daniel Ploeger",
+      "holding_organisation": "Royal Central Sch of Speech and Drama",
+      "grant_title": "Electronics Consumption, Waste and the Informal Trade Sector in Sub-Saharan Africa",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P006035/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Andy Dearden",
+      "holding_organisation": "Sheffield Hallam University",
+      "grant_title": "Creating, Connecting and Sustaining Links with the Indonesian Craft Economy",
+      "route": "FoF Highlight"
+    },
+    {
+      "application_reference": "AH/P006809/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P005799/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006337/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006817/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P005535/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P00556X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Simon Kaner",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "Global perspectives on British Archaeology: an East Anglian model for positioning our heritage in international context",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P007864/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Krista Cowman",
+      "holding_organisation": "University of Lincoln",
+      "grant_title": "What Difference did the War Make?\u00a0 World War One and Votes for Women",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P008879/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Leigh Payne",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Innovative Uses of Transitional Justice in Ongoing Conflict and for Corporate Complicity",
+      "route": "Assessment"
+    },
+    {
+      "application_reference": "AH/P00850X/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sasha Handley",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "How we used to sleep",
+      "route": "Moderation"
+    },
+    {
+      "application_reference": "AH/P006949/1",
+      "grade": "4.2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P007562/1",
+      "grade": "4.1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006043/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

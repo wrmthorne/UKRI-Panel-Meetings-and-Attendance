@@ -1,0 +1,107 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-631400281",
+  "meeting_name": "Follow on Fund - November 2020",
+  "meeting_date": "20201122",
+  "applications": [
+    {
+      "application_id": "AH/V006495/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Charlotta Hillerdal",
+      "project": "Nunalleq Culture and Archaeology Center Digital Museum",
+      "research_organisation": "University of Aberdeen",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V008064/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Tim V Hitchcock",
+      "project": "Capturing the Past",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V008609/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Karina Theresa Croucher",
+      "project": "Continuing Bonds: Dying to Talk - Young people creating Compassionate Communities",
+      "research_organisation": "University of Bradford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V006592/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Arlene Holmes-Henderson",
+      "project": "Improving Access to Classical Studies in Museums and Schools",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V008277/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Katherine Anne Wilson",
+      "project": "Mobility of Objects Across Boundaries 1000-1700 (MOB): Exhibiting, Handling and Teaching the Past through Everyday Objects.",
+      "research_organisation": "University of Chester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V005154/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Thor Magnusson",
+      "project": "Innovating Sema: Community-building of Live Coding Language Design and Performance with Machine Learning",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V001140/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Christine Ferguson",
+      "project": "The Media of Mediumship (TMM): Encountering the Material Culture of Modern Occultism in Britain's Science, Technology, and Magic Collections",
+      "research_organisation": "University of Stirling",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V008374/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Catrin Huber",
+      "project": "Expanded Interiors Re-Staged - from Herculaneum and Pompeii to the North-East of England",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Ina Berg",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Professor David Turner",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    }
+  ]
+}

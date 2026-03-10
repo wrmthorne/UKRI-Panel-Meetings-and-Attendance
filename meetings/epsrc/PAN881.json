@@ -1,0 +1,66 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN881",
+  "meeting_name": "EPSRC OPP 141 Energy Post Doc Fellowship Interview 18 Dec 2024",
+  "meeting_date": "2024-12-18 09:00:00",
+  "meeting_convenor": "Davies, Mr G",
+  "applications": [
+    {
+      "application_id": "APP17161",
+      "title": "ElectroBioLiS",
+      "applicant": "Thielke, M",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "476752.66",
+      "award_id": "UKRI913",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=913",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP14674",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Xuan, J",
+      "role": "Chair",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Jackson, L",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Liu, T",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Mihaylova, L",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Moschou, D",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    }
+  ]
+}

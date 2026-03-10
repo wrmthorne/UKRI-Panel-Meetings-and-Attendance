@@ -1,0 +1,64 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Risk and Mitigation; Using Big Data Centre for Doctoral Training call - June 2014",
+  "source_file": "big-data-2014.pdf",
+  "count_of_applications": "9",
+  "count_of_awards": "1",
+  "year": "2014",
+  "applications": [
+    {
+      "application_reference": "NE/M009009/1",
+      "ranking": "1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M009149/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/M009033/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/M00905X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/M009114/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/M009068/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/M009084/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/M009025/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/M009122/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "6"
+    }
+  ]
+}

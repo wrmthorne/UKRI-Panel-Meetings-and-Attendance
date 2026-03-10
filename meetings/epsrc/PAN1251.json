@@ -1,0 +1,41 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1251",
+  "meeting_name": "EPSRC National X-Ray Computed Tomography Call - July 2025",
+  "meeting_date": "2025-07-01 13:30:00",
+  "meeting_convenor": "Fancourt, T",
+  "applications": [
+    {
+      "application_id": "APP80009",
+      "title": "National Research Facility in Lab X-ray CT (NXCT II)",
+      "applicant": "Burnett, T",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "6995827.2",
+      "award_id": "UKRI3067",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3067",
+      "list_name": "Main",
+      "opportunity_number": "881",
+      "opportunity_name": "EPSRC: Provide a National X-Ray Computed Tomography facility"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Todd, I",
+      "role": "Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Florescu, L",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Hoyle, B",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    }
+  ]
+}

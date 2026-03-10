@@ -1,0 +1,196 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Better Method Better Research 20-21 November 2024",
+  "meeting_date": null,
+  "source_file": "Better-methods-better-research-previously-known-as/MRC-160125-Better-Methods-Better-Research-20-21-November-2024.xlsx",
+  "count_of_applications": "37",
+  "count_of_awards": "11",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 64 out of 101 applications did not pass an initial shortlisting stage and were not considered further.\n\n* Proposal APP19109 was scored 8 at the previous Board meeting and the final funding decision to award was made at this Board meeting",
+  "applications": [
+    {
+      "application_reference": "APP39045",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP19109*",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP40665",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP39488",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP40958",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP43644",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP39652",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP39132",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP41287",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP40204",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP42718",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP40237",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP39804",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP41364",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP40497",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44579",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP41101",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP40002",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP42108",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP43791",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44866",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP41341",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP42858",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP45247",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44975",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP42456",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP43144",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP45670",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44983",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP43180",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP43255",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44973",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP43367",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44626",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44717",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP44939",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP46329",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

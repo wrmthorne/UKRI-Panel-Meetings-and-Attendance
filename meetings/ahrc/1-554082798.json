@@ -1,0 +1,157 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-554082798",
+  "meeting_name": "Research Networking - March 2020 (V2)",
+  "meeting_date": "20200331",
+  "applications": [
+    {
+      "application_id": "AH/T006447/1",
+      "route": "Standard",
+      "lead_applicant": "Professor George Edward Burrows",
+      "project": "Musical Theatre and All That Jazz Research Network",
+      "research_organisation": "University of Portsmouth",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T005289/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alan Dunn",
+      "project": "Hear us O Lord ... using sound and Malcolm Lowry's short stories to create a new vocabulary for re-imagining plastic-filled seas.",
+      "research_organisation": "Leeds Beckett University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T009144/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Claire Wood",
+      "project": "The Dickens Code",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T011254/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Charlotte Waelde",
+      "project": "Pastiche: Woman's World",
+      "research_organisation": "Coventry University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T007656/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jacob Blanc",
+      "project": "Interior History: Rethinking Space and Nation in Brazil",
+      "research_organisation": "University of Edinburgh",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T008210/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Katy Jane Parry",
+      "project": "The Tim Hetherington collection and conflict imagery network",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T009020/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T009381/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T012102/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T006366/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T006579/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T006854/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T007141/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T012153/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Radha D'Souza",
+      "organisation": "University of Westminster",
+      "role": "Chair"
+    }
+  ]
+}

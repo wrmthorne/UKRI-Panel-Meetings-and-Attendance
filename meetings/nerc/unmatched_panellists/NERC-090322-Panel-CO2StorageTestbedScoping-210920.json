@@ -1,0 +1,45 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "CO2 Storage Testbed Scoping Project",
+  "source_file": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-CO2StorageTestbedScoping-210920.pdf",
+  "meeting_date": "1st October 2020",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Kola Akinola",
+  "panellists": [
+    {
+      "name": "Dr Iain Williams",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Dr James Verdon",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Dr Bob Rowles",
+      "role": "Member",
+      "organisation": "Cefas"
+    },
+    {
+      "name": "Dr Clare Bond",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Professor Jonathan Gibbins",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Dr Angus Best",
+      "role": "Member",
+      "organisation": "NOC"
+    },
+    {
+      "name": "Mr Brian Allison",
+      "role": "Member",
+      "organisation": "BEIS"
+    }
+  ]
+}

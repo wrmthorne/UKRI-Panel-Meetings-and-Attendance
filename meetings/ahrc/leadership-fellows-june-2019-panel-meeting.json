@@ -1,0 +1,143 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Leadership Fellows June 2019 panel meeting",
+  "year": "2019",
+  "meeting_date": "2019-06",
+  "source_file": "Leadership Fellows Panel, June 2019 Meeting.xlsx",
+  "count_of_applications": "19",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/S013180/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Chlo\u00eb Kennedy",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Identity Deception: A Critical History",
+      "route": "ECR"
+    },
+    {
+      "application_reference": "AH/T001364/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Hazel Wilkinson",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Compositor: Recovering the Grammar of Ornament",
+      "route": "ECR"
+    },
+    {
+      "application_reference": "AH/T001658/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Thomas Hinton",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Learning French in Medieval England: The Manuscripts of Walter de Bibbesworth's 'Tretiz'",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S012303/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr John Clarke",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Red River: Listening to a Polluted River",
+      "route": "ECR"
+    },
+    {
+      "application_reference": "AH/S012680/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Alexia Yates",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Rise of the Rentier: France and the Making of Financial Modernity, 1830-1930",
+      "route": "ECR"
+    },
+    {
+      "application_reference": "AH/S01201X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nora Goldschmidt",
+      "holding_organisation": "Durham University",
+      "grant_title": "Fragmentary Modernisms: The Classical Fragment in Literary and Visual Cultures, 1896-1950",
+      "route": "ECR"
+    },
+    {
+      "application_reference": "AH/T000058/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Eithne Quinn",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Prosecuting Rap: Criminal Justice and UK Black Youth Expressive Culture",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S012982/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr James Eastwood",
+      "holding_organisation": "Queen Mary University of London",
+      "grant_title": "The Historic Case of the Separation of Middle Eastern Jewish Children from their Families in Israel",
+      "route": "ECR"
+    },
+    {
+      "application_reference": "AH/S012974/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Tracey Hill",
+      "holding_organisation": "Bath Spa University",
+      "grant_title": "Civic London 1559-1642",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/T000805/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S013121/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S011897/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S011838/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S012818/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S011404/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S012427/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S012184/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/T000880/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/T002077/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

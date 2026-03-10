@@ -1,0 +1,41 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "RMRC February 2016",
+  "meeting_date": null,
+  "source_file": "government_web_archive/Regenerative Medicine Research Committee - 9 February 2016.xlsx",
+  "count_of_applications": "6",
+  "count_of_awards": "2",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "application_reference": "MR/N028414/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N027531/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N027523/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N02771X/1",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/N027086/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/N028112/1",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, October 2016",
+  "year": "2016",
+  "meeting_date": "2016-10",
+  "source_file": "Research Networking, October 2016 Moderation.xlsx",
+  "count_of_applications": "14",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\n*Please note that the application AH/P007139/1 was exceptionally funded due to its strong strategic fit to the Highlight Notice - UN International Decade for People of African Descent in the Research Networking Scheme.\n*Please note that the application AH/P007074/1 was exceptionally funded due to its strong strategic fit to the Highlight Notice - UN International Decade for People of African Descent in the Research Networking Scheme",
+  "applications": [
+    {
+      "application_reference": "AH/P007163/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Suzanne Scafe",
+      "holding_organisation": "London South Bank University",
+      "grant_title": "African-Caribbean Women's Mobility and Self-Fashioning in Post-Diaspora Contexts."
+    },
+    {
+      "application_reference": "AH/P007066/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Zoe Trodd",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Black Lives Matter: Usable Pasts and International Futures"
+    },
+    {
+      "application_reference": "AH/P007368/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Huw Lewis",
+      "holding_organisation": "Aberystwyth University",
+      "grant_title": "Language Revitalization and Socio-cultural Transformation"
+    },
+    {
+      "application_reference": "AH/P007031/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Shawn Sobers",
+      "holding_organisation": "University of the West of England",
+      "grant_title": "Ethiopian Echoes on the British Landscape"
+    },
+    {
+      "application_reference": "AH/P006868/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Julie McLeod",
+      "holding_organisation": "Northumbria University",
+      "grant_title": "Record DNA: Reconceptualising the life of digital records as the future evidence base"
+    },
+    {
+      "application_reference": "AH/P007910/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Mr David Grant",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "Objects with Objectives: a puppetry in applied drama research network"
+    },
+    {
+      "application_reference": "AH/P006930/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Madhu Krishnan",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "Small Magazines, Literary Networks and Self-Fashioning in Africa and its Diasporas"
+    },
+    {
+      "application_reference": "AH/P008429/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Alice Eldridge",
+      "holding_organisation": "University of Sussex",
+      "grant_title": "Humanising Algorithmic Listening"
+    },
+    {
+      "application_reference": "AH/P006884/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Julie Cupples",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Afro-Latin (in)visibility and the UN Decade: Cultural politics in motion in Nicaragua, Colombia and the UK"
+    },
+    {
+      "application_reference": "AH/P008631/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P005152/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P007139/1",
+      "grade": "4*",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Andrew Warnes",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "The Diasporic Everyday: Labour, Creativity, Survival"
+    },
+    {
+      "application_reference": "AH/P007074/1",
+      "grade": "4*",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicola Frith",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Reparations for Slavery: From Theory to Praxis"
+    },
+    {
+      "application_reference": "AH/P008763/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

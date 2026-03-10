@@ -1,0 +1,109 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Leadership Fellows, March 2019 panel meeting",
+  "year": "2019",
+  "meeting_date": "2019-03",
+  "source_file": "Leadership Fellows Panel, March 2019 Meeting.xlsx",
+  "count_of_applications": "13",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/S006893/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Scott Mc Laughlin",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "The Garden of Forking Paths: material-indeterminacy driving open-form composition for clarinets",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S006680/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jennifer Hendry",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Everyday Challenges to the Rule of Law: The Case of Civil/Criminal Procedural Hybrids",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S007504/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jeremy Davies",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Experiments in Land and Society, 1793-1833",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S010815/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Laura Cull",
+      "holding_organisation": "University of Surrey",
+      "grant_title": "Performance Philosophy & Animals: Towards a Radical Equality",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S00744X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Christopher Haworth",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Music and the internet: towards a digital sociology of music",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S011447/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Richard Butler",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "Church, state, and the building of Ireland's south coast cities: Cork and Waterford, c. 1935-1965",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S006605/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Deborah Toner",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "Alcohol, Race and Ethnicity: The United States, Mexico and the Wider World, 1845-1940",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S010750/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Duska Radosavljevic",
+      "holding_organisation": "Royal Central School of Speech and Drama",
+      "grant_title": "Aural/Oral Dramaturgies: Post-Verbatim, Amplified Storytelling and Gig Theatre in the Digital Age",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S012281/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S013091/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S012052/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004777/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010424/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

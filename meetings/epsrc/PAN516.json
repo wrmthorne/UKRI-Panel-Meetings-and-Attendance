@@ -1,0 +1,136 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN516",
+  "meeting_name": "EPSRC Physical Sciences Open Fellowships Interview Panel - June 2024",
+  "meeting_date": "2024-06-26 07:30:00",
+  "meeting_convenor": "Nailor, Dr A",
+  "applications": [
+    {
+      "application_id": "APP5814",
+      "title": "Exploiting Next Generation X-ray Sources for Extreme Conditions Research",
+      "applicant": "McMahon, Professor M",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2417954.65",
+      "award_id": "EP/Z533671/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ533671%2F1",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP11753",
+      "title": "Towards superconductivity at ambient conditions",
+      "applicant": "Buhot, Dr J",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1646254.49",
+      "award_id": "EP/Z533555/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ533555%2F1",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP12642",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP16754",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP9914",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP7790",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP12317",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Gleeson, H",
+      "role": "Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Gillie, L",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Lancaster, T",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Webster, R",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    }
+  ]
+}

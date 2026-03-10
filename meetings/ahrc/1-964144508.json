@@ -1,0 +1,67 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2023,
+  "meeting_reference": "1-964144508",
+  "meeting_name": "DN Programme Coordinator Apr 23",
+  "meeting_date": "20230419",
+  "applications": [
+    {
+      "application_id": "AH/Y001710/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Stephen James Thompson",
+      "project": "Disability Inclusive Sustainable Global Development Networking awards Cohort Coordinator",
+      "research_organisation": "Institute of Development Studies",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/Y001737/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/Y001753/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/Y001729/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Nora Groce",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Laura Dean",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Emmanuel Tsekleves",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN538",
+  "meeting_name": "EPSRC Physical Sciences Prioritisation Panel July 2024 - Post Doctoral Fellowship",
+  "meeting_date": "2024-07-16 08:00:00",
+  "meeting_convenor": "Kumar, A",
+  "applications": [
+    {
+      "application_id": "APP16194",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP10148",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13357",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Reid, G",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Falko, V",
+      "role": "Deputy chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Arnold, D",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Barker, J",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Cai, Q",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Cochrane, S",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Coleman, K",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Cullis, I",
+      "role": "Panellist",
+      "organisation": "Qinetiq (United Kingdom)"
+    },
+    {
+      "name": "Diver, D",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Douthwaite, R",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Dunningham, J",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Jones, M",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Li, B",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Palombo, F",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Robson, S",
+      "role": "Panellist",
+      "organisation": "UK Research and Innovation"
+    },
+    {
+      "name": "Sangtarash, S",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Seviour, R",
+      "role": "Panellist",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "Topham, P",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Weinstein, J",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ]
+}

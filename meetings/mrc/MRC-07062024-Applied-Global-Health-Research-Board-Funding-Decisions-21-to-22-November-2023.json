@@ -1,0 +1,126 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Applied Global Health Research Board - 21 & 22 November 2023",
+  "meeting_date": null,
+  "source_file": "Applied-global-health-research-board/MRC-07062024-Applied-Global-Health-Research-Board-Funding-Decisions-21-to-22-November-2023.xlsx",
+  "count_of_applications": "23",
+  "count_of_awards": "10",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only able to award scores of 7 and above, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "application_reference": "MR/Y019806/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019520/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019857/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019814/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019679/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019695/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019865/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019849/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y01992X/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y01958X/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019822/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019873/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y01989X/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y015614/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019709/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019687/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019555/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019717/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y019830/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019644/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019652/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019768/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y019733/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

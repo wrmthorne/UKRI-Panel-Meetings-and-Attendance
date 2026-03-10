@@ -1,0 +1,132 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2023,
+  "meeting_reference": "1-909406972",
+  "meeting_name": "Follow on Funding Jan 2023",
+  "meeting_date": "20230124",
+  "applications": [
+    {
+      "application_id": "AH/X010481/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Suzy Willson",
+      "project": "(AH/V015877/1) Follow-on: Communicating through Covid in General Practice",
+      "research_organisation": "Queen Mary University of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X009424/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Martin Scott",
+      "project": "International aid and the media: Improving the effectiveness of aid allocations",
+      "research_organisation": "University of East Anglia",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X008576/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paul Heritage",
+      "project": "Building  Inclusive Recovery through Theatre (BIRTh): people with autism going beyond the COVID-19 pandemic in Peru",
+      "research_organisation": "Queen Mary University of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X011291/1",
+      "route": "Standard",
+      "lead_applicant": "Professor William May",
+      "project": "Diverse Capacities: building a knowledge exchange network for creative industries in the Solent",
+      "research_organisation": "University of Southampton",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X009408/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Victoria Tischler",
+      "project": "Beyond Culture Box: using creative practice to support people living with dementia, staff, and family supporters",
+      "research_organisation": "University of Surrey",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X008827/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X00984X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X011054/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X009378/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Andrew Church",
+      "organisation": "University of East Anglia",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Lise Jaillant",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Paul Coulton",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Sara Fovargue",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Steven King",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Tomoya Obokata",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    }
+  ]
+}

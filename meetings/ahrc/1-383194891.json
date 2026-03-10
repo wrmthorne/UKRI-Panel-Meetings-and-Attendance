@@ -1,0 +1,177 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2018,
+  "meeting_reference": "1-383194891",
+  "meeting_name": "Research Networking September 2018",
+  "meeting_date": "20180914",
+  "applications": [
+    {
+      "application_id": "AH/S003495/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Emma Meehan",
+      "project": "Somatic practice, chronic pain and self-care technology: inhabiting the lived and contextual body",
+      "research_organisation": "Coventry University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S004793/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paul Coldwell",
+      "project": "Picturing the Invisible",
+      "research_organisation": "University of the Arts London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S005102/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Esther Rose Leslie",
+      "project": "Animate Assembly: Animation and New Life",
+      "research_organisation": "Birkbeck College",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S003231/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Mick FINCH",
+      "project": "A Vision for Europe: Academic Responsibility and Action in Times of Crises",
+      "research_organisation": "University of the Arts London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S004939/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paul Reid Beaumont",
+      "project": "Where do we go from here? The development of private international law in the UK and the post Brexit environment.",
+      "research_organisation": "University of Stirling",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S003177/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/S005536/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/S005277/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/S003339/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/S005552/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/S00419X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S00548X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S003002/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S004173/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S004238/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S004955/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Rajinder Dudrah",
+      "organisation": "City of Bristol College",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2018,
+  "meeting_reference": "1-391836605",
+  "meeting_name": "Follow on Funding November 2018",
+  "meeting_date": "20181025",
+  "applications": [
+    {
+      "application_id": "AH/S005560/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sara Jones",
+      "project": "Testimony in Practice: Working with Stories of the Self and Others",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S004580/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alice Stevenson",
+      "project": "Egypt's Dispersed Heritage: views from Egypt",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S00517X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rupert Read",
+      "project": "Taking the debate on nature's value to the valuers  [A follow on funding bid based upon the AHRC Research Network on 'Debating Nature's Value']",
+      "research_organisation": "University of East Anglia",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S00324X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S005072/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/S006311/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Catherine Teresa Eagleton",
+      "organisation": "University of Worcester",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Bennett Zon",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Julia Gillen",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    }
+  ]
+}

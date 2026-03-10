@@ -1,0 +1,161 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1471",
+  "meeting_name": "OPP 296 EPSRC Mathematical Sciences Fellowship Interview Panel September 2025 - Post Doc Fellowships",
+  "meeting_date": "2025-09-10 08:00:00",
+  "meeting_convenor": "Gray, C",
+  "applications": [
+    {
+      "application_id": "APP56059",
+      "title": "APP56059 Connecting Brain Networks and Hormones together via Pseudospectra to Understand the Mechanisms of Depression",
+      "applicant": "Drysdale, C",
+      "lead_organisation": "Lancaster University",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "400990.96",
+      "award_id": "UKRI3289",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3289",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP55910",
+      "title": "Radial theory for localised quasipatterns",
+      "applicant": "Hill, D",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "399401.08",
+      "award_id": "UKRI3287",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3287",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP49523",
+      "title": "Time-frequency localization",
+      "applicant": "Marceca, F",
+      "lead_organisation": "University College London",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "383040.44",
+      "award_id": "UKRI3286",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3286",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP47594",
+      "title": "New perspectives in phase-space Analysis and Fourier restriction",
+      "applicant": "Sales de Oliveira Filho, I",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Funded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "377773.24",
+      "award_id": "UKRI3285",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3285",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP53781",
+      "title": "Beilinson's Conjecture for the Dwork Family",
+      "applicant": "Horawa, A",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "416387.64",
+      "award_id": "UKRI3288",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3288",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP48922",
+      "title": "Algorithmic Proofs of Algorithmic Impossibility",
+      "applicant": "Cavalar, B",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "485619.13",
+      "award_id": "UKRI3441",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3441",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62405",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP56982",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Skeldon, A",
+      "role": "Chair",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Cherednichenko, K",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Gould, V",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Monk, N",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Vinh Doan, X",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Wang, C",
+      "role": "Panellist",
+      "organisation": "University of Aberdeen"
+    }
+  ]
+}

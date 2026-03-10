@@ -1,0 +1,50 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "GeoDRAW MAR23 GeoDRAW MAR23 Assessment Panel Meeting",
+  "source_file": "NERC-funding-assessment-panel-members-2023/NERC-220523-GeoDRAWPanelMembershipMarch2023.pdf",
+  "meeting_date": "6 June 2023",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Charlotte Hawkins",
+  "panellists": [
+    {
+      "name": "Professor Mark Hodson",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Dr Graham Benham",
+      "role": "Member",
+      "organisation": "University College Dublin"
+    },
+    {
+      "name": "Dr Katriona Edlmann",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Dr Candy Lean Environment",
+      "role": "Member",
+      "organisation": "Agency"
+    },
+    {
+      "name": "Dr Catriona Menzies",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Professor Thomas Mitchell",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Dr Laura Newsome",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Dr Marie Violay Swiss Federal",
+      "role": "Member",
+      "organisation": "Inst of Technology (EPFL)"
+    }
+  ]
+}

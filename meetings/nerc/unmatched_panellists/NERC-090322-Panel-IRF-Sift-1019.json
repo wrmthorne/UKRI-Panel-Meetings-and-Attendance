@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Independent Research Fellowship Sift Panels for the Oct 2019 Closing Date",
+  "source_file": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-IRF-Sift-1019.pdf",
+  "meeting_date": "29th January 2020",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Jennifer Morris",
+  "panel_name": "IRF OCT19 Sift Panel A",
+  "panellists": [
+    {
+      "name": "Professor Marie Edmonds",
+      "role": "Chair",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Dr Philip Benson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Professor Adrian Hartley",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Dr Jason Harvey",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Professor Melanie Leng",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Professor Martin Palmer",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    }
+  ]
+}

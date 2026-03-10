@@ -1,0 +1,46 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-426762635",
+  "meeting_name": "UKRI GCRF Preventing Conflict Crisis EoI Apr 2019",
+  "meeting_date": "20190515",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Professor Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Annette Iris Idler",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Gaim Kibreab",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Mr Tom Thomas",
+      "organisation": "Praxis Inst for Participatory Practices",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Emma Crewe",
+      "organisation": "University of Suffolk",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Helen Helen Scanlon",
+      "organisation": "University of Cape Town",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Stefan Wolff",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-726812630",
+  "meeting_name": "BBC Fellowships November 2021",
+  "meeting_date": "20211026",
+  "applications": [
+    {
+      "application_id": "AH/W007800/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Marcus Collins",
+      "project": "Cultural Revolution? Reassessing the BBC and social change in sixties Britain (BBC History 100 Fellowship)",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W007762/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Allan Sudlow",
+      "organisation": "British Library",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Victoria Donovan",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Brett Mills",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Catherine Johnson",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    }
+  ]
+}

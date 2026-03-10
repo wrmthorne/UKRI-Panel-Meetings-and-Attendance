@@ -1,0 +1,61 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1417",
+  "meeting_name": "EPSRC: ICT Fellowships Interview Panel C Sept 2025",
+  "meeting_date": "2025-09-23 08:00:00",
+  "meeting_convenor": "Brandao Farias, D",
+  "applications": [
+    {
+      "application_id": "APP27068",
+      "title": "Reading your mind- A deep learning approach to reconstruct vision from neural data",
+      "applicant": "Clopath, C",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "UKRI4412",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=4412",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP63133",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "John, C",
+      "role": "Chair",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Burnett, T",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Elgaid, K",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Thiyagalingam, J",
+      "role": "Panellist",
+      "organisation": "Science and Technology Facilities Council Laboratories"
+    }
+  ]
+}

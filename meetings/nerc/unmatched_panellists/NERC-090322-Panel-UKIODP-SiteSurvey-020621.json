@@ -1,0 +1,30 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "UK IODP VSSI JUN21 UK IODP Virtual Site Survey call",
+  "source_file": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-UKIODP-SiteSurvey-020621.pdf",
+  "meeting_date": "Monday 12th July 2021",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Daniel Knight",
+  "panellists": [
+    {
+      "name": "Professor Antony Morris",
+      "role": "Chair",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Dr Uisdean Nicholson",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Dr Alexandra Turchyn",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Professor Paul Wilson",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    }
+  ]
+}

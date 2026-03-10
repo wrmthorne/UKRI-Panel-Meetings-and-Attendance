@@ -1,0 +1,222 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, February 2019 Panel Meeting",
+  "year": "2019",
+  "meeting_date": "2019-02",
+  "source_file": "Research Grants Panel, February 2019 Meeting.xlsx",
+  "count_of_applications": "34",
+  "count_of_awards": "10",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/S011064/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Mary Dalrymple",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Enggano in the Austronesian family: Historical and typological perspectives",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S005285/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor John Sloboda",
+      "holding_organisation": "Guildhall School of Music and Drama",
+      "grant_title": "Music for social impact: practitioners' contexts, work, and beliefs",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S00811X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rachael Wiseman",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "PAGE: Perception, Action and the Genesis of Everyday Ethics. The Philosophy of Elizabeth Anscombe, Philippa Foot, Mary Midgley and Iris Murdoch",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S006206/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicola Walshe",
+      "holding_organisation": "Anglia Ruskin University",
+      "grant_title": "ECO-CAPABILITIES: Supporting Children's wellbeing through participatory art in nature",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S007083/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Mark Towsey",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Libraries, Reading Communities and Cultural Formation in the Eighteenth-Century Atlantic",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S011900/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Patrycja Strycharczuk",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "TarDiS: Targets and Dynamics in Speech",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S007121/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Hannah Barker",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Unlocking the Mary Hamilton Papers",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S004823/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Peter Wade",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Cultures of Anti-Racism in Latin America",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S010157/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Fraser Sturt",
+      "holding_organisation": "University of Southampton",
+      "grant_title": "Islands of Stone: Neolithic Crannogs in the Outer Hebrides",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S006494/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jason Edwards",
+      "holding_organisation": "University of York",
+      "grant_title": "Pantheons: Sculpture at St Paul's Cathedral",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S011994/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006915/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S008128/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006990/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010459/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006729/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00713X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007113/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00615X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S01151X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007946/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010831/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007636/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S012265/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007857/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007725/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006443/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005501/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007245/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007563/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00761X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010416/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010726/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010882/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "2017/18 Evidence Synthesis Training Pilot Scheme",
+  "source_file": "NERC-051021-EvidenceSynthesisTrainingPilotScheme-2017-18-FundingOutcomes.pdf",
+  "count_of_applications": "7",
+  "count_of_awards": "7",
+  "year": "2017",
+  "applications": [
+    {
+      "application_reference": "NE/R005443/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005451/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005354/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005508/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005435/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005478/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R005524/1",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Kathryn Monk Welsh",
+      "role": "Member",
+      "organisation": "Government"
+    },
+    {
+      "name": "Dr Johannes Laube",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Dr Richard Corfield",
+      "role": "Member",
+      "organisation": "BP"
+    },
+    {
+      "name": "Dr Kathryn",
+      "role": "Member",
+      "organisation": "Tearall, Head of Skills and Careers"
+    },
+    {
+      "name": "Mr David",
+      "role": "Member",
+      "organisation": "Roberts, Senior Programme Manager – Research Careers"
+    },
+    {
+      "name": "Mr Aaron",
+      "role": "Member",
+      "organisation": "Hughes, Programme Manager – Research Careers"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2017/Evidence Synthesis - Panel list - June 2017.pdf",
+  "meeting_date": "13th July 2017"
+}

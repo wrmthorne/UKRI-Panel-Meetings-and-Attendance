@@ -1,0 +1,60 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "UK Climate Resilience MAR20",
+  "source_file": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-UKClimateResiliencePresentFutureClimateHazard-050320.pdf",
+  "meeting_date": "9 June 2020",
+  "meeting_location": "Videoconference",
+  "panel_secretary": "Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Professor Lindsay Beevers",
+      "role": "Chair",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Dr Reza Ahmadian",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Dr Jonathan Eden Coventry",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Dr Erich Fischer",
+      "role": "Member",
+      "organisation": "ETH Zurich"
+    },
+    {
+      "name": "Professor Bruce Malamud",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Professor Andrew Morse",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Professor Olivia Romppainen-Martius",
+      "role": "Member",
+      "organisation": "University of Bern"
+    },
+    {
+      "name": "Professor Justin Sheffield",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Dr Sarah Sparrow",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Professor John Thornes",
+      "role": "Member",
+      "organisation": "University of Birmingham / Public Health"
+    }
+  ]
+}

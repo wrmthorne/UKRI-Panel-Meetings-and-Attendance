@@ -1,0 +1,88 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "CZO (Newton China) June 2018",
+  "source_file": "CZO (Newton China) June 2018.pdf",
+  "count_of_applications": "9",
+  "count_of_awards": "9",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S009167/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009094/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009108/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009116/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009124/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009132/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009140/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009159/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009175/1",
+      "ranking": "7",
+      "score": "1",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Colin Mackechnie",
+      "role": "Chair",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Professor David Hopkins",
+      "role": "Member",
+      "organisation": "Scotland’s Rural College (SRUC)"
+    },
+    {
+      "name": "Professor Yonglong Lu Research",
+      "role": "Member",
+      "organisation": "Centre for Eco-Environmental"
+    },
+    {
+      "name": "Professor Anne Verhoef",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2018/CZO Phase 2 Panel Membership - June 2018.pdf",
+  "meeting_date": "Tuesday 11th September 2018"
+}

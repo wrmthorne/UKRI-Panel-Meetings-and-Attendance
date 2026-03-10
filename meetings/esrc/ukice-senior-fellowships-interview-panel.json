@@ -1,0 +1,131 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "UKICE Senior Fellowships Interview Panel",
+  "year": "2019",
+  "meeting_date": "2019-06",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "9",
+  "applications": [
+    {
+      "application_reference": "ES/T000732/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000716/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000848/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000929/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000996/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000856/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000775/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000821/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000961/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T000686/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000694/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000724/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T00083X/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000937/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T00066X/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000945/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000783/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000643/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T000767/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T00097X/1",
+      "opportunity": "UKICE Senior Fellowships 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

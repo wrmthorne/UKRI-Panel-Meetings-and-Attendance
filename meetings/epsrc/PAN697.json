@@ -1,0 +1,186 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN697",
+  "meeting_name": "OPP 141 - EPSRC Mathematical Sciences Prioritisation Panel September 2024 - Post Doctoral Fellowship",
+  "meeting_date": "2024-09-19 08:00:00",
+  "meeting_convenor": "Williams, Mrs R",
+  "applications": [
+    {
+      "application_id": "APP13187",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP6592",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP12829",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP14878",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13615",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP5586",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP15115",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "141",
+      "opportunity_name": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Lotay, J",
+      "role": "Chair",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Bartel, A",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Burrows, A",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Coombes, S",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Everitt, B",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Graefe, E",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Hering, M",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Jerrum, M",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "Mansouri, A",
+      "role": "Panellist",
+      "organisation": "Brunel University London"
+    },
+    {
+      "name": "Shardlow, T",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Silvester, D",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Spill, F",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Turner, A",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Wilson, H",
+      "role": "Panellist",
+      "organisation": "University College London"
+    }
+  ]
+}

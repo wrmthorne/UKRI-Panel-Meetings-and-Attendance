@@ -1,0 +1,287 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-725825451",
+  "meeting_name": "Research Grants - October 2021",
+  "meeting_date": "20211028",
+  "applications": [
+    {
+      "application_id": "AH/W003619/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Mark Gillings",
+      "project": "The Avebury Papers: digitisation, exploration and creative re-use of a uniquely important archaeological archive.",
+      "research_organisation": "Bournemouth University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W00352X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Clive Clive Holmwood",
+      "project": "Creative Support: Building Bonds Through Play for People with Early Onset Dementia and Their Caregivers",
+      "research_organisation": "University of Derby",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W003554/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Lucia Prauscello",
+      "project": "Hexameters beyond the canon: new poetry on papyri from Roman and Byzantine Egypt",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W002868/1",
+      "route": "Standard",
+      "lead_applicant": "Professor A G Brown",
+      "project": "Buried landscapes of the Avon Riverside and the Mesolithic of the Stonehenge Area",
+      "research_organisation": "University of Southampton",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W003155/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paul Richard Gready",
+      "project": "Can the Arts Save Human Rights? Human Rights Truth-Claims in a Post-Truth Era",
+      "research_organisation": "University of York",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/W004380/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Rochana Bajpai",
+      "project": "Pluralist Agreement and Constitutional Transformation (PACT)",
+      "research_organisation": "SOAS University of London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/W004135/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/W004127/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/W002833/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/W003821/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/W00366X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/W004100/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/W004372/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/W003872/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/W003503/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/W003678/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/W003635/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/W003740/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/W003783/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/W003767/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/W000482/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/W003538/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W003562/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Thomas Betteridge",
+      "organisation": "Brunel University London",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Hilary French",
+      "organisation": "Bath Spa University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr M. Satish Kumar",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Kate Britton",
+      "organisation": "Imperial War Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Richard E Ashcroft",
+      "organisation": "University of Salford",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Sarah Hibberd",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Tom Corby",
+      "organisation": "University of the Arts London",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Vinita Damodaran",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    }
+  ]
+}

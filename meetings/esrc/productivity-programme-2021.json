@@ -1,0 +1,125 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Productivity Programme 2021",
+  "year": "2022",
+  "meeting_date": "2022-04",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "19",
+  "count_of_awards": "7",
+  "applications": [
+    {
+      "application_reference": "ES/W010224/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010232/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010259/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010194/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010356/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010216/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010453/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W010402/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010372/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010313/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010208/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010135/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010143/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010186/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010267/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010283/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010305/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010348/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W010399/1",
+      "opportunity": "Productivity Programme 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

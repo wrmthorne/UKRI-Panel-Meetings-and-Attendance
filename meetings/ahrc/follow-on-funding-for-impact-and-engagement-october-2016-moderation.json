@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow-on Funding for Impact and Engagement, October 2016 moderation",
+  "year": "2016",
+  "meeting_date": "2016-10",
+  "source_file": "Follow-on Funding for Impact and Engagement Q4 2016 Meetings.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P006019/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Karen Rowlingson",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "How do we ensure responsible lending and borrowing?"
+    },
+    {
+      "application_reference": "AH/P008712/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Chris Kiefer",
+      "holding_organisation": "University of Sussex",
+      "grant_title": "NETEM: Supporting Musical Ensembles with Synchronised Digital Scores"
+    },
+    {
+      "application_reference": "AH/P008445/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P008488/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P008682/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Frances Weightman",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Reading Chinese: engaging new audiences"
+    },
+    {
+      "application_reference": "AH/P008410/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Laura Jeffery",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "CHAGOS: Cultural Heritage Across Generations"
+    },
+    {
+      "application_reference": "AH/P008526/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Miss Patricia Belford",
+      "holding_organisation": "University of Ulster",
+      "grant_title": "Linen Lace Concrete - Back to Source to commercialise lab based findings from 'Woven Concrete'"
+    },
+    {
+      "application_reference": "AH/P009255/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Helen Johnston",
+      "holding_organisation": "University of Hull",
+      "grant_title": "Our Criminal Past: Our Criminal Ancestors"
+    },
+    {
+      "application_reference": "AH/P007430/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Kate Allen",
+      "holding_organisation": "University of Reading",
+      "grant_title": "Sensory Objects Enterprise - Co-Development and Start Up project"
+    },
+    {
+      "application_reference": "AH/P007880/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

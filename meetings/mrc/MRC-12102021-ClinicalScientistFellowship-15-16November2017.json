@@ -1,0 +1,111 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Clinical Scientist Fellowship 15 - 16 November 2017",
+  "meeting_date": "16/11/2017",
+  "source_file": "Clinician-scientist-fellowship/MRC-12102021-ClinicalScientistFellowship-15-16November2017.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "11",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 31/52 applications did not pass an initial triage stage and were not considered further. Of the 21 applications that did pass the initial triage stage, 1 application was withdrawn by the applicants prior to the meeting and no applications were withdrawn by the applicants following the meeting.",
+  "applications": [
+    {
+      "application_reference": "MR/R008108/1",
+      "score": "10",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R008019/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R006504/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007446/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007586/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R008116/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R008051/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007748/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007608/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007845/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R007764/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007640/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007985/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R007942/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007977/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/R007578/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R007705/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R007780/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R007829/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/R007926/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

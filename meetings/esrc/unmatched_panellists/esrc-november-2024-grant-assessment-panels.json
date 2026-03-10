@@ -1,0 +1,307 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESRC November 2024 Grant Assessment Panels",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "panellists": [
+    {
+      "name": "Prof Athina Vlachantoni",
+      "organisation": "University of Southampton",
+      "role": "Chair"
+    },
+    {
+      "name": "Prof Stefan Bouzarovski",
+      "organisation": "University of Manchester",
+      "role": "Panellist/Vice Chair"
+    },
+    {
+      "name": "Prof Mike Crang",
+      "organisation": "Durham University",
+      "role": "Member"
+    },
+    {
+      "name": "Ms Giulia Cuccato",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Mr Mike Daly",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Geraint Ellis",
+      "organisation": "Queen's University Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Heather Flowe",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Gareth Gaskell",
+      "organisation": "University of York",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Mark Green",
+      "organisation": "University of Liverpool",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Jessica Horst",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Emma Judge",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Shireen Kanji",
+      "organisation": "Brunel, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Ms Pam Miller",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Kevin Paterson",
+      "organisation": "University of Leicester",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Louise Phillips",
+      "organisation": "University of Aberdeen",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Richard Rowe",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Victoria Simms",
+      "organisation": "Ulster University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Anya Skatova",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Alan Smith",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Mary Zhang",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Svenja Adolphs",
+      "organisation": "University of Nottingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Prof Kahryn Hughes",
+      "organisation": "University of Leeds",
+      "role": "Panellist/Vice Chair"
+    },
+    {
+      "name": "Prof Anne Barlow",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Angharad Beckett",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Gavin Brookes",
+      "organisation": "University of Lancester",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Julia Carroll",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Tommaso Ciarli",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Lena Dominelli",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Laura Dominguez",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Prof John Downey",
+      "organisation": "University of Loughborough",
+      "role": "Member"
+    },
+    {
+      "name": "Mr James Fletcher",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Alison Kington",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Huw Morris",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Abigail Powell",
+      "organisation": "University of Lincoln",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Manuel Souto Otero",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Stefania Vicari",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Jingchen Zhao",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Kevin Sch\u00fcrer",
+      "organisation": "University of Cambridge",
+      "role": "Chair"
+    },
+    {
+      "name": "Prof Kirstein Rummery",
+      "organisation": "University of Stirling",
+      "role": "Panellist/Vice Chair"
+    },
+    {
+      "name": "Dr Pardip Bans",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Michael Ben-Gad",
+      "organisation": "City, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jo Blanden",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Nina Caspersen",
+      "organisation": "University of York",
+      "role": "Member"
+    },
+    {
+      "name": "Ms Anita Dockley",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Jun Du",
+      "organisation": "Aston University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Peggy Froerer",
+      "organisation": "Brunel, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Mr John Galilee",
+      "organisation": "Advisor member",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jamie Gaskarth",
+      "organisation": "The Open University",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Susan Harkness",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Oliver James",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Melanie Jones",
+      "organisation": "University of Cardiff",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Paul Mizen",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Kevin Morrell",
+      "organisation": "Cranfield University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jeevan Sharma",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Kitty Stewart",
+      "organisation": "London School of Economics and Political Science",
+      "role": "Member"
+    },
+    {
+      "name": "Prof Cristian Vaccari",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Katherine Watson",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Mr Luke Moody",
+      "organisation": "ESRC Office",
+      "role": "Panel Convenor"
+    },
+    {
+      "name": "Mrs Audrey Sharp",
+      "organisation": "ESRC Office",
+      "role": "Panel Convenor"
+    },
+    {
+      "name": "Mrs Chiaki Beis",
+      "organisation": "ESRC Office",
+      "role": "Panel Convenor"
+    }
+  ]
+}

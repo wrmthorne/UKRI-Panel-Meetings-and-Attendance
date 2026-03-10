@@ -1,0 +1,155 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESRC Network Plus",
+  "year": "2024",
+  "meeting_date": "2024-02",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "7",
+  "count_of_awards": "7",
+  "panellists": [
+    {
+      "name": "Professor Gordon Harold",
+      "organisation": "University of Cambridge",
+      "role": "Panel Chair"
+    },
+    {
+      "name": "Professor Anthea Innes",
+      "organisation": "McMaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Katie Featherstone",
+      "organisation": "Univesity of West London",
+      "role": "Vice-Chair/Panellist"
+    },
+    {
+      "name": "Professor Brooke Rogers",
+      "organisation": "Kings College London",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Clare Edge",
+      "organisation": "Salford University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Kay de Vries",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Kerry Jones",
+      "organisation": "Open University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Konstantinos Katsikopoulos",
+      "organisation": "Univesity of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Professor David Lewis",
+      "organisation": "University of Exeter",
+      "role": "Vice-Chair/Panellist"
+    },
+    {
+      "name": "Professor Graeme Davis",
+      "organisation": "University of York",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Vikas Kumar",
+      "organisation": "Birmingham City University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Niraj Kumar",
+      "organisation": "University of Essex",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Julian Clifton",
+      "organisation": "University of Lincoln",
+      "role": "Vice-Chair/Panellist"
+    },
+    {
+      "name": "Dr Bernadette Snow",
+      "organisation": "Scottish Association For Marine Science",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Sir Bernard Silverman",
+      "organisation": "Univesity of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Robert MacIntosh",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Emma Crewe",
+      "organisation": "SOAS",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Clara Crivellaro",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Helen Thornham",
+      "organisation": "University of Leads",
+      "role": "Member"
+    },
+    {
+      "name": "Natasha Richardson",
+      "organisation": "ESRC",
+      "role": "Panel Convenor"
+    }
+  ],
+  "applications": [
+    {
+      "application_reference": "ES/Z502868/1",
+      "opportunity": "Resilient UK Coastal Communities and Seas Network Plus",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Z502704/1",
+      "opportunity": "Dementia Network Plus",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Z502790/1",
+      "opportunity": "Dementia Network Plus",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Z502674/1",
+      "opportunity": "Dementia Network Plus",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Z502832/1",
+      "opportunity": "Dementia Network Plus",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Z502716/1",
+      "opportunity": "Behavioural Science for Security and Defence Network Plus",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Z503009/1",
+      "opportunity": "Polarities and Regions Network Plus",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "Awarded Research Grants UKRI Basic Tech2021",
+  "year": "2021",
+  "source_file": "awarded_grants/BBSRC-031224-AwardedResearchGrantsUKRIBasicTech2021.xlsx",
+  "count_of_applications": "24",
+  "count_of_awards": "24",
+  "applications": [
+    {
+      "application_reference": "BB/X003221/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003256/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003264/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003299/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003329/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003426/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003442/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003477/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003507/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003620/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003736/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003744/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003833/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003841/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003876/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X003957/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004082/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004120/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004260/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004317/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004449/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004716/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004775/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/X004791/1",
+      "outcome": "Successful"
+    }
+  ]
+}

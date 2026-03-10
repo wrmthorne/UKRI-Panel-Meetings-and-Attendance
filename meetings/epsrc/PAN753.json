@@ -1,0 +1,196 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN753",
+  "meeting_name": "TERC Network Plus Interview Panel A",
+  "meeting_date": "2024-10-07 10:00:00",
+  "meeting_convenor": "Calderon Munoz, Dr M",
+  "applications": [
+    {
+      "application_id": "APP38421",
+      "title": "Failure Modes of Engineering (FeME): a network for future inclusivity, sustainability, and global impact",
+      "applicant": "Medina-Lopez, E",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1808135.28",
+      "award_id": "UKRI393",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=393",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP43278",
+      "title": "4D Engineering of Healthcare Technologies (4D Health Tech)",
+      "applicant": "Cox, S",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1317036.47",
+      "award_id": "UKRI395",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=395",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48043",
+      "title": "Better Water for All: Re-engineer water engineering for equitable and resilient access to high-quality water for future generations",
+      "applicant": "Guo, B",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1359183.76",
+      "award_id": "UKRI398",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=398",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP42500",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP44063",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP45900",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP46342",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48294",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48561",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "535",
+      "opportunity_name": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Moura, L",
+      "role": "Chair",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Allwood, J",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Ball, M",
+      "role": "Panellist",
+      "organisation": "Thales (United Kingdom)"
+    },
+    {
+      "name": "Diaz, V",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Dudley, S",
+      "role": "Panellist",
+      "organisation": "London South Bank University"
+    },
+    {
+      "name": "Eckert, C",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "Heidrich, E",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Lam, F",
+      "role": "Panellist",
+      "organisation": "ARUP"
+    },
+    {
+      "name": "Mayfield, M",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Steel, H",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    }
+  ]
+}

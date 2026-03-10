@@ -1,0 +1,127 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2023,
+  "meeting_reference": "1-957881876",
+  "meeting_name": "Research Networking April 2023",
+  "meeting_date": "20230401",
+  "applications": [
+    {
+      "application_id": "AH/Y000897/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Catherine Armstrong",
+      "project": "Trans Archiving Network (TAN)",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X013103/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Dave Beech",
+      "project": "Mapping Creative Labour in Contemporary Art",
+      "research_organisation": "University of the Arts London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/Y001338/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Suman Gupta",
+      "project": "Methods for Modelling & Analysing Political Catchwords/phrases in Digital Environments",
+      "research_organisation": "The Open University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X013146/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Giles Giles Birchley",
+      "project": "Children's Medical Tourism: Developing an inclusive base for international study",
+      "research_organisation": "University of Bristol",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/Y00132X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr James Muldoon",
+      "project": "The Climate Crisis and Democratic Reform",
+      "research_organisation": "University of Essex",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X01164X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/Y00082X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/Y001370/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X012700/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/X01195X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X012840/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Maria Delgado",
+      "organisation": "Royal Central Sch of Speech and Drama",
+      "role": "Moderator"
+    }
+  ]
+}

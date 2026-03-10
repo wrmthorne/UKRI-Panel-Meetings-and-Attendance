@@ -1,0 +1,197 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESRC GCRF Collective Call - Energy",
+  "year": "2022",
+  "meeting_date": "2022-04",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "31",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "application_reference": "ES/T006285/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T006293/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T006684/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T006358/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T006382/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T006536/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006579/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006617/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006544/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006390/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006412/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006625/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006692/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006528/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T00682X/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006269/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T00620X/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006226/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T00651X/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006714/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006730/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006676/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006633/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006595/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006455/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006498/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006552/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006749/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006706/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006439/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T006250/1",
+      "opportunity": "GCRF - Energy Collective Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

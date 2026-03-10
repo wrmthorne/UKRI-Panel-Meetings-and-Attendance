@@ -1,0 +1,77 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2018,
+  "meeting_reference": "1-351524329",
+  "meeting_name": "Follow on Fund - May 2018",
+  "meeting_date": "20180509",
+  "applications": [
+    {
+      "application_id": "AH/S000054/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Adam Dinham",
+      "project": "Reimagining Religion and Belief: equipping public authorities for engagement with the real religious landscape",
+      "research_organisation": "Goldsmiths College",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/R013497/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rob Ellis",
+      "project": "Animating Heritage and Stigma",
+      "research_organisation": "University of Huddersfield",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S001603/1",
+      "route": "Standard",
+      "lead_applicant": "Professor James Richard Daybell",
+      "project": "Gendered Interpretations at the Victoria & Albert Museum and the Vasa Museum",
+      "research_organisation": "University of Plymouth",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/R013837/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sue Walker",
+      "project": "Transforming science for young people: Marie Neurath and Isotype books for children",
+      "research_organisation": "University of Reading",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S000763/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mervyn Conroy",
+      "project": "Phronesis and the Medical Community: Follow on Impact and Engagement",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Justin Guy Marshall",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Joanna Drugan",
+      "organisation": "Anglia Ruskin University",
+      "role": "Member"
+    }
+  ]
+}

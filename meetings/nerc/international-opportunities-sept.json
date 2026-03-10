@@ -1,0 +1,149 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "International Opportunities Fund – Pump Priming and Pump Priming Plus grants call – September 2014 NB. Pump Priming Plus proposals are those under the “IOF SEP14” call and Pump Priming proposals are under the “IOF (PP) SEP14” call name.",
+  "source_file": "international-opportunities-sept.pdf",
+  "count_of_applications": "19",
+  "count_of_awards": "8",
+  "year": "2014",
+  "applications": [
+    {
+      "application_reference": "NE/M017656/1",
+      "ranking": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017710/1",
+      "ranking": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017559/1",
+      "ranking": "3",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017575/1",
+      "ranking": "4",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017540/1",
+      "ranking": "5",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017729/1",
+      "ranking": "6",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017958/1",
+      "ranking": "6",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017524/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "scores": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/M017605/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/M017613/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/M017621/1",
+      "ranking": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M017583/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "10",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/M017591/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "11",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/M017648/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "12",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M017532/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M017699/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "12",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M017702/1",
+      "outcome": "Unsuccessful",
+      "ranking": "0",
+      "scores": [
+        "12",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/M017680/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "16",
+        "4"
+      ]
+    },
+    {
+      "application_reference": "NE/M017672/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "17",
+        "4"
+      ]
+    }
+  ]
+}

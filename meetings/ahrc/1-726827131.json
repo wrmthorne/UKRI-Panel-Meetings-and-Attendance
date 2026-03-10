@@ -1,0 +1,317 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-726827131",
+  "meeting_name": "AHRC NERC Hidden Histories Call 2021",
+  "meeting_date": "20211115",
+  "applications": [
+    {
+      "application_id": "AH/W009056/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Aditya Ramesh",
+      "project": "Cottonopolis: lessons for environmental science through the hidden histories of Manchester",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W009145/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Shelda-Jane Smith",
+      "project": "Confronting Historical Wrongs in Liverpool and Beyond: Creative Responses and Anticolonial Approaches to Environmental Science",
+      "research_organisation": "University of Liverpool",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W008726/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rebecca Williams",
+      "project": "Decolonising UK Earth Science pedagogy - from the hidden histories of our geological institutions to inclusive curricula",
+      "research_organisation": "University of Hull",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W008793/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ashley Coutu",
+      "project": "Activating the Archive: African environmental histories and knowledges materialised in museum collections",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W009099/1",
+      "route": "Standard",
+      "lead_applicant": "Dr David Wilson",
+      "project": "British Colonialism, Marine Sciences, and Fisheries Governance: Lessons from Lake Malawi in the Mid-Twentieth Century",
+      "research_organisation": "University of Strathclyde",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/W008505/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Christina Ann Mary Welch",
+      "project": "Unearthing the contribution of indigenous & enslaved African knowledge systems to the St Vincent Botanical Garden under Dr Anderson (1785-1811)",
+      "research_organisation": "University of Winchester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/W008998/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alan Gray",
+      "project": "The UK Overseas Territories: colonialism as a cultural and ecological driver and ensuring equity in environmental research and data exchanges",
+      "research_organisation": "UK Centre for Ecology & Hydrology",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/W009161/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Vinita Damodaran",
+      "project": "Science and the Colonies; Hidden networks of Botanical science, Ecology and Eugenics at the end of Empire",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/W00898X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Jennifer Barclay",
+      "project": "Curating crises: the past as a key to improving the stewardship of hazard knowledges for the future",
+      "research_organisation": "University of East Anglia",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/W008866/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Christopher Christopher Prior",
+      "project": "Decolonising Victorian histories: Frank Oates, geographic exploration and teaching imperial history and environmental science",
+      "research_organisation": "University of Southampton",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/W009196/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/W008734/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/W008688/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/W00920X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/W008564/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/W009005/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/W008580/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/W008904/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/W00870X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008807/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008858/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008955/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008971/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W009013/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W009021/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W009072/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Patricia Elaine Noxolo",
+      "organisation": "University of Birmingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Eli Lazarus",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Stuart Black",
+      "organisation": "University of Reading",
+      "role": "Member"
+    },
+    {
+      "name": "Mr Patrick Campbell",
+      "organisation": "The Natural History Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Anna-Maria Susheila Misra",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Julie Cupples",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Nicola Beaumont",
+      "organisation": "Plymouth Marine Laboratory",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Robert Beckford",
+      "organisation": "University of Central Lancashire",
+      "role": "Member"
+    }
+  ]
+}

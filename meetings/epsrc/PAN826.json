@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN826",
+  "meeting_name": "EPSRC: ICT Network Prioritisation Panel Jan 2025",
+  "meeting_date": "2025-01-29 09:00:00",
+  "meeting_convenor": "Russin, S",
+  "applications": [
+    {
+      "application_id": "APP27239",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "284",
+      "opportunity_name": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Crockett, K",
+      "role": "Chair",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Abdur, R",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Bahsoon, R",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Boiten, E",
+      "role": "Panellist",
+      "organisation": "De Montfort University"
+    },
+    {
+      "name": "Cairns, S",
+      "role": "Panellist",
+      "organisation": "Metasphere"
+    },
+    {
+      "name": "Cleaver, D",
+      "role": "Panellist",
+      "organisation": "Sheffield Hallam University"
+    },
+    {
+      "name": "Cosma, G",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Erlebach, T",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Haas, H",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Herrnsdorf, J",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Hwang See, C",
+      "role": "Panellist",
+      "organisation": "Edinburgh Napier University"
+    },
+    {
+      "name": "Lloyd-Hughes, J",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Scarfe, P",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Stamate, D",
+      "role": "Panellist",
+      "organisation": "Goldsmiths University of London"
+    }
+  ]
+}

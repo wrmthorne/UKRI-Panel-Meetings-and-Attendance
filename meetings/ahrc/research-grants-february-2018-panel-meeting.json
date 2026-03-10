@@ -1,0 +1,233 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, February 2018 Panel Meeting",
+  "year": "2018",
+  "meeting_date": "2018-02",
+  "source_file": "Research Grants Panel, February 2018 Meeting.xlsx",
+  "count_of_applications": "37",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/R012989/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Kate Elswit",
+      "holding_organisation": "Royal Central School of Speech and Drama",
+      "grant_title": "Dunham's Data - Katherine Dunham and Digital Methods for Dance Historical Inquiry",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R005494/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jan Van Zyl Smit",
+      "holding_organisation": "British Institute of International and Comp Law",
+      "grant_title": "Special Processes for the Reassessment and Removal of Judges in the Context of a Constitutional Transition: Strengthening the Rule of Law?",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/R005915/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Anselma Gallinat",
+      "holding_organisation": "Newcastle University",
+      "grant_title": "KNOWING THE SECRET POLICE: Secrecy and knowledge in East German Society",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R008426/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Liam Harte",
+      "holding_organisation": "University of Manchester",
+      "grant_title": "Conflict, Memory and Migration: Northern Irish Migrants and the Troubles in Great Britain",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R007896/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Thomas Hulme",
+      "holding_organisation": "Queen's University Belfast",
+      "grant_title": "Voyaging through History: the Meanings of the Mayflower, 1620-2020",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/R012873/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Claire Taylor",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Memory, Victims and Representation of the Colombian Conflict",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R007101/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jim Davis",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Theatre and Visual Cultre in the Long Nineteenth Century",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R005842/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor David Austin",
+      "holding_organisation": "University of Wales Trinity St David",
+      "grant_title": "The sacred landscapes of medieval monasteries: an inter-disciplinary study of meaning embedded in space and production",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R007179/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008183/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R012695/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rebecca Tipton",
+      "holding_organisation": "University of Manchester",
+      "grant_title": "Translation, interpretation and the British humanitarian response to asylum seeker and refugee arrivals since the 1940s",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/R008159/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R010595/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008604/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007322/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R00708X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007373/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007470/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R010501/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007098/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008450/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R011184/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007233/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008388/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008051/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R006954/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007608/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R006431/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008353/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R005281/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008523/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007721/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R008108/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007748/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R007756/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R012938/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R006547/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

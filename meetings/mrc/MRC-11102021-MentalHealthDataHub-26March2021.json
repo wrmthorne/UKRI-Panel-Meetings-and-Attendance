@@ -1,0 +1,21 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Mental Health Data Hubs - 26th March 2021",
+  "meeting_date": "26/03/2021",
+  "source_file": "Mental-health-data-hub/MRC-11102021-MentalHealthDataHub-26March2021.xlsx",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition, we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "application_reference": "MR/W014386/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W014246/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

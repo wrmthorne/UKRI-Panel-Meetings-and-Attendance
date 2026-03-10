@@ -1,0 +1,342 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-602098573",
+  "meeting_name": "Infrastructure CapCo November 2020 Stream A",
+  "meeting_date": "20201102",
+  "applications": [
+    {
+      "application_id": "AH/V01241X/1",
+      "route": "Standard",
+      "lead_applicant": "Mrs Amber Amber Xavier-Rowe",
+      "project": "ENGLISH HERITAGE TRUST CONSERVATION AND HERITAGE SCIENCE FACILITY - RANGER'S HOUSE, GREENWICH, LONDON",
+      "research_organisation": "Historic Bldgs & Mnts Commis for England",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V012118/1",
+      "route": "Standard",
+      "lead_applicant": "Ms Anna Anna Starkey",
+      "project": "NMS Facilities Enhancement at NMCC",
+      "research_organisation": "National Museums of Scotland",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V012576/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Oliver Urquhart Irvine",
+      "project": "Unlocking SOAS Collections: Environmental Systems and Storage Upgrade",
+      "research_organisation": "SOAS University of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V011685/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Paola Ricciardi",
+      "project": "Cambridge Heritage Science Hub (CHERISH): Infrastructure for Research in Material Culture and Collections",
+      "research_organisation": "University of Cambridge",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V012142/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Bronwyn Ann Ormsby",
+      "project": "Renewing Conservation Science Facilities at Tate",
+      "research_organisation": "Tate",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V012541/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Deborah Anne Swallow",
+      "project": "Driving innovation through technology-enabled research spaces and collections management at The Courtauld",
+      "research_organisation": "The Courtauld Institute of Art",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V011634/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Huw James Barton",
+      "project": "Remaking materials: Upgrade of Archaeological Material Labs in School of Archaeology & Ancient History (SAAH)",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V012134/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Pedro Gaspar",
+      "project": "Refurbishment of the V&A's Science Laboratory",
+      "research_organisation": "Victoria and Albert Museum",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V012150/1",
+      "route": "Standard",
+      "lead_applicant": "Mrs LIz Liz Waller",
+      "project": "Light from the East: Transforming research access at Durham's Oriental Museum",
+      "research_organisation": "Durham University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V011588/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Jennifer Richards",
+      "project": "Digital Archives: Creating a Regional Hub in the North East",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/V011901/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Benjamin Gerald Meunier",
+      "project": "AHRC Capability for Collections Fund - Stream A (Facilities)",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/V01157X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sue Anne Niebrzydowski",
+      "project": "Investing in the Past: Upgrading Bangor University Archives",
+      "research_organisation": "Bangor University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/V012452/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Ieuan Richard Hopkins",
+      "project": "Digitisation Facility - BAS Archives and other physical collections",
+      "research_organisation": "NERC British Antarctic Survey",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/V012525/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Guy Leonard Baxter",
+      "project": "Sustainable infrastructure for the digital shift: upgrading collections access and preservation at the University of Reading",
+      "research_organisation": "University of Reading",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/V01188X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/V011723/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paula Reimer",
+      "project": "CHRONO: Institute for Heritage and Environmental Science",
+      "research_organisation": "Queen's University of Belfast",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/V011529/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Katie Katie Hemer",
+      "project": "Connected microscopy and digital technology for enhanced scientific archaeology",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/V012339/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Daryl Green",
+      "project": "CultureLab",
+      "research_organisation": "University of Edinburgh",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/V01238X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Laura Sillars",
+      "project": "AHRC infrastructure fund MIMA",
+      "research_organisation": "Teesside University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/V01191X/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Timothy John Procter",
+      "project": "Streamlining facilities for access and preservation of Cultural and Heritage collections at the University of Leeds",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/V01255X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Andrew Stephen Wilson",
+      "project": "Capability for Human Bioarchaeology and Digital Collections",
+      "research_organisation": "University of Bradford",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/V012045/1",
+      "route": "Standard",
+      "lead_applicant": "Ms Emma Smart",
+      "project": "Refresh and Upgrade the BFI Reuben Library & BFI Mediatheque research spaces",
+      "research_organisation": "British Film Institute",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/V01224X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V011944/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V012169/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V012207/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V012371/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V012533/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Charalampos (Charis) Theodorakopoulos",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Emma Richardson",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Mélanie Roffet-Salque",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Michael Buckley",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Gabriel Egan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Heather Viles",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Janet Montgomery",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Sam Turner",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Stuart Jeffrey",
+      "organisation": "Glasgow School of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Turi King",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-867448821",
+  "meeting_name": "Follow on Fund - Sep 2022",
+  "meeting_date": "20220922",
+  "applications": [
+    {
+      "application_id": "AH/X005402/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Zoe Norridge",
+      "project": "Stories from Rwanda: Agency, Editing and New Audiences",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X000648/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Alex Hughes",
+      "project": "Reducing Modern Slavery in the Health Sector's Supply Chains for Personal Protective Equipment",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X004473/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Veronika Kapsali",
+      "project": "Bioinspired Design: Unforeseen Pathways to impact arising from AHRC funded Bioinspired Textiles Research",
+      "research_organisation": "University of the Arts London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X005550/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Thomas Pickles",
+      "project": "Early Christian Churches and Landscapes (ECCLES): Co-Creating Public Resources",
+      "research_organisation": "University of Chester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X00595X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sally Caroline Bushell",
+      "project": "Steampunk Sherlock Holmes: Knowledge Exchange and Impact through Experiential Reading in Minecraft",
+      "research_organisation": "Lancaster University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X006735/1",
+      "route": "Standard",
+      "lead_applicant": "Mr Keith May",
+      "project": "The Archaeologist's Guide To Good Practice - Handbook",
+      "research_organisation": "Historic Bldgs & Mnts Commis for England",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X004635/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X004902/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X004554/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/X006913/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "1",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Lorna Hughes",
+      "organisation": "University of Glasgow",
+      "role": "Chair"
+    },
+    {
+      "name": "Mrs Felicity Myrone",
+      "organisation": "British Library",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Katherine Isobel Baxter",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mark Nesbitt",
+      "organisation": "Royal Botanic Gardens Kew",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-474037997",
+  "meeting_name": "Follow on Fund - September 2019",
+  "meeting_date": "20190910",
+  "applications": [
+    {
+      "application_id": "AH/T005602/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Aaron Williamon",
+      "project": "Healthy Performer",
+      "research_organisation": "Royal College of Music",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T005076/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Richard William Dance",
+      "project": "The Gersum Project: Follow-On Funding",
+      "research_organisation": "University of Cambridge",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T001925/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Lynda Pratt",
+      "project": "Robert Southey's Keswick: Enhancing Understanding of the Literary Culture of the Northern Lake District",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T004142/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Neville Morley",
+      "project": "The Melian Dialogues/Do What You Must",
+      "research_organisation": "University of Exeter",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T005017/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Maurizio Borghi",
+      "project": "EnDOW Community. Public engagement in orphan works clearance to unlock access to UK film archives",
+      "research_organisation": "Bournemouth University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T004045/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Umut Erel",
+      "project": "Participatory Artsbased Methods For Civic Engagement In Migrant Support Organizations",
+      "research_organisation": "The Open University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T002948/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T005173/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T006072/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T00391X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T003901/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T005203/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor David O'Brien",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mihaela Ligia Kelemen",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Paul Leslie Long",
+      "organisation": "Monash University",
+      "role": "Member"
+    }
+  ]
+}

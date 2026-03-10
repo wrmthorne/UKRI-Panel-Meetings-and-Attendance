@@ -1,0 +1,156 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN418",
+  "meeting_name": "OPP361 Turing AI World-Leading Researcher Fellowships Round 3",
+  "meeting_date": "2024-05-22 08:00:00",
+  "meeting_convenor": "Raynor, Dr M",
+  "applications": [
+    {
+      "application_id": "APP22478",
+      "title": "Turing AI Fellowship: Generative Machine Learning Models for Data of Arbitrary Underlying Geometry (MAGAL)",
+      "applicant": "Zafeiriou, Professor S",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "4429379.18",
+      "award_id": "EP/Z534699/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ534699%2F1",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP28712",
+      "title": "Turing AI Fellowship: AI for Person-Centred and Teachable Autonomy",
+      "applicant": "Ramamoorthy, Professor S",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "5152912.65",
+      "award_id": "EP/Z534833/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ534833%2F1",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP26222",
+      "title": "Turing AI Fellowship: Somabotics - Creatively Embodying Artificial Intelligence",
+      "applicant": "Benford, Professor S",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "5137618.77",
+      "award_id": "EP/Z534808/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ534808%2F1",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP22760",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP22491",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP26359",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP25879",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP23688",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "361",
+      "opportunity_name": "Turing AI World-Leading Researcher Fellowships: round three"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Hall, W",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "Misener, R",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Noble, A",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Remagnino, P",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Sierra, C",
+      "role": "Panellist",
+      "organisation": "Research Institute for Artificial Intelligence"
+    }
+  ]
+}

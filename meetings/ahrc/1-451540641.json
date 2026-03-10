@@ -1,0 +1,77 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-451540641",
+  "meeting_name": "UKRI GCRF Protection in Contexts of Conflict Full stage Dec 2019",
+  "meeting_date": "20191202",
+  "applications": [
+    {
+      "application_id": "AH/T008024/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Berit Bliesemann de Guevara",
+      "project": "Creating Safer Space: Strengthening Civilian Protection Amidst Violent Conflict",
+      "research_organisation": "Aberystwyth University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T008091/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Heather Flowe",
+      "project": "Time for Rights/Rights for Time: Responding to the times of violence, conflict, and displacement",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T008008/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Mariangela Palladino",
+      "project": "Maghreb Action on Displacement and Rights (MADAR) Network Plus",
+      "research_organisation": "Keele University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T007818/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T008032/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Louise Arimatsu",
+      "organisation": "London School of Economics & Pol Sci",
+      "role": "Member"
+    },
+    {
+      "name": "Professor K McEvoy",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    }
+  ]
+}

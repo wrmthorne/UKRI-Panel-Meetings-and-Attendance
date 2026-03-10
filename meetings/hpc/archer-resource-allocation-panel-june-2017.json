@@ -1,0 +1,249 @@
+{
+  "council": "EPSRC",
+  "panel_meeting_name": "ARCHER resource allocation panel - June 2017",
+  "year": "2017",
+  "meeting_date": "2017-06",
+  "source_file": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-June2017.xlsx",
+  "count_of_applications": "25",
+  "count_of_awards": "16",
+  "notes": "Nine applications were unsuccessful in the June 2017 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "Professor Adrian Mulholland",
+      "organisation": "University of Bristol",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Rob Lewis",
+      "organisation": "TotalSim Ltd",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Andrew Teale",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Gabriela Slavcheva",
+      "organisation": "University of Bath",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Irina Tikhonova",
+      "organisation": "QUB",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Martijn A. Zwijnenburg",
+      "organisation": "UCL",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Xi Jiang",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Daniel Dundas",
+      "title": "Attosecond dynamics of radio sensitizer molecules",
+      "holding_organisation": "Queen's University Belfast",
+      "outcome": "Successful",
+      "kaus_awarded": "36634"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Richard Evans",
+      "title": "Large scale atomistic spin dynamics of advanced magnetic materials and devices",
+      "holding_organisation": "University of York",
+      "outcome": "Successful",
+      "kaus_awarded": "19354"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Catherine O'Sullivan",
+      "title": "IBM Investigation of drag in dense, polydisperse, saturated grain packings",
+      "holding_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "kaus_awarded": "19595.52"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Benzi John",
+      "title": "High fidelity non-equilibrium DSMC flow simulations at scale using SPARTA",
+      "holding_organisation": "STFC",
+      "outcome": "Successful",
+      "kaus_awarded": "31968"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Prof Alessandro Troisi",
+      "title": "Benchmarking the calculation of low frequency phonons in organic semiconductors",
+      "holding_organisation": "University of Liverpool",
+      "outcome": "Successful",
+      "kaus_awarded": "24051"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Johannes Lischner",
+      "title": "Optical and electronic properties of two-dimensional metal chalcogenides",
+      "holding_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "kaus_awarded": "30427"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Prof Paul Tucker",
+      "title": "Aerodynamics of Intake-fan interaction under crosswinds",
+      "holding_organisation": "University of Cambridge",
+      "outcome": "Successful",
+      "kaus_awarded": "25228.8"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Ignazio Maria Viola",
+      "title": "Compliant coatings for friction drag reduction",
+      "holding_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "kaus_awarded": "18259.2"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Paola Carbone",
+      "title": "In-Silico fabrication of graphene oxide membranes",
+      "holding_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "kaus_awarded": "24550"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Gihan Mudalige",
+      "title": "Preparing for Exascale with Mini-applications",
+      "holding_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "kaus_awarded": "9694.8"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Edina Rosta",
+      "title": "Molecular kinetics for ligand binding",
+      "holding_organisation": "King's College London",
+      "outcome": "Successful",
+      "kaus_awarded": "22636"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr David Quigley",
+      "title": "Modelling of nano-confined phase change materials",
+      "holding_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "kaus_awarded": "11205"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Prof Jonathan Doye",
+      "title": "The emergence of chirality in solutions of DNA origamis",
+      "holding_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "kaus_awarded": "27327"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "principal_investigator": "Professor William Rainforth",
+      "title": "Designing alloys for resource efficiency (DARE) - a manufacturing approach",
+      "holding_organisation": "King's College London",
+      "outcome": "Successful",
+      "kaus_awarded": "57024"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "principal_investigator": "Professor Stuart Macgregor",
+      "title": "Putting Low Coordination into Practice by the Exploration of Metal-sigma-Interactions: Fundamentals, New Catalysts and Catalysis for New Materials",
+      "holding_organisation": "Heriot-Watt University",
+      "outcome": "Successful",
+      "kaus_awarded": "152280"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "principal_investigator": "Professor Matthew Rosseinsky",
+      "title": "Integration of Computation and Experiment for Accelerated Materials Discovery",
+      "holding_organisation": "University of Liverpool",
+      "outcome": "Successful",
+      "kaus_awarded": "788314"
+    }
+  ]
+}

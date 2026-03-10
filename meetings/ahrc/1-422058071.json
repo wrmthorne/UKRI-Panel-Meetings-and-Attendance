@@ -1,0 +1,132 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-422058071",
+  "meeting_name": "Follow on Fund - Feb 2019",
+  "meeting_date": "20190211",
+  "applications": [
+    {
+      "application_id": "AH/S013172/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Natalya Vince",
+      "project": "Generation independence: a people's history",
+      "research_organisation": "University of Portsmouth",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S006753/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Dee Dyas",
+      "project": "ENGAGING WITH PLACE AND MANAGING SPACE: Transforming policy, statutory advice, management, and visitor experience in England's historic churches",
+      "research_organisation": "University of York",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S00808X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mark Wilfred Westgarth",
+      "project": "SOLD! The Year of the Dealer: Antique Dealers, Art Markets and Museums",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S011773/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Margherita Laera",
+      "project": "A Web Archive of Theatre Translation Resources",
+      "research_organisation": "University of Kent",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S01070X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Miranda Jane Anderson",
+      "project": "The Art of Distributed Cognition",
+      "research_organisation": "University of Stirling",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S010467/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Tim Sharpe",
+      "project": "Health Effects of Modern Airtight Construction: Follow-on funding",
+      "research_organisation": "Glasgow School of Art",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/S01196X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/S007660/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/S010874/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/S011757/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Andrew Robert Linn",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jen Harvie",
+      "organisation": "Liverpool Hope University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Martin Halvey",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    }
+  ]
+}

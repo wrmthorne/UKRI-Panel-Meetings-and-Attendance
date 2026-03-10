@@ -1,0 +1,209 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "AHRC responsive mode: Standard Research Grant June 2024 panel",
+  "applications": [
+    {
+      "application_id": "23716",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "19611",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "18605",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "18902",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "22125",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "21589",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "32654",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "11"
+    },
+    {
+      "application_id": "20664",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "12"
+    },
+    {
+      "application_id": "19197",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "13"
+    },
+    {
+      "application_id": "21681",
+      "title": "Inclusive Histories",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Matthew Smith",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "rank": "1"
+    },
+    {
+      "application_id": "20004",
+      "title": "Co-Producing EDI Interventions for Virtual Production",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jon Swords",
+      "lead_organisation": "University of York",
+      "rank": "2"
+    },
+    {
+      "application_id": "19332",
+      "title": "Morphomes. A Psycholinguistic Investigation",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Martin Maiden",
+      "lead_organisation": "University of Oxford",
+      "rank": "3"
+    },
+    {
+      "application_id": "20351",
+      "title": "Many New Worlds: A Century of Transformations in the Post-Columbian Caribbean",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Alice Samson",
+      "lead_organisation": "University of Leicester",
+      "rank": "4"
+    },
+    {
+      "application_id": "19018",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "20219",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "20680",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Unknown",
+      "organisation": "Unknown",
+      "role": ""
+    },
+    {
+      "name": "Rosa Freedman",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Paul Cooke",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "Chante St Clair Inglis",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Isra Black",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Manishita Dass",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor AlannahTomkins",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Thomas Maguire",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

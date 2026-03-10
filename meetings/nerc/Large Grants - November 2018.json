@@ -1,0 +1,271 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Large Grants November 2018 Rank",
+  "source_file": "Large Grants - November 2018.pdf",
+  "count_of_applications": "32",
+  "count_of_awards": "11",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S015647/1",
+      "ranking": "10",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015566/1",
+      "ranking": "10",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015574/1",
+      "ranking": "10",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015582/1",
+      "ranking": "10",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015604/1",
+      "ranking": "10",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015698/1",
+      "ranking": "10",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015833/1",
+      "ranking": "9",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015744/1",
+      "ranking": "9",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015868/1",
+      "ranking": "9",
+      "score": "3",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015752/1",
+      "ranking": "9",
+      "score": "3",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015779/1",
+      "ranking": "9",
+      "score": "3",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S015795/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015590/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015612/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015639/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015655/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015728/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015736/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015817/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/S015671/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/S015876/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/S015884/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/S015760/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/S015701/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/S015809/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/S015787/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/S01585X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/S015620/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/S015663/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/S01568X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/S01571X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/S015825/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "9"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Ric Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Dr Mark Allen",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Dr John Bothwell",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Prof Jonathan Bull",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Dr Dylan Childs",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Dr Manoj Joshi",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Dr Simon Neill",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Dr Alex Poulton",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Prof Ilik Saccheri",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Dr Zongbo Shi",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dr Hilary Weller",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Dr Kirsten Wolff",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Prof Philip Wookey",
+      "role": "Member",
+      "organisation": "University of Sterling"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-LargeGrantsOutline-120319.pdf",
+  "meeting_date": "13/14 May 2019"
+}

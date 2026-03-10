@@ -1,0 +1,127 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-557299593",
+  "meeting_name": "Research Networking - May 2020",
+  "meeting_date": "20200517",
+  "applications": [
+    {
+      "application_id": "AH/V004034/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Stephen Hugh Harrison",
+      "project": "The York-Dublin Axis Reconsidered - An Interdisciplinary Approach to Viking Towns",
+      "research_organisation": "University of Glasgow",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V001760/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ian Cawood",
+      "project": "Corruption, the 'Common Good' and the emergence of the 'Public Service Ethos' in western Europe in the nineteenth century",
+      "research_organisation": "University of Stirling",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V001043/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jonathan Richard Kasstan",
+      "project": "A Network for Rethinking Academic Research Ethics Frameworks and Processes in the Humanities",
+      "research_organisation": "University of Westminster",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V001655/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Piotr Woycicki",
+      "project": "Theatre, A.I. and 'ludic technologies'",
+      "research_organisation": "Aberystwyth University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T012927/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Thomas Robert Sutherland",
+      "project": "Pause for Thought: Media Literacy in an Age of Incessant Change",
+      "research_organisation": "University of Lincoln",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T012226/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Adrienne Evans",
+      "project": "Postdigital Intimacies and the Networked Public-Private",
+      "research_organisation": "Coventry University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V003216/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V003259/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T011548/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T012072/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V000934/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Chair"
+    }
+  ]
+}

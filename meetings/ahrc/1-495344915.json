@@ -1,0 +1,227 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-495344915",
+  "meeting_name": "AHRC UK-US Digital Scholarship Partnership Development Grants January 2020",
+  "meeting_date": "20200106",
+  "applications": [
+    {
+      "application_id": "AH/T013192/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Ross Parry",
+      "project": "2 by 2: Structuring Museums to Deliver New Digital Experiences",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T013117/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Kevin Page",
+      "project": "Linked Art II: Developing Community, Practice, and Scholarship",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T013184/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Haida Liang",
+      "project": "AI for DIGILAB: A New Concept in Digital Infrastructure for Heritage Materials Research",
+      "research_organisation": "Nottingham Trent University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T013001/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mercedes Bunz",
+      "project": "Creative AI: machine learning as a medium in artistic and curatorial practice",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T013125/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Athanasios Velios",
+      "project": "Linked Conservation Data - phase 2",
+      "research_organisation": "University of the Arts London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T013060/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Stephanie Decker",
+      "project": "Historicizing the dot.com bubble and contextualizing email archives",
+      "research_organisation": "University of Bristol",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T013052/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mia Ridge",
+      "project": "From crowdsourcing to digitally-enabled participation: the state of the art in collaboration, access, and inclusion for cultural heritage institutions",
+      "research_organisation": "British Library",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T013036/1",
+      "route": "Standard",
+      "lead_applicant": "Dr James Baker",
+      "project": "Legacies of Catalogue Descriptions and Curatorial Voice: Opportunities for Digital Scholarship",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T012994/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Zoe Jaques",
+      "project": "Decolonising Digital Childhoods: A pilot study towards enhanced participation and diversification in historical children's literature collections",
+      "research_organisation": "University of Cambridge",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T013141/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lara Perry",
+      "project": "Digital Prospects for Inclusive Civic Historic Museums",
+      "research_organisation": "University of Brighton",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T01296X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T01301X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T013044/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T013079/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T013087/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T013095/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T013168/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T013206/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Catherine Teresa Eagleton",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Giasemi Vavoula",
+      "organisation": "University of Ulster",
+      "role": "Moderator"
+    },
+    {
+      "name": "Dr Megan Laura Gooch",
+      "organisation": "University of Oxford",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Joan Violet Condell",
+      "organisation": "University of Ulster",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor John Philip Collomosse",
+      "organisation": "University of Surrey",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Simon Tanner",
+      "organisation": "King's College London",
+      "role": "Moderator"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Grant Reference",
+  "source_file": "NERC-051021-EnvironmentalRiskToInfrastructureInnovation2017-FundingOutcomes.pdf",
+  "count_of_applications": "27",
+  "count_of_awards": "16",
+  "applications": [
+    {
+      "application_reference": "NE/R009090/1"
+    },
+    {
+      "application_reference": "NE/R008930/1"
+    },
+    {
+      "application_reference": "NE/R009198/1"
+    },
+    {
+      "application_reference": "NE/R008884/1"
+    },
+    {
+      "application_reference": "NE/R009015/1"
+    },
+    {
+      "application_reference": "NE/R009007/1"
+    },
+    {
+      "application_reference": "NE/R009082/1"
+    },
+    {
+      "application_reference": "NE/R008876/1"
+    },
+    {
+      "application_reference": "NE/R009155/1"
+    },
+    {
+      "application_reference": "NE/R009066/1",
+      "outcome": "Successful",
+      "ranking": "10",
+      "scores": [
+        "7",
+        "7",
+        "14"
+      ]
+    },
+    {
+      "application_reference": "NE/R009147/1",
+      "outcome": "Successful",
+      "ranking": "11",
+      "scores": [
+        "7",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R008892/1",
+      "outcome": "Successful",
+      "ranking": "12",
+      "scores": [
+        "7",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R009171/1",
+      "outcome": "Successful",
+      "ranking": "13",
+      "scores": [
+        "7",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R009058/1",
+      "outcome": "Successful",
+      "ranking": "14",
+      "scores": [
+        "7",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R008914/1",
+      "outcome": "Successful",
+      "ranking": "15",
+      "scores": [
+        "7",
+        "5",
+        "12"
+      ]
+    },
+    {
+      "application_reference": "NE/R008833/1",
+      "outcome": "Successful",
+      "ranking": "16",
+      "scores": [
+        "6",
+        "7",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R00918X/1",
+      "outcome": "Successful",
+      "ranking": "17",
+      "scores": [
+        "6",
+        "7",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R008957/1",
+      "outcome": "Successful",
+      "ranking": "18",
+      "scores": [
+        "6",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "application_reference": "NE/R008965/1",
+      "outcome": "Successful",
+      "ranking": "19",
+      "scores": [
+        "6",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "application_reference": "NE/R008981/1",
+      "outcome": "Successful",
+      "ranking": "20",
+      "scores": [
+        "6",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "application_reference": "NE/R00899X/1",
+      "outcome": "Successful",
+      "ranking": "21",
+      "scores": [
+        "6",
+        "5",
+        "11"
+      ]
+    },
+    {
+      "application_reference": "NE/R009023/1"
+    },
+    {
+      "application_reference": "NE/R008973/1"
+    },
+    {
+      "application_reference": "NE/R009112/1",
+      "outcome": "Successful",
+      "ranking": "3",
+      "scores": [
+        "8",
+        "7",
+        "15"
+      ]
+    },
+    {
+      "application_reference": "NE/R009120/1",
+      "outcome": "Successful",
+      "ranking": "4",
+      "scores": [
+        "7",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "application_reference": "NE/R008922/1",
+      "outcome": "Successful",
+      "ranking": "5",
+      "scores": [
+        "5",
+        "4",
+        "9"
+      ]
+    },
+    {
+      "application_reference": "NE/R009104/1",
+      "outcome": "Successful",
+      "ranking": "6",
+      "scores": [
+        "4",
+        "4",
+        "8"
+      ]
+    }
+  ]
+}

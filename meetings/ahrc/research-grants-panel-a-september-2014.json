@@ -1,0 +1,101 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants Panel A September 2014",
+  "year": "2014",
+  "meeting_date": "2014-09",
+  "source_file": "AHRC Scheme Call Panel Research Grants Panel A September 2014.xlsx",
+  "count_of_applications": "14",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "application_reference": "AH/M004910/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Crispin Bates",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Becoming Coolies: Rethinking the Origins of the Indian Labour Diaspora, 1772-1920.",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M001938/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Sachiko Kusukawa",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "Making Visible: The visual and graphic practices of the early Royal Society",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M00208X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Beatrice Han-Pile",
+      "holding_organisation": "University of Essex",
+      "grant_title": "The Ethics of Powerlessness: The Theological Virtues Today.",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M005534/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Amanda Rees",
+      "holding_organisation": "University of York",
+      "grant_title": "Unsettling scientific stories: expertise, narrative and future histories",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M004198/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005232/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M002357/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005178/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M002713/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M003620/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "James Edward Kelly",
+      "grant_title": "Monks in Motion: a prosopographical study of the English and Welsh Benedictines in exile, 1553-1800",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/M00502X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00418X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M000389/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M003345/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

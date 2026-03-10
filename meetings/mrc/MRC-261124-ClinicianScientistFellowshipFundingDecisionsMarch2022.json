@@ -1,0 +1,71 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Clinician Scientist Fellowship March 2 - 3 2022",
+  "meeting_date": "01/03/2022",
+  "source_file": "Clinician-scientist-fellowship/MRC-261124-ClinicianScientistFellowshipFundingDecisionsMarch2022.xlsx",
+  "count_of_applications": "12",
+  "count_of_awards": "7",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 21/33 applications did not pass an initial triage stage and were not considered further. Of the 12 applications that did pass the initial triage stage, 2 applications were withdrawn by the applicants prior to the meeting and reserves were invited in their place.",
+  "applications": [
+    {
+      "application_reference": "MR/W02389X/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W024187/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W025299/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/W02490X/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/W02487X/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W024217/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W025329/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/W025248/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/W024810/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W025418/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/W024977/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/W025167/1",
+      "score": "8",
+      "outcome": "Successful"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Atmospheric Pollution and Human Health in a Chinese Megacity: adding value and increasing impact 2018 Rank",
+  "source_file": "Atmospheric Pollution and Human Health in a Chinese Megacity - adding value and increasing impact - April 2018.pdf",
+  "count_of_applications": "6",
+  "count_of_awards": "4",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S006680/1",
+      "ranking": "5",
+      "scores": [
+        "1",
+        "9"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006699/1",
+      "ranking": "5",
+      "scores": [
+        "2",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006729/1",
+      "ranking": "5",
+      "scores": [
+        "3",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006648/1",
+      "ranking": "4",
+      "scores": [
+        "4",
+        "7"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S006702/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/S006737/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "6",
+        "4"
+      ]
+    }
+  ]
+}

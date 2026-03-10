@@ -1,0 +1,39 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN540",
+  "meeting_name": "EPSRC Physical Sciences Prioritisation Panel July 2024 - Open Fellowship",
+  "meeting_date": "2024-07-16 08:00:00",
+  "meeting_convenor": "Kumar, A",
+  "applications": [
+    {
+      "application_id": "APP18139",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP5603",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    }
+  ]
+}

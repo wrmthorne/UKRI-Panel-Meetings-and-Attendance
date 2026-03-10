@@ -1,0 +1,26 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "2021 SLOLA",
+  "year": "2021",
+  "source_file": "awarded_grants/BBSRC_2021_AwardedGrantsSLOLA.xlsx",
+  "count_of_applications": "4",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "application_reference": "BB/W003392/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/W003449/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/W00349X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/W003538/1",
+      "outcome": "Successful"
+    }
+  ]
+}

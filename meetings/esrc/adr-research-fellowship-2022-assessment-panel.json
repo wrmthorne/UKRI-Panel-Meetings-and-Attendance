@@ -1,0 +1,137 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ADR Research Fellowship 2022 Assessment Panel",
+  "year": "2022",
+  "meeting_date": "2022-06",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "21",
+  "count_of_awards": "6",
+  "applications": [
+    {
+      "application_reference": "ES/Y001001/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y001249/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y001184/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y001141/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y001222/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y001176/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y001087/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001028/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001117/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000862/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001133/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001168/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001206/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001265/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001273/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001281/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001338/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001230/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001079/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001109/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y001125/1",
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

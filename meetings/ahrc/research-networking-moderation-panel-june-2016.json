@@ -1,0 +1,71 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, June 2016",
+  "year": "2016",
+  "meeting_date": "2016-06",
+  "source_file": "Research Networking June 2016 Meeting.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/P003575/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr David Goldberg",
+      "holding_organisation": "National Museums of Scotland",
+      "grant_title": "Silver, Status and Society - the transition from Late Roman to Early Medieval Europe"
+    },
+    {
+      "application_reference": "AH/P003664/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Emma Josephine Stafford",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Hercules: a hero for all ages"
+    },
+    {
+      "application_reference": "AH/P005241/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rosa Freedman",
+      "holding_organisation": "University of Reading",
+      "grant_title": "The Sexual Violence and Peacekeeping Network"
+    },
+    {
+      "application_reference": "AH/P004547/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P005179/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P004180/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P004512/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P005276/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P004067/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P005683/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

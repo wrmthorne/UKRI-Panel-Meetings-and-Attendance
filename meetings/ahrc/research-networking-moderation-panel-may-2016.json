@@ -1,0 +1,77 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, May 2016",
+  "year": "2016",
+  "meeting_date": "2016-05",
+  "source_file": "Copy of Research Networking May 2016 Meeting.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/P00105X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Thomas Pickles",
+      "holding_organisation": "University of Chester",
+      "grant_title": "Early Christian Churches and Landscapes (ECCLES)"
+    },
+    {
+      "application_reference": "AH/P002447/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicholas White",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "The Art of Friendship in France, 1789-1914"
+    },
+    {
+      "application_reference": "AH/N008790/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Matthew Sangster",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "Institutions of Literature, 1700-1900"
+    },
+    {
+      "application_reference": "AH/P004741/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Richard Rushton",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Theatricality and Interrelations Between Art, Film and Theatre"
+    },
+    {
+      "application_reference": "AH/N006232/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rupert Read",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "Valuing nature"
+    },
+    {
+      "application_reference": "AH/P003516/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N007964/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N007794/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005813/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N009509/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

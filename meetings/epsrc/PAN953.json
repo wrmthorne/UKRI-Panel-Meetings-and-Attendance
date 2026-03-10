@@ -1,0 +1,111 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN953",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel February 2025 – New Investigator Awards (Old)",
+  "meeting_date": "2025-02-04 09:00:00",
+  "meeting_convenor": "Minter, H",
+  "applications": [
+    {
+      "application_id": "APP8114",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "136",
+      "opportunity_name": "EPSRC new investigator award, May 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Le Feuvre, R",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Burrows, A",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Cummins, G",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Curtis, T",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Dodds, P",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Donald, I",
+      "role": "Panellist",
+      "organisation": "Siemens plc (UK)"
+    },
+    {
+      "name": "Gerada, C",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Harris, R",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Maria Viola, I",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Norton, B",
+      "role": "Panellist",
+      "organisation": "Technological University Dublin"
+    },
+    {
+      "name": "Nowell, D",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "OSMAN, A",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Stairmand, J",
+      "role": "Panellist",
+      "organisation": "Jacobs (United Kingdom)"
+    },
+    {
+      "name": "Todd, I",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Torrente-Murciano, L",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Vanderwel, C",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Yang, Y",
+      "role": "Panellist",
+      "organisation": "Keele University"
+    }
+  ]
+}

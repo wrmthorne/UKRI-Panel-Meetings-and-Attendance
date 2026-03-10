@@ -1,0 +1,208 @@
+{
+  "council": "MRC",
+  "panel_reference": "PAN1593",
+  "panel_meeting_name": "MRC - Experimental Medicine - December 2025",
+  "meeting_date": "03/12/2025",
+  "applications": [
+    {
+      "application_reference": "APP87241",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP88204",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP88397",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP89824",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP90277",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP86067",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP86599",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP86837",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    },
+    {
+      "application_reference": "APP87711",
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Charlotte Summers",
+      "organisation": "University of Cambridge",
+      "role": "Chair"
+    },
+    {
+      "name": "Fiona Watt",
+      "organisation": "Imperial College London",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": " Johann de Bono",
+      "organisation": "The Institute of Cancer Research",
+      "role": "Panellist"
+    },
+    {
+      "name": "Abdel Douiri",
+      "organisation": "King’s College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "David Thickett",
+      "organisation": "University of Birmingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Deena Gibbons",
+      "organisation": "Kings College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Elisabeth Rounis",
+      "organisation": "West Middlesex University Hospital",
+      "role": "Panellist"
+    },
+    {
+      "name": "Francis Stephens",
+      "organisation": "University of Exeter",
+      "role": "Panellist"
+    },
+    {
+      "name": "Geor Bakker",
+      "organisation": "Amacrine Scientific Consulting Amsterdam",
+      "role": "Panellist"
+    },
+    {
+      "name": "Gwo-tzer Ho",
+      "organisation": "University of Glasgow",
+      "role": "Panellist"
+    },
+    {
+      "name": "Iain McNeish",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jonathan Cavanagh",
+      "organisation": "University of Glasgow",
+      "role": "Panellist"
+    },
+    {
+      "name": "Mark Kearney",
+      "organisation": "University of Leeds",
+      "role": "Panellist"
+    },
+    {
+      "name": "Martin Davey",
+      "organisation": "University of Warwick",
+      "role": "Panellist"
+    },
+    {
+      "name": "Melanie Madhani",
+      "organisation": "Smith & Nephew",
+      "role": "Panellist"
+    },
+    {
+      "name": "Nigel Stallard",
+      "organisation": "University of Warwick",
+      "role": "Panellist"
+    },
+    {
+      "name": "Roger Thompson",
+      "organisation": "University of Sheffield",
+      "role": "Panellist"
+    },
+    {
+      "name": "Samira Lakhal-Littleton",
+      "organisation": "Oxford University",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sara Brown",
+      "organisation": "University of Edinburgh",
+      "role": "Panellist"
+    },
+    {
+      "name": "Caroline Haig",
+      "organisation": "University of Glasgow",
+      "role": "Associate"
+    },
+    {
+      "name": "Vivetha Pooranachandran",
+      "organisation": "Middlesex University",
+      "role": "Associate"
+    }
+  ],
+  "count_of_applications": "9",
+  "count_of_awards": "5",
+  "comments": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred."
+}

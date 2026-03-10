@@ -1,0 +1,70 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow-on Funding Translating Cultures Highlight - July 2017 Meeting",
+  "year": "2017",
+  "meeting_date": "2017-07",
+  "source_file": "Follow-on Funding for Impact and Engagement, Translating Cultures Highlight Notice, July 2017 Meeting.xlsx",
+  "count_of_applications": "8",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/R004579/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Raquel de Pedro Ricoy",
+      "holding_organisation": "Heriot-Watt University",
+      "grant_title": "Improving women's lives through the role of female social interpreters in rural Peru"
+    },
+    {
+      "application_reference": "AH/R004773/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Feargal Mac Ionnrachtaigh",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "The F\u00e9ile Journey at 30: Translating Culture through Community Festivals"
+    },
+    {
+      "application_reference": "AH/R004617/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Giovanna Fassetta",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "The impact of language. Collaborating across borders to the design, development and promotion of an Online Palestinian Arabic Course"
+    },
+    {
+      "application_reference": "AH/R004781/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jane Andrews",
+      "holding_organisation": "University of the West of England",
+      "grant_title": "Creating Welcoming Learning Environments: Disseminating Arts-Based Approaches to Including All Learners in Their Education"
+    },
+    {
+      "application_reference": "AH/R004714/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Barbara Spadaro",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Translating an Exhibition. Co-producing Local Responses to Transnational Research."
+    },
+    {
+      "application_reference": "AH/R003750/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Alys Young",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Translating the Deaf Self: engagement and exploration through artistic transformations"
+    },
+    {
+      "application_reference": "AH/R004676/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R004692/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

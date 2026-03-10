@@ -1,0 +1,241 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Innovation Disaster Risk Financing (DRF) September 2017",
+  "source_file": "NERC-061021-InnovationDisasterRiskFinancing-FundingOutcomes-Sept2017.pdf",
+  "count_of_applications": "22",
+  "count_of_awards": "7",
+  "year": "2017",
+  "applications": [
+    {
+      "application_reference": "NE/R014116/1",
+      "ranking": "17",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R014272/1",
+      "ranking": "16",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R014094/1",
+      "ranking": "16",
+      "score": "3",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R01423X/1",
+      "ranking": "15",
+      "score": "4",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R014264/1",
+      "ranking": "14",
+      "score": "5",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R014329/1",
+      "ranking": "13",
+      "score": "6",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R014361/1",
+      "ranking": "12",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R014043/1",
+      "outcome": "Unsuccessful",
+      "ranking": "12",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/R014302/1",
+      "outcome": "Unsuccessful",
+      "ranking": "12",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/R014299/1",
+      "outcome": "Unsuccessful",
+      "ranking": "11",
+      "score": "10"
+    },
+    {
+      "application_reference": "NE/R014353/1",
+      "outcome": "Unsuccessful",
+      "ranking": "11",
+      "score": "11"
+    },
+    {
+      "application_reference": "NE/R014345/1",
+      "outcome": "Unsuccessful",
+      "ranking": "11",
+      "score": "12"
+    },
+    {
+      "application_reference": "NE/R014310/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "13"
+    },
+    {
+      "application_reference": "NE/R01437X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "14"
+    },
+    {
+      "application_reference": "NE/R014051/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "15"
+    },
+    {
+      "application_reference": "NE/R014175/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "16"
+    },
+    {
+      "application_reference": "NE/R014205/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "17"
+    },
+    {
+      "application_reference": "NE/R014256/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "18"
+    },
+    {
+      "application_reference": "NE/R014388/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "19"
+    },
+    {
+      "application_reference": "NE/R01406X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "20"
+    },
+    {
+      "application_reference": "NE/R014191/1",
+      "outcome": "Unsuccessful",
+      "ranking": "0",
+      "score": "21"
+    },
+    {
+      "application_reference": "NE/R014337/1",
+      "outcome": "Unsuccessful",
+      "ranking": "0",
+      "score": "22"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Rob MacKenzie",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Antoine Bavandi World",
+      "role": "Member",
+      "organisation": "Bank"
+    },
+    {
+      "name": "Andrea Camargo",
+      "role": "Member",
+      "organisation": "MiCRO"
+    },
+    {
+      "name": "Daniel Clarke Government",
+      "role": "Member",
+      "organisation": "Actuary’s Department"
+    },
+    {
+      "name": "Susan Davies",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Richard Dixon",
+      "role": "Member",
+      "organisation": "CatInsight"
+    },
+    {
+      "name": "Sue Gray",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Ian Holman",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Richard Leftley",
+      "role": "Member",
+      "organisation": "MicroEnsure"
+    },
+    {
+      "name": "Robert Lensink",
+      "role": "Member",
+      "organisation": "University of Groningen"
+    },
+    {
+      "name": "Qiuhua Liang",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Thomas Loster Munich Re",
+      "role": "Member",
+      "organisation": "Foundation"
+    },
+    {
+      "name": "Iris Möller",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Nick Moody",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Aaron Oxley Results",
+      "role": "Member",
+      "organisation": "UK"
+    },
+    {
+      "name": "Pablo Suarez Red Cross",
+      "role": "Member",
+      "organisation": "Red Crescent Climate Centre"
+    },
+    {
+      "name": "Swenja Surminski",
+      "role": "Member",
+      "organisation": "London School of Economics"
+    },
+    {
+      "name": "Lena Weingartner",
+      "role": "Member",
+      "organisation": "Overseas Development Institute"
+    },
+    {
+      "name": "Simon Young",
+      "role": "Member",
+      "organisation": "GeoSY Ltd"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2017/Building resilience to natural disasters using financial instruments - September 2017.pdf",
+  "meeting_date": "Monday 20 November 2017"
+}

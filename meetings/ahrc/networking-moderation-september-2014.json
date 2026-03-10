@@ -1,0 +1,115 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Networking Moderation September 2014",
+  "year": "2014",
+  "meeting_date": "2014-09",
+  "source_file": "Networking Moderation September 2014.xlsx",
+  "count_of_applications": "17",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/M008061/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Aleksander Kolkowski",
+      "holding_organisation": "Science Museum Group",
+      "grant_title": "Music, Noise and Silence: Building Engagement in the Culture of Science and Music"
+    },
+    {
+      "application_reference": "AH/M005674/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Eddie Jones",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "The English monastic experience, 15th - 21st centuries: Syon Abbey at 600"
+    },
+    {
+      "application_reference": "AH/M006352/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Esther Eidinow",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Cognitive Approaches to Ancient Religious Experience"
+    },
+    {
+      "application_reference": "AH/M006883/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Ulrika Maude",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "Modernism, Medicine and the Embodied Mind: Investigating Disorders of the Self"
+    },
+    {
+      "application_reference": "AH/M008533/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Emily Katharine Grabham",
+      "holding_organisation": "University of Kent",
+      "grant_title": "Regulating Time: New Perspectives on Regulation, Law and Temporalities"
+    },
+    {
+      "application_reference": "AH/M006379/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Monica Degen",
+      "holding_organisation": "Brunel University London",
+      "grant_title": "Sensory Cities: researching, representing and curating sensory-emotional landscapes of urban environments"
+    },
+    {
+      "application_reference": "AH/M005739/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M004252/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M004783/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008002/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005313/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00399X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M006557/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008053/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00807X/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M006301/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005879/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

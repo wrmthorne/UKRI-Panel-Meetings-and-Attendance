@@ -1,0 +1,80 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Fund for Impact & Engagement, July 2014",
+  "year": "2014",
+  "meeting_date": "2014-07",
+  "source_file": "Follow-on Funding for IE Q3 2014 Meetings.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/M004937/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor John Oldfield",
+      "holding_organisation": "University of Hull",
+      "grant_title": "Child Cargo; Public engagement and learning from research into the Trans-Atlantic slave trade Abolitionists' campaign"
+    },
+    {
+      "application_reference": "AH/M003337/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M007278/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00628X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Alastair Macdonald",
+      "holding_organisation": "Glasgow School of Art",
+      "grant_title": "Vision-on: Staff Training Tool for the Prevention of Healthcare Associated Infections"
+    },
+    {
+      "application_reference": "AH/M005275/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Laura Bradley",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "The Context of Creativity: Creating New Drama and Film about East German Theatre Censorship"
+    },
+    {
+      "application_reference": "AH/M006670/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr David Studdert",
+      "holding_organisation": "Cardiff University",
+      "grant_title": "Spreading knowledge: Embedding Social media into Community"
+    },
+    {
+      "application_reference": "AH/M003469/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Tanya Bressey",
+      "holding_organisation": "University College London",
+      "grant_title": "Black Modernism: Historical geographies of cosmopolitan lives in interwar London"
+    },
+    {
+      "application_reference": "AH/M005763/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M006875/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sara McDowell",
+      "holding_organisation": "University of Ulster",
+      "grant_title": "Connecting commemorative communities: Transforming memory-work after conflict in Northern Ireland"
+    },
+    {
+      "application_reference": "AH/M008606/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

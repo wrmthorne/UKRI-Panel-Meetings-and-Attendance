@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants Panel D, March 2015 meeting",
+  "year": "2015",
+  "meeting_date": "2015-03",
+  "source_file": "Research Grants Panel D, March 2015 meeting.xlsx",
+  "count_of_applications": "11",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/M009076/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jennifer Richards",
+      "holding_organisation": "Newcastle University",
+      "grant_title": "The Thomas Nashe Project",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M008428/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Martin Butler",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "The Oxford Edition of the Complete Works of John Marston",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M008940/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Helen Abbott",
+      "holding_organisation": "University of Sheffield",
+      "grant_title": "The Baudelaire Song Project",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M008819/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Clodagh Brook",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Interdisciplinary Italy 1900-2020: Interart/Intermedia",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/M008797/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009874/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008878/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008460/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008509/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M009416/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M011410/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

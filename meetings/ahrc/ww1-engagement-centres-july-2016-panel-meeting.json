@@ -1,0 +1,48 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "WW1 Engagement Centres, July 2016 panel meeting",
+  "year": "2016",
+  "meeting_date": "2016-07",
+  "source_file": "WW1 Engagement Centres, July 2016 meeting.xlsx",
+  "count_of_applications": "5",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P006698/1",
+      "grade": "Fundable",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Ian Grosvenor",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Voices of War and Peace - Core Centre Continuation Proposal"
+    },
+    {
+      "application_reference": "AH/P00668X/1",
+      "grade": "Fundable",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sarah Lloyd",
+      "holding_organisation": "University of Hertfordshire",
+      "grant_title": "Everyday Lives in War: First World War Engagement Centre"
+    },
+    {
+      "application_reference": "AH/P006671/1",
+      "grade": "Fundable",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Keith Lilley",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "Living Legacies 1914-18: From Past Conflict to Shared Future"
+    },
+    {
+      "application_reference": "AH/P006655/1",
+      "grade": "Fundable",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Mark Connelly",
+      "holding_organisation": "University of Kent",
+      "grant_title": "Gateways to the First World War (Phase 2)"
+    },
+    {
+      "application_reference": "AH/P006701/1",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN601",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel July 2024 – Standard Mode Late Paper",
+  "meeting_date": "2024-07-16 08:00:00",
+  "meeting_convenor": "Crook, Dr S",
+  "applications": [
+    {
+      "application_id": "APP23244",
+      "title": "PARTICLE-VIBRATION (T-PAOLA), A UK MICROGRAVITY PROJECT, DATA RETURN AND ANALYSIS",
+      "applicant": "Lappa, Professor M",
+      "lead_organisation": "University of Strathclyde",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "362956.05",
+      "award_id": "EP/U536994/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FU536994%2F1",
+      "list_name": "Main",
+      "opportunity_number": "299",
+      "opportunity_name": "EPSRC standard research grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Gee, M",
+      "role": "Chair",
+      "organisation": "National Physical Laboratory"
+    },
+    {
+      "name": "Banks, C",
+      "role": "Panellist",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Black, L",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Croxford, B",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Eastwick, C",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Edwards, C",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Higginson, R",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Hon, B",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "JENKINS, D",
+      "role": "Panellist",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Mao, K",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Mark Smales, C",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Stack, M",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "T Gethin, D",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Walker, A",
+      "role": "Panellist",
+      "organisation": ""
+    }
+  ]
+}

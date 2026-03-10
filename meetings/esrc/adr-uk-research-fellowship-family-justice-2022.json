@@ -1,0 +1,47 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ADR UK Research Fellowship: Family Justice 2022",
+  "year": "2023",
+  "meeting_date": "2023-04",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "6",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "application_reference": "ES/X011291/1",
+      "opportunity": "ADR UK Family Justice 2022",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X011399/1",
+      "opportunity": "ADR UK Family Justice 2022",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X011380/1",
+      "opportunity": "ADR UK Family Justice 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X011410/1",
+      "opportunity": "ADR UK Family Justice 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X011364/1",
+      "opportunity": "ADR UK Family Justice 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X011372/1",
+      "opportunity": "ADR UK Family Justice 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

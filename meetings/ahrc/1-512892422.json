@@ -1,0 +1,322 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-512892422",
+  "meeting_name": "AHRC UK-Ireland Digital Humanities Research Networking April 2020",
+  "meeting_date": "20200514",
+  "applications": [
+    {
+      "application_id": "AH/V00199X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Caroline Ann Bassett",
+      "project": "Intersections: Feminism, Technology and Digital Humanities",
+      "research_organisation": "University of Cambridge",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V002163/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Jane Winters",
+      "project": "UK-EI Digital Humanities Association: a network for research capacity enhancement",
+      "research_organisation": "University of London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V00235X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Gregory Toner",
+      "project": "Developing a Digital Framework for the Medieval Gaelic World",
+      "research_organisation": "Queen's University of Belfast",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V002341/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lise Jaillant",
+      "project": "AURA (Archives in the UK/ Republic of Ireland & AI): Bringing together Digital Humanists, Computer Scientists & stakeholders to unlock cultural assets",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V002333/1",
+      "route": "Standard",
+      "lead_applicant": "Ms Sophie Chessum",
+      "project": "3D CRAFT: Digitally recrafting lost interiors in Britain and Ireland",
+      "research_organisation": "The National Trust",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V002260/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Lorna Hughes",
+      "project": "IIIF for Research (IIIF4R) Network",
+      "research_organisation": "University of Glasgow",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V002066/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Shane O'Sullivan",
+      "project": "Make Film History - Opening up the Archives to Young Filmmakers",
+      "research_organisation": "Kingston University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V002406/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Andrew Stephen Wilson",
+      "project": "Communicating Hidden Archaeological Monuments and Heritage Landscapes to Different Audiences through Advanced Digital Technologies",
+      "research_organisation": "University of Bradford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V002287/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Rosalind Ballaster",
+      "project": "Digital Edgeworth Network",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V002376/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Andrew Mackillop",
+      "project": "Comparing and Combining Early Modern Irish and Scottish Land Records: New Transkribus and Natural Language Processing Approaches",
+      "research_organisation": "University of Glasgow",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/V002279/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ruth Elizabeth Gibson",
+      "project": "Experience together: a live visceral sense of dance performance across the internet",
+      "research_organisation": "Coventry University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/V002201/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ine Jacobs",
+      "project": "Premodern Digital Cultural Heritage: Networking Open-Access Image Repositories of Ancient and Medieval Content",
+      "research_organisation": "University of Oxford",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/V002228/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/V00204X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/V00218X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/V002392/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/V00221X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/V002414/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/V002104/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/V002449/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/V002236/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "1",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002244/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002252/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002295/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002309/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002325/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002368/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "1",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002384/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V002465/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Paul Richard Dryburgh",
+      "organisation": "The National Archives",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Paul Spencer Ell",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Alice Bell",
+      "organisation": "Canterbury Christ Church University",
+      "role": "Member"
+    }
+  ]
+}

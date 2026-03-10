@@ -1,0 +1,36 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-425567613",
+  "meeting_name": "UKRI GCRF Education in Conflict Crisis EoI Apr 2019",
+  "meeting_date": "20190513",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Professor Charles Forsdick",
+      "organisation": "Bournemouth University",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Madhu Krishnan",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Michele Schweisfurth",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Olivette Otele",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Tejendra Jnawali Pherali",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    }
+  ]
+}

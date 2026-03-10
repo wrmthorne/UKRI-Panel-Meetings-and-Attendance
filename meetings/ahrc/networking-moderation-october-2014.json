@@ -1,0 +1,113 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Networking Moderation October 2014",
+  "year": "2014",
+  "meeting_date": "2014-10",
+  "source_file": "Networking Moderation October 2014.xlsx",
+  "count_of_applications": "16",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/M008312/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Edward Allington",
+      "holding_organisation": "University College London",
+      "grant_title": "Modern Japanese Sculpture Network"
+    },
+    {
+      "application_reference": "AH/M00872X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Laura Brooks",
+      "holding_organisation": "University of Southampton",
+      "grant_title": "Sound Heritage"
+    },
+    {
+      "application_reference": "AH/M003973/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr David Grumett",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Church Network Responses to Poverty"
+    },
+    {
+      "application_reference": "AH/M006395/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sophie Gibb",
+      "holding_organisation": "Durham University",
+      "grant_title": "Emergence: Where is the Evidence?"
+    },
+    {
+      "application_reference": "AH/M006336/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Erik Knudsen",
+      "holding_organisation": "University of Salford",
+      "grant_title": "StoryLab: International Film Development Research Network"
+    },
+    {
+      "application_reference": "AH/M008185/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Andrey Rosowsky",
+      "holding_organisation": "University of Sheffield",
+      "grant_title": "Heavenly acts: aspects of performance through an interdisciplinary lens"
+    },
+    {
+      "application_reference": "AH/M008495/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Philip Shaw",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "Passions of War: Cross-disiplinary Perspectives on Gender, Sexuality and Conflict"
+    },
+    {
+      "application_reference": "AH/M007960/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008673/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M007987/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M006689/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M007995/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M006549/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008371/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M008150/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M006697/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow-on Funding Q1 2017 (February)",
+  "year": "2017",
+  "source_file": "Follow-on Funding for Impact and Engagement Q1 2017 Meetings.xlsx",
+  "count_of_applications": "8",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P009360/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Daniel Grimley",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Digital Delius: Interpretation, Performance, and Analysis"
+    },
+    {
+      "application_reference": "AH/P01352X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Thomas McKean",
+      "holding_organisation": "University of Aberdeen",
+      "grant_title": "Integrating and Engaging with the J. M. Carpenter Collection of Traditional Song and Drama as part of the Vaughan Williams Library's Digital Archive"
+    },
+    {
+      "application_reference": "AH/P01321X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Emily Caston",
+      "holding_organisation": "University of Portsmouth",
+      "grant_title": "Dancing, Drawing, and Dreaming: Presenting Fifty Years of British Music Video innovation on the global stage."
+    },
+    {
+      "application_reference": "AH/P009840/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014046/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Carol Tully",
+      "holding_organisation": "Bangor University",
+      "grant_title": "Travellers to Wales"
+    },
+    {
+      "application_reference": "AH/P013678/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Anna Woodham",
+      "holding_organisation": "King's College London",
+      "grant_title": "Integrating Forms of Care: Building Communities of Practice around Reserve Collections"
+    },
+    {
+      "application_reference": "AH/P014194/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sally Frampton",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Mind-Boggling Medical History"
+    },
+    {
+      "application_reference": "AH/R000026/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr David Studdert",
+      "holding_organisation": "Cardiff University",
+      "grant_title": "Using a co-production method to engage with local history: linking Museums and local history Facebook groups."
+    }
+  ]
+}

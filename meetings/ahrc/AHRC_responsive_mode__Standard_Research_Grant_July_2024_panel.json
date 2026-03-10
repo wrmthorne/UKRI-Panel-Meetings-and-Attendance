@@ -1,0 +1,279 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "AHRC responsive mode: Standard Research Grant July 2024 panel",
+  "applications": [
+    {
+      "application_id": "24384",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "35251",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "4"
+    },
+    {
+      "application_id": "20836",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "26584",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "22430",
+      "title": "",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "20596",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "36504",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "20321",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "20673",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "11"
+    },
+    {
+      "application_id": "22697",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "12"
+    },
+    {
+      "application_id": "21088",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "13"
+    },
+    {
+      "application_id": "18818",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "14"
+    },
+    {
+      "application_id": "23957",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "15"
+    },
+    {
+      "application_id": "22055",
+      "title": "100 Years of The Well of Loneliness",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jana Funke",
+      "lead_organisation": "University of Exeter",
+      "rank": "1"
+    },
+    {
+      "application_id": "30069",
+      "title": "Revision of the Anglo-Noman Dictionary (Letter V and Consolidation)",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Geert De Wilde",
+      "lead_organisation": "Aberystwyth University",
+      "rank": "2"
+    },
+    {
+      "application_id": "25510",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "35329",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "36624",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "25347",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "22093",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "22346",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "30161",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "20922",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Unknown",
+      "organisation": "Unknown",
+      "role": ""
+    },
+    {
+      "name": "Andrew Church",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "burkhard SCHAFER",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr David Coyles",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dr Natalie Wall",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Graham Saunders",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Lucia Nagib",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Mark Maltby",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

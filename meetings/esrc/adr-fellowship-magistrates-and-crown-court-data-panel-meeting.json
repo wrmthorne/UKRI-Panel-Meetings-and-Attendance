@@ -1,0 +1,83 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ADR Fellowship Magistrates and Crown Court Data Panel Meeting",
+  "year": "2021",
+  "meeting_date": "2021-01",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "12",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "application_reference": "ES/V015656/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/V015575/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015613/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015583/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/V015524/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015567/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015532/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015516/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015591/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V01563X/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015648/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/V015478/1",
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

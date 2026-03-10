@@ -1,0 +1,105 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow-on Funding Highlight Notice: Cultural Value, March 2017 Meeting",
+  "year": "2017",
+  "meeting_date": "2017-03",
+  "source_file": "Follow-on Funding for Impact and Engagement, Cultural Value Highlight, March 2017.xlsx",
+  "count_of_applications": "15",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P014704/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Joanna Kate Robinson",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Citizen Scholarship in Nottingham: understanding the value of engaging users with heritage and culture"
+    },
+    {
+      "application_reference": "AH/P014658/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Paul Heritage",
+      "holding_organisation": "Queen Mary, University of London",
+      "grant_title": "Relative Values"
+    },
+    {
+      "application_reference": "AH/P014623/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rebecca Gordon-Nesbitt",
+      "holding_organisation": "King's College London",
+      "grant_title": "Increasing Recognition of the Value of Culture to Health and Wellbeing in Policy and Practice"
+    },
+    {
+      "application_reference": "AH/P014356/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Philip Maurice Davis",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Co-creating online literary resources to build a national future for reader volunteering and a real-world legacy of the Cultural Value Project"
+    },
+    {
+      "application_reference": "AH/P014666/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Eric Jensen",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Embedding and demonstrating the value of technology-enhanced cultural impact measurement for arts and culture organisations"
+    },
+    {
+      "application_reference": "AH/P014453/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Sam Turner",
+      "holding_organisation": "Newcastle University",
+      "grant_title": "Co-creating heritage: bottom-up planning for heritage management in rural areas"
+    },
+    {
+      "application_reference": "AH/P014429/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014445/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014550/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014488/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014542/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P01464X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014682/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014585/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014674/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2018,
+  "meeting_reference": "1-334702313",
+  "meeting_name": "Research Networking February 2018",
+  "meeting_date": "20180212",
+  "applications": [
+    {
+      "application_id": "AH/R008868/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Henry James Miller",
+      "project": "Petitions and Petitioning from the Medieval Period to the Present",
+      "research_organisation": "Durham University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/R013160/1",
+      "route": "Standard",
+      "lead_applicant": "Dr John Child",
+      "project": "Criminal Law Reform Now Network",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/R007497/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Emma Shercliff",
+      "project": "Stitching Together",
+      "research_organisation": "Arts University Bournemouth",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/R008329/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Kate Ince",
+      "project": "Serge Daney and queer cinephilia",
+      "research_organisation": "University of Birmingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/R013063/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alison Sheridan",
+      "project": "Gold in Britain's auriferous regions, 2450-800 BC: towards a coherent Research Framework and Strategy",
+      "research_organisation": "National Museums of Scotland",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/R013144/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ricki Ricki O'Rawe",
+      "project": "Women, Religion, and Culture in Spain and Spanish America (1900-2000)",
+      "research_organisation": "Queen's University of Belfast",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/R00868X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Maria Fusco",
+      "project": "De-localising Dialect",
+      "research_organisation": "Northumbria University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/R01289X/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Anna Marie Roos",
+      "project": "Collective Wisdom: Collecting in the Early Modern Academy",
+      "research_organisation": "University of Lincoln",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/R008752/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/R008582/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/R012784/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/R012016/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/R008892/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/R01325X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/R008140/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/R012091/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Giorgio Riello",
+      "organisation": "European University Institute",
+      "role": "Member"
+    }
+  ]
+}

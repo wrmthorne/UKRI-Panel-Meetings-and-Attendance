@@ -1,0 +1,167 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-825253594",
+  "meeting_name": "Research Networking July 2022",
+  "meeting_date": "20220701",
+  "applications": [
+    {
+      "application_id": "AH/X004074/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Stephanie Pitts",
+      "project": "Networked Innovation in Classical Music: Collaborative Ecologies in Creative Cities",
+      "research_organisation": "University of Sheffield",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X003825/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Sarah Cooper",
+      "project": "Global Circulations of Film Theory",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X004031/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Kate Hill",
+      "project": "Making Museum Professionals, 1850-the present",
+      "research_organisation": "University of Lincoln",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W011271/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Hannah Roche",
+      "project": "Coercive Control: From Literature into Law",
+      "research_organisation": "University of York",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X003213/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Edward B Denison",
+      "project": "MoHoA - Modern Heritage in the Anthropocene",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X003299/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alice V. M. Samson",
+      "project": "Connecting archaeology, indigeneity, and community in the Caribbean",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X004260/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Maria Alejandra Lujan Escalante",
+      "project": "Refugee Transition Network: City as commons and transition to sustainable refugee futures",
+      "research_organisation": "University of the Arts London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/X004236/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Helen Fiona Johnson",
+      "project": "The Everyday Creativity Network: Developing Understandings, Methods and Applications Across Boundaries",
+      "research_organisation": "University of Brighton",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X004368/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Kaori Kaori Nagai",
+      "project": "Rethinking Fables in the Age of Global Environmental Crisis",
+      "research_organisation": "University of Kent",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/X003922/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/X003884/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/W011166/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X001105/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X003302/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X003744/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Einar Thorsen",
+      "organisation": "University of St Andrews",
+      "role": "Moderator"
+    }
+  ]
+}

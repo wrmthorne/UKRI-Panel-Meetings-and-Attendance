@@ -1,0 +1,227 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2023,
+  "meeting_reference": "1-998740231",
+  "meeting_name": "Follow on Funding Sep 2023",
+  "meeting_date": "20230912",
+  "applications": [
+    {
+      "application_id": "AH/Y001877/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lucy Jane Frith",
+      "project": "Working with hospital-based staff wellbeing professionals to address moral distress and moral injury amongst healthcare staff",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/Y002946/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ed McKeon",
+      "project": "Musical Affordances and Counterfactuals",
+      "research_organisation": "Science Museum Group",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/Y003748/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Aaron Williamon",
+      "project": "HEartS Follow On: Enhancing the Future of Creative Health and the Health of Creative Professionals",
+      "research_organisation": "Royal College of Music",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/Y004302/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Nicola Kerrie Shaughnessy",
+      "project": "Playing Apart online",
+      "research_organisation": "University of Kent",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/Y005023/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jacqueline Michelle Willson",
+      "project": "Self-worth as a community asset: co-authoring and extending burlesque's protected and deregulated spaces as good practice",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/Y004760/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Kirrily Pells",
+      "project": "Nkwihoreze: Intergenerational Creative Arts and Healing in Rwanda",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/Y004256/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Tom Fitzpatrick Wright",
+      "project": "Challenging Oracy and Citizenship Myths",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/Y001885/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/Y00535X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/Y003667/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/Y004647/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/Y005058/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/Y005031/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/Y00454X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/Y005333/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/Y004191/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/Y001796/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/Y00311X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/Y003713/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ms Chante St Clair Inglis",
+      "organisation": "The Royal College of Surgeons of Edin",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Kyungeun Sung",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Manuella Ruth Blackburn",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Sean Cunningham",
+      "organisation": "The National Archives",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Ting Xu",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    }
+  ]
+}

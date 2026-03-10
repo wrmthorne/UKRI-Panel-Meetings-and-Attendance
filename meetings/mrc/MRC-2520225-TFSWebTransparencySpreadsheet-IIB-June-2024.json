@@ -1,0 +1,151 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Infections and immunity Board 27-28 June 2024",
+  "meeting_date": "27/07/2024",
+  "source_file": "Infections-and-immunity-board/MRC-2520225-TFSWebTransparencySpreadsheet-IIB-June-2024.xlsx",
+  "count_of_applications": "28",
+  "count_of_awards": "0",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 26 out of 54 applications did not pass an initial shortlisting stage and were not considered further.",
+  "applications": [
+    {
+      "application_reference": "APP25185",
+      "score": "9",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP27790",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP26762",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP26345",
+      "score": "6",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP25160",
+      "score": "5",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP22874",
+      "score": "9",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP27616",
+      "score": "8",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP25883",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP21713",
+      "score": "6",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP22787",
+      "score": "9",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP27340",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP25737",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP21300",
+      "score": "6",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP20824",
+      "score": "9",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP26290",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP25033",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP20535",
+      "score": "9",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP25631",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP23678",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP24782",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP22217",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP24161",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP21780",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP23858",
+      "score": "8",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP21773",
+      "score": "7",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP22911",
+      "score": "8",
+      "outcome": "Award"
+    },
+    {
+      "application_reference": "APP20515",
+      "score": "8",
+      "outcome": "Decline"
+    },
+    {
+      "application_reference": "APP19988",
+      "score": "8",
+      "outcome": "Award"
+    }
+  ]
+}

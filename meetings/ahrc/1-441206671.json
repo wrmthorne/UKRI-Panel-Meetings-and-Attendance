@@ -1,0 +1,457 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-441206671",
+  "meeting_name": "Research Grants - September 2019",
+  "meeting_date": "20190902",
+  "applications": [
+    {
+      "application_id": "AH/S013067/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Rachel Woodward",
+      "project": "Turning Fylingdales inside out: making practice visible at the UK's ballistic missile early warning and space monitoring station.l",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T001895/1",
+      "route": "Standard",
+      "lead_applicant": "Mrs Jessica Lucy Harrison-Hall",
+      "project": "Cultural Creativity in Qing China 1796-1912",
+      "research_organisation": "The British Museum",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T002409/1",
+      "route": "Standard",
+      "lead_applicant": "Professor David Mattingly",
+      "project": "OasCiv: Making Oasis Civilisation in the Moroccan Sahara",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T001631/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Seren Griffiths",
+      "project": "Third and fourth millennia Ireland and Britain: a history of Major social change Explored (TIME)",
+      "research_organisation": "Manchester Metropolitan University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T002859/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Neil Halford Bermel",
+      "project": "Feast and Famine: Confronting Overabundance and Defectivity in Language",
+      "research_organisation": "University of Sheffield",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/T002344/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jacqueline Michelle Willson",
+      "project": "Fabulous Femininities: Extravagant Costume and Transformative Thresholds",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T002638/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Philip Alexander Ebert",
+      "project": "Varieties of Risk",
+      "research_organisation": "University of Stirling",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T00276X/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Simone Natale",
+      "project": "Circuits of practice: Narrating modern computing in museum environments",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T001976/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/T003014/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T003146/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/T003707/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/T002875/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Sharon Prendeville",
+      "project": "Counter-framing design: Radical Design Practices for Sustainability and Social Change",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/T001968/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/T003235/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/T000902/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/T002751/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/T000937/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/T002670/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/T003669/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/T001860/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/T003030/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Aki Pasoulas",
+      "project": "A Sonic Palimpsest: Revisiting Chatham Historic Dockyards",
+      "research_organisation": "University of Kent",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/T003138/1",
+      "route": "Early Career",
+      "lead_applicant": "Dr Christopher Vaughan",
+      "project": "Regionalism in East Africa c. 1900 to the present",
+      "research_organisation": "Liverpool John Moores University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "23"
+    },
+    {
+      "application_id": "AH/T001933/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "24"
+    },
+    {
+      "application_id": "AH/T003642/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "25"
+    },
+    {
+      "application_id": "AH/T002042/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "26"
+    },
+    {
+      "application_id": "AH/T002514/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "27"
+    },
+    {
+      "application_id": "AH/T000325/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "28"
+    },
+    {
+      "application_id": "AH/T002883/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "29"
+    },
+    {
+      "application_id": "AH/T001879/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "30"
+    },
+    {
+      "application_id": "AH/T002786/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "31"
+    },
+    {
+      "application_id": "AH/T001992/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "32"
+    },
+    {
+      "application_id": "AH/T00181X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "33"
+    },
+    {
+      "application_id": "AH/T003677/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "34"
+    },
+    {
+      "application_id": "AH/T002891/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "35"
+    },
+    {
+      "application_id": "AH/T002123/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "36"
+    },
+    {
+      "application_id": "AH/T003081/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "37"
+    },
+    {
+      "application_id": "AH/T001070/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "38"
+    },
+    {
+      "application_id": "AH/T002913/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Allan Sudlow",
+      "organisation": "British Library",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Adam Stock",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Anna Pakes",
+      "organisation": "Roehampton University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Edward Paleit",
+      "organisation": "University of Salford",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Joanne Louise Buckberry",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Kerri Louise Andrews",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Anna McMullan",
+      "organisation": "University of Reading",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Lucy Noakes",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Nathan Abrams",
+      "organisation": "Bangor University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Ruth Ann McElroy",
+      "organisation": "Bangor University",
+      "role": "Member"
+    }
+  ]
+}

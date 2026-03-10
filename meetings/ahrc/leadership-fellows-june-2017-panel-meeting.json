@@ -1,0 +1,163 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Leadership Fellows, June 2017 panel meeting",
+  "year": "2017",
+  "meeting_date": "2017-06",
+  "source_file": "1706-fellowships-meeting.xlsx",
+  "count_of_applications": "24",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/R00143X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Galina Miazhevich",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "'A Quiet Revolution?' Discursive Representations of Non-Heteronormative Sexuality",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P014070/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicholas Jones",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Higher-order Metaphysics",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P014577/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Timothy Daniel Haines",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "Broken Ground: Earthquakes, Colonialism and Nationalism in South Asia, c. 1900-1960",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P01495X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Levi Roach",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Forging Memory: Falsified Documents and Institutional History in Europe, c. 970-1020",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P008720/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Emile Chabal",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "An intellectual biography of Eric Hobsbawm",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P014089/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Christopher Lucas",
+      "holding_organisation": "School of Oriental & African Studies",
+      "grant_title": "Arabic and contact-induced language change",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P009026/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr David Sergeant",
+      "holding_organisation": "University of Plymouth",
+      "grant_title": "Imagining Alternatives: Utopia, Community and the Novel, 1880-2015",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P006582/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr David James Gill",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Unpaid Debts: Rethinking the Causes and Consequences of Sovereign Default",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P014828/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Saskia Warren",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Geographies of Muslim Women and the UK Cultural and Creative Economy",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P014941/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Andrew Wood",
+      "holding_organisation": "Durham University",
+      "grant_title": "Social relations and everyday life in England, 1500-1640",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R001480/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Katherine Ebury",
+      "holding_organisation": "University of Sheffield",
+      "grant_title": "'Literature, Psychoanalysis and the Death Penalty, 1900-1950'",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/R000107/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013546/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014836/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000956/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014003/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014321/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P015107/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013767/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014437/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R002495/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R002576/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014801/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001456/1",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

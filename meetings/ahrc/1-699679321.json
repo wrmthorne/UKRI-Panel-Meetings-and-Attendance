@@ -1,0 +1,177 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-699679321",
+  "meeting_name": "Research Networking - May 2021",
+  "meeting_date": "20210528",
+  "applications": [
+    {
+      "application_id": "AH/W000083/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Christopher Thomas",
+      "project": "Simone Weil Research Network United Kingdom",
+      "research_organisation": "Manchester Metropolitan University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V014285/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Louise Devoy",
+      "project": "Observatory Sites and Networks since 1780",
+      "research_organisation": "National Maritime Museum",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W000520/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Robert Peter Smith",
+      "project": "Stages of Violence Research Network",
+      "research_organisation": "University of Warwick",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V015729/1",
+      "route": "Standard",
+      "lead_applicant": "Professor David Swann",
+      "project": "Net-Zero Design Research Network",
+      "research_organisation": "Sheffield Hallam University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V015656/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Emily Caston",
+      "project": "The Hidden Screen Industries",
+      "research_organisation": "The University of West London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/W000369/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Laura Ann Hamer",
+      "project": "The Women's Musical Leadership Online Network (WMLON)",
+      "research_organisation": "The Open University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V014846/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Emily Zobel Marshall",
+      "project": "Women in Caribbean Carnival",
+      "research_organisation": "Leeds Beckett University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V014668/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Oded Ben-Tal",
+      "project": "Datasounds, datasets and datasense: Unboxing the hidden layers between musical data, knowledge and creativity",
+      "research_organisation": "Kingston University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V015095/1",
+      "route": "Standard",
+      "lead_applicant": "Professor David John Smith",
+      "project": "Digital directions for collected editions: keyboard music by British musicians before c.1700",
+      "research_organisation": "Northumbria University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V014803/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/W000229/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/V01501X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/W000180/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/V012746/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/V015249/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/V015486/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Moderator"
+    }
+  ]
+}

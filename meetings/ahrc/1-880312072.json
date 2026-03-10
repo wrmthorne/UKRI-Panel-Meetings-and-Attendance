@@ -1,0 +1,107 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-880312072",
+  "meeting_name": "Research Networking November 2022",
+  "meeting_date": "20221101",
+  "applications": [
+    {
+      "application_id": "AH/X009106/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mihaela Mihai",
+      "project": "Interdisciplinary Network on Environmental Emotions: Theory, Testimony, Politics",
+      "research_organisation": "University of Edinburgh",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X00760X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jane Desborough",
+      "project": "Science through the keyhole: revealing scientific practices through workspaces",
+      "research_organisation": "Science Museum Group",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X009343/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Cangbai Wang",
+      "project": "Global Diasporic Chinese Museums Network Initiative",
+      "research_organisation": "University of Westminster",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X007871/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Abu Sadat Muhammad Sayem",
+      "project": "Digital Fashion Network (DFN)",
+      "research_organisation": "Manchester Metropolitan University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/X006948/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ben Nichols",
+      "project": "Beyond Radical: Queer Theory and the UK",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X00662X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rosemary Golding",
+      "project": "Psychiatry And The Arts In Nineteenth-Century Britain",
+      "research_organisation": "The Open University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/X004805/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X009211/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X010740/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Wayne Michael Martin",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Moderator"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN468",
+  "meeting_name": "OPP438: EPSRC Strengthen the cyber security research ecosystem with a NetworkPlus Expert Review",
+  "meeting_date": "2024-06-27 09:00:00",
+  "meeting_convenor": "Smith, Mr G",
+  "applications": [
+    {
+      "application_id": "APP31886",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "438",
+      "opportunity_name": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP33012",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "438",
+      "opportunity_name": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP34496",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "438",
+      "opportunity_name": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP33487",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "438",
+      "opportunity_name": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Parr, G",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Bandara, A",
+      "role": "Panellist",
+      "organisation": "The Open University"
+    },
+    {
+      "name": "Benson, V",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "David McIlhatton, P",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Searle, N",
+      "role": "Panellist",
+      "organisation": "Goldsmiths, University of London"
+    }
+  ]
+}

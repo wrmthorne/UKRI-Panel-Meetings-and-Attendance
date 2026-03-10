@@ -1,0 +1,89 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Design Research Fellowships, June 2014",
+  "year": "2014",
+  "meeting_date": "2014-06",
+  "source_file": "Design Research Fellowships June 2014.xlsx",
+  "count_of_applications": "13",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/M005348/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Paul Rodgers",
+      "holding_organisation": "Northumbria University",
+      "grant_title": "Designing Innovative Interventions with People Living with Dementia"
+    },
+    {
+      "application_reference": "AH/M005445/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Lucy Kimbell",
+      "holding_organisation": "University of Brighton",
+      "grant_title": "Co-designing an evaluation framework for design in the context of policy"
+    },
+    {
+      "application_reference": "AH/M005399/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Marco Aurisicchio",
+      "holding_organisation": "Imperial College London",
+      "grant_title": "Design of Orthopaedic surgery Services (DOSE)"
+    },
+    {
+      "application_reference": "AH/M005364/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Catherine Stones",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Innovating Infographics in Public Health"
+    },
+    {
+      "application_reference": "AH/M005453/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M00547X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005380/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005402/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005410/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005283/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005372/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005461/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M005305/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

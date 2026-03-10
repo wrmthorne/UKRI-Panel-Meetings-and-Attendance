@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1050",
+  "meeting_name": "EPSRC Engineering Programme Grant Interview Panel - 1 and 2 April 2025",
+  "meeting_date": "2025-04-01 10:00:00",
+  "meeting_convenor": "Brown, Dr Z",
+  "applications": [
+    {
+      "application_id": "APP52459",
+      "title": "REMODEL",
+      "applicant": "Hassan, O",
+      "lead_organisation": "Swansea University",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "6808417.67",
+      "award_id": "UKRI1666",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1666",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP53231",
+      "title": "Frontiers in Electromagnetic Non Destructive Evaluation Research (FENDER)",
+      "applicant": "Peyton, A",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "5314217.6",
+      "award_id": "UKRI1667",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1667",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP52724",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP52512",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Conway, P",
+      "role": "Chair",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Butler, D",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Eastwick, C",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Ireland, P",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Morgan, H",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    }
+  ]
+}

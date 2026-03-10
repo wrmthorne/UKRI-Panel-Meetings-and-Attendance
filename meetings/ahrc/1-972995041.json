@@ -1,0 +1,142 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2023,
+  "meeting_reference": "1-972995041",
+  "meeting_name": "Follow on Funding April 2023",
+  "meeting_date": "20230427",
+  "applications": [
+    {
+      "application_id": "AH/Y001192/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Sarah Jackson",
+      "project": "Voice Notes: Creativity, Technology and Exile in Nottingham and Slemani UNESCO Cities of Literature",
+      "research_organisation": "Nottingham Trent University",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/Y001389/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Elaine Hobby",
+      "project": "Canterbury's Aphra Behn",
+      "research_organisation": "Loughborough University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X013111/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Barry Godfrey",
+      "project": "Truth-telling, film-making, and skill-building in a far northwest Australian community",
+      "research_organisation": "University of Liverpool",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X011682/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Churnjeet Mahn",
+      "project": "'White Thinking' and the failed promise of diversity in Scottish heritage",
+      "research_organisation": "University of Strathclyde",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/Y000595/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Charlotte Baker",
+      "project": "Alternative Explanations for Disability: Inspiring patient-centered care among healthcare practitioners through the arts",
+      "research_organisation": "Lancaster University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/X011623/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/Y001761/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/Y001265/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/X011909/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/X01312X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/Y00096X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "11"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Dr Caroline Cornish",
+      "organisation": "Royal Botanic Gardens Kew",
+      "role": "Moderator"
+    },
+    {
+      "name": "Dr Syed Shafquat Towheed",
+      "organisation": "Norwich University of the Arts",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Lorna Hughes",
+      "organisation": "University of Glasgow",
+      "role": "Moderator"
+    },
+    {
+      "name": "Professor Xiaosong Yang",
+      "organisation": "University of St Andrews",
+      "role": "Moderator"
+    }
+  ]
+}

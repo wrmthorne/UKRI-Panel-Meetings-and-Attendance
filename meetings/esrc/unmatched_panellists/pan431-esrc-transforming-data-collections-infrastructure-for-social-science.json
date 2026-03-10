@@ -1,0 +1,77 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "PAN431 - ESRC: Transforming Data Collections Infrastructure for Social Science",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "panellists": [
+    {
+      "name": "Cristina Iannelli",
+      "organisation": "University of Edinburgh",
+      "role": "Chair"
+    },
+    {
+      "name": "Catherine Bromley",
+      "organisation": "Public Health Scotland",
+      "role": "Panellist/Deputy Chair"
+    },
+    {
+      "name": "Saya Kidby",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Alison Bowes",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    },
+    {
+      "name": "Ian Brunton-Smith",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Jonathan Burton",
+      "organisation": "University of Essex",
+      "role": "Member"
+    },
+    {
+      "name": "JD Carpentieri",
+      "organisation": "UCL",
+      "role": "Member"
+    },
+    {
+      "name": "Jenny Gibson",
+      "organisation": "University of Cambridge",
+      "role": "Member"
+    },
+    {
+      "name": "Emma Gorman",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Daniel McCulloch",
+      "organisation": "Open University",
+      "role": "Member"
+    },
+    {
+      "name": "Sally McManus",
+      "organisation": "City, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Alan Smith",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Nadia Svirydzenka",
+      "organisation": "DeMonfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Susie Weller",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    }
+  ]
+}

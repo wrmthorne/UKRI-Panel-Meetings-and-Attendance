@@ -1,0 +1,514 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Collaborative Doctoral Awards December 2015",
+  "year": "2015",
+  "meeting_date": "2015-12",
+  "source_file": "Collaborative Doctoral Awards December 2015 Meeting.xlsx",
+  "count_of_applications": "88",
+  "count_of_awards": "21",
+  "applications": [
+    {
+      "application_reference": "AH/N005333/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Joanne Fox",
+      "holding_organisation": "Durham University",
+      "grant_title": "British Newsreels at War, 1939-1945"
+    },
+    {
+      "application_reference": "AH/N005279/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jim MacPherson",
+      "holding_organisation": "University of the Highlands and Islands",
+      "grant_title": "Badenoch Textiles: Economy, Innovation and Identity in the Eighteenth Century"
+    },
+    {
+      "application_reference": "AH/N005015/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Camilla Speller",
+      "holding_organisation": "University of York",
+      "grant_title": "Digital Tools for Molecular Conservation and Heritage"
+    },
+    {
+      "application_reference": "AH/N004957/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Eleanor Robson",
+      "holding_organisation": "University College London",
+      "grant_title": "Before Virtual Reality: Visualising Ancient Sumerian Luxury in the Great Depression"
+    },
+    {
+      "application_reference": "AH/N005163/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Elizabeth Evans",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Longitudinal Analysis of Media Users' Attitudes to Changes in Digital Media Culture"
+    },
+    {
+      "application_reference": "AH/N005341/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor David Watkinson",
+      "holding_organisation": "Cardiff University",
+      "grant_title": "Functional Fires in Historic Houses: What price visitor experience?"
+    },
+    {
+      "application_reference": "AH/N004949/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Matt Hills",
+      "holding_organisation": "Aberystwyth University",
+      "grant_title": "Post-TV's Digital Audiences: Mapping Consumption via the Development and Use of an Innovative Diary-Based App"
+    },
+    {
+      "application_reference": "AH/N00485X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Hayden Lorimer",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "Skies Above, Earth Below: Mapping the Values of the Galloway Forest Dark Sky Park"
+    },
+    {
+      "application_reference": "AH/N00552X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Andrew Dewdney",
+      "holding_organisation": "London South Bank University",
+      "grant_title": "Performativity and Preservation in the Archive of Online Born-Digital Art"
+    },
+    {
+      "application_reference": "AH/N004906/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Robert Johnston",
+      "holding_organisation": "University of Sheffield",
+      "grant_title": "Snowdonia's Early Fieldscapes: reconstructing and conserving the prehistoric and Roman landscapes of northwest Wales"
+    },
+    {
+      "application_reference": "AH/N004825/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Stephanie Bunn",
+      "holding_organisation": "University of St Andrews",
+      "grant_title": "Burkett and Beyond: continuity and change in Middle Eastern felt textiles from museum collection to production and use"
+    },
+    {
+      "application_reference": "AH/N004876/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Amy Holdsworth",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "Children with Learning Disabilities as Digital Audiences"
+    },
+    {
+      "application_reference": "AH/N005570/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Christopher King",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Building a History: Exploring and Explaining Tattershall Castle, Lincolnshire"
+    },
+    {
+      "application_reference": "AH/N004892/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Ian Shaw",
+      "holding_organisation": "University of Chester",
+      "grant_title": "Contextualising textiles: using the Bolton Museum collection to explore social and international contexts of Egyptian Bronze Age-Islamic cloth."
+    },
+    {
+      "application_reference": "AH/N005511/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Karen Elizabeth Boyle",
+      "holding_organisation": "University of Stirling",
+      "grant_title": "Fandom, Media and Gender in Scotland's \"National\" Game"
+    },
+    {
+      "application_reference": "AH/N005481/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Margaret Procter",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Accounts with interest:   opening up the archives of Barclays Bank"
+    },
+    {
+      "application_reference": "AH/N005600/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Matthew Rubery",
+      "holding_organisation": "Queen Mary, University of London",
+      "grant_title": "Blindness, Disability, and Literacy in Britain"
+    },
+    {
+      "application_reference": "AH/N005295/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Hannah Knox",
+      "holding_organisation": "University College London",
+      "grant_title": "Workplace Design in the Digital Age"
+    },
+    {
+      "application_reference": "AH/N005147/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Neil Macdonald",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Learning from the past - exploring historical archives to inform future"
+    },
+    {
+      "application_reference": "AH/N004760/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Richard Peterson",
+      "holding_organisation": "University of Central Lancashire",
+      "grant_title": "Settling down around the Solway Plain: the Mesolithic/Neolithic Transition in Cumbria"
+    },
+    {
+      "application_reference": "AH/N005090/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Sarah Whatley",
+      "holding_organisation": "Coventry University",
+      "grant_title": "People Dancing: changing perceptions through inclusion and intervention"
+    },
+    {
+      "application_reference": "AH/N00549X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005058/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004914/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005562/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00518X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004612/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004817/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005023/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004981/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005554/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005589/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005260/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004582/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005422/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005228/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004884/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00504X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005104/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004787/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005368/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005287/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005082/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004574/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005112/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005155/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005317/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00535X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005465/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005538/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005651/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00566X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004809/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004833/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004922/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005066/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005139/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005236/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005376/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005406/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005457/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005503/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005643/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004566/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004868/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004930/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005201/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005244/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005449/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005635/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004744/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004795/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005325/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005384/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005546/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004965/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00499X/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005074/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005198/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005309/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005473/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005007/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00521X/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005430/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005627/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004973/1",
+      "grade": "1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005392/1",
+      "grade": "1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005597/1",
+      "grade": "1",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

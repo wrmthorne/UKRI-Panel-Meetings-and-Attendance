@@ -1,0 +1,401 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "LPIPs Phase 1 2023",
+  "year": "2023",
+  "meeting_date": "2023-09",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "65",
+  "count_of_awards": "10",
+  "applications": [
+    {
+      "application_reference": "ES/Y000226/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000528/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y00079X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y00082X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000676/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000331/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000587/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000471/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000218/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y000080/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/Y00048X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000579/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000765/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000773/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000412/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000439/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000463/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000722/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000692/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000501/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000447/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000420/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000293/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000358/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000137/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000234/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000242/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000277/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000285/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000323/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000404/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000609/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000625/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000706/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000684/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000668/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000536/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000897/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000811/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y00034X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000064/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000196/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y00017X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000188/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000145/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000730/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000560/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000382/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000366/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000099/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000714/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000641/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000749/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000757/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y00051X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000153/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000250/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000390/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000498/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y00065X/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000455/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000307/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000781/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000803/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/Y000161/1",
+      "opportunity": "LPIPs Phase 1 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Career Development Award & Senior Non-Clinical Fellowship 21 - 22 March 2017",
+  "meeting_date": "01/03/2017",
+  "source_file": "Career-development-award-and-senior-non-clinical-f/MRC-111021-CDA-SNCF-FundingOutcomes-March2017.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "9",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings. \nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 51/76 applications did not pass an initial triage stage and were not considered further. Of the 25 applications that did pass the initial triage stage, 5 applications were withdrawn by the applicants prior to the meeting and 0 applications were withdrawn by the applicants following the meeting. These figures include the two applications which were held over from the last round.",
+  "applications": [
+    {
+      "application_reference": "MR/P02209X/1",
+      "score": "10",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P020208/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P020372/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P021808/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P02226X/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P020186/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P021573/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P021999/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P022774/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P022537/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P022618/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P022030/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P022855/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P022960/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P022081/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P022405/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/P022731/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P009026/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P009352/1",
+      "score": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/P02291X/1",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

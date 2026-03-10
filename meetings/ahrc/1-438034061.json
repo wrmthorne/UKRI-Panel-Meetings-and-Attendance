@@ -1,0 +1,142 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-438034061",
+  "meeting_name": "Follow on Fund - April 2019",
+  "meeting_date": "20190517",
+  "applications": [
+    {
+      "application_id": "AH/T001372/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Paul Heritage",
+      "project": "Xingu Encounter",
+      "research_organisation": "Queen Mary University of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/S012834/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Rosalind Crone",
+      "project": "Prison History for New Learners Inside and Outside the Prison",
+      "research_organisation": "The Open University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/S012435/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Frances Lennard",
+      "project": "A living tradition: Expanding engagement with Pacific barkcloth",
+      "research_organisation": "University of Glasgow",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S010947/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Barry Godfrey",
+      "project": "Prison culture and heritage: Fremantle Prison Wall paintings and their artists",
+      "research_organisation": "University of Liverpool",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S012702/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Graeme John Gooday",
+      "project": "Electrifying Women: Understanding the Long History of Women in Engineering.",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S012230/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T001062/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/T002050/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/S011978/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/S013083/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/T001275/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Giuliana Pieri",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Hamish Fyfe",
+      "organisation": "University of South Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jane Pavitt",
+      "organisation": "Zaha Hadid Foundation",
+      "role": "Member"
+    }
+  ]
+}

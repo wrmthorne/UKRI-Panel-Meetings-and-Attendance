@@ -1,0 +1,110 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "2015 Innovation Internships Grant",
+  "source_file": "innovation-internships.pdf",
+  "count_of_applications": "20",
+  "count_of_awards": "13",
+  "year": "2015",
+  "applications": [
+    {
+      "application_reference": "NE/N012704/1",
+      "outcome": "Successful",
+      "ranking": "1",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/N012593/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012569/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012496/1",
+      "outcome": "Successful",
+      "ranking": "4",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/N012607/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N01264X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012623/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012380/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012585/1",
+      "outcome": "Successful",
+      "ranking": "9",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/N012666/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012577/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012615/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012658/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N012461/1",
+      "outcome": "Unsuccessful",
+      "ranking": "14",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/N012674/1",
+      "outcome": "Unsuccessful",
+      "ranking": "15",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/N012631/1",
+      "outcome": "Unsuccessful",
+      "ranking": "16",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/N012712/1",
+      "outcome": "Unsuccessful",
+      "ranking": "17",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/N012682/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/N012690/1",
+      "outcome": "Unsuccessful",
+      "ranking": "19",
+      "score": "3"
+    },
+    {
+      "application_reference": "NE/N012399/1",
+      "outcome": "Unsuccessful",
+      "ranking": "20",
+      "score": "2"
+    }
+  ]
+}

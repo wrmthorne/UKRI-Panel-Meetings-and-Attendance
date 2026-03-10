@@ -1,0 +1,51 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-426814001",
+  "meeting_name": "UKRI GCRF Protection in Contexts of Conflict EoI Apr 2019",
+  "meeting_date": "20190514",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Professor Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Silvia Borelli",
+      "organisation": "University of East Anglia",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Adele Diana Jones",
+      "organisation": "Writtle University College",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Eleanor Robson",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Geoffrey Scott Gilbert",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Jonathan Goodhand",
+      "organisation": "University of Suffolk",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Keith Hyams",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mark Mark Johnson",
+      "organisation": "Goldsmiths College",
+      "role": "Member"
+    }
+  ]
+}

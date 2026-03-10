@@ -1,0 +1,361 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN401",
+  "meeting_name": "EPSRC Mathematical Sciences Small Grants Panel May 2024",
+  "meeting_date": "2024-05-07 08:00:00",
+  "meeting_convenor": "Ammatmanee, Dr C",
+  "applications": [
+    {
+      "application_id": "APP28148",
+      "title": "Approaching the Birch and Swinnerton-Dyer conjecture by counting adelic points",
+      "applicant": "Wuthrich, C",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "67354.15",
+      "award_id": "UKRI071",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=071",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28315",
+      "title": "Mathematical Tools for Practical Quantum Imaging Protocols",
+      "applicant": "Kok, P",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "86153.68",
+      "award_id": "UKRI069",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=069",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28614",
+      "title": "Multi-dimensional, Multi-soliton Patch Interactions",
+      "applicant": "Turner, M",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "75432.68",
+      "award_id": "UKRI070",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=070",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP29916",
+      "title": "Rapid mixing for compact group extensions",
+      "applicant": "Pollicott, M",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "79466.22",
+      "award_id": "UKRI067",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=067",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30491",
+      "title": "Berry-Esseen bounds for the stable central limit theorem by Stein's method",
+      "applicant": "Gaunt, R",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "55055.07",
+      "award_id": "UKRI068",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=068",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27252",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27346",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP33136",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP33964",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP34686",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28129",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28371",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28752",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP29738",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30356",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP33798",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27331",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30122",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30294",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "393",
+      "opportunity_name": "EPSRC Mathematical Sciences Small Grants"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Forster, J",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Corti, A",
+      "role": "Deputy chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Andrade, J",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Castro Alvaredo, O",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "Chandler-Wilde, S",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Dunlop, C",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Garkusha, G",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Georgakopoulos, A",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Heaton, T",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Janson, N",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Letchford, A",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Maleva, O",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Vanneste, J",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    }
+  ]
+}

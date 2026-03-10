@@ -1,0 +1,91 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Career Development Award and Senior Non Clinical Fellowships 18   19 March 2015",
+  "meeting_date": null,
+  "source_file": "government_web_archive/Career Development Award and Senior Non-Clinical Fellowships 18 - 19 March 2015.xlsx",
+  "count_of_applications": "16",
+  "count_of_awards": "7",
+  "notes": null,
+  "applications": [
+    {
+      "application_reference": "MR/M02122X/1",
+      "score": "10",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M020746/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M020606/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M020541/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M021084/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M021173/1",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M020827/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M021394/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M021270/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M021238/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M020894/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M021343/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M021408/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M021157/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/M02136X/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/M021432/1",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-508505192",
+  "meeting_name": "Follow on Fund - January 2020",
+  "meeting_date": "20200120",
+  "applications": [
+    {
+      "application_id": "AH/T012765/1",
+      "route": "Standard",
+      "lead_applicant": "Professor James Thompson",
+      "project": "100 Agents of Change",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T006463/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Lucy Amelia Bell",
+      "project": "Prisoner Publishing: Supporting Rehabilitation and Reform through Innovative Writing Programmes",
+      "research_organisation": "University of Surrey",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T008938/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Kaitlynn Mendes",
+      "project": "Digital Defence & Activism Lessons: Equipping young people to navigate contemporary digital cultures in and around school",
+      "research_organisation": "University of Leicester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/T012579/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Maiken Umbach",
+      "project": "Understanding and Improving Public Engagement with Holocaust Photography",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/T006625/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/T008237/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr David Alexander Peggie",
+      "organisation": "The National Gallery",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Veronika Kapsali",
+      "organisation": "University of the Arts London",
+      "role": "Member"
+    }
+  ]
+}

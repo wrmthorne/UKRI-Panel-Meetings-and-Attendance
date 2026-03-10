@@ -1,0 +1,119 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "Research Grants and RDE Fellowships Combined Mini Panel Meeting",
+  "applications": [
+    {
+      "application_id": "AH/Y004957/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/Y00471X/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/Y002970/1",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/Y004825/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/Y00275X/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/Y004574/1",
+      "title": "Colonial Reels: Histories and Afterlives of Colonial Film Collections",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jacqueline Marie Maingard",
+      "lead_organisation": "University of Bristol",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/Y004876/1",
+      "title": "",
+      "score": "3",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/Y002881/1",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Kaja Marczewska",
+      "organisation": "University College London",
+      "role": "Chair"
+    },
+    {
+      "name": "Arvind Thiruvallore Thattai",
+      "organisation": "University of York",
+      "role": "Member"
+    },
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Linda Monckton",
+      "organisation": "Historic Bldgs & Mnts Commis for England",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Jennings",
+      "organisation": "SOAS University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Wilson",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "LARGE GRANTS NOVEMBER 2017 OUTCOME",
+  "source_file": "Large Grants November 2017.pdf",
+  "count_of_applications": "29",
+  "count_of_awards": "6",
+  "year": "2017",
+  "applications": [
+    {
+      "application_reference": "NE/R016801/1",
+      "ranking": "9",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R01664X/1",
+      "ranking": "9",
+      "score": "1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R016704/1",
+      "ranking": "9",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R016739/1",
+      "ranking": "9",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R016712/1",
+      "ranking": "9",
+      "score": "2",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R016860/1",
+      "ranking": "8",
+      "score": "3",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/R016909/1",
+      "ranking": "8",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016895/1",
+      "ranking": "8",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016852/1",
+      "ranking": "8",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016879/1",
+      "ranking": "8",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016828/1",
+      "ranking": "8",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016720/1",
+      "ranking": "8",
+      "score": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016844/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R01678X/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016690/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016658/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016631/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016836/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R01681X/1",
+      "ranking": "8",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016623/1",
+      "ranking": "8",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016666/1",
+      "ranking": "8",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016674/1",
+      "ranking": "8",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016771/1",
+      "ranking": "8",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016755/1",
+      "ranking": "8",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016747/1",
+      "ranking": "8",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016763/1",
+      "ranking": "8",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016798/1",
+      "ranking": "8",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016682/1",
+      "ranking": "8",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/R016887/1",
+      "ranking": "7",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Ric Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Dr Peter Bechtold European",
+      "role": "Member",
+      "organisation": "Centre for Medium-Range"
+    },
+    {
+      "name": "Weather Forecasts",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Grant Bigg",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Dr John Bothwell",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Professor Ian Brooks",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Dr Bethan Davies Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Professor Howard Griffiths",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Dr Paul Halloran",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Dr Babette Hoogakker",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Professor Peter Langdon",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Professor Colin Prentice",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Professor Daniela Schmidt",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Dr Andrew Singer",
+      "role": "Member",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Professor David Stevenson",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Professor Mark Viney",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Professor Susan Waldron",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Dr Ian Willis",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2017/Large Grants Moderating Panel - November 2017 (updated 27 Feb).pdf",
+  "meeting_date": "14th & 15th March 2018"
+}

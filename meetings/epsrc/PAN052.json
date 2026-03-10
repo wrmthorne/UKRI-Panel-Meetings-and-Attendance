@@ -1,0 +1,146 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN052",
+  "meeting_name": "EPSRC Strategic Technical Platforms Expert Interview Panel 1 Nov 2023",
+  "meeting_date": "2023-11-29 09:00:00",
+  "meeting_convenor": "Gilligan, Mr S",
+  "applications": [
+    {
+      "application_id": "APP17914",
+      "title": "UK Robotics and Autonomous Systems Strategic technical Platform (UKRAS-STEP)",
+      "applicant": "Richardson, Professor R",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1607275.68",
+      "award_id": "EP/Z530669/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ530669%2F1",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13218",
+      "title": "a Strategic TEchnical Platform for University technical Professionals",
+      "applicant": "Cohen, Dr J",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1700237.48",
+      "award_id": "EP/Y530608/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY530608%2F1",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP11569",
+      "title": "National Platform for RTPs on AI for Science and Engineering (NPRAISE)",
+      "applicant": "Thiyagalingam, Dr J",
+      "lead_organisation": "Science and Technology Facilities Council",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1701274.76",
+      "award_id": "EP/Y530633/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY530633%2F1",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13498",
+      "title": "People in Data (Community)",
+      "applicant": "Mallon, Dr A",
+      "lead_organisation": "The Alan Turing Institute",
+      "outcome": "Funded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "1384588.5",
+      "award_id": "EP/Y530645/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY530645%2F1",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP18887",
+      "title": "Meet Future Needs of Antenna Measurements and RF Characterization for Changing Research Culture (MUSCAT)",
+      "applicant": "Munoz Torrico, Dr M",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Funded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "816763.48",
+      "award_id": "EP/Y530621/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY530621%2F1",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP19515",
+      "title": "Developing technical capability and capacity for UK Secure Data Environments",
+      "applicant": "Couch, Dr P",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "1077892.08",
+      "award_id": "EP/Y530591/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY530591%2F1",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP12725",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "215",
+      "opportunity_name": "EPSRC Strategic Technical Platforms – Full Proposals"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Vere, Mrs K",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "Asif, Dr S",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Johnston, Professor B",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "King, Dr P",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Martin, Dr T",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Wienzierl, Dr M",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1514",
+  "meeting_name": "OPP716: AI Decision Support for National Security and Defence Interview Panel[EPSRC]",
+  "meeting_date": "2025-09-17 11:30:00",
+  "meeting_convenor": "Dorsman, I",
+  "applications": [
+    {
+      "application_id": "APP73790",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "716",
+      "opportunity_name": "AI Decision Support for National Security and Defence [EPSRC]"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Hopgood, Professor J",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Rogoyski, Dr A",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Smith, Professor L",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    }
+  ]
+}

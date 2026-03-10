@@ -1,0 +1,51 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN918",
+  "meeting_name": "OPP780 EPSRC UK Future Internet NetworkPlus Interview Panel",
+  "meeting_date": "2025-01-30 09:15:00",
+  "meeting_convenor": ",",
+  "applications": [
+    {
+      "application_id": "APP58563",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "780",
+      "opportunity_name": "UKRI UK Future of the Internet NetworkPlus: full application invite only"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Koleva, B",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Lawson, S",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Mc Cullagh, K",
+      "role": "Panellist",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Rajarajan, M",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "Yates, S",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    }
+  ]
+}

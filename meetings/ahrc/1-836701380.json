@@ -1,0 +1,67 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2022,
+  "meeting_reference": "1-836701380",
+  "meeting_name": "AHRC India Fellowship June 2022",
+  "meeting_date": "20220629",
+  "applications": [
+    {
+      "application_id": "AH/X004821/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Navtej Purewal",
+      "project": "Critically Informing the AHRC's Strategic Vision for Research in India",
+      "research_organisation": "SOAS University of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X004813/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X004791/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "3"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Nandini Das",
+      "organisation": "University of Oxford",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Sandip Hazareesingh",
+      "organisation": "Norwich University of the Arts",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Paul Rodgers",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Stephen Legg",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Vinita Damodaran",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    }
+  ]
+}

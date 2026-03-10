@@ -1,0 +1,156 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1458",
+  "meeting_name": "OPP296: EPSRC Energy Postdoc Interviews Oct 2025",
+  "meeting_date": "2025-10-06 08:00:00",
+  "meeting_convenor": "Davies, Mr G",
+  "applications": [
+    {
+      "application_id": "APP40730",
+      "title": "Understanding Graphite Irradiation for Safe Next-Generation Nuclear Energy",
+      "applicant": "Aradi, E",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "623221.36",
+      "award_id": "UKRI3808",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3808",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58218",
+      "title": "IDEALBAT: Interdigitated Design and Electrode Manufacturing for Simultaneous High-Energy, Fast-Charging Lithium-Ion Batteries",
+      "applicant": "Zhu, P",
+      "lead_organisation": "Loughborough University",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "527269.68",
+      "award_id": "UKRI3807",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3807",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP59449",
+      "title": "Nanochemical spectroscopy for interface engineering in advanced tandem photovoltaics",
+      "applicant": "Hobson, T",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "546039.56",
+      "award_id": "UKRI3809",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3809",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP63402",
+      "title": "Chiral perovskites for next-generation energy devices",
+      "applicant": "Furlan, F",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Funded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "563034.56",
+      "award_id": "UKRI3811",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3811",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP59633",
+      "title": "Designing Novel Electrodes for Sodium-ion Batteries Based on Atomic Van der Waals Heterostructure Interfaces",
+      "applicant": "Guo, Q",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "437763.36",
+      "award_id": "UKRI3810",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3810",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP65743",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62712",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30378",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "296",
+      "opportunity_name": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Beattie, N",
+      "role": "Chair",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Ivaturi, A",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Radcliffe, J",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Rushton, M",
+      "role": "Panellist",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Yuan, R",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ]
+}

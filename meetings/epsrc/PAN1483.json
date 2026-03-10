@@ -1,0 +1,141 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1483",
+  "meeting_name": "OPP297 EPSRC Open Fellowships Interview Panel Oct 2025",
+  "meeting_date": "2025-10-16 08:00:00",
+  "meeting_convenor": "Hart, K",
+  "applications": [
+    {
+      "application_id": "APP62702",
+      "title": "ION-H2: Intensification and Optimisation of Next-Generation Water Electrolysers for Green Hydrogen Production",
+      "applicant": "Niblett, D",
+      "lead_organisation": "Newcastle University",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "998880.28",
+      "award_id": "UKRI3916",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3916",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP64211",
+      "title": "SonoNetZero: Engineering Scalable Sonochemistry to Convert CO2 to Green Chemicals",
+      "applicant": "Kwan, J",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "2142046.88",
+      "award_id": "UKRI3890",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3890",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP50746",
+      "title": "The dragon whisperer: understanding beryllide materials for fusion tritium breeding",
+      "applicant": "Sharp, J",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1005885.64",
+      "award_id": "UKRI4040",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=4040",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP66235",
+      "title": "Advancing Scalable, Sustainable Perovskite Photovoltaics: High-Performance Printing and Stability Solutions",
+      "applicant": "Dimitrov, S",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Funded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "2101816.21",
+      "award_id": "UKRI3891",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3891",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP63535",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP29396",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58080",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Burke, E",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Ding, Y",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Font Palma, C",
+      "role": "Panellist",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Hou, B",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Pemberton, S",
+      "role": "Panellist",
+      "organisation": "Nuclear Innovation and Research Office"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "SARIC Research Projects Assessment Panel - 24 June 2015 Grant",
+  "source_file": "saric-projects-outcome.pdf",
+  "count_of_applications": "6",
+  "count_of_awards": "6",
+  "year": "2015",
+  "applications": [
+    {
+      "application_reference": "BB/N004205/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/N004345/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/N004302/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/N004248/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/N004167/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "BB/N004353/1",
+      "outcome": "Successful"
+    }
+  ]
+}

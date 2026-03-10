@@ -1,0 +1,347 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-735118344",
+  "meeting_name": "Health Inequalities Main Call Nov 2021",
+  "meeting_date": "20211116",
+  "applications": [
+    {
+      "application_id": "AH/W008033/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Catherine El Zerbi",
+      "project": "Rooted in nature: scaling up a programme of nature-based activities for a diverse group of young people in Middlesbrough",
+      "research_organisation": "Newcastle University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/X000079/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Mahsa Honary",
+      "project": "Phoenix Takes Flight (PTF): exploring usability and scalability challenges with community-based health support via social prescribing.",
+      "research_organisation": "Lancaster University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W007703/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Josephine Ross",
+      "project": "Art at the Start: Creative community intervention for perinatal and infant mental health",
+      "research_organisation": "University of Dundee",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/X000060/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Qian Sun",
+      "project": "Connecting Roots: Co-creating a Green Social Prescribing Network in Walsall for Health and Wellbeing",
+      "research_organisation": "Royal College of Art",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/W008041/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Sara Bradley",
+      "project": "Prescribe Heritage Highland: Scaling Up Non-Pharmaceutical Interventions in Remote and Rural Areas",
+      "research_organisation": "University of the Highlands and Islands",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/X000044/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Clifford Patrick Stevenson",
+      "project": "Scaling Up Inspiring Ashfield: Extending Place-Based Social Prescribing Support Across Mid-Nottinghamshire",
+      "research_organisation": "Nottingham Trent University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W007835/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Svenja Adolphs",
+      "project": "Wild Swimming and Blue Spaces: Mobilising interdisciplinary knowledge and partnerships to combat health inequalities at scale",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W007991/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Mark Gamsu",
+      "project": "Adapting, expanding and embedding community and culture into health ecosystems",
+      "research_organisation": "Leeds Beckett University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/W008009/1",
+      "route": "Standard",
+      "lead_applicant": "Professor David Sheffield",
+      "project": "Social Prescribing For All (SP4ALL): Increasing diversity in cultural and natural social prescribing programmes through shared training.",
+      "research_organisation": "University of Derby",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/W007886/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Timothy Charles Darvill",
+      "project": "Scaling-up Human Henge: Using prehistoric cultural heritage sites to enhance mental health well-being in marginalized communities",
+      "research_organisation": "Bournemouth University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/W007819/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Nicola Walshe",
+      "project": "Branching Out: Tackling mental health inequalities in schools with community artscapers",
+      "research_organisation": "University College London",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/W007983/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Vicky Karkou",
+      "project": "Arts for the Blues: Towards integrating the use of the arts in healthcare and cultural settings to tackle depression and improve wellbeing in the NW",
+      "research_organisation": "Edge Hill University",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/W00805X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "1",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007843/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007851/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007916/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007924/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007932/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007940/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007959/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007967/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007975/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008017/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008025/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008068/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008076/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008092/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008106/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W008378/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/X00015X/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Graham John Hart",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Josie Gill",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Tim Brown",
+      "organisation": "Liverpool Hope University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Kate Elizabeth Pickett",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Lisa Anne-Marie Dikomitis",
+      "organisation": "University of Kent",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mhairi Mackenzie",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Victoria Tischler",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    }
+  ]
+}

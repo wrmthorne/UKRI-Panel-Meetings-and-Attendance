@@ -1,0 +1,45 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Decommissioning Call – Assessment Panel Meeting – 31st October 2016 Panel Chair: Professor Robert Holdsworth Durham University",
+  "source_file": "NERC-funding-assessment-panel-members-2016/Decommissioning Call - panel members.pdf",
+  "panellists": [
+    {
+      "name": "Panel Chair:",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Robert Holdsworth",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Panel Members:",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Richard Bates St",
+      "role": "Member",
+      "organisation": "Andrew’s University"
+    },
+    {
+      "name": "Dr John Hartley",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Richard Heard Strategic",
+      "role": "Member",
+      "organisation": "Decom/INSITE"
+    },
+    {
+      "name": "Professor Axel Miller",
+      "role": "Member",
+      "organisation": "Scottish Association for Marine Science"
+    },
+    {
+      "name": "Dr Tracy Shimmield",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    }
+  ]
+}

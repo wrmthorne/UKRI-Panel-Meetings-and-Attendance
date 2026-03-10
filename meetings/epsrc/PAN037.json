@@ -1,0 +1,171 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN037",
+  "meeting_name": "EPSRC Strategic Infrastructure Interview Panel Oct 2023",
+  "meeting_date": "2023-10-24 07:30:00",
+  "meeting_convenor": "Convey, Dr L",
+  "applications": [
+    {
+      "application_id": "APP6541",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Resource Only",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP4757",
+      "title": "MagTEM2 - the next generation microscope for imaging functional materials",
+      "applicant": "McVitie, Professor S",
+      "lead_organisation": "University of Glasgow",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "4900000",
+      "award_id": "EP/Z531078/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ531078%2F1",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP7415",
+      "title": "Instrument Development: A lab-scale soft X-ray microscope for biological systems",
+      "applicant": "Frey, Professor J",
+      "lead_organisation": "University of Southampton",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "4039482.69",
+      "award_id": "EP/Z53108X/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ53108X%2F1",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP4779",
+      "title": "Imaging for Multi-scale Multi-modal and Multi-disciplinary Analysis for EnGineering and Environmental Sustainability (IM3AGES)",
+      "applicant": "Dobson, Dr K",
+      "lead_organisation": "University of Strathclyde",
+      "outcome": "Funded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "5096879.28",
+      "award_id": "EP/Z531133/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ531133%2F1",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP7175",
+      "title": "Precision Dry Etching of 2D Materials: 2DETCH",
+      "applicant": "Gorbachev, Professor R",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "888777.1",
+      "award_id": "EP/Z531121/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ531121%2F1",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP6764",
+      "title": "Resonant Acoustic Mixing facility for sustainable chemical manufacturing",
+      "applicant": "Friscic, Professor T",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Funded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "1561052.4",
+      "award_id": "EP/Z53111X/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ53111X%2F1",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP4746",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP4762",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    },
+    {
+      "application_id": "APP4688",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Strategic Equipment",
+      "opportunity_number": "92",
+      "opportunity_name": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Donnelly, Professor S",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "Brocchini, Professor S",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Burdett, Dr A",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Meldrum, Professor F",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Sharp, Professor P",
+      "role": "Panellist",
+      "organisation": ""
+    }
+  ]
+}

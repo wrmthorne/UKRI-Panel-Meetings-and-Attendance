@@ -1,0 +1,136 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Peruvian Glacial Retreat Rank",
+  "source_file": "Peruvian Glacial Retreat - August 2018.pdf",
+  "count_of_applications": "14",
+  "count_of_awards": "8",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S013288/1",
+      "ranking": "6",
+      "scores": [
+        "1",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013237/1",
+      "ranking": "6",
+      "scores": [
+        "1",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013210/1",
+      "ranking": "6",
+      "scores": [
+        "2",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013318/1",
+      "ranking": "5",
+      "scores": [
+        "3",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013296/1",
+      "ranking": "5",
+      "scores": [
+        "4",
+        "8"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013334/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "5",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/S01330X/1",
+      "ranking": "6",
+      "scores": [
+        "6",
+        "7"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013245/1",
+      "ranking": "5",
+      "scores": [
+        "7",
+        "7"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013253/1",
+      "ranking": "5",
+      "scores": [
+        "7",
+        "7"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013261/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/S013202/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/S013229/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "9",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/S01327X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "9",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/S013326/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "9",
+        "6"
+      ]
+    }
+  ]
+}

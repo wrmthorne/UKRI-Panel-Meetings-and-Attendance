@@ -1,0 +1,51 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN799",
+  "meeting_name": "EPSRC UK Catalysis Hub Phase 3 - Interview Panel - October 2024",
+  "meeting_date": "2024-10-21 10:45:00",
+  "meeting_convenor": "Ghaffar, Dr T",
+  "applications": [
+    {
+      "application_id": "APP41031",
+      "title": "The UK Catalysis Hub III",
+      "applicant": "Williams, C",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "10778057.85",
+      "award_id": "UKRI945",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=945",
+      "list_name": "Main",
+      "opportunity_number": "465",
+      "opportunity_name": "EPSRC UK Catalysis Hub Phase III"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Bain, C",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Cai, Q",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Carr, R",
+      "role": "Panellist",
+      "organisation": "Ingenza (United Kingdom)"
+    },
+    {
+      "name": "Maurer, R",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Nguyen, B",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    }
+  ]
+}

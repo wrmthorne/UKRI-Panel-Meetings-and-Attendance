@@ -1,0 +1,65 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Centres Comp 2020 Interviews",
+  "year": "2023",
+  "meeting_date": "2023-07",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "9",
+  "count_of_awards": "6",
+  "applications": [
+    {
+      "application_reference": "ES/W002116/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W002248/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W002302/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W002434/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W002639/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W002914/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/W002574/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W002930/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/W00240X/1",
+      "opportunity": "Centres Comp 2020 Full",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

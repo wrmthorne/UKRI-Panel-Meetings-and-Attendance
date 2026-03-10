@@ -1,0 +1,68 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants Panel D, September 2015 meeting",
+  "year": "2015",
+  "meeting_date": "2015-09",
+  "source_file": "Research Grants Panel D, September 2015 meeting.xlsx",
+  "count_of_applications": "8",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/N001591/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Elizabeth Solopova",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Towards a new edition of the Wycliffite Bible",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N002415/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jonathan Culpeper",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Encyclopaedia of Shakespeare's Language",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N00163X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Matthew Baerman",
+      "holding_organisation": "University of Surrey",
+      "grant_title": "Loss of Inflection",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N001710/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Andy Kesson",
+      "holding_organisation": "Roehampton University",
+      "grant_title": "Before Shakespeare: The Beginnings of London Commercial Theatre",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N00390X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002784/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002792/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001869/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

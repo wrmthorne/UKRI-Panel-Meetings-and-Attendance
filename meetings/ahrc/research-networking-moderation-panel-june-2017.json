@@ -1,0 +1,71 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, June 2017",
+  "year": "2017",
+  "meeting_date": "2017-06",
+  "source_file": "Research Networking, June 2017 Moderation.xlsx",
+  "count_of_applications": "10",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/R002320/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rachel Herrmann",
+      "holding_organisation": "Cardiff University",
+      "grant_title": "Geographies of Power on Land and Water: Space, People, and Borders"
+    },
+    {
+      "application_reference": "AH/R003203/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Elizabeth Kirk",
+      "holding_organisation": "Nottingham Trent University",
+      "grant_title": "Science Based Regulation of Arctic Energy Installations (SciBAr Installations)"
+    },
+    {
+      "application_reference": "AH/R00546X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Katherine Anne Wilson",
+      "holding_organisation": "University of Chester",
+      "grant_title": "Mobility of Objects Across Boundaries 1000-1700 (MOB)"
+    },
+    {
+      "application_reference": "AH/R003475/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R002274/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R005532/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R002509/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R005389/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R003440/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R003300/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

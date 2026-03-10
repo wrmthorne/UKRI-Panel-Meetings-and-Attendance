@@ -1,0 +1,833 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "UK-Japan SSH Connections meeting",
+  "year": "2019",
+  "meeting_date": "2019-02",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "137",
+  "count_of_awards": "49",
+  "applications": [
+    {
+      "application_reference": "ES/S013679/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013717/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S01408X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014098/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013806/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013830/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014128/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014187/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013695/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S012990/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013318/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013229/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013237/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013245/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013008/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013687/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013547/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014357/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013792/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013873/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013776/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013733/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013903/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013865/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014136/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014209/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013539/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013601/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S012974/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013105/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S012958/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013148/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013296/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013210/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013636/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013644/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013415/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014225/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014268/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013768/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014055/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014063/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014365/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S014292/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013393/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013482/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S01361X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S01330X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013024/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/S013172/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01425X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014160/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014306/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013997/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013598/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013466/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013563/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01294X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012885/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014020/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014071/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013911/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014039/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013857/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013032/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013180/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013156/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013326/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012966/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01358X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013725/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013490/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013504/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014047/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014004/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013954/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013962/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014233/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014241/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014284/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013113/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013202/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013334/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01313X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012389/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013377/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013628/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013571/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014179/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01392X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013784/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012931/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01327X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01389X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014012/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014314/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014195/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014144/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01411X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013970/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013989/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013881/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013814/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01375X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013288/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013350/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013369/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012923/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013067/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013652/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013660/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013709/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013385/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013423/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S01344X/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013512/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013555/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013741/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014217/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014152/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013938/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013946/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014101/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013520/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013458/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012893/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013199/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014276/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014322/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014349/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013822/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S012915/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013474/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013849/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013059/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S014330/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/S013016/1",
+      "opportunity": "UK-Japan SSH Connections Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

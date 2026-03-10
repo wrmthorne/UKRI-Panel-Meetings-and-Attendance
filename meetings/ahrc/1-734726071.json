@@ -1,0 +1,107 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2021,
+  "meeting_reference": "1-734726071",
+  "meeting_name": "AI Pump Priming Sept 2021",
+  "meeting_date": "20211108",
+  "applications": [
+    {
+      "application_id": "AH/W007681/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Thomas Sorell",
+      "project": "Emerging Ethical Issues for DataLakes",
+      "research_organisation": "University of Warwick",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/W00769X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Matthew Ewart Studley",
+      "project": "Ethical AID (Ethics in AI Development)",
+      "research_organisation": "University of the West of England",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/W007673/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Kanta Dihal",
+      "project": "Better Images of AI: Research-Informed Diversification of Stock Imagery of Artificial Intelligence",
+      "research_organisation": "University of Cambridge",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/W007630/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Jonathan Foster",
+      "project": "Understanding Fairness in Data-Driven AI for Mental Health",
+      "research_organisation": "University of Sheffield",
+      "grant_status": "Funded",
+      "score": "4",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/W007649/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007738/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/W007754/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "2",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Tony McEnery",
+      "organisation": "Lancaster University",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Bernd Carsten Stahl",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Johnny Golding",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mike Wald",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Shaun William Lawson",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    }
+  ]
+}

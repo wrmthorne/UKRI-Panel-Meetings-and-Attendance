@@ -1,0 +1,156 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Neurosciences and Mental Health Board 25 - 26 June 2024",
+  "meeting_date": "01/06/2024",
+  "source_file": "Neurosciences-and-mental-health-board/MRC-280225-NeurosciencesMentalHealthBoardFundingDecisionsJune2024.xlsx",
+  "count_of_applications": "29",
+  "count_of_awards": "10",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 41 out of 71 applications did not pass an initial shortlisting stage and were not considered further. APP27077 was withdrawn by PL post meeting.",
+  "applications": [
+    {
+      "application_reference": "APP20425",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP23131",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP20198",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP20170",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP25496",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP24119",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP20453",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP21221",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP20396",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP27931",
+      "score": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP25831",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP20526",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP22275",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP20753",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP20038",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP23831",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP22589",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP21420",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP24803",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP23710",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP22067",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP26436",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP24651",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP22498",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP26413",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP23223",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP23505",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP24666",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP27665",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

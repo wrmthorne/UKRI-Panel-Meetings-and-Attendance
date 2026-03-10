@@ -1,0 +1,50 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "BIO Carbon (Model & Lab) APR22",
+  "source_file": "NERC-funding-assessment-panel-members-2022/NERC-230622-BIOCarbonModelLabAssessmentPanelApril2022.pdf",
+  "meeting_date": "Friday 17th June 2022",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Dr Charlotte Hawkins",
+  "panellists": [
+    {
+      "name": "Professor Hilary Kennedy",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Professor Eric Achterberg GEOMAR Helmholtz",
+      "role": "Member",
+      "organisation": "Centre for Ocean Research"
+    },
+    {
+      "name": "Dr Dominique Lefevre Mediterranean Institute",
+      "role": "Member",
+      "organisation": "of Oceanography (MIO),"
+    },
+    {
+      "name": "Dr Laurent Memery LEMAR, The",
+      "role": "Member",
+      "organisation": "University of Western Brittany,"
+    },
+    {
+      "name": "Dr Andy Rees",
+      "role": "Member",
+      "organisation": "Plymouth Marine Laboratory"
+    },
+    {
+      "name": "Dr Roland Séférian CNRM (",
+      "role": "Member",
+      "organisation": "University of Toulouse, Météo-France,"
+    },
+    {
+      "name": "Dr Pablo Serret",
+      "role": "Member",
+      "organisation": "University of Vigo"
+    },
+    {
+      "name": "Dr Sandy Thomalla The Council",
+      "role": "Member",
+      "organisation": "for Scientific and Industrial Research"
+    }
+  ]
+}

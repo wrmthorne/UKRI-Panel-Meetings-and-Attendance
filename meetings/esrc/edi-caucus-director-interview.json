@@ -1,0 +1,107 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "EDI Caucus Director Interview",
+  "year": "2023",
+  "meeting_date": "2023-01",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "16",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "application_reference": "ES/X008444/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X008576/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008568/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008479/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008460/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008487/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008630/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008673/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008665/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X00869X/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008681/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008509/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008606/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008584/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X00855X/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X008533/1",
+      "opportunity": "EDI Caucus Director",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

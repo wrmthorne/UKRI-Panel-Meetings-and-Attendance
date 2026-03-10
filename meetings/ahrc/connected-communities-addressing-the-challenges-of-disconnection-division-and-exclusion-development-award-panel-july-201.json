@@ -1,0 +1,49 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Connected Communities: Addressing the Challenges of Disconnection, Division and Exclusion - Development Award Panel - July 2014",
+  "year": "2014",
+  "meeting_date": "2014-07",
+  "source_file": "Connected Communities Addressing the Challenges of Disconnection Division and Exclusion - Development Award Panel - July 2014.xlsx",
+  "count_of_applications": "5",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/M00595X/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Vanessa Burholt",
+      "holding_organisation": "Swansea University",
+      "grant_title": "Where we are not: the contribution of disconnection, division and exclusion to imaginative (im)mobility"
+    },
+    {
+      "application_reference": "AH/M006050/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Martin Levinson",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Alternative Futures: Disability and Community"
+    },
+    {
+      "application_reference": "AH/M006093/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Graham Jeffery",
+      "holding_organisation": "University of the West of Scotland",
+      "grant_title": "Challenging Elites: rethinking disconnection and recovering urban space"
+    },
+    {
+      "application_reference": "AH/M006069/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sarita Malik",
+      "holding_organisation": "Brunel University",
+      "grant_title": "Creative Interruptions: grassroots culture, state structures and disconnection as a space for 'radical openness'"
+    },
+    {
+      "application_reference": "AH/M005984/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

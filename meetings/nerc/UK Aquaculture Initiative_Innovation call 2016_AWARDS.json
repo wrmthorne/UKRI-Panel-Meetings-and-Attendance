@@ -1,0 +1,94 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "UK Aquaculture Initiative: Innovation call – September 2016 UK Aquaculture Initiative Innovation Projects Assessment Panel – 7 September 2016",
+  "source_file": "UK Aquaculture Initiative_Innovation call 2016_AWARDS.pdf",
+  "count_of_applications": "14",
+  "count_of_awards": "6",
+  "year": "2016",
+  "applications": [
+    {
+      "application_reference": "NE/P010946/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P011004/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P010873/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P010881/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P010970/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P010695/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/P010776/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "7",
+        "4.5"
+      ]
+    },
+    {
+      "application_reference": "NE/P009204/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "8",
+        "4.5"
+      ]
+    },
+    {
+      "application_reference": "NE/P010989/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "9",
+        "4.25"
+      ]
+    },
+    {
+      "application_reference": "NE/P010768/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "10",
+        "4.15"
+      ]
+    },
+    {
+      "application_reference": "NE/P010903/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "score": "11"
+    },
+    {
+      "application_reference": "NE/P010857/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "12",
+        "3.45"
+      ]
+    },
+    {
+      "application_reference": "NE/P010954/1",
+      "outcome": "Unsuccessful",
+      "scores": [
+        "13",
+        "3.15"
+      ]
+    },
+    {
+      "application_reference": "NE/P010814/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "score": "14"
+    }
+  ]
+}

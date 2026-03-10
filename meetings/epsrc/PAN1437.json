@@ -1,0 +1,101 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1437",
+  "meeting_name": "OPP856 EPSRC Sandpit: Moving Respiratory Health Diagnosis into the 21st Century Full Application",
+  "meeting_date": "2025-10-07 08:30:00",
+  "meeting_convenor": "Eustace, Dr A",
+  "applications": [
+    {
+      "application_id": "APP81639",
+      "title": "AIRTIME: AI-Enabled Mobile First Screening for Early Respiratory Disease Detection",
+      "applicant": "Han, L",
+      "lead_organisation": "Manchester Metropolitan University",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "941372.64",
+      "award_id": "UKRI3606",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3606",
+      "list_name": "Main",
+      "opportunity_number": "856",
+      "opportunity_name": "Sandpit: moving respiratory health diagnosis into the 21st century - INVITE ONLY"
+    },
+    {
+      "application_id": "APP81677",
+      "title": "LungSight: Visual And Acoustic Screening for Early Detection of Lung Disease",
+      "applicant": "Yap, M",
+      "lead_organisation": "Manchester Metropolitan University",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1350916.52",
+      "award_id": "UKRI3607",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3607",
+      "list_name": "Main",
+      "opportunity_number": "856",
+      "opportunity_name": "Sandpit: moving respiratory health diagnosis into the 21st century - INVITE ONLY"
+    },
+    {
+      "application_id": "APP82470",
+      "title": "Artificial Intelligence assisted earlier Respiratory Evaluation (AIRE)",
+      "applicant": "Evans, R",
+      "lead_organisation": "University of Leicester",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1323540.23",
+      "award_id": "UKRI3605",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3605",
+      "list_name": "Main",
+      "opportunity_number": "856",
+      "opportunity_name": "Sandpit: moving respiratory health diagnosis into the 21st century - INVITE ONLY"
+    },
+    {
+      "application_id": "APP86351",
+      "title": "SoundCheck: A Low-Fi, High-Tech Revolution in Respiratory Diagnostics",
+      "applicant": "Kaul, H",
+      "lead_organisation": "University of Leicester",
+      "outcome": "Funded",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1300782.09",
+      "award_id": "UKRI3608",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3608",
+      "list_name": "Main",
+      "opportunity_number": "856",
+      "opportunity_name": "Sandpit: moving respiratory health diagnosis into the 21st century - INVITE ONLY"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Lomas, D",
+      "role": "Chair",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Bleeck, S",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Bradley, M",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "Rittscher, J",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Smith, A",
+      "role": "Panellist",
+      "organisation": "LifeArc"
+    },
+    {
+      "name": "ter Haar, G",
+      "role": "Panellist",
+      "organisation": "Institute of Cancer Research"
+    }
+  ]
+}

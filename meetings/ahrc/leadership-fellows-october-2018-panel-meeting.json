@@ -1,0 +1,148 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Leadership Fellows, October 2018 panel meeting",
+  "year": "2018",
+  "meeting_date": "2018-10",
+  "source_file": "Leadership Fellows Panel, October 2018 Meeting.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/S002634/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Grace Huxford",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "British Military Bases in Germany: Living with the Cold War and its Legacies, 1945-2000",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S002545/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Ruth Livesey",
+      "holding_organisation": "Royal Holloway, Univ of London",
+      "grant_title": "Provincialism: Literature and the Cultural Politics of Middleness in Nineteenth Century Britain",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S00212X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Melanie Klinkner",
+      "holding_organisation": "Bournemouth University",
+      "grant_title": "Protecting Mass Graves to advance Truth and Justice",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R01454X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Anamik Saha",
+      "holding_organisation": "Goldsmiths College",
+      "grant_title": "Rethinking Diversity in Publishing: A Cultural Industries Perspective",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S001972/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sophia Labadi",
+      "holding_organisation": "University of Kent",
+      "grant_title": "Rethinking Heritage for Development: International Framework, Local Impacts",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S001247/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Leanne Dawson",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Working-Class LGBTQ+ Representation in British Cinema",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S001883/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Harriet Atkinson",
+      "holding_organisation": "University of Brighton",
+      "grant_title": "\"The Materialisation of Persuasion\": Modernist Exhibitions in Britain for Propaganda and Resistance, 1933 to 1953",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S002464/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Aditi Nafde",
+      "holding_organisation": "Newcastle University",
+      "grant_title": "Manuscripts after Print c.1450-1550 (MaP): Producing and Reading Books during Technological Change",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S00193X/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Joao Florencio",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Masculinity and the Ethics of Porosity in 'Post-AIDS' Gay Porn",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S003312/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S002111/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S002650/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001344/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S002677/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001190/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001697/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S001956/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S002413/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003096/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004785/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

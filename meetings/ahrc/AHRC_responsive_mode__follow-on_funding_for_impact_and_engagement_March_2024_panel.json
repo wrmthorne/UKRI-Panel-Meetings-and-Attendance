@@ -1,0 +1,219 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "AHRC responsive mode: follow-on funding for impact and engagement March 2024 panel",
+  "applications": [
+    {
+      "application_id": "10454",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "11814",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "11285",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "16629",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "15722",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "16764",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "13652",
+      "title": "",
+      "score": "7",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "11"
+    },
+    {
+      "application_id": "8674",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "12"
+    },
+    {
+      "application_id": "8367",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "13"
+    },
+    {
+      "application_id": "16869",
+      "title": "",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "14"
+    },
+    {
+      "application_id": "15366",
+      "title": "Other Everests Public Engagement 2024",
+      "score": "10",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jonathan Westaway",
+      "lead_organisation": "University of Central Lancashire",
+      "rank": "1"
+    },
+    {
+      "application_id": "8422",
+      "title": "Frugal Artist-In-Residence Programme For Playful And Co-Creative Community Engagement In Environmental Awareness And Impact (Fair)",
+      "score": "9",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Sylvester Arnab",
+      "lead_organisation": "Coventry University",
+      "rank": "2"
+    },
+    {
+      "application_id": "9233",
+      "title": "Engaging With Sustainable Materials And Approaches In Film",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Ita Jansen",
+      "lead_organisation": "Edinburgh Napier University",
+      "rank": "3"
+    },
+    {
+      "application_id": "11483",
+      "title": "Finding The Flex: Testing A Flexible Studio Model For Learning Disabled Artists In Leeds",
+      "score": "8",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jade French",
+      "lead_organisation": "University of Leeds",
+      "rank": "4"
+    },
+    {
+      "application_id": "8410",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "8497",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "9369",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Paul Cobley",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Katie Eagleton",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "burkhard SCHAFER",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Fei Chen",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jeyan Thiyagalingam",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "M. Satish Kumar",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Marcel Vellinga",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Professor Ting Xu",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

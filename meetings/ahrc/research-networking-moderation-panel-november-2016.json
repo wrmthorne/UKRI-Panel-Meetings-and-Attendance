@@ -1,0 +1,53 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, November 2016",
+  "year": "2016",
+  "meeting_date": "2016-11",
+  "source_file": "Research Networking, November 2016 Moderation.xlsx",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P009921/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jennie Henley",
+      "holding_organisation": "Royal College of Music",
+      "grant_title": "Music and Social Intervention Network - Excellence, inclusion and intervention in music: navigating contexts and building sustainable working practice"
+    },
+    {
+      "application_reference": "AH/P007228/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Susanne Tietze",
+      "holding_organisation": "Keele University",
+      "grant_title": "Translation and Interpretation Work in Multilingual Business Communities: Roles, Perspectives, Agency"
+    },
+    {
+      "application_reference": "AH/P006361/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P008909/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009131/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P008925/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P006922/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

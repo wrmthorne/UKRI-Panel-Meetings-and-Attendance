@@ -1,0 +1,230 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Innovation Placements 2018 – Panel Outcome (Assessment Panel Meeting 11 September 2018, London)",
+  "source_file": "NERC-061021-InnovationPlacements-FundingOutcomes-Sep2018.pdf",
+  "count_of_applications": "34",
+  "count_of_awards": "9",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S009507/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009248/1",
+      "outcome": "Successful",
+      "ranking": "2",
+      "scores": [
+        "9",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/S009299/1",
+      "outcome": "Successful",
+      "ranking": "3",
+      "scores": [
+        "9",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/S009426/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S00940X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009280/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009310/1",
+      "outcome": "Successful",
+      "ranking": "7",
+      "scores": [
+        "8",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/S009450/1",
+      "ranking": "25",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009396/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S009221/1",
+      "outcome": "Unsuccessful",
+      "ranking": "10",
+      "scores": [
+        "8",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/S009256/1",
+      "outcome": "Unsuccessful",
+      "ranking": "11",
+      "scores": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/S009302/1",
+      "outcome": "Unsuccessful",
+      "ranking": "12",
+      "scores": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/S009442/1",
+      "outcome": "Unsuccessful",
+      "ranking": "13",
+      "score": "77"
+    },
+    {
+      "application_reference": "NE/S009329/1",
+      "outcome": "Unsuccessful",
+      "ranking": "14",
+      "score": "77"
+    },
+    {
+      "application_reference": "NE/S009388/1",
+      "outcome": "Unsuccessful",
+      "ranking": "15",
+      "score": "76"
+    },
+    {
+      "application_reference": "NE/S009485/1",
+      "outcome": "Unsuccessful",
+      "ranking": "16",
+      "score": "76"
+    },
+    {
+      "application_reference": "NE/S009191/1",
+      "outcome": "Unsuccessful",
+      "ranking": "17",
+      "score": "75"
+    },
+    {
+      "application_reference": "NE/S009523/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18",
+      "score": "73"
+    },
+    {
+      "application_reference": "NE/S009361/1",
+      "outcome": "Unsuccessful",
+      "ranking": "19",
+      "score": "67"
+    },
+    {
+      "application_reference": "NE/S009183/1",
+      "outcome": "Unsuccessful",
+      "ranking": "20",
+      "score": "66"
+    },
+    {
+      "application_reference": "NE/S009337/1",
+      "outcome": "Unsuccessful",
+      "ranking": "21",
+      "score": "66"
+    },
+    {
+      "application_reference": "NE/S009205/1",
+      "outcome": "Unsuccessful",
+      "ranking": "22",
+      "score": "65"
+    },
+    {
+      "application_reference": "NE/S009272/1",
+      "outcome": "Unsuccessful",
+      "ranking": "23",
+      "score": "65"
+    },
+    {
+      "application_reference": "NE/S00937X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "24",
+      "score": "65"
+    },
+    {
+      "application_reference": "NE/S009345/1",
+      "outcome": "Unsuccessful",
+      "ranking": "25",
+      "score": "64"
+    },
+    {
+      "application_reference": "NE/S009418/1",
+      "outcome": "Unsuccessful",
+      "ranking": "26",
+      "score": "63"
+    },
+    {
+      "application_reference": "NE/S009469/1",
+      "outcome": "Unsuccessful",
+      "ranking": "27",
+      "score": "56"
+    },
+    {
+      "application_reference": "NE/S009264/1",
+      "outcome": "Unsuccessful",
+      "ranking": "28",
+      "score": "55"
+    },
+    {
+      "application_reference": "NE/S009477/1",
+      "outcome": "Unsuccessful",
+      "ranking": "29",
+      "score": "55"
+    },
+    {
+      "application_reference": "NE/S009493/1",
+      "outcome": "Unsuccessful",
+      "ranking": "30",
+      "score": "54"
+    },
+    {
+      "application_reference": "NE/S009515/1",
+      "outcome": "Unsuccessful",
+      "ranking": "31",
+      "score": "44"
+    },
+    {
+      "application_reference": "NE/S009353/1",
+      "outcome": "Unsuccessful",
+      "ranking": "32",
+      "score": "44"
+    },
+    {
+      "application_reference": "NE/S009078/1",
+      "outcome": "Unsuccessful",
+      "ranking": "33",
+      "score": "43"
+    },
+    {
+      "application_reference": "NE/S009434/1",
+      "outcome": "Unsuccessful",
+      "ranking": "34",
+      "score": "42"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Innovation Placements Panel",
+      "role": "Member",
+      "organisation": "2017"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2017/Innovation Placements Panel - September 2017.pdf",
+  "meeting_date": "Wednesday 6 September 2017"
+}

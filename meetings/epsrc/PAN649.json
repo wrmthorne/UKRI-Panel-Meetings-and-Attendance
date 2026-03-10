@@ -1,0 +1,106 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN649",
+  "meeting_name": "EPSRC: ICT Network Grant Prioritisation Panel Sept 2024",
+  "meeting_date": "2024-09-24 08:00:00",
+  "meeting_convenor": "Hims, E",
+  "applications": [
+    {
+      "application_id": "APP17393",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "142",
+      "opportunity_name": "EPSRC network grant, May 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Bloj, M",
+      "role": "Chair",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "Aarts, G",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Chu, X",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Ellis, A",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "French, A",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Kanjo, E",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "Le Moignan, E",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Leonardis, A",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Mabbett, I",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "McIlhatton, D",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Noori, Y",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Pritchard, J",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Thakker, D",
+      "role": "Panellist",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Wong, K",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Zarges, C",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Zheng, F",
+      "role": "Panellist",
+      "organisation": "University of York"
+    }
+  ]
+}

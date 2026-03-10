@@ -1,0 +1,17 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Innovation Evidence Network",
+  "year": "2019",
+  "meeting_date": "2019-05",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "application_reference": "ES/T000570/1",
+      "opportunity": "Innovation Network 3",
+      "score_range": "<7",
+      "outcome": "Successful"
+    }
+  ]
+}

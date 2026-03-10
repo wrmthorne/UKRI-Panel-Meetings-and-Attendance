@@ -1,0 +1,141 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN701",
+  "meeting_name": "OPP 320 - EPSRC Mathematical Sciences Prioritisation Panel September 2024 - New Investigator Award",
+  "meeting_date": "2024-09-19 08:00:00",
+  "meeting_convenor": "Williams, Mrs R",
+  "applications": [
+    {
+      "application_id": "APP23095",
+      "title": "Moments of higher-rank L-functions",
+      "applicant": "Jana, Dr S",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "188989.56",
+      "award_id": "EP/Z536611/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ536611%2F1",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33975",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23407",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23120",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "320",
+      "opportunity_name": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Lotay, J",
+      "role": "Chair",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Bartel, A",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Burrows, A",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Coombes, S",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Everitt, B",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Graefe, E",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Hering, M",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Jerrum, M",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "Mansouri, A",
+      "role": "Panellist",
+      "organisation": "Brunel University London"
+    },
+    {
+      "name": "Shardlow, T",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Silvester, D",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Spill, F",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Turner, A",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Wilson, H",
+      "role": "Panellist",
+      "organisation": "University College London"
+    }
+  ]
+}

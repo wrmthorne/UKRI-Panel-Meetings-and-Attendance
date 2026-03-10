@@ -1,0 +1,111 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Non-Clinical Fellowships Panel Meeting 25-26 March 2025",
+  "meeting_date": "26/03/2025",
+  "source_file": "Career-development-award-and-senior-non-clinical-f/MRC-060525-Non-ClinicalFellowshipsPanelMeeting-25-26March2025.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "9",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we \nare not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \nFor this meeting, 60 applications did not pass an initial shortlisting stage and were not considered further. Of the 18 applications that did pass the initial shortslisting stage, 1 application was withdrawn by the applicant prior to the meeting and 0 applications were withdrawn by the applicants following the meeting\n\n*Proposals APP34790 and APP32780 were considered from previous meeting where both scored 8. The final funding decision to decline was made at this Panel meeting.\n\nPlease note: In order to search for awarded applications in Gateway to Research, please use the award number only (for example, for UKRI079 search only 79) and ensure \nonly the 'Project reference' search field is selected.",
+  "applications": [
+    {
+      "application_reference": "UKRI1419",
+      "score": "10",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "UKRI1414",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "UKRI1415",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP50957",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP46614",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "UKRI1416",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "UKRI1422",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP51341",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "UKRI1417",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP32780",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP51896",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "UKRI1418",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP34790",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP52408",
+      "score": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "UKRI1420",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP47585",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "UKRI1421",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "APP51806",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP52040",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "APP52857",
+      "score": "8",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

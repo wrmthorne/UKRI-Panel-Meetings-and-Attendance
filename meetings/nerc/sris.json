@@ -1,0 +1,52 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Strategic Research Impact Scheme – Pilot, July 2014",
+  "source_file": "sris.pdf",
+  "count_of_applications": "8",
+  "count_of_awards": "3",
+  "year": "2014",
+  "applications": [
+    {
+      "application_reference": "NE/M007766/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007731/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M00693X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007774/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "4"
+    },
+    {
+      "application_reference": "NE/M007464/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/M00774X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/M007723/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/M007758/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "8"
+    }
+  ]
+}

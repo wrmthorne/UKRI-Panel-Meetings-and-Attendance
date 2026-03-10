@@ -1,0 +1,106 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Leadership Fellows Panel - December 2015",
+  "year": "2015",
+  "meeting_date": "2015-12",
+  "source_file": "Fellowships, December 2015 Meeting.xlsx",
+  "count_of_applications": "16",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/N004132/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Harriet Hawkins",
+      "holding_organisation": "Royal Holloway, Univ of London",
+      "grant_title": "Creating Earth Futures: Exploring GeoHumanities Approaches to Global Environmental Change",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N004485/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Toby Oliver Ray Green",
+      "holding_organisation": "King's College London",
+      "grant_title": "Money, Slavery and Political Change in Precolonial West Africa",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N004299/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sarah Waters",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Suicide Voices: Neoliberal Globalisation and Workplace Trauma",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N005740/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Margherita Laera",
+      "holding_organisation": "University of Kent",
+      "grant_title": "Translation, Adaptation, Otherness: 'Foreignisation' in Theatre Practice",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N003888/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Henrik Schoenefeldt",
+      "holding_organisation": "University of Kent",
+      "grant_title": "Restoring the Palace of Westminster's nineteenth century ventilation system - Between Sustainability and Heritage",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N005856/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Justin Jones",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "The enduring jurist: qazis, courts and living shari'a in modern India",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N006941/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005783/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N003004/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N003233/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004604/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004116/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N006100/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004183/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004531/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N006860/1",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

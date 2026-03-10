@@ -1,0 +1,65 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "GCRF Multi-Hazards Risk MAY19",
+  "source_file": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-GCRF-MultihazardsSystemicRisks-OutlineBid-150519.pdf",
+  "meeting_date": "18th June 2019",
+  "meeting_location": "Amba Hotel Charing Cross, London",
+  "panel_secretary": "Jana Gessner",
+  "panellists": [
+    {
+      "name": "Dr Nick Chappell",
+      "role": "Chair",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Professor Louise Bracken",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Professor David Demeritt",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Dr Richard Friend",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Professor Guangtao Fu",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Dr Andy Gibson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Professor Brian Golding",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Professor Richard Haigh",
+      "role": "Member",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "Dr Wendy McMahon",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Professor Jonathan Rougier",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Professor Jimmy Whitworth",
+      "role": "Member",
+      "organisation": "London School of Hygiene & Tropical"
+    }
+  ]
+}

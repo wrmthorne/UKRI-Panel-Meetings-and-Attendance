@@ -1,0 +1,146 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN040",
+  "meeting_name": "EPSRC Circular Economy Critical Mass Programmes Interview Panel",
+  "meeting_date": "2023-10-18 08:00:00",
+  "meeting_convenor": "Ajare, Mr T",
+  "applications": [
+    {
+      "application_id": "APP4458",
+      "title": "BuildZero: transforming the UK's buildings for zero material extraction, zero carbon and zero waste",
+      "applicant": "Densley Tingley, Dr D",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "6416473.67",
+      "award_id": "EP/Y530578/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY530578%2F1",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    },
+    {
+      "application_id": "APP4817",
+      "title": "RECREATE (REcycling CRitical Elements in Advanced Technologies for the Environment)",
+      "applicant": "Walton, Professor A",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "6430850.15",
+      "award_id": "EP/Y53058X/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FY53058X%2F1",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    },
+    {
+      "application_id": "APP7100",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    },
+    {
+      "application_id": "APP4516",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    },
+    {
+      "application_id": "APP6332",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    },
+    {
+      "application_id": "APP4447",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    },
+    {
+      "application_id": "APP4441",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "81",
+      "opportunity_name": "EPSRC circular economy critical mass programmes: full application stage"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Goldsworthy, Professor K",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "Matharu, Professor A",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "McManus, Professor M",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Purnell, Professor P",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Whittingham, Dr W",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Woolley, Dr E",
+      "role": "Panellist",
+      "organisation": ""
+    }
+  ]
+}

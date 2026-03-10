@@ -1,0 +1,39 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN444",
+  "meeting_name": "EPSRC: ICT Opens Fellowship Prioritisation Panel July 2024",
+  "meeting_date": "2024-07-10 08:00:00",
+  "meeting_convenor": "Tresoldi, D",
+  "applications": [
+    {
+      "application_id": "APP11659",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP9983",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    }
+  ]
+}

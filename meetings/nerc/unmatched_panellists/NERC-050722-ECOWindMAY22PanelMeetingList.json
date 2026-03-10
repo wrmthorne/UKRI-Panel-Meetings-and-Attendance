@@ -1,0 +1,50 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "(ECOWind MAY22 Panel)",
+  "source_file": "NERC-funding-assessment-panel-members-2022/NERC-050722-ECOWindMAY22PanelMeetingList.pdf",
+  "meeting_date": "22 & 23 June 2022",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Nicola Lewis",
+  "panellists": [
+    {
+      "name": "Dr Colin Moffat",
+      "role": "Chair",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Professor Pat Halpin Duke",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Dr Sonja",
+      "role": "Member",
+      "organisation": "van Leeuwen NIOZ"
+    },
+    {
+      "name": "Professor Russell Wynn Wild New",
+      "role": "Member",
+      "organisation": "Forest"
+    },
+    {
+      "name": "Dr Morten Frederiksen Aarhus",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Professor Steven Degraer Royal Belgian",
+      "role": "Member",
+      "organisation": "Institute of Natural Sciences"
+    },
+    {
+      "name": "Professor Paul Tyler",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Ms Polly Tarrant",
+      "role": "Member",
+      "organisation": "NnG Offshore Wind"
+    }
+  ]
+}

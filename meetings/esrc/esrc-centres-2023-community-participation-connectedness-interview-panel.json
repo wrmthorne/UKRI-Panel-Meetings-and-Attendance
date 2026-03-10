@@ -1,0 +1,64 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESRC Centres 2023 \u2013 Community Participation & Connectedness Interview Panel",
+  "year": "2024",
+  "meeting_date": "2024-06",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "panellists": [
+    {
+      "name": "Chiaki Beis",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Sophie Martin",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Professor Kathy Rastle",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Chair"
+    },
+    {
+      "name": "Professor Olga Biosca",
+      "organisation": "Glasgow Caledonian University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mario Weick",
+      "organisation": "Durham University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor John Mohan",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Bridgette Wessels",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Ms Lizzy Hawkins",
+      "organisation": "Department for Levelling up, Housing and Communities",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Kathryn Oliver",
+      "organisation": "London School of Hygene and Tropical Medicine",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "application_reference": "ES/Z50421X/1",
+      "opportunity": "2023 ESRC Centre In Community Participation and Connectedness",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    }
+  ]
+}

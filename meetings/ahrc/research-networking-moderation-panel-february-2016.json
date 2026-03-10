@@ -1,0 +1,98 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, February 2016",
+  "year": "2016",
+  "meeting_date": "2016-02",
+  "source_file": "Research Networking February 2016 Meeting.xlsx",
+  "count_of_applications": "13",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "application_reference": "AH/N009428/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicholas Peter Gebhardt",
+      "holding_organisation": "Birmingham City University",
+      "grant_title": "Jazz and Everyday Aesthetics"
+    },
+    {
+      "application_reference": "AH/N007514/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Robert Hosfield",
+      "holding_organisation": "University of Reading",
+      "grant_title": "Coping with climate: the legacy of H. heidelbergensis"
+    },
+    {
+      "application_reference": "AH/N008987/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Hannah Burrows",
+      "holding_organisation": "University of Aberdeen",
+      "grant_title": "Humours of the Past"
+    },
+    {
+      "application_reference": "AH/N008774/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sara Jones",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Culture and its Uses as Testimony"
+    },
+    {
+      "application_reference": "AH/N00910X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Philippa Lovatt",
+      "holding_organisation": "University of Stirling",
+      "grant_title": "'Southeast Asian Cinemas Research Network' (SEACRN): Promoting Dialogue Across Critical and Creative Practice'."
+    },
+    {
+      "application_reference": "AH/N007026/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Marie-Noelle Guillot",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "Tapping the Power of Foreign Language Films: Audiovisual Translation as Cross-cultural Mediation"
+    },
+    {
+      "application_reference": "AH/N006305/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Salome Voegelin",
+      "holding_organisation": "University of the Arts London",
+      "grant_title": "Listening Across Disciplines"
+    },
+    {
+      "application_reference": "AH/N008995/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N009479/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N007417/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N006364/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N005937/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00437X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

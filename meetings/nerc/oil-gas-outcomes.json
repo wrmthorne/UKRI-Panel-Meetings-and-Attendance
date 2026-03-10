@@ -1,0 +1,126 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Oil and Gas Innovation call June 2014",
+  "source_file": "oil-gas-outcomes.pdf",
+  "count_of_applications": "24",
+  "count_of_awards": "10",
+  "year": "2014",
+  "applications": [
+    {
+      "application_reference": "NE/M006824/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007197/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007235/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007200/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M006972/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007138/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007251/1",
+      "ranking": "7",
+      "scores": [
+        "7",
+        "4"
+      ],
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007324/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007146/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007286/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/M007243/1",
+      "outcome": "Unsuccessful",
+      "ranking": "11",
+      "score": "64"
+    },
+    {
+      "application_reference": "NE/M007278/1",
+      "outcome": "Unsuccessful",
+      "ranking": "12"
+    },
+    {
+      "application_reference": "NE/M007316/1",
+      "outcome": "Unsuccessful",
+      "ranking": "13"
+    },
+    {
+      "application_reference": "NE/M007170/1",
+      "outcome": "Unsuccessful",
+      "ranking": "14"
+    },
+    {
+      "application_reference": "NE/M007227/1",
+      "outcome": "Unsuccessful",
+      "ranking": "15"
+    },
+    {
+      "application_reference": "NE/M007308/1",
+      "outcome": "Unsuccessful",
+      "ranking": "16"
+    },
+    {
+      "application_reference": "NE/M00726X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "17"
+    },
+    {
+      "application_reference": "NE/M007294/1",
+      "outcome": "Unsuccessful",
+      "ranking": "18"
+    },
+    {
+      "application_reference": "NE/M007332/1",
+      "outcome": "Unsuccessful",
+      "ranking": "19"
+    },
+    {
+      "application_reference": "NE/M00712X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "20"
+    },
+    {
+      "application_reference": "NE/M007189/1",
+      "outcome": "Unsuccessful",
+      "ranking": "21"
+    },
+    {
+      "application_reference": "NE/M007162/1",
+      "outcome": "Unsuccessful",
+      "ranking": "22"
+    },
+    {
+      "application_reference": "NE/M007219/1",
+      "outcome": "Unsuccessful",
+      "ranking": "23"
+    },
+    {
+      "application_reference": "NE/M007340/1",
+      "outcome": "Unsuccessful",
+      "ranking": "24"
+    }
+  ]
+}

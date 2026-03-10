@@ -1,0 +1,543 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "2023 Pioneer",
+  "year": "2023",
+  "source_file": "awarded_grants/BBSRC-220823-AwardedGrants2023-PioneerAwards.xlsx",
+  "count_of_applications": "62",
+  "count_of_awards": "62",
+  "applications": [
+    {
+      "application_reference": "3291",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3313",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3334",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3335",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3337",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3338",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3362",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3382",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3383",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3386",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3391",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3400",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3401",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3414",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3432",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3437",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3440",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3443",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3497",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3498",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3519",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3528",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3543",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3565",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3590",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3600",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3608",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3629",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3666",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3678",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3688",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3732",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3741",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3771",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3812",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3817",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3825",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3833",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3848",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3872",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3900",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3909",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3947",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3959",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3963",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3964",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3975",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3976",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "3993",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4062",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4083",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4085",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4091",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4101",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4108",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4114",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4125",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4145",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4152",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4159",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4164",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "4171",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alistair Hetherington",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Gavin Thomas",
+      "role": "Deputy Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Jessica Adams",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Ed Bolt",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Chiara Boschetti",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Angus Buckling",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Lida Derevnina",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Laura Dixon",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Darren Evans",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Louise Johnson",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Sharon Kendall",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Sophia Kourmpetli",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Paula Kover",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Sarah McKim",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Gail Preston",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Kevin Purdy",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Matthew Terry",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Jamie Twycross",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Steven Spoel",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Simon Morley",
+      "role": "Deputy Chair",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Michelle Peckham",
+      "role": "Deputy Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Thorsten Allers",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Hilary Ashe",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Philip Biggin",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Hai Deng",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Mark Evans",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Aga Gambus",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Phillip Hawkins",
+      "role": "Member",
+      "organisation": "Babraham Institute"
+    },
+    {
+      "name": "Sam Hay",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Jamie Hobbs",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Nick Lane",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Conrad Nieduszynski",
+      "role": "Member",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Ritwick Sawarkar",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Rahuman Malik Sheriff",
+      "role": "Member",
+      "organisation": "EMBL-EBI"
+    },
+    {
+      "name": "Ian Stansfield",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Stephen Tait",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Kang Lan Tee",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Gavin Wright",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Andrew Devitt",
+      "role": "Chair",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Kathryn Ayscough",
+      "role": "Deputy Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Claudio Angione",
+      "role": "Member",
+      "organisation": "Teeside University"
+    },
+    {
+      "name": "Jane Aspell",
+      "role": "Member",
+      "organisation": "Anglia Ruskin University"
+    },
+    {
+      "name": "Jane Cleal",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Matthew Grubb King’s College London",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Robert Hynds",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Majlinda Lako",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Nicholas Lesica",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Vicky MacRae",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Anna Nicolaou",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Rasmus Petersen",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Androniki Psifidi",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Henry Roehl",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Jaswinder Sethi",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Alan Stewart",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Donal Wall",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Emma Wood",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "membership_source_files": [
+    "membership/BBSRC-010823-BBSRCPioneerAwardsPanelMembership2023.pdf"
+  ]
+}

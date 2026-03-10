@@ -1,0 +1,81 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1040",
+  "meeting_name": "OPP701:EPSRC programme grant Full Application - ENZ - 6 March 2025",
+  "meeting_date": "2025-03-06 09:00:00",
+  "meeting_convenor": "Davies, Mr G",
+  "applications": [
+    {
+      "application_id": "APP52563",
+      "title": "ENLIGHT - Enabling a Lifecycle approach to Graphite for AMR",
+      "applicant": "Jones, A",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "7062167.73",
+      "award_id": "UKRI1795",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1795",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP52352",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP57235",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "701",
+      "opportunity_name": "EPSRC programme grant full application: summer 2024"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Shollock, B",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Corney, J",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Meredith, P",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Middleburgh, S",
+      "role": "Panellist",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Papakonstantinou, P",
+      "role": "Panellist",
+      "organisation": "University of Ulster"
+    }
+  ]
+}

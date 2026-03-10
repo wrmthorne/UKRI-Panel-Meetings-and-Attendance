@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Funding July 2018 panel",
+  "year": "2018",
+  "meeting_date": "2018-07",
+  "source_file": "Follow-on Funding for Impact and Engagement Q3 2018 Moderation.xlsx",
+  "count_of_applications": "11",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/S00680X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Andrew McRae",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "The Places of Poetry:a community arts project"
+    },
+    {
+      "application_reference": "AH/S001808/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Alison Findlay",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Dramatising Penshurst: \"Love's Victory\" and the Sidneys"
+    },
+    {
+      "application_reference": "AH/S006370/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Hiroki Shin",
+      "holding_organisation": "Science Museum Group",
+      "grant_title": "Communicating Material Cultures of Energy: Five Challenges for Energy Communication"
+    },
+    {
+      "application_reference": "AH/S002707/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S002421/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005196/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Karina Croucher",
+      "holding_organisation": "University of Bradford",
+      "grant_title": "Continuing Bonds: Creative Dissemination"
+    },
+    {
+      "application_reference": "AH/s005153/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Michael Punt",
+      "holding_organisation": "University of Plymouth",
+      "grant_title": "Technology, Exchange and Flow Writing Workshops at the Kochi-Muziris Biennale"
+    },
+    {
+      "application_reference": "AH/S003819/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Leon Cruickshank",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Scaling Up Leapfrog: improving a million conversations"
+    },
+    {
+      "application_reference": "AH/S003126/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Laura Brooks",
+      "holding_organisation": "University of Southampton",
+      "grant_title": "Songs of Home & Distant Isles: Musical Soundscapes of Australia and Britain, 1787-1860"
+    },
+    {
+      "application_reference": "AH/S003223/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S004890/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

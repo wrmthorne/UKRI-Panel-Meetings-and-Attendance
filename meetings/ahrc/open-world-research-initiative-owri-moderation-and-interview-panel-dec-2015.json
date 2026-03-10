@@ -1,0 +1,64 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Open World Research Initiative (OWRI) moderation and interview panel Dec 2015",
+  "year": "2015",
+  "meeting_date": "2015-12",
+  "source_file": "Open World Research Initiative (OWRI) December 2015 meeting.xlsx",
+  "count_of_applications": "8",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/N004671/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Wendy Ayres-Bennett",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "Multilingualism: Empowering Individuals, Transforming Societies (MEITS)"
+    },
+    {
+      "application_reference": "AH/N004701/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Katrin Kohl",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Creative Multilingualism"
+    },
+    {
+      "application_reference": "AH/N004647/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Stephen Hutchings",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Cross-Language Dynamics: Reshaping Community"
+    },
+    {
+      "application_reference": "AH/N004655/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Catherine Boyle",
+      "holding_organisation": "King's College London",
+      "grant_title": "Language Acts and Worldmaking"
+    },
+    {
+      "application_reference": "AH/N004639/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00471X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004620/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N004698/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

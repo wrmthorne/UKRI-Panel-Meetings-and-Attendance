@@ -1,0 +1,136 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, panel B meeting September 2015",
+  "year": "2015",
+  "meeting_date": "2015-09",
+  "source_file": "Research Grants Panel B, September 2015 meeting.xlsx",
+  "count_of_applications": "20",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/N00308X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Martin Clayton",
+      "holding_organisation": "Durham University",
+      "grant_title": "Interpersonal Entrainment in Music Performance",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N001826/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Mykaell Riley",
+      "holding_organisation": "University of Westminster",
+      "grant_title": "Bass Culture",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N001605/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Ian Goode",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "The Major Minor Cinema: the Highlands and Islands Film Guild (1946-71)",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N00440X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Timothy Clark",
+      "holding_organisation": "The British Museum",
+      "grant_title": "Late Hokusai: Thought, Technique, Society",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N003683/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jon Dovey",
+      "holding_organisation": "University of the West of England",
+      "grant_title": "Ambient Literature",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/N002806/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002032/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002121/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001656/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002717/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N00275X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N003217/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002938/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sandra Costa Santos",
+      "holding_organisation": "Northumbria University",
+      "grant_title": "Place and belonging: what can we learn from Claremont Court Housing Scheme?",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/N001478/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001486/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001753/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001818/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N001958/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N002873/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N003136/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

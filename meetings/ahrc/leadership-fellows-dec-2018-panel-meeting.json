@@ -1,0 +1,114 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Leadership Fellows, Dec 2018 panel meeting",
+  "year": "2018",
+  "meeting_date": "2018-12",
+  "source_file": "Leadership Fellows Panel, December 2018 Meeting.xlsx",
+  "count_of_applications": "14",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/S005498/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rory Naismith",
+      "holding_organisation": "King's College London",
+      "grant_title": "Foundations of Gold and Silver",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S005692/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Mariza Dima",
+      "holding_organisation": "Brunel University London",
+      "grant_title": "A framework for designing Mixed Reality situated learning experiences in cultural heritage sites using AR glasses",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S00310X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Louise Miskell",
+      "holding_organisation": "Swansea University",
+      "grant_title": "The Social Worlds of Steel. Re-thinking Industrial History and Heritage",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S003711/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Philip Shaw",
+      "holding_organisation": "University of Leicester",
+      "grant_title": "Wordsworth 2020",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S005226/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Emily Thomas",
+      "holding_organisation": "Durham University",
+      "grant_title": "Inventing Time: Past, Present, and Future in British Metaphysics 1878-1938",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S006281/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sinead O'Sullivan",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "Crafting knowledge in the early medieval West: Glosses, learning and culture, circa 800-1050",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/S004750/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Catherine Spencer",
+      "holding_organisation": "University of St Andrews",
+      "grant_title": "Green Unpleasant Land: Art, Abstraction and the Politics of Location",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S004874/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Hedi Viterbo",
+      "holding_organisation": "University of Essex",
+      "grant_title": "Rethinking Child Law and Policy",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/S00565X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003703/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00355X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005080/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S00629X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S003029/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

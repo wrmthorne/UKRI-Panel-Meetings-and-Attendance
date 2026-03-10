@@ -1,0 +1,101 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESRC-DFID Joint Fund for Poverty Alleviation Follow on Fund meeting",
+  "year": "2020",
+  "meeting_date": "2020-12",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "applications": [
+    {
+      "application_reference": "ES/T016035/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T015926/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T016000/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T015934/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T015977/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T016051/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T015942/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/T015969/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T015918/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T01590X/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T016078/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T016140/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T016027/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T016043/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/T015993/1",
+      "opportunity": "ESRC-DFID Poverty FoF 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

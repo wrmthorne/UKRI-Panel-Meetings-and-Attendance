@@ -1,0 +1,78 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Fund for Impact & Engagement, January / February 2016",
+  "year": "2016",
+  "meeting_date": "2016-02",
+  "source_file": "Follow-on Funding for Impact and Engagement Q1 2016 Meetings.xlsx",
+  "count_of_applications": "9",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/N007816/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Sally Mackey",
+      "holding_organisation": "Royal Central Sch of Speech and Drama",
+      "grant_title": "Performing Places: working with local councils to reach new communities and facilitate wellbeing in living environments"
+    },
+    {
+      "application_reference": "AH/N010086/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Marie Coleman",
+      "holding_organisation": "Queen's University of Belfast",
+      "grant_title": "Commemorating Partition and Civil Wars in Ireland, 2020-2023"
+    },
+    {
+      "application_reference": "AH/N007697/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Stephanie Bunn",
+      "holding_organisation": "University of St Andrews",
+      "grant_title": "Woven Communities: the warp and the weft of Scottish vernacular basketry"
+    },
+    {
+      "application_reference": "AH/N001982/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/N007751/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Marie Harder",
+      "holding_organisation": "University of Brighton",
+      "grant_title": "Capturing values-based legacies of community-led development with GPI in Bhutan"
+    },
+    {
+      "application_reference": "AH/N00891X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Michael Cullinane",
+      "holding_organisation": "Northumbria University",
+      "grant_title": "Call to Action: Raising Awareness of Theodore Roosevelt Island"
+    },
+    {
+      "application_reference": "AH/N009495/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Holly Furneaux",
+      "holding_organisation": "Cardiff University",
+      "grant_title": "Soldier Art"
+    },
+    {
+      "application_reference": "AH/N00938X/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Dirk Obbink",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "Augmenting Expertise: Knowledge Transfers, Ancient Manuscripts, and Tourism"
+    },
+    {
+      "application_reference": "AH/P002390/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

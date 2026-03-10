@@ -1,0 +1,753 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "Research Committee Membership2024RM3",
+  "source_file": "membership/BBSRC-130625-ResearchCommitteeMembership2024RM3.pdf",
+  "meeting_date": "Thursday 20th March 2025",
+  "panellists": [
+    {
+      "name": "Richard Barrett",
+      "role": "Chair",
+      "organisation": "Jolley – University of Liverpool"
+    },
+    {
+      "name": "Emma Hodson",
+      "role": "Deputy Chair",
+      "organisation": "Tole – Manchester Metropolitan University"
+    },
+    {
+      "name": "Tom Matheson",
+      "role": "Deputy Chair",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Alan Walker",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Andrew Cooke",
+      "role": "Member",
+      "organisation": "University of Lincoln"
+    },
+    {
+      "name": "Andrew Lin",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Aparna Ratheesh",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Benedikt Berninger",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Campbell Gourlay",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Claudia Wascher",
+      "role": "Member",
+      "organisation": "Anglia Ruskin University"
+    },
+    {
+      "name": "David Wilcockson",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Dianne Ford",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Efstathios Giotis",
+      "role": "Member",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Eisuke Koya",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Frederick Warren",
+      "role": "Member",
+      "organisation": "Quadram Institute"
+    },
+    {
+      "name": "Gisela Helfer",
+      "role": "Member",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "Julie Gibbs",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Julie Turner",
+      "role": "Member",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Lucy Asher",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Mandy Nevel",
+      "role": "Member",
+      "organisation": "Agriculture and Horticulture Development Board (AHDB)"
+    },
+    {
+      "name": "Maria Montoya",
+      "role": "Member",
+      "organisation": "Centro de Investigaciones Biológicas (CIB-CSIC)"
+    },
+    {
+      "name": "Maria O’Connell",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Matthew Loose",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Muhammad Munir",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Natalie Hempel de Ibarra",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Owen Dylan",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Petros Ligoxygakis",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Robert Huckstepp",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Ronan McCarthy",
+      "role": "Member",
+      "organisation": "Brunel University of London"
+    },
+    {
+      "name": "Runxuan Zhang",
+      "role": "Member",
+      "organisation": "The James Hutton Institute"
+    },
+    {
+      "name": "Sarah McKim",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Shahriar Behboudi",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Sokratis Stergiadis",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Stephen Tait",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Thomas Wilkinson",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Virginia Marugan",
+      "role": "Member",
+      "organisation": "Hernandez – Royal Veterinary College"
+    },
+    {
+      "name": "William Duddy",
+      "role": "Member",
+      "organisation": "Ulster University"
+    },
+    {
+      "name": "Zoe Kourtzi",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Miriam Gifford",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Eshwar Mahenthiralingam",
+      "role": "Deputy Chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Anthony Hall",
+      "role": "Deputy Chair",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Katie Field",
+      "role": "Deputy Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Alessia Buscaino",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Cendric Berger",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Charles Veys",
+      "role": "Member",
+      "organisation": "FOTENIX"
+    },
+    {
+      "name": "Christopher Bayliss",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Daniel Kindred",
+      "role": "Member",
+      "organisation": "Anglo-American"
+    },
+    {
+      "name": "Danna Gifford",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "David Lea",
+      "role": "Member",
+      "organisation": "Smith – University of East Anglia"
+    },
+    {
+      "name": "Eirini Kaiserli",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Erik Murchie",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Falk Hildebrand",
+      "role": "Member",
+      "organisation": "Quadram Institute/Earlham Institute"
+    },
+    {
+      "name": "Ian Henderson",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "James Locke",
+      "role": "Member",
+      "organisation": "University of Cambridge/Sainsbury Laboratory"
+    },
+    {
+      "name": "Jessica Blair",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Laura Gardiner",
+      "role": "Member",
+      "organisation": "IBM Research"
+    },
+    {
+      "name": "Marie Lewis",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Mark Bruce",
+      "role": "Member",
+      "organisation": "Oxford Nanopore Technologies"
+    },
+    {
+      "name": "Mark Chapman",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Maurice Bosch",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Mauro Rinaldi",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Neil Mabbott",
+      "role": "Member",
+      "organisation": "University of Edinburgh/Roslin Institute"
+    },
+    {
+      "name": "Paul Kersey",
+      "role": "Member",
+      "organisation": "Royal Botanic Gardens, Kew"
+    },
+    {
+      "name": "Peter Etchells",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Roy Neilson",
+      "role": "Member",
+      "organisation": "James Hutton Institute"
+    },
+    {
+      "name": "Sharon Kendall",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Sharon Zytynska",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Sofia Kourmpetli",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Thorunn Helgason",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Tim Daniell",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Victoria Savage",
+      "role": "Member",
+      "organisation": "Infex Therapeutics Ltd"
+    },
+    {
+      "name": "Yoselin Benitez",
+      "role": "Member",
+      "organisation": "Alfonso – University of Leeds"
+    },
+    {
+      "name": "Helen Parkinson",
+      "role": "Chair",
+      "organisation": "European Molecular Biology European Bioinformatics Institute"
+    },
+    {
+      "name": "Tracey Chapman",
+      "role": "Deputy Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "James McInerney",
+      "role": "Deputy Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Adriana Margariti",
+      "role": "Member",
+      "organisation": "Queen’s University Belfast"
+    },
+    {
+      "name": "Alastair Kerr",
+      "role": "Member",
+      "organisation": "Genome England"
+    },
+    {
+      "name": "Alistair McGregor",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Amanda Bretman",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Asme Boussahel",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Cathy Slack",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Chitra Seewooruthun",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Dimitrios Zevgolis",
+      "role": "Member",
+      "organisation": "University College Dublin"
+    },
+    {
+      "name": "David Ferrier",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Franziska Denk",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Guifen Chen",
+      "role": "Member",
+      "organisation": "Queen Mary, University of London"
+    },
+    {
+      "name": "Jamie Twycross",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Jessica Teeling",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Julia Cordero",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Kathryn Hentges",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Konstantinos Thalassinos",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Kyra Campbell",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Lisa Crossman",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Lucy Weinert",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Mark Evans",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Mark Wass",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Micheal Bailey",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Patrick Eyers",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Paul Badenhorst",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Paul Hoskisson",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Petra Oyston",
+      "role": "Member",
+      "organisation": "Defence Science and Technology Laboratory"
+    },
+    {
+      "name": "Renata Jurkowaska",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Ritwick Sawarkar",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Robert Hindges",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Robert Hynds",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Sadra Sadeh",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Steffan Scholpp",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Stephanie Duguez",
+      "role": "Member",
+      "organisation": "Ulster University"
+    },
+    {
+      "name": "Thamarai Schneiders",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Tony Southall",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "William Grey",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Yolanda Markaki",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Martin Cann",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Andrew Pitt",
+      "role": "Deputy Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Carolyn Moores",
+      "role": "Deputy Chair",
+      "organisation": "Birkbeck College"
+    },
+    {
+      "name": "Aga Gambus",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Andrea Townsend",
+      "role": "Member",
+      "organisation": "Nicholson – University College London"
+    },
+    {
+      "name": "Andrew Gates",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Christoph Wuelfing",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Clair Baldock",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Claudio Angione",
+      "role": "Member",
+      "organisation": "Teeside University"
+    },
+    {
+      "name": "Colin Crump",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Corinne Spickett",
+      "role": "Member",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Cyril Dominguez",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Dessi Malinova",
+      "role": "Member",
+      "organisation": "Queen’s University Belfast"
+    },
+    {
+      "name": "Elena Rainero",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Eugene Makeyev",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Ifat Shah",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "James Brewer",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Jennifer Hay",
+      "role": "Member",
+      "organisation": "The Francis Crick Institute"
+    },
+    {
+      "name": "Jody Mason",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Juan Antonio Vizcaino",
+      "role": "Member",
+      "organisation": "EMBL – European Bioinformatics Institute"
+    },
+    {
+      "name": "Kang Lan Tee",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Katherine Duncan",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Mala Shah",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Meng Zhang",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Neil Kad",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Paolo Actis",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Patrick Lewis",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Paul Fogg",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Phillip Stansfeld",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Robert Pal",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Sian Henson",
+      "role": "Member",
+      "organisation": "Queen Mary, University of London"
+    },
+    {
+      "name": "Sohail Ali",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Sonia Rocha",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Sonja Vermeren",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Vikash Kumar Yadav",
+      "role": "Member",
+      "organisation": "University of Derby"
+    },
+    {
+      "name": "Yan Liu",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Yusuke Nishimura",
+      "role": "Member",
+      "organisation": "Liverpool John Moores University"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN437",
+  "meeting_name": "EPSRC Physical Sciences Programme Grant Interview Panel - 18 July 2024",
+  "meeting_date": "2024-07-18 08:00:00",
+  "meeting_convenor": "Brown, Dr Z",
+  "applications": [
+    {
+      "application_id": "APP5629",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "135",
+      "opportunity_name": "EPSRC programme grants: full application summer 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "McLaughlin, S",
+      "role": "Chair",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Duhme-Klair, A",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Nezhad, M",
+      "role": "Panellist",
+      "organisation": "University of Salford"
+    },
+    {
+      "name": "Rainforth, W",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Tizaoui, C",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    }
+  ]
+}

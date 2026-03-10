@@ -1,0 +1,3172 @@
+{
+  "council": "BBSRC",
+  "panel_meeting_name": "2018 RM2",
+  "year": "2018",
+  "source_file": "awarded_grants/BBSRC-11102021-2018AwardedGrantsRM2.xlsx",
+  "count_of_applications": "452",
+  "count_of_awards": "114",
+  "applications": [
+    {
+      "application_reference": "BB/S005471/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008276/1",
+      "outcome": "Successful",
+      "score": "2",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008098/1",
+      "outcome": "Successful",
+      "score": "3",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009396/1",
+      "outcome": "Successful",
+      "score": "4",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00873X/1",
+      "outcome": "Successful",
+      "score": "5",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006338/1",
+      "outcome": "Successful",
+      "score": "6",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008314/1",
+      "outcome": "Successful",
+      "score": "7",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005943/1",
+      "outcome": "Successful",
+      "score": "8",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009299/1",
+      "outcome": "Successful",
+      "score": "9",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007741/1",
+      "outcome": "Successful",
+      "score": "10",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009477/1",
+      "outcome": "Successful",
+      "score": "11",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005358/1",
+      "outcome": "Successful",
+      "score": "12",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00548X/1",
+      "outcome": "Successful",
+      "score": "12",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005153/1",
+      "outcome": "Successful",
+      "score": "13",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007164/1",
+      "outcome": "Successful",
+      "score": "13",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007210/1",
+      "outcome": "Successful",
+      "score": "13",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006605/1",
+      "outcome": "Successful",
+      "score": "14",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S004742/1",
+      "outcome": "Successful",
+      "score": "15",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006796/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007911/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008292/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008527/1",
+      "outcome": "Successful",
+      "score": "17",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006257/1",
+      "outcome": "Successful",
+      "score": "18",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005846/1",
+      "outcome": "Successful",
+      "score": "19",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005897/1",
+      "outcome": "Successful",
+      "score": "19",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008705/1",
+      "outcome": "Successful",
+      "score": "20",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008829/1",
+      "outcome": "Successful",
+      "score": "20",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009248/1",
+      "outcome": "Unsuccessful",
+      "score": "21",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00677X/1",
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008500/1",
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005919/1",
+      "outcome": "Successful",
+      "score": "24",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006400/1",
+      "outcome": "Successful",
+      "score": "24",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006567/1",
+      "outcome": "Successful",
+      "score": "25",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006680/1",
+      "outcome": "Successful",
+      "score": "25",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00534X/1",
+      "outcome": "Unsuccessful",
+      "score": "26",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005781/1",
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00582X/1",
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007172/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005765/1",
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007628/1",
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008411/1",
+      "outcome": "Unsuccessful",
+      "score": "30",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008799/1",
+      "outcome": "Unsuccessful",
+      "score": "31",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007679/1",
+      "outcome": "Unsuccessful",
+      "score": "32",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008438/1",
+      "outcome": "Unsuccessful",
+      "score": "33",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005552/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005684/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005757/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006311/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006419/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00775X/1",
+      "outcome": "Unsuccessful",
+      "score": "35",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008667/1",
+      "outcome": "Unsuccessful",
+      "score": "36",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007954/1",
+      "outcome": "Unsuccessful",
+      "score": "37",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005242/1",
+      "outcome": "Unsuccessful",
+      "score": "38",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008926/1",
+      "outcome": "Unsuccessful",
+      "score": "39",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006117/1",
+      "outcome": "Unsuccessful",
+      "score": "40",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008969/1",
+      "outcome": "Unsuccessful",
+      "score": "41",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006826/1",
+      "outcome": "Unsuccessful",
+      "score": "42",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007733/1",
+      "outcome": "Unsuccessful",
+      "score": "42",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005366/1",
+      "outcome": "Unsuccessful",
+      "score": "43",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006230/1",
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006362/1",
+      "outcome": "Unsuccessful",
+      "score": "45",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006095/1",
+      "outcome": "Unsuccessful",
+      "score": "46",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005137/1",
+      "outcome": "Unsuccessful",
+      "score": "47",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008519/1",
+      "outcome": "Unsuccessful",
+      "score": "48",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006435/1",
+      "outcome": "Unsuccessful",
+      "score": "49",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007784/1",
+      "outcome": "Unsuccessful",
+      "score": "50",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007822/1",
+      "outcome": "Unsuccessful",
+      "score": "51",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008233/1",
+      "outcome": "Unsuccessful",
+      "score": "52",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005749/1",
+      "outcome": "Unsuccessful",
+      "score": "53",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S00923X/1",
+      "outcome": "Unsuccessful",
+      "score": "54",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006265/1",
+      "outcome": "Unsuccessful",
+      "score": "55",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005218/1",
+      "outcome": "Unsuccessful",
+      "score": "56",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007881/1",
+      "outcome": "Unsuccessful",
+      "score": "57",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008373/1",
+      "outcome": "Unsuccessful",
+      "score": "58",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007326/1",
+      "outcome": "Unsuccessful",
+      "score": "59",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008004/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009493/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009094/1",
+      "outcome": "Unsuccessful",
+      "score": "62",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008489/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009272/1",
+      "outcome": "Unsuccessful",
+      "score": "64",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005102/1",
+      "outcome": "Unsuccessful",
+      "score": "65",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007059/1",
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007903/1",
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008225/1",
+      "outcome": "Unsuccessful",
+      "score": "67",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006613/1",
+      "outcome": "Unsuccessful",
+      "score": "68",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006125/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006559/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008837/1",
+      "outcome": "Unsuccessful",
+      "score": "70",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008888/1",
+      "outcome": "Unsuccessful",
+      "score": "71",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005234/1",
+      "outcome": "Unsuccessful",
+      "score": "72",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005323/1",
+      "outcome": "Unsuccessful",
+      "score": "73",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006575/1",
+      "outcome": "Unsuccessful",
+      "score": "74",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006540/1",
+      "outcome": "Unsuccessful",
+      "score": "75",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S006273/1",
+      "outcome": "Unsuccessful",
+      "score": "76",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009175/1",
+      "outcome": "Unsuccessful",
+      "score": "77",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008322/1",
+      "outcome": "Unsuccessful",
+      "score": "78",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007776/1",
+      "outcome": "Unsuccessful",
+      "score": "79",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S004785/1",
+      "outcome": "Unsuccessful",
+      "score": "80",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S005005/1",
+      "outcome": "Unsuccessful",
+      "score": "80",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S008268/1",
+      "outcome": "Unsuccessful",
+      "score": "81",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009108/1",
+      "outcome": "Unsuccessful",
+      "score": "82",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009264/1",
+      "outcome": "Unsuccessful",
+      "score": "83",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009434/1",
+      "outcome": "Unsuccessful",
+      "score": "84",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009442/1",
+      "outcome": "Unsuccessful",
+      "score": "85",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007113/1",
+      "outcome": "Unsuccessful",
+      "score": "86",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007539/1",
+      "outcome": "Unsuccessful",
+      "score": "86",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S009647/1",
+      "outcome": "Unsuccessful",
+      "score": "87",
+      "panel": "18RM2 A"
+    },
+    {
+      "application_reference": "BB/S007474/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006842/1",
+      "outcome": "Successful",
+      "score": "2",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005307/1",
+      "outcome": "Successful",
+      "score": "3",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009620/1",
+      "outcome": "Successful",
+      "score": "4",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006397/1",
+      "outcome": "Successful",
+      "score": "5",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006370/1",
+      "outcome": "Successful",
+      "score": "6",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006060/1",
+      "outcome": "Successful",
+      "score": "7",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005714/1",
+      "outcome": "Successful",
+      "score": "8",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006281/1",
+      "outcome": "Successful",
+      "score": "9",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007652/1",
+      "outcome": "Successful",
+      "score": "10",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008020/1",
+      "outcome": "Successful",
+      "score": "10",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005293/1",
+      "outcome": "Successful",
+      "score": "11",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006818/1",
+      "outcome": "Successful",
+      "score": "12",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009043/1",
+      "outcome": "Successful",
+      "score": "13",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009078/1",
+      "outcome": "Successful",
+      "score": "14",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008195/1",
+      "outcome": "Successful",
+      "score": "15",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007970/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005382/1",
+      "outcome": "Unsuccessful",
+      "score": "17",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009361/1",
+      "outcome": "Unsuccessful",
+      "score": "18",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008780/1",
+      "outcome": "Unsuccessful",
+      "score": "19",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006303/1",
+      "outcome": "Unsuccessful",
+      "score": "20",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00727X/1",
+      "outcome": "Unsuccessful",
+      "score": "21",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008632/1",
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009116/1",
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005404/1",
+      "outcome": "Successful",
+      "score": "24",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005617/1",
+      "outcome": "Successful",
+      "score": "25",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005625/1",
+      "outcome": "Unsuccessful",
+      "score": "26",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006249/1",
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008756/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006222/1",
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005641/1",
+      "outcome": "Successful",
+      "score": "30",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005994/1",
+      "outcome": "Successful",
+      "score": "30",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005587/1",
+      "outcome": "Unsuccessful",
+      "score": "31",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006389/1",
+      "outcome": "Unsuccessful",
+      "score": "31",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005935/1",
+      "outcome": "Unsuccessful",
+      "score": "32",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00680X/1",
+      "outcome": "Unsuccessful",
+      "score": "33",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S004750/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007806/1",
+      "outcome": "Unsuccessful",
+      "score": "35",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008950/1",
+      "outcome": "Unsuccessful",
+      "score": "35",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007601/1",
+      "outcome": "Unsuccessful",
+      "score": "36",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005498/1",
+      "outcome": "Unsuccessful",
+      "score": "37",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006451/1",
+      "outcome": "Unsuccessful",
+      "score": "37",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006869/1",
+      "outcome": "Unsuccessful",
+      "score": "37",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007482/1",
+      "outcome": "Unsuccessful",
+      "score": "38",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005609/1",
+      "outcome": "Unsuccessful",
+      "score": "39",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008357/1",
+      "outcome": "Unsuccessful",
+      "score": "39",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008640/1",
+      "outcome": "Unsuccessful",
+      "score": "39",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005315/1",
+      "outcome": "Unsuccessful",
+      "score": "40",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008683/1",
+      "outcome": "Unsuccessful",
+      "score": "41",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009205/1",
+      "outcome": "Unsuccessful",
+      "score": "41",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007121/1",
+      "outcome": "Unsuccessful",
+      "score": "42",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009450/1",
+      "outcome": "Unsuccessful",
+      "score": "43",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009353/1",
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00954X/1",
+      "outcome": "Unsuccessful",
+      "score": "45",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006443/1",
+      "outcome": "Unsuccessful",
+      "score": "46",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009531/1",
+      "outcome": "Unsuccessful",
+      "score": "46",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00761X/1",
+      "outcome": "Unsuccessful",
+      "score": "47",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008535/1",
+      "outcome": "Unsuccessful",
+      "score": "47",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005986/1",
+      "outcome": "Unsuccessful",
+      "score": "48",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009469/1",
+      "outcome": "Unsuccessful",
+      "score": "49",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005439/1",
+      "outcome": "Unsuccessful",
+      "score": "50",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006486/1",
+      "outcome": "Unsuccessful",
+      "score": "51",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006591/1",
+      "outcome": "Unsuccessful",
+      "score": "52",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006354/1",
+      "outcome": "Unsuccessful",
+      "score": "53",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007687/1",
+      "outcome": "Unsuccessful",
+      "score": "54",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009221/1",
+      "outcome": "Unsuccessful",
+      "score": "54",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009574/1",
+      "outcome": "Unsuccessful",
+      "score": "55",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006214/1",
+      "outcome": "Unsuccessful",
+      "score": "56",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006141/1",
+      "outcome": "Unsuccessful",
+      "score": "57",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00713X/1",
+      "outcome": "Unsuccessful",
+      "score": "58",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007598/1",
+      "outcome": "Unsuccessful",
+      "score": "59",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005048/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006028/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008659/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S004858/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005129/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005250/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005374/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006761/1",
+      "outcome": "Unsuccessful",
+      "score": "62",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006133/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006702/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007067/1",
+      "outcome": "Unsuccessful",
+      "score": "64",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007385/1",
+      "outcome": "Unsuccessful",
+      "score": "65",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006044/1",
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00890X/1",
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005773/1",
+      "outcome": "Unsuccessful",
+      "score": "67",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006516/1",
+      "outcome": "Unsuccessful",
+      "score": "68",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S006915/1",
+      "outcome": "Unsuccessful",
+      "score": "68",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007423/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007563/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009523/1",
+      "outcome": "Unsuccessful",
+      "score": "70",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007016/1",
+      "outcome": "Unsuccessful",
+      "score": "71",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007504/1",
+      "outcome": "Unsuccessful",
+      "score": "71",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S005722/1",
+      "outcome": "Unsuccessful",
+      "score": "72",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007830/1",
+      "outcome": "Unsuccessful",
+      "score": "72",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008543/1",
+      "outcome": "Unsuccessful",
+      "score": "72",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S00646X/1",
+      "outcome": "Unsuccessful",
+      "score": "73",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007253/1",
+      "outcome": "Unsuccessful",
+      "score": "74",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009418/1",
+      "outcome": "Unsuccessful",
+      "score": "75",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S009213/1",
+      "outcome": "Unsuccessful",
+      "score": "76",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008578/1",
+      "outcome": "Unsuccessful",
+      "score": "77",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S008381/1",
+      "outcome": "Unsuccessful",
+      "score": "78",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S004815/1",
+      "outcome": "Unsuccessful",
+      "score": "79",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007989/1",
+      "outcome": "Unsuccessful",
+      "score": "80",
+      "panel": "18RM2 B"
+    },
+    {
+      "application_reference": "BB/S007342/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008934/1",
+      "outcome": "Successful",
+      "score": "2",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007407/1",
+      "outcome": "Successful",
+      "score": "3",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008144/1",
+      "outcome": "Successful",
+      "score": "4",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006478/1",
+      "outcome": "Successful",
+      "score": "5",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008284/1",
+      "outcome": "Successful",
+      "score": "6",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008306/1",
+      "outcome": "Successful",
+      "score": "7",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009256/1",
+      "outcome": "Successful",
+      "score": "7",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007369/1",
+      "outcome": "Successful",
+      "score": "8",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006931/1",
+      "outcome": "Successful",
+      "score": "9",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007350/1",
+      "outcome": "Successful",
+      "score": "9",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008039/1",
+      "outcome": "Successful",
+      "score": "10",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006745/1",
+      "outcome": "Successful",
+      "score": "11",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008136/1",
+      "outcome": "Successful",
+      "score": "12",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007768/1",
+      "outcome": "Successful",
+      "score": "13",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00758X/1",
+      "outcome": "Successful",
+      "score": "14",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009035/1",
+      "outcome": "Successful",
+      "score": "15",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005064/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005536/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007938/1",
+      "outcome": "Successful",
+      "score": "17",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007008/1",
+      "outcome": "Successful",
+      "score": "18",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007261/1",
+      "outcome": "Successful",
+      "score": "19",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008012/1",
+      "outcome": "Successful",
+      "score": "19",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008896/1",
+      "outcome": "Successful",
+      "score": "19",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007814/1",
+      "outcome": "Successful",
+      "score": "20",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009280/1",
+      "outcome": "Unsuccessful",
+      "score": "21",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00517X/1",
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005978/1",
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006052/1",
+      "outcome": "Unsuccessful",
+      "score": "24",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005862/1",
+      "outcome": "Unsuccessful",
+      "score": "25",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009159/1",
+      "outcome": "Unsuccessful",
+      "score": "26",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008748/1",
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00579X/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00596X/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006524/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00565X/1",
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005196/1",
+      "outcome": "Unsuccessful",
+      "score": "30",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007946/1",
+      "outcome": "Unsuccessful",
+      "score": "31",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005854/1",
+      "outcome": "Unsuccessful",
+      "score": "32",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007458/1",
+      "outcome": "Unsuccessful",
+      "score": "32",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008853/1",
+      "outcome": "Unsuccessful",
+      "score": "33",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006737/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006648/1",
+      "outcome": "Unsuccessful",
+      "score": "35",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007792/1",
+      "outcome": "Unsuccessful",
+      "score": "35",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007180/1",
+      "outcome": "Unsuccessful",
+      "score": "36",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00825X/1",
+      "outcome": "Unsuccessful",
+      "score": "36",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006036/1",
+      "outcome": "Unsuccessful",
+      "score": "37",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006990/1",
+      "outcome": "Unsuccessful",
+      "score": "38",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006710/1",
+      "outcome": "Successful",
+      "score": "39",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007431/1",
+      "outcome": "Successful",
+      "score": "39",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007709/1",
+      "outcome": "Successful",
+      "score": "39",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008128/1",
+      "outcome": "Unsuccessful",
+      "score": "40",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008217/1",
+      "outcome": "Unsuccessful",
+      "score": "41",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006583/1",
+      "outcome": "Unsuccessful",
+      "score": "42",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00906X/1",
+      "outcome": "Unsuccessful",
+      "score": "43",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005951/1",
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007725/1",
+      "outcome": "Unsuccessful",
+      "score": "45",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005692/1",
+      "outcome": "Unsuccessful",
+      "score": "46",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006893/1",
+      "outcome": "Unsuccessful",
+      "score": "47",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00632X/1",
+      "outcome": "Unsuccessful",
+      "score": "48",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005676/1",
+      "outcome": "Unsuccessful",
+      "score": "49",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006834/1",
+      "outcome": "Unsuccessful",
+      "score": "49",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006621/1",
+      "outcome": "Unsuccessful",
+      "score": "50",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00663X/1",
+      "outcome": "Unsuccessful",
+      "score": "50",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008063/1",
+      "outcome": "Unsuccessful",
+      "score": "50",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007571/1",
+      "outcome": "Unsuccessful",
+      "score": "51",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008594/1",
+      "outcome": "Unsuccessful",
+      "score": "51",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009140/1",
+      "outcome": "Unsuccessful",
+      "score": "52",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007865/1",
+      "outcome": "Unsuccessful",
+      "score": "53",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008764/1",
+      "outcome": "Unsuccessful",
+      "score": "54",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00887X/1",
+      "outcome": "Unsuccessful",
+      "score": "55",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008101/1",
+      "outcome": "Unsuccessful",
+      "score": "56",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008993/1",
+      "outcome": "Unsuccessful",
+      "score": "56",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007466/1",
+      "outcome": "Unsuccessful",
+      "score": "57",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007644/1",
+      "outcome": "Unsuccessful",
+      "score": "58",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008446/1",
+      "outcome": "Unsuccessful",
+      "score": "59",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009663/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007334/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009515/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008454/1",
+      "outcome": "Unsuccessful",
+      "score": "62",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00856X/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009191/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00792X/1",
+      "outcome": "Unsuccessful",
+      "score": "64",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009124/1",
+      "outcome": "Unsuccessful",
+      "score": "65",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007288/1",
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005455/1",
+      "outcome": "Unsuccessful",
+      "score": "67",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00601X/1",
+      "outcome": "Unsuccessful",
+      "score": "68",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007075/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007660/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008330/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006850/1",
+      "outcome": "Unsuccessful",
+      "score": "70",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008810/1",
+      "outcome": "Unsuccessful",
+      "score": "71",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006907/1",
+      "outcome": "Unsuccessful",
+      "score": "72",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009302/1",
+      "outcome": "Unsuccessful",
+      "score": "73",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008497/1",
+      "outcome": "Unsuccessful",
+      "score": "74",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00937X/1",
+      "outcome": "Unsuccessful",
+      "score": "75",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008462/1",
+      "outcome": "Unsuccessful",
+      "score": "76",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007520/1",
+      "outcome": "Unsuccessful",
+      "score": "77",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008403/1",
+      "outcome": "Unsuccessful",
+      "score": "78",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009167/1",
+      "outcome": "Unsuccessful",
+      "score": "79",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009132/1",
+      "outcome": "Unsuccessful",
+      "score": "80",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008845/1",
+      "outcome": "Unsuccessful",
+      "score": "81",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006958/1",
+      "outcome": "Unsuccessful",
+      "score": "82",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006982/1",
+      "outcome": "Unsuccessful",
+      "score": "82",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00789X/1",
+      "outcome": "Unsuccessful",
+      "score": "83",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00520X/1",
+      "outcome": "Unsuccessful",
+      "score": "84",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005331/1",
+      "outcome": "Unsuccessful",
+      "score": "85",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008586/1",
+      "outcome": "Unsuccessful",
+      "score": "86",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S00808X/1",
+      "outcome": "Unsuccessful",
+      "score": "87",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007415/1",
+      "outcome": "Unsuccessful",
+      "score": "88",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009590/1",
+      "outcome": "Unsuccessful",
+      "score": "89",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007717/1",
+      "outcome": "Unsuccessful",
+      "score": "90",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S009655/1",
+      "outcome": "Unsuccessful",
+      "score": "91",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S008209/1",
+      "outcome": "Unsuccessful",
+      "score": "92",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S007148/1",
+      "outcome": "Unsuccessful",
+      "score": "93",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006729/1",
+      "outcome": "Unsuccessful",
+      "score": "94",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005900/1",
+      "outcome": "Unsuccessful",
+      "score": "95",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S006494/1",
+      "outcome": "Unsuccessful",
+      "score": "96",
+      "panel": "18RM2 C"
+    },
+    {
+      "application_reference": "BB/S005099/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006699/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006974/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007040/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007083/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007105/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008470/1",
+      "outcome": "Successful",
+      "score": "1",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008349/1",
+      "outcome": "Successful",
+      "score": "2",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008608/1",
+      "outcome": "Successful",
+      "score": "3",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00811X/1",
+      "outcome": "Successful",
+      "score": "4",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009000/1",
+      "outcome": "Successful",
+      "score": "4",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009027/1",
+      "outcome": "Successful",
+      "score": "5",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005390/1",
+      "outcome": "Successful",
+      "score": "6",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007202/1",
+      "outcome": "Successful",
+      "score": "6",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008942/1",
+      "outcome": "Successful",
+      "score": "7",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006206/1",
+      "outcome": "Successful",
+      "score": "8",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008691/1",
+      "outcome": "Successful",
+      "score": "9",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005544/1",
+      "outcome": "Successful",
+      "score": "10",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005560/1",
+      "outcome": "Successful",
+      "score": "11",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005420/1",
+      "outcome": "Successful",
+      "score": "12",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008160/1",
+      "outcome": "Successful",
+      "score": "13",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009329/1",
+      "outcome": "Successful",
+      "score": "14",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009566/1",
+      "outcome": "Successful",
+      "score": "15",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007695/1",
+      "outcome": "Successful",
+      "score": "16",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00940X/1",
+      "outcome": "Successful",
+      "score": "17",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006788/1",
+      "outcome": "Successful",
+      "score": "18",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00730X/1",
+      "outcome": "Successful",
+      "score": "19",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007245/1",
+      "outcome": "Successful",
+      "score": "20",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007318/1",
+      "outcome": "Successful",
+      "score": "20",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006877/1",
+      "outcome": "Successful",
+      "score": "21",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005277/1",
+      "outcome": "Successful",
+      "score": "22",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005579/1",
+      "outcome": "Successful",
+      "score": "22",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008918/1",
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009604/1",
+      "outcome": "Unsuccessful",
+      "score": "24",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008977/1",
+      "outcome": "Successful",
+      "score": "25",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006753/1",
+      "outcome": "Unsuccessful",
+      "score": "26",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009558/1",
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00694X/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008551/1",
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005226/1",
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006176/1",
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005110/1",
+      "outcome": "Unsuccessful",
+      "score": "30",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005803/1",
+      "outcome": "Unsuccessful",
+      "score": "30",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006656/1",
+      "outcome": "Unsuccessful",
+      "score": "31",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009582/1",
+      "outcome": "Successful",
+      "score": "32",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005595/1",
+      "outcome": "Unsuccessful",
+      "score": "33",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008985/1",
+      "outcome": "Unsuccessful",
+      "score": "33",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007032/1",
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007636/1",
+      "outcome": "Unsuccessful",
+      "score": "35",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005528/1",
+      "outcome": "Unsuccessful",
+      "score": "36",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008071/1",
+      "outcome": "Unsuccessful",
+      "score": "37",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00629X/1",
+      "outcome": "Unsuccessful",
+      "score": "38",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008861/1",
+      "outcome": "Unsuccessful",
+      "score": "39",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006664/1",
+      "outcome": "Unsuccessful",
+      "score": "40",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006087/1",
+      "outcome": "Unsuccessful",
+      "score": "41",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009426/1",
+      "outcome": "Unsuccessful",
+      "score": "42",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00744X/1",
+      "outcome": "Unsuccessful",
+      "score": "43",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006168/1",
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007296/1",
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009183/1",
+      "outcome": "Unsuccessful",
+      "score": "45",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005927/1",
+      "outcome": "Unsuccessful",
+      "score": "46",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009485/1",
+      "outcome": "Unsuccessful",
+      "score": "47",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005870/1",
+      "outcome": "Unsuccessful",
+      "score": "48",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007857/1",
+      "outcome": "Unsuccessful",
+      "score": "48",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008179/1",
+      "outcome": "Unsuccessful",
+      "score": "48",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007199/1",
+      "outcome": "Unsuccessful",
+      "score": "49",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008616/1",
+      "outcome": "Unsuccessful",
+      "score": "49",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005463/1",
+      "outcome": "Unsuccessful",
+      "score": "50",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005188/1",
+      "outcome": "Unsuccessful",
+      "score": "51",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007156/1",
+      "outcome": "Unsuccessful",
+      "score": "52",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007547/1",
+      "outcome": "Unsuccessful",
+      "score": "53",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007229/1",
+      "outcome": "Unsuccessful",
+      "score": "54",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007512/1",
+      "outcome": "Unsuccessful",
+      "score": "55",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009345/1",
+      "outcome": "Unsuccessful",
+      "score": "56",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008713/1",
+      "outcome": "Unsuccessful",
+      "score": "57",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009051/1",
+      "outcome": "Unsuccessful",
+      "score": "58",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005269/1",
+      "outcome": "Unsuccessful",
+      "score": "59",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005161/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008241/1",
+      "outcome": "Unsuccessful",
+      "score": "60",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006079/1",
+      "outcome": "Unsuccessful",
+      "score": "61",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009310/1",
+      "outcome": "Unsuccessful",
+      "score": "62",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006109/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00615X/1",
+      "outcome": "Unsuccessful",
+      "score": "63",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009337/1",
+      "outcome": "Unsuccessful",
+      "score": "64",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00839X/1",
+      "outcome": "Unsuccessful",
+      "score": "65",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006346/1",
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009086/1",
+      "outcome": "Unsuccessful",
+      "score": "67",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007555/1",
+      "outcome": "Unsuccessful",
+      "score": "68",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005838/1",
+      "outcome": "Unsuccessful",
+      "score": "69",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007849/1",
+      "outcome": "Unsuccessful",
+      "score": "70",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006184/1",
+      "outcome": "Unsuccessful",
+      "score": "71",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005447/1",
+      "outcome": "Unsuccessful",
+      "score": "72",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009639/1",
+      "outcome": "Unsuccessful",
+      "score": "73",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008721/1",
+      "outcome": "Unsuccessful",
+      "score": "74",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008772/1",
+      "outcome": "Unsuccessful",
+      "score": "75",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008365/1",
+      "outcome": "Unsuccessful",
+      "score": "76",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007091/1",
+      "outcome": "Unsuccessful",
+      "score": "77",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006885/1",
+      "outcome": "Unsuccessful",
+      "score": "78",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005633/1",
+      "outcome": "Unsuccessful",
+      "score": "79",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007997/1",
+      "outcome": "Unsuccessful",
+      "score": "80",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007237/1",
+      "outcome": "Unsuccessful",
+      "score": "81",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009388/1",
+      "outcome": "Unsuccessful",
+      "score": "82",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006672/1",
+      "outcome": "Unsuccessful",
+      "score": "83",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007393/1",
+      "outcome": "Unsuccessful",
+      "score": "84",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005889/1",
+      "outcome": "Unsuccessful",
+      "score": "85",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005811/1",
+      "outcome": "Unsuccessful",
+      "score": "86",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S00842X/1",
+      "outcome": "Unsuccessful",
+      "score": "87",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008675/1",
+      "outcome": "Unsuccessful",
+      "score": "88",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007490/1",
+      "outcome": "Unsuccessful",
+      "score": "89",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007873/1",
+      "outcome": "Unsuccessful",
+      "score": "90",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005145/1",
+      "outcome": "Unsuccessful",
+      "score": "91",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006427/1",
+      "outcome": "Unsuccessful",
+      "score": "92",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005706/1",
+      "outcome": "Unsuccessful",
+      "score": "93",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S005730/1",
+      "outcome": "Unsuccessful",
+      "score": "94",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008152/1",
+      "outcome": "Unsuccessful",
+      "score": "95",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S004769/1",
+      "outcome": "Unsuccessful",
+      "score": "96",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006192/1",
+      "outcome": "Unsuccessful",
+      "score": "97",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006508/1",
+      "outcome": "Unsuccessful",
+      "score": "97",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S006966/1",
+      "outcome": "Unsuccessful",
+      "score": "97",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S007024/1",
+      "outcome": "Unsuccessful",
+      "score": "97",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S009612/1",
+      "outcome": "Unsuccessful",
+      "score": "98",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008047/1",
+      "outcome": "Unsuccessful",
+      "score": "99",
+      "panel": "18RM2 D"
+    },
+    {
+      "application_reference": "BB/S008802/1",
+      "outcome": "Unsuccessful",
+      "score": "100",
+      "panel": "18RM2 D"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Devitt",
+      "role": "Chair",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Simone Meddle",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Eileen Wall",
+      "role": "Chair",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Michael Bailey",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Richard Barrett-Jolley",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Jason Berwick",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Lisa Collins",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Robert Davey",
+      "role": "Member",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Paul Anthony Dudchenko",
+      "role": "Member",
+      "organisation": "University of Stirling"
+    },
+    {
+      "name": "Simon Paul Graham",
+      "role": "Member",
+      "organisation": "The Pirbright Institute"
+    },
+    {
+      "name": "David John Griffiths",
+      "role": "Member",
+      "organisation": "Moredun Research Institute"
+    },
+    {
+      "name": "Emma Elizabeth Laing",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Jonathan Loon Lee",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Vicky MacRae",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Irene Miguel-Aliaga",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Keelin Teagasc O'Driscoll",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "John Medicines Discovery Catapault Overington",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Jaswinder K. Sethi",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Jon Simons",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Geraldine Ann Wright",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Mark James Banfield",
+      "role": "Chair",
+      "organisation": "John Innes Centre"
+    },
+    {
+      "name": "John Crawford",
+      "role": "Chair",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Michael Warren Shaw",
+      "role": "Chair",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Dawn Arnold",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Stephen Private Address Barnes",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Alison Rose Bentley",
+      "role": "Member",
+      "organisation": "National Inst of Agricultural Botany"
+    },
+    {
+      "name": "Michael Robert Blatt",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Robert Davey",
+      "role": "Member",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Antony Nicholas Dodd",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Darren Mark Evans",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Susanne Gebhard",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Robert Douglas Hancock",
+      "role": "Member",
+      "organisation": "The James Hutton Institute"
+    },
+    {
+      "name": "Huw Jones",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Emma Elizabeth Laing",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Eshwar Mahenthiralingam",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Tom Michoel",
+      "role": "Member",
+      "organisation": "University of Bergen"
+    },
+    {
+      "name": "John Oxford Brookes Runions",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Gavin Hugh Thomas",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Zoe A Wilson",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Richard David Emes",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Nicola K. Gray",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Helen White-Cooper",
+      "role": "Chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Nazif Alic",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Vincent Trevor Cunliffe",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Robert Davey",
+      "role": "Member",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Marc Stuart Dionne",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Nicholas David Evans",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Dianne Northumbria Ford",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Andre Martin Furger",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Alastair Goldman",
+      "role": "Member",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "Christopher Grant",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Lorna Wendy Harries",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "John William Haycock",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Lilian Restoration of Appearance & Function Tst Hook",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Stefan Hoppler",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Andrzej Michal Simcyp Kierzek",
+      "role": "Member",
+      "organisation": "Limited"
+    },
+    {
+      "name": "Emma Elizabeth Laing",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Stuart Andrew MacNeill",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Tom Michoel",
+      "role": "Member",
+      "organisation": "University of Bergen"
+    },
+    {
+      "name": "John Medicines Discovery Catapault Overington",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Ezio Rosato",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Michael La Trobe Stear",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Bernadette Byrne",
+      "role": "Chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Anastasia Jane Callaghan",
+      "role": "Chair",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Steven Russell",
+      "role": "Chair",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "David John Stephens",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Clair Baldock",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Jose A. Bengoechea",
+      "role": "Member",
+      "organisation": "Queen's University of Belfast"
+    },
+    {
+      "name": "James MacDonald Brewer",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Michelangelo Campanella",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Sonia Aparecida Correa",
+      "role": "Member",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "Robert Davey",
+      "role": "Member",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Claire Emma Eyers",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Franca Fraternali",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Nicholas James Harmer",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Phillip Hawkins",
+      "role": "Member",
+      "organisation": "Babraham Institute"
+    },
+    {
+      "name": "Mark Raymond Howarth",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Lars J. C. Jeuken",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Raheela N Khan",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Emma Elizabeth Laing",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Heike Laman",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Patrick Alfryn Lewis",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Tom Michoel",
+      "role": "Member",
+      "organisation": "University of Bergen"
+    },
+    {
+      "name": "Daniel Patrick Mulvihill",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "John Medicines Discovery Catapault Overington",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "David Ian Roper",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Yuqin Wang",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Tuck Seng Wong",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Kevin Ian Wright",
+      "role": "Member",
+      "organisation": "Procter & Gamble Limited (P&G UK)"
+    }
+  ],
+  "membership_source_files": [
+    "membership/BBSRC-11102021-ResearchCommitteeMembership2018RM2.pdf"
+  ]
+}

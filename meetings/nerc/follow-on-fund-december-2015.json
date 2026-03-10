@@ -1,0 +1,96 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "2015 Follow – on Fund Grant",
+  "source_file": "follow-on-fund-december-2015.pdf",
+  "count_of_applications": "18",
+  "count_of_awards": "5",
+  "year": "2015",
+  "applications": [
+    {
+      "application_reference": "NE/N017021/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N017838/1",
+      "outcome": "Successful",
+      "ranking": "2"
+    },
+    {
+      "application_reference": "NE/N017188/1",
+      "outcome": "Successful",
+      "ranking": "3"
+    },
+    {
+      "application_reference": "NE/N017218/1",
+      "outcome": "Successful",
+      "ranking": "4"
+    },
+    {
+      "application_reference": "NE/N017293/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N017862/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6"
+    },
+    {
+      "application_reference": "NE/N017358/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7"
+    },
+    {
+      "application_reference": "NE/N016947/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017048/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017145/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N01720X/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017277/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017463/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017633/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017641/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017676/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017617/1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "NE/N017846/1",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Innovation Follow",
+      "role": "Member",
+      "organisation": "on Fund Panel 2018"
+    }
+  ],
+  "membership_source_file": "NERC-funding-assessment-panel-members-2018/Follow on Fund Panel Membership.pdf",
+  "meeting_date": "Wednesday 7th November 2018"
+}

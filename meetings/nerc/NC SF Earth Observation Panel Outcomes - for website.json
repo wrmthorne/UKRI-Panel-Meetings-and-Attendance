@@ -1,0 +1,19 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Earth Observation Panel, 14th November 2018",
+  "source_file": "NC SF Earth Observation Panel Outcomes - for website.pdf",
+  "count_of_applications": "2",
+  "count_of_awards": "2",
+  "year": "2018",
+  "applications": [
+    {
+      "application_reference": "NE/S013377/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/S013385/1",
+      "ranking": "4.7",
+      "outcome": "Successful"
+    }
+  ]
+}

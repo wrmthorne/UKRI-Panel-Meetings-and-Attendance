@@ -1,0 +1,74 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow-on Funding Q2 2017 (April)",
+  "year": "2017",
+  "source_file": "Follow-on Funding for Impact and Engagement Q2 2017 Meetings.xlsx",
+  "count_of_applications": "9",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/R002371/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Tom Dougherty",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "Promoting Consent (Follow On Funding for Impact and Engagement for \"The Ethics of Communicating Consent\")"
+    },
+    {
+      "application_reference": "AH/P014925/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jinsong Shen",
+      "holding_organisation": "De Montfort University",
+      "grant_title": "Industrial Exploitation of Laser-Dyeing Processes for Apparel and Furnishing Textiles Markets"
+    },
+    {
+      "application_reference": "AH/R002754/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R002649/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Stefan Manz",
+      "holding_organisation": "Aston University",
+      "grant_title": "The German Diaspora during World War I: Remembering Internment Camps in Britain and the Commonwealth"
+    },
+    {
+      "application_reference": "AH/R001421/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Jeanette Steemers",
+      "holding_organisation": "King's College London",
+      "grant_title": "Collaborative Development of Children's Screen Content in an Era of Forced Migration Flows: Facilitating Arab-European Dialogue"
+    },
+    {
+      "application_reference": "AH/R005567/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Joel Cabrita",
+      "holding_organisation": "University of Cambridge",
+      "grant_title": "Amakholwa ('The Believers'): Photography, Religion and Society in Contemporary South Africa"
+    },
+    {
+      "application_reference": "AH/R001391/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Mr Xavier Ribas",
+      "holding_organisation": "University of Brighton",
+      "grant_title": "Traces of Nitrate Follow On"
+    },
+    {
+      "application_reference": "AH/R005826/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R00305X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

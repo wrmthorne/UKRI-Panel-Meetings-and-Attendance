@@ -1,0 +1,124 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, January 2019",
+  "year": "2019",
+  "meeting_date": "2019-01",
+  "source_file": "Research Networking, January 2019 Moderation.xlsx",
+  "count_of_applications": "17",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/S007520/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Marco Bohr",
+      "holding_organisation": "Loughborough University",
+      "grant_title": "VASDiV: Visual Activism and Sexual Diversity in Vietnam"
+    },
+    {
+      "application_reference": "AH/S007059/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Mary Harrod",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Producing the Post-National Popular: The Expanding Imagination of Popular French Films and Television Series"
+    },
+    {
+      "application_reference": "AH/S011013/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Kimberley Brownlee",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Social Human Rights"
+    },
+    {
+      "application_reference": "AH/S010289/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Charlotte Wildman",
+      "holding_organisation": "University of Manchester",
+      "grant_title": "Challenging Domesticity in Britain, 1890-1990"
+    },
+    {
+      "application_reference": "AH/S011455/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Bolanle Adebola",
+      "holding_organisation": "University of Reading",
+      "grant_title": "Commercial Law Research Network Nigeria (CLRN_N)"
+    },
+    {
+      "application_reference": "AH/S007091/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Naomi Creutzfeldt",
+      "holding_organisation": "University of Westminster",
+      "grant_title": "Administrative Justice Network"
+    },
+    {
+      "application_reference": "AH/S006710/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Adrian Curtin",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Representing 'Classical Music' in the Twenty-First Century"
+    },
+    {
+      "application_reference": "AH/S01148X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Marisa Wilson",
+      "holding_organisation": "University of Edinburgh",
+      "grant_title": "Living Histories of Sugar in Scotland and the West Indies: Transnationalisms, Performance and Co-creation"
+    },
+    {
+      "application_reference": "AH/S006214/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Gesine Manuwald",
+      "holding_organisation": "University College London",
+      "grant_title": "Baroque Latinity"
+    },
+    {
+      "application_reference": "AH/S01103X/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S012028/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010866/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S011110/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007156/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S007695/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S010718/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S01084X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN632",
+  "meeting_name": "OPP643: UKRI UK Future Internet NetworkPlus: outline",
+  "meeting_date": "2024-10-08 08:00:00",
+  "meeting_convenor": "Bala, S",
+  "applications": [
+    {
+      "application_id": "APP53068",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "643",
+      "opportunity_name": "UKRI UK Future Internet NetworkPlus: outline"
+    },
+    {
+      "application_id": "APP52877",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "643",
+      "opportunity_name": "UKRI UK Future Internet NetworkPlus: outline"
+    },
+    {
+      "application_id": "APP54691",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "643",
+      "opportunity_name": "UKRI UK Future Internet NetworkPlus: outline"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Koleva, B",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Davidson, Professor J",
+      "role": "Panellist",
+      "organisation": "University of East London"
+    },
+    {
+      "name": "O'Brien, P",
+      "role": "Panellist",
+      "organisation": "BT Research"
+    },
+    {
+      "name": "Rajarajan, Professor M",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "Smith, L",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    }
+  ]
+}

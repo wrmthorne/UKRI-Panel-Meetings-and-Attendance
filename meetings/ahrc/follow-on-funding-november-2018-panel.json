@@ -1,0 +1,85 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Follow on Funding November 2018 panel",
+  "year": "2018",
+  "meeting_date": "2018-11",
+  "source_file": "Follow-on Funding for Impact and Engagement Q4 2018 Meeting.xlsx",
+  "count_of_applications": "11",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/S005560/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Sara Jones",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "Testimony in Practice: Working with Stories of the Self and Others"
+    },
+    {
+      "application_reference": "AH/S004580/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Alice Stevenson",
+      "holding_organisation": "University College London",
+      "grant_title": "Egypt's Dispersed Heritage: views from Egypt"
+    },
+    {
+      "application_reference": "AH/S00517X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rupert Read",
+      "holding_organisation": "University of East Anglia",
+      "grant_title": "Taking the debate on nature's value to the valuers  [A follow on funding bid based upon the AHRC Research Network on 'Debating Nature's Value']"
+    },
+    {
+      "application_reference": "AH/S00324X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S005072/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006311/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S008055/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Sharon Ruston",
+      "holding_organisation": "Lancaster University",
+      "grant_title": "Crowdsourced Transcriptions of Humphry Davy's Notebooks"
+    },
+    {
+      "application_reference": "AH/S007628/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Shelley Trower",
+      "holding_organisation": "Roehampton University",
+      "grant_title": "Living Libraries"
+    },
+    {
+      "application_reference": "AH/S007075/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Lee Edwards",
+      "holding_organisation": "London School of Economics & Pol Sci",
+      "grant_title": "Follow-on Funding: Improving Deliberation, Improving Copyright"
+    },
+    {
+      "application_reference": "AH/S006109/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/S006788/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

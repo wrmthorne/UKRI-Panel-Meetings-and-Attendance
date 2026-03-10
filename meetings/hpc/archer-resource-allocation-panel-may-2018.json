@@ -1,0 +1,155 @@
+{
+  "council": "EPSRC",
+  "panel_meeting_name": "ARCHER resource allocation panel - May 2018",
+  "year": "2018",
+  "meeting_date": "2018-05",
+  "source_file": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-May2018.xlsx",
+  "count_of_applications": "12",
+  "count_of_awards": "10",
+  "notes": "Two applications were unsuccessful in the May 2018 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "Dr Natalia Petrovskaya",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Charles Laughton",
+      "organisation": "University of Nottingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Dr Jamieson Christie",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Roger Webb",
+      "organisation": "Surrey University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Jun Zang",
+      "organisation": "Bath University",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Adrian Mulholland",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Professor Mark Savill",
+      "organisation": "Cranfield University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Angela Mihai",
+      "organisation": "Cardiff University",
+      "role": "Member"
+    },
+    {
+      "name": "Dr Keith Bennett",
+      "organisation": "Warwick University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Prof Phillip Biggin",
+      "title": "What Controls Subunit Association in Voltage-gated Sodium Channel Complexes?",
+      "holding_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "kaus_awarded": "39813"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Prof G\u00e1bor Cs\u00e1nyi",
+      "title": "Ultra-large-scale atomistic modelling of amorphous silicon using machine learning",
+      "holding_organisation": "University of Cambridge",
+      "outcome": "Successful",
+      "kaus_awarded": "44326.8"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Prof David Burgess",
+      "title": "Simulation support to experiments investigating turbulent cascade in laboratory plasmas",
+      "holding_organisation": "Queen Mary, University of London",
+      "outcome": "Successful",
+      "kaus_awarded": "22118.4"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Patrick Farrell",
+      "title": "Scalable multigrid solvers for the stationary incompressible Navier-Stokes equations",
+      "holding_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "kaus_awarded": "10800"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Lee Margetts",
+      "title": "Accurate numerical modelling of digital wind farms",
+      "holding_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "kaus_awarded": "55440"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Irina Tikhonova",
+      "title": "Dynamic fragment-based mapping of allosteric pockets in membrane proteins",
+      "holding_organisation": "Queen's University Belfast",
+      "outcome": "Successful",
+      "kaus_awarded": "36864"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Ming Li",
+      "title": "Effects of size sorting and fractional transport in evolution of sandy ripples under oscillatory flow",
+      "holding_organisation": "University of Liverpool",
+      "outcome": "Successful",
+      "kaus_awarded": "14929.9"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "Dr Emile Touber",
+      "title": "Shock-induced vorticity production by entropy modes in plasmas",
+      "holding_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "kaus_awarded": "59719.7"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "new submission",
+      "principal_investigator": "",
+      "title": "",
+      "holding_organisation": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "principal_investigator": "Prof William Rainforth",
+      "title": "Designing alloys for resource efficiency (DARE) - a manufacturing approach",
+      "holding_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "kaus_awarded": "27993.6"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "principal_investigator": "Dr Agnes Noy",
+      "title": "Programming DNA topology: from folding DNA minicircles to revealing the spatial organization of bacterial genomes",
+      "holding_organisation": "Univeristy of York",
+      "outcome": "Successful",
+      "kaus_awarded": "26680.32"
+    }
+  ]
+}

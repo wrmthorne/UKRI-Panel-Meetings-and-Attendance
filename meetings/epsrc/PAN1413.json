@@ -1,0 +1,141 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1413",
+  "meeting_name": "EPSRC Physical Sciences Interview Panel 17-18 September 2025 – Open Fellowships",
+  "meeting_date": "2025-09-17 07:30:00",
+  "meeting_convenor": "Kumar, A",
+  "applications": [
+    {
+      "application_id": "APP57560",
+      "title": "Emerging Paradigms in Superconductivity of Novel Quantum Materials",
+      "applicant": "Ioana, A",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2387175.88",
+      "award_id": "UKRI3274",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=3274",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62696",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58849",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30531",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP27372",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62787",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP56116",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "297",
+      "opportunity_name": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Eberlein, C",
+      "role": "Chair",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Kays, D",
+      "role": "Deputy chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Di Falco, A",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Hashibon, A",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Leake, M",
+      "role": "Panellist",
+      "organisation": "University of York"
+    }
+  ]
+}

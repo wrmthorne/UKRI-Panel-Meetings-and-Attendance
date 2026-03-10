@@ -1,0 +1,202 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "NERC-061021-IndependentResearchFellowship-FundingOutcomes-2019",
+  "source_file": "NERC-061021-IndependentResearchFellowship-FundingOutcomes-2019.pdf",
+  "count_of_applications": "31",
+  "count_of_awards": "11",
+  "year": "2019",
+  "applications": [
+    {
+      "application_reference": "NE/T011963/1",
+      "ranking": "1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011106/1",
+      "ranking": "2",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011440/1",
+      "ranking": "3",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011599/1",
+      "ranking": "4",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011874/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/T011726/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/T011971/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/T011734/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/T011211/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/T011394/1",
+      "outcome": "Unsuccessful",
+      "ranking": "10",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/T011920/1",
+      "ranking": "1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011513/1",
+      "outcome": "Unsuccessful",
+      "ranking": "2",
+      "score": "9"
+    },
+    {
+      "application_reference": "NE/T011246/1",
+      "ranking": "3",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011351/1",
+      "ranking": "4",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011661/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/T012129/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/T011416/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/T01184X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "1",
+      "scores": [
+        "3",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "application_reference": "NE/T012226/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011076/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "9",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "application_reference": "NE/T01105X/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011025/1",
+      "ranking": "4",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T012110/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "scores": [
+        "8",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/T011084/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/T011009/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/T011955/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "score": "8"
+    },
+    {
+      "application_reference": "NE/T011343/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/T01198X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "10",
+      "score": "7"
+    },
+    {
+      "application_reference": "NE/T01167X/1",
+      "outcome": "Unsuccessful",
+      "ranking": "11",
+      "score": "6"
+    },
+    {
+      "application_reference": "NE/T011653/1",
+      "outcome": "Unsuccessful",
+      "ranking": "12",
+      "score": "5"
+    },
+    {
+      "application_reference": "NE/T011823/1",
+      "outcome": "Unsuccessful",
+      "ranking": "13",
+      "score": "5"
+    }
+  ]
+}

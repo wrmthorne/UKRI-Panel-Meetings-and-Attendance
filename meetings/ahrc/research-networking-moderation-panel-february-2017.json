@@ -1,0 +1,121 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Networking Moderation Panel, February 2017",
+  "year": "2017",
+  "meeting_date": "2017-02",
+  "source_file": "1702-research-networking-moderation.xlsx",
+  "count_of_applications": "17",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "application_reference": "AH/P012299/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Nicolas Salazar Sutil",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Social Choreography Network"
+    },
+    {
+      "application_reference": "AH/P014518/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Catriona Pennell",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Teaching and Learning War Research Network: Education and Modern Conflict in an International Comparative Perspective"
+    },
+    {
+      "application_reference": "AH/P009050/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Janet Watson",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "The Symbiotic Relationship between Language and Nature in Southern and Eastern Arabia"
+    },
+    {
+      "application_reference": "AH/P01402X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Maxine Berg",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Global History and Micro History: A GlobalMicro Pathway"
+    },
+    {
+      "application_reference": "AH/P013473/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr James Mussell",
+      "holding_organisation": "University of Leeds",
+      "grant_title": "Letterpress Printing: Past, Present, Future"
+    },
+    {
+      "application_reference": "AH/P00993X/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Alexandrina Buchanan",
+      "holding_organisation": "University of Liverpool",
+      "grant_title": "Architecture and Society in an Age of Reform"
+    },
+    {
+      "application_reference": "AH/P013449/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Philip Hammond",
+      "holding_organisation": "London South Bank University",
+      "grant_title": "War Games: Memory, Militarism, and the Subject of Play"
+    },
+    {
+      "application_reference": "AH/P014852/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Dominic Glynn",
+      "holding_organisation": "University of London",
+      "grant_title": "Literature under Constraint"
+    },
+    {
+      "application_reference": "AH/P013457/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014100/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P015026/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014283/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013945/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009743/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013864/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P009182/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P01514X/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

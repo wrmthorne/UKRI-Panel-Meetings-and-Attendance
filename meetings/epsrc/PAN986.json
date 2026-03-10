@@ -1,0 +1,196 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN986",
+  "meeting_name": "OPP464: EPSRC Quantum Technologies Career Acceleration Fellowships Interview Panel A",
+  "meeting_date": "2025-01-29 08:45:00",
+  "meeting_convenor": "Allen, J",
+  "applications": [
+    {
+      "application_id": "APP37980",
+      "title": "Directly mapping quantum landscapes: finding superconductors’ hidden domains  (QMATE)",
+      "applicant": "Evans, D",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "2327996.41",
+      "award_id": "UKRI1221",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1221",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34322",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34549",
+      "title": "Adversarially Robust Quantum Machine Learning: Theory and Design via Quantum Information Bottleneck",
+      "applicant": "Jose, S",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Funded",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "1255509.68",
+      "award_id": "UKRI1218",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1218",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37860",
+      "title": "Developing Quantum Advantage by Understanding the Paradoxical Aspects of Measurement in Quantum Systems",
+      "applicant": "Hance, J",
+      "lead_organisation": "Newcastle University",
+      "outcome": "Funded",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "1371098.17",
+      "award_id": "UKRI1217",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1217",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31485",
+      "title": "Quantum networking at telecom wavelengths with Yb qubits",
+      "applicant": "Franzen, T",
+      "lead_organisation": "Durham University",
+      "outcome": "Funded",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "1746802.37",
+      "award_id": "UKRI1227",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=1227",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP33027",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36595",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37785",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "17",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36755",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "18",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35777",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Deferred to later meeting",
+      "rank": "0",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "464",
+      "opportunity_name": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Parsons, M",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Aniceto, I",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Coopman, K",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Kendon, V",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Srinivas, R",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Weidner, C",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Wood, D",
+      "role": "Panellist",
+      "organisation": "BAE Systems (United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2020,
+  "meeting_reference": "1-610473741",
+  "meeting_name": "Research Networking - September 2020",
+  "meeting_date": "20200927",
+  "applications": [
+    {
+      "application_id": "AH/V008234/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ricarda Vidal",
+      "project": "Experiential Translation: Meaning-Making, Engagement and Agency across Media in a Multimodal World",
+      "research_organisation": "King's College London",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/V006630/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Gregory Paul Tate",
+      "project": "Victorian Literary Languages",
+      "research_organisation": "University of St Andrews",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/V008080/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Maj-Britt Mosegaard Hansen",
+      "project": "The Role of Pragmatics in Cyclic Language Change",
+      "research_organisation": "The University of Manchester",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/V006134/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Graeme Were",
+      "project": "The Rise of Private Museums and Heritage in East and Southeast Asia: Understanding Memory and Transformation",
+      "research_organisation": "University of Bristol",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/V001787/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Hannah Field",
+      "project": "Not Only Dressed but Dressing: Clothing, Childhood, Creativity",
+      "research_organisation": "University of Sussex",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/V008749/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Alexander Douglas",
+      "project": "The Future of Work and Income",
+      "research_organisation": "University of St Andrews",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/V004603/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Ranka Primorac",
+      "project": "The Textual Worlds of South-Eastern Africa",
+      "research_organisation": "University of Southampton",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/V004565/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/V00428X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/V008803/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/V008978/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Moderator"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN458",
+  "meeting_name": "OPP449: EPSRC Equality, diversity and inclusion (EDI) sharing hub: full application",
+  "meeting_date": "2024-06-20 08:00:00",
+  "meeting_convenor": "McLoone, Ms C",
+  "applications": [
+    {
+      "application_id": "APP34684",
+      "title": "EDI Hub+: Sharing and Implementing EDI Practices for Sustained Transformation in EPMS",
+      "applicant": "Dimitrova, V",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2126624.82",
+      "award_id": "UKRI211",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=211",
+      "list_name": "Main",
+      "opportunity_number": "449",
+      "opportunity_name": "EPSRC Equality, diversity and inclusion (EDI) sharing hub: full application"
+    },
+    {
+      "application_id": "APP35039",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "449",
+      "opportunity_name": "EPSRC Equality, diversity and inclusion (EDI) sharing hub: full application"
+    },
+    {
+      "application_id": "APP30825",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "449",
+      "opportunity_name": "EPSRC Equality, diversity and inclusion (EDI) sharing hub: full application"
+    },
+    {
+      "application_id": "APP33860",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "449",
+      "opportunity_name": "EPSRC Equality, diversity and inclusion (EDI) sharing hub: full application"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Bowman, V",
+      "role": "Chair",
+      "organisation": "Defence Science and Technology Laboratory"
+    },
+    {
+      "name": "Binner, J",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Oppong, F",
+      "role": "Panellist",
+      "organisation": "Unilever (United Kingdom)"
+    },
+    {
+      "name": "Parsons, D",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Wong, P",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    }
+  ]
+}

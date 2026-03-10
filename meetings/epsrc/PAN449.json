@@ -1,0 +1,186 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN449",
+  "meeting_name": "EPSRC: ICT Discipline Hopping in ICT Prioritisation Panel July 2024",
+  "meeting_date": "2024-07-10 08:00:00",
+  "meeting_convenor": "Tresoldi, D",
+  "applications": [
+    {
+      "application_id": "APP9406",
+      "title": "Integrating artificial intelligence technologies for subsurface pollution fate prediction and risk assessment",
+      "applicant": "Bortone, Dr I",
+      "lead_organisation": "Cranfield University",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "192856.11",
+      "award_id": "EP/Z535436/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ535436%2F1",
+      "list_name": "Main",
+      "opportunity_number": "137",
+      "opportunity_name": "EPSRC discipline hopping in ICT, May 2023: responsive mode"
+    },
+    {
+      "application_id": "APP10216",
+      "title": "Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra",
+      "applicant": "Sandler, Professor M",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Funded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "238701.44",
+      "award_id": "EP/Z535448/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ535448%2F1",
+      "list_name": "Main",
+      "opportunity_number": "137",
+      "opportunity_name": "EPSRC discipline hopping in ICT, May 2023: responsive mode"
+    },
+    {
+      "application_id": "APP5621",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "137",
+      "opportunity_name": "EPSRC discipline hopping in ICT, May 2023: responsive mode"
+    },
+    {
+      "application_id": "APP8815",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "137",
+      "opportunity_name": "EPSRC discipline hopping in ICT, May 2023: responsive mode"
+    },
+    {
+      "application_id": "APP11166",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "137",
+      "opportunity_name": "EPSRC discipline hopping in ICT, May 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Soldatova, L",
+      "role": "Chair",
+      "organisation": "University of London"
+    },
+    {
+      "name": "BAYFORD, R",
+      "role": "Panellist",
+      "organisation": "Middlesex University"
+    },
+    {
+      "name": "Davies, A",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Harrison, R",
+      "role": "Panellist",
+      "organisation": "Oxford Brookes University"
+    },
+    {
+      "name": "Harvey, D",
+      "role": "Panellist",
+      "organisation": "Liverpool John Moores University"
+    },
+    {
+      "name": "Millen, J",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Nejabati, R",
+      "role": "Panellist",
+      "organisation": "Cisco College"
+    },
+    {
+      "name": "Paoloni, C",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Sahoo, Dr D",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "salous, s",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Schofield, A",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Sellathurai, M",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Sporea, R",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Stanton Fraser, D",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Taylor, A",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Webster, G",
+      "role": "Panellist",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Yan, S",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Zacharias, T",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Zamaraev, V",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Zheng, F",
+      "role": "Panellist",
+      "organisation": "University of York"
+    }
+  ]
+}

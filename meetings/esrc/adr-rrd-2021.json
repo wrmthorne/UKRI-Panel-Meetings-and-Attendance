@@ -1,0 +1,119 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ADR RRD 2021",
+  "year": "2022",
+  "meeting_date": "2022-07",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "18",
+  "count_of_awards": "10",
+  "applications": [
+    {
+      "application_reference": "ES/X000311/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000362/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000494/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000648/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000427/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X00046X/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000567/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000516/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000524/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000540/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "ES/X000389/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "9\u201310",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000508/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "8\u20138.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000478/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "7\u20137.9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000303/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000419/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000346/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000400/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "ES/X000559/1",
+      "opportunity": "ADR RRD 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

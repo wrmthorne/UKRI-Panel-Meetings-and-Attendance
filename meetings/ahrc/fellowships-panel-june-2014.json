@@ -1,0 +1,163 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Fellowships Panel  - June 2014",
+  "year": "2014",
+  "meeting_date": "2014-06",
+  "source_file": "Fellowships Panel June 2014.xlsx",
+  "count_of_applications": "23",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "application_reference": "AH/L014912/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Mark Knights",
+      "holding_organisation": "University of Warwick",
+      "grant_title": "Corruption in Britain c.1550-1850",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/L014815/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Robert Bud",
+      "holding_organisation": "Science Museum Group",
+      "grant_title": "Science in the public sphere: Understanding the meanings of \"applied science\" in the era of war, industrial research and modernism, 1900-1939",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/L015536/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Wendy Webster",
+      "holding_organisation": "University of Huddersfield",
+      "grant_title": "Mixing It: Diversity in Second World War Britain",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/L015064/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Stefano Evangelista",
+      "holding_organisation": "University of Oxford",
+      "grant_title": "The Love of Strangers: Literary Cosmopolitanism in the English Fin de Si\u00e8cle",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/L015013/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jennifer Susan Spinks",
+      "holding_organisation": "The University of Manchester",
+      "grant_title": "Magic, Diabolism, and Global Religion in European Print Culture, 1500-1700",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/L014874/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Michael Cullinane",
+      "holding_organisation": "Northumbria University",
+      "grant_title": "Memorial Communities and Presidential Legacy: Remembering Theodore Roosevelt",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/M001822/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Rhiannon Daniels",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "The Renaissance 'Decameron'",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/M00175X/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L014939/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Jonathan Saha",
+      "holding_organisation": "University of Bristol",
+      "grant_title": "An Animal History of Colonial Burma",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/L011581/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L014882/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Richard Flower",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Cataloguing Damnation: The Birth of Scientific Heresiology in Late Antiquity",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/L015749/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M001725/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L015625/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L014165/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L015692/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L014173/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L015110/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L015072/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L015404/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/M001873/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L014866/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/L015307/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

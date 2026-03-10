@@ -1,0 +1,66 @@
+{
+  "council": "MRC",
+  "panel_meeting_name": "Clinical Research Training Fellowship 15-16 November 2023",
+  "meeting_date": null,
+  "source_file": "Clinical-research-training-fellowship/MRC-16012025-Clinical-Research-Training-Fellowship-15-16-November-2023.xlsx",
+  "count_of_applications": "11",
+  "count_of_awards": "7",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 22 applications did not pass an initial shortlisting stage and were not considered further. Of the 18 applications that did pass the initial shortslisting stage, 7 applications were withdrawn by the applicants prior to the meeting.",
+  "applications": [
+    {
+      "application_reference": "MR/Y009290/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y000234/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y009932/1",
+      "score": "7",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y009428/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y009681/1",
+      "score": "9",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y009452/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y009533/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y009657/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y009584/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "MR/Y009770/1",
+      "score": "8",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "MR/Y009878/1",
+      "score": "6",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

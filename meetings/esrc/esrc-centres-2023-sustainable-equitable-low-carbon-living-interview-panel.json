@@ -1,0 +1,54 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "ESRC Centres 2023 \u2013 Sustainable & Equitable Low-carbon Living  Interview Panel",
+  "year": "2024",
+  "meeting_date": "2024-06",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "panellists": [
+    {
+      "name": "Professor Kathy Rastle",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Chair"
+    },
+    {
+      "name": "Dabo Guan",
+      "organisation": "University College London",
+      "role": "Member"
+    },
+    {
+      "name": "Claudia Carter",
+      "organisation": "Birmingham City University",
+      "role": "Member"
+    },
+    {
+      "name": "Marylyn Carrigan",
+      "organisation": "Herriot-Watt University",
+      "role": "Member"
+    },
+    {
+      "name": "Mr. Richard Oxley",
+      "organisation": "DLUHC",
+      "role": "Member"
+    },
+    {
+      "name": "Chiaki Beis",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Sophie Martin",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    }
+  ],
+  "applications": [
+    {
+      "application_reference": "ES/Z504130/1",
+      "opportunity": "2023 ESRC Centre In Sustainable and Equitable Living",
+      "score_range": "9\u201310",
+      "outcome": "Successful"
+    }
+  ]
+}

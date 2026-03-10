@@ -1,0 +1,106 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN467",
+  "meeting_name": "EPSRC Engineering Open Fellowships Interview Panel - July 2024",
+  "meeting_date": "2024-07-02 08:00:00",
+  "meeting_convenor": "Calderon Munoz, Dr M",
+  "applications": [
+    {
+      "application_id": "APP13970",
+      "title": "Digital Underground Construction",
+      "applicant": "Sheil, Dr B",
+      "lead_organisation": "University of Cambridge",
+      "outcome": "Funded",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1149645.3",
+      "award_id": "EP/Z533427/1",
+      "hyperlink": "https://gtr.ukri.org/projects?ref=EP%2FZ533427%2F1",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP5685",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP16358",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP13964",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP11134",
+      "title": "",
+      "applicant": "",
+      "lead_organisation": "",
+      "outcome": "Unfunded",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "hyperlink": "",
+      "list_name": "Main",
+      "opportunity_number": "139",
+      "opportunity_name": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Marucci, L",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Coca, D",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Kumar, P",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Tait, S",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "council": "AHRC",
+  "source": "panels",
+  "year": 2019,
+  "meeting_reference": "1-450866911",
+  "meeting_name": "Research Networking May 2019",
+  "meeting_date": "20190530",
+  "applications": [
+    {
+      "application_id": "AH/T001135/1",
+      "route": "Standard",
+      "lead_applicant": "Professor Anthony Joseph Musson",
+      "project": "HENRY VIII ON TOUR: TUDOR PALACES AND ROYAL PROGRESSES",
+      "research_organisation": "Historic Royal Palaces",
+      "grant_status": "Funded",
+      "score": "6",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/T00231X/1",
+      "route": "Standard",
+      "lead_applicant": "Dr G. Anthony Bruno",
+      "project": "The London Post-Kantian Seminar",
+      "research_organisation": "Royal Holloway, Univ of London",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/T001054/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Michael Wolters",
+      "project": "Documenting music with non-sonic elements",
+      "research_organisation": "Birmingham City University",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/S010963/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Louise Teresa Harvey",
+      "project": "Communicating the Unsayable: Learning at the Intersection of Language and the Arts",
+      "research_organisation": "University of Leeds",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/S012079/1",
+      "route": "Standard",
+      "lead_applicant": "Dr Bevan Sewell",
+      "project": "The Promise and Peril of \"U.S. in the World\"",
+      "research_organisation": "University of Nottingham",
+      "grant_status": "Funded",
+      "score": "5",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/S012672/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/T001526/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/S001506/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/T002034/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "4",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/S013253/1",
+      "route": "",
+      "lead_applicant": "Not Disclosed",
+      "project": "Not Disclosed",
+      "research_organisation": "Not Disclosed",
+      "grant_status": "Unfunded",
+      "score": "3",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Professor Frances Elizabeth Andrews",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    }
+  ]
+}

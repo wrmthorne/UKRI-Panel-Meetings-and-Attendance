@@ -1,0 +1,394 @@
+{
+  "council": "AHRC",
+  "source": "tfs",
+  "meeting_name": "Research Networking 27th September 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y00714X/1",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "AH/Y007336/1",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "AH/Y007182/1",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "AH/Y007050/1",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "11"
+    },
+    {
+      "application_id": "AH/Y007271/1",
+      "title": "",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "12"
+    },
+    {
+      "application_id": "AH/Y006852/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "13"
+    },
+    {
+      "application_id": "AH/Y00700X/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "14"
+    },
+    {
+      "application_id": "AH/Y007026/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "15"
+    },
+    {
+      "application_id": "AH/Y007107/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "16"
+    },
+    {
+      "application_id": "AH/Y006747/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "17"
+    },
+    {
+      "application_id": "AH/Y007247/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "18"
+    },
+    {
+      "application_id": "AH/Y006224/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "19"
+    },
+    {
+      "application_id": "AH/Y007212/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "20"
+    },
+    {
+      "application_id": "AH/Y007425/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "21"
+    },
+    {
+      "application_id": "AH/Y007190/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "22"
+    },
+    {
+      "application_id": "AH/Y007115/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "23"
+    },
+    {
+      "application_id": "AH/Y007034/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "24"
+    },
+    {
+      "application_id": "AH/Y007042/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "25"
+    },
+    {
+      "application_id": "AH/Y007123/1",
+      "title": "",
+      "score": "4",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "26"
+    },
+    {
+      "application_id": "AH/Y00695X/1",
+      "title": "The Choreography of Consent: Experiments in Dance/Law research",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Anna Macdonald",
+      "lead_organisation": "University of the Arts London",
+      "rank": "1"
+    },
+    {
+      "application_id": "AH/Y006690/1",
+      "title": "World Making Words: Connecting women's literary agency, activism and enterprise in South Asia",
+      "score": "6",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Madeline Clements",
+      "lead_organisation": "Teesside University",
+      "rank": "2"
+    },
+    {
+      "application_id": "AH/Y007166/1",
+      "title": "Energy Transitions in Long Modernity",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Todd Borlik",
+      "lead_organisation": "University of Huddersfield",
+      "rank": "3"
+    },
+    {
+      "application_id": "AH/Y006615/1",
+      "title": "A New Cold War?: Historical and Contemporary Ideological Competition in the International System",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Jonathan Leader Maynard",
+      "lead_organisation": "King's College London",
+      "rank": "4"
+    },
+    {
+      "application_id": "AH/Y007093/1",
+      "title": "LIFE SP - Locality, Impact, Feedback, and Evaluation for Social Prescribing",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Robert Dean",
+      "lead_organisation": "University of Lincoln",
+      "rank": "5"
+    },
+    {
+      "application_id": "AH/Y007077/1",
+      "title": "One-Parent Families and Vulnerability Network",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Janet Greenlees",
+      "lead_organisation": "Glasgow Caledonian University",
+      "rank": "6"
+    },
+    {
+      "application_id": "AH/Y007158/1",
+      "title": "Business and Human Rights Scholarship: Developing networks and perspectives from the Global South",
+      "score": "5",
+      "status_label": "Status",
+      "outcome": "Successful",
+      "lead_applicant": "Eghosa Ekhator",
+      "lead_organisation": "University of Derby",
+      "rank": "7"
+    },
+    {
+      "application_id": "AH/Y007131/1",
+      "title": "",
+      "score": "3",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/Y007263/1",
+      "title": "",
+      "score": "3",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/Y006127/1",
+      "title": "Towards a New Artistic Activism Research Collaborative (AARC)",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "In Progress",
+      "lead_applicant": "Holly Ryan",
+      "lead_organisation": "Queen Mary University of London",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/Y006429/1",
+      "title": "Sisterhood in Britain and Ireland since 1900",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "RO Withdrawn",
+      "lead_applicant": "Selina Todd",
+      "lead_organisation": "University of Oxford",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/Y00647X/1",
+      "title": "",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "AH/Y007174/1",
+      "title": "Digital Narratives Network",
+      "score": "",
+      "status_label": "Status",
+      "outcome": "RO Withdrawn",
+      "lead_applicant": "Stevie Prickett",
+      "lead_organisation": "University of Cumbria",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "David Nash",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "David Parsons",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "David Zeitlyn",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "James Thompson",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Joanna Drugan",
+      "organisation": "Heriot-Watt University",
+      "role": "Member"
+    },
+    {
+      "name": "Joanne Clarke",
+      "organisation": "University of East Anglia",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Sykes",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Tadmor",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Rory O'Connell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Ross Prior",
+      "organisation": "University of Wolverhampton",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Atkinson",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Soumyen Bandyopadhyay",
+      "organisation": "University of Liverpool",
+      "role": "Member"
+    }
+  ]
+}

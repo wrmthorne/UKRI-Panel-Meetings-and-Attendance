@@ -1,0 +1,141 @@
+{
+  "council": "AHRC",
+  "panel_meeting_name": "Research Grants, late June 2017 Panel Meeting",
+  "year": "2017",
+  "meeting_date": "2017-06",
+  "source_file": "1706-late-research-grants-meeting.xlsx",
+  "count_of_applications": "21",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "application_reference": "AH/R003246/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Alannah Tomkins",
+      "holding_organisation": "Keele University",
+      "grant_title": "Small bills and petty finance: co-creating the history of the Old Poor Law",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R001251/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor David Parker",
+      "holding_organisation": "University of Birmingham",
+      "grant_title": "CODEX ZACYNTHIUS",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R00014X/1",
+      "grade": "6",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Paul Crawford",
+      "holding_organisation": "University of Nottingham",
+      "grant_title": "Florence Nightingale Comes Home for 2020:an historico-literary analysis of her family life",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R000123/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Clare Saunders",
+      "holding_organisation": "University of Exeter",
+      "grant_title": "Designing a Sensibility for Sustainable Clothing (S4S)",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/P015093/1",
+      "grade": "5",
+      "outcome": "Successful",
+      "principal_investigator": "Professor Murray Pittock",
+      "holding_organisation": "University of Glasgow",
+      "grant_title": "The Edinburgh Works of Allan Ramsay",
+      "route": "Standard"
+    },
+    {
+      "application_reference": "AH/R001383/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R000034/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R00160X/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001693/1",
+      "grade": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001553/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001502/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P013724/1",
+      "grade": "4",
+      "outcome": "Successful",
+      "principal_investigator": "Dr Fay Hield",
+      "holding_organisation": "University of Sheffield",
+      "grant_title": "Modern Fairies and Loathly Ladies",
+      "route": "Early Career"
+    },
+    {
+      "application_reference": "AH/P014984/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P014968/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001901/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001707/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P015158/1",
+      "grade": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/P015123/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001669/1",
+      "grade": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001537/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_reference": "AH/R001618/1",
+      "grade": "2",
+      "outcome": "Unsuccessful"
+    }
+  ]
+}

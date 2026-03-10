@@ -1,0 +1,64 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "Pushing the Frontiers JUL20 Interview Panel Meeting",
+  "source_file": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-PushingTheFrontiers-210720.pdf",
+  "meeting_date": "3/4 February 2021",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Daniel Knight",
+  "panellists": [
+    {
+      "name": "Professor Louise Heathwaite",
+      "role": "Chair",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Professor Jane Hill",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Professor Luca Borger",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Dr Cecile Gubry-Rangin",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Professor Alan (Rus) Hoelzel",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Professor Carol Robinson",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Dr Zongbo Shi",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Professor Ric Williams",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Professor John Woodward",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Professor John Remedios",
+      "role": "Member",
+      "organisation": "University of Leicester/National Centre for"
+    },
+    {
+      "name": "Earth Observation",
+      "role": "Member"
+    }
+  ]
+}

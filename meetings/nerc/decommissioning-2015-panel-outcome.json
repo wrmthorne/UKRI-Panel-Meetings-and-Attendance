@@ -1,0 +1,104 @@
+{
+  "council": "NERC",
+  "panel_meeting_name": "2015 Decommissioning",
+  "source_file": "decommissioning-2015-panel-outcome.pdf",
+  "count_of_applications": "11",
+  "count_of_awards": "2",
+  "year": "2015",
+  "applications": [
+    {
+      "application_reference": "NE/N019865/1",
+      "outcome": "Successful",
+      "ranking": "1",
+      "scores": [
+        "8",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/N019369/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_reference": "NE/N020014/1",
+      "outcome": "Unsuccessful",
+      "ranking": "3",
+      "scores": [
+        "7",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/N019520/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/N019598/1",
+      "outcome": "Unsuccessful",
+      "ranking": "4",
+      "scores": [
+        "6",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/N020189/1",
+      "outcome": "Unsuccessful",
+      "ranking": "5",
+      "scores": [
+        "5",
+        "7"
+      ]
+    },
+    {
+      "application_reference": "NE/N020081/1",
+      "outcome": "Unsuccessful",
+      "ranking": "6",
+      "scores": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "application_reference": "NE/N019679/1",
+      "outcome": "Unsuccessful",
+      "ranking": "7",
+      "scores": [
+        "7",
+        "4"
+      ]
+    },
+    {
+      "application_reference": "NE/N020022/1",
+      "outcome": "Unsuccessful",
+      "ranking": "8",
+      "scores": [
+        "4",
+        "8"
+      ]
+    },
+    {
+      "application_reference": "NE/N020170/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "scores": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "application_reference": "NE/N020235/1",
+      "outcome": "Unsuccessful",
+      "ranking": "9",
+      "scores": [
+        "4",
+        "5"
+      ]
+    }
+  ]
+}

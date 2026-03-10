@@ -1,0 +1,17 @@
+{
+  "council": "ESRC",
+  "panel_meeting_name": "Early Life Cohort Feasibility Study",
+  "year": "2021",
+  "meeting_date": "2021-06",
+  "source_file": "ESRC-020925-Funding-Decisions.xlsx",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "application_reference": "ES/V016814/1",
+      "opportunity": "Early Life Cohort Feasibility",
+      "score_range": "8\u20138.9",
+      "outcome": "Successful"
+    }
+  ]
+}
