@@ -1,0 +1,455 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-844180240",
+  "meeting_name": "Health Disparities Oct 2022",
+  "applications": [
+    {
+      "application_id": "AH/X006115/1",
+      "route": "Standard",
+      "lead_applicant": "Megan Schmidt-Sane",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Institute of Development Studies",
+      "title": "The Living Roots Project: Building a community asset and research consortium in Ealing, West London to address health equity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006212/1",
+      "route": "Standard",
+      "lead_applicant": "Anuj Kapilashrami",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Essex",
+      "title": "INtersectional Network Of community and stakeholder Voices, And research to Tackle (in)Equities (INNOVATE) in mental health and well-being",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005801/1",
+      "route": "Standard",
+      "lead_applicant": "Michael James Roy",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Glasgow Caledonian University",
+      "title": "CommonHealth Catalyst: Developing a Community Research Consortium to Address Health Disparities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005917/1",
+      "route": "Standard",
+      "lead_applicant": "Josephine Ross",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Dundee",
+      "title": "Art at the Start: A research consortium exploring art-based intervention to support perinatal and infant mental health.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006174/1",
+      "route": "Standard",
+      "lead_applicant": "Simon Parry",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "The University of Manchester",
+      "title": "Organisations of Hope:  Building a Creative Consortium for Health Equity in Greater Manchester",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006085/1",
+      "route": "Standard",
+      "lead_applicant": "Richard Byng",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Plymouth",
+      "title": "Devon Community Assets Research Collaborative -  developing, understanding and linking within integrated care systems",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005895/1",
+      "route": "Standard",
+      "lead_applicant": "Barbara Mezes",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Liverpool",
+      "title": "Fylde Coast Research Consortium",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005852/1",
+      "route": "Standard",
+      "lead_applicant": "Gerard Leavey",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Ulster",
+      "title": "Challenging Health Outcomes/Integrating Care Environments: A Community Consortium To Tackle Health Disparities For People Living with Mental Illness",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006158/1",
+      "route": "Standard",
+      "lead_applicant": "Lucy Ellen Selman",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Bristol",
+      "title": "Weston-super-Mare consortium: Harnessing community assets to tackle inequities and reduce social isolation in end-of-life care and bereavement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005984/1",
+      "route": "Standard",
+      "lead_applicant": "Maria Kett",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University College London",
+      "title": "Tackling health disparities through social innovation: a multi-stakeholder coalition for inclusive health in Brent, London",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006131/1",
+      "route": "Standard",
+      "lead_applicant": "Marisa de Andrade",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of Edinburgh",
+      "title": "REALITIES in Health Disparities: Researching Evidence-based Alternatives in Living, Imaginative, Traumatised, Integrated, Embodied Systems",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006336/1",
+      "route": "Standard",
+      "lead_applicant": "Joanna Rachel Sofaer",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "University of Southampton",
+      "title": "Pathways to Health Through Cultures of Neighbourhoods",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005690/1",
+      "route": "Standard",
+      "lead_applicant": "Miriam Taegtmeyer",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "Liverpool School of Tropical Medicine",
+      "title": "Building Research by Communities to address Inequities through Expression (ReCITE) Consortium",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006271/1",
+      "route": "Standard",
+      "lead_applicant": "Angela Harden",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "City, University of London",
+      "title": "Building a Well Communities Research Consortium to address health disparities through Integrated Care Systems",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005836/1",
+      "route": "Standard",
+      "lead_applicant": "Monique Lhussier",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "Northumbria University",
+      "title": "Building and evidencing community asset partnerships in housing and health to address health disparities in North East North CumbriaAH/X009211/1",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006301/1",
+      "route": "Standard",
+      "lead_applicant": "Barry Percy-Smith",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Creating Change: A collaborative action inquiry approach for integrating creativity and community assets into ICS responses to Health Disparities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006166/1",
+      "score": "5",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006247/1",
+      "score": "5",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006220/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005976/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005771/1",
+      "score": "4",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006123/1",
+      "score": "4",
+      "rank": "22",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006204/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005933/1",
+      "score": "4",
+      "rank": "24",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005925/1",
+      "score": "4",
+      "rank": "25",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006255/1",
+      "score": "4",
+      "rank": "26",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006026/1",
+      "score": "4",
+      "rank": "27",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005828/1",
+      "score": "4",
+      "rank": "28",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005763/1",
+      "score": "4",
+      "rank": "29",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00614X/1",
+      "score": "4",
+      "rank": "30",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006069/1",
+      "score": "4",
+      "rank": "31",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006298/1",
+      "score": "4",
+      "rank": "32",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006344/1",
+      "score": "4",
+      "rank": "33",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006107/1",
+      "score": "4",
+      "rank": "34",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005968/1",
+      "score": "4",
+      "rank": "35",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006263/1",
+      "score": "4",
+      "rank": "36",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006190/1",
+      "score": "4",
+      "rank": "37",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005909/1",
+      "score": "4",
+      "rank": "38",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00578X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00581X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00600X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005704/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005747/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005798/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005844/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005879/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005887/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006018/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006034/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006042/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006050/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006077/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006093/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006182/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Chair"
+    },
+    {
+      "name": "Breda Friel",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Gavin Miller",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Anna Mankee - Williams",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Aaron Williamon",
+      "organisation": "Royal College of Music",
+      "role": "Member"
+    },
+    {
+      "name": "Alison Pilnick",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Carolyn Stephens",
+      "organisation": "London Sch of Hygiene & Tropic. Medicine",
+      "role": "Member"
+    },
+    {
+      "name": "Emmanuel Tsekleves",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "James Stark",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Richard Halliwell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Maureen Mackintosh",
+      "organisation": "Norwich University of the Arts",
+      "role": "Member"
+    },
+    {
+      "name": "Piran White",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Raghu Raghavan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Tracey Ann Reynolds",
+      "organisation": "Exeter College",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-03-10",
+  "meeting_end": "2022-03-10"
+}

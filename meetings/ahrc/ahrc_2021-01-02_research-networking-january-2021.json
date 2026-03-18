@@ -1,0 +1,130 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-648163692",
+  "meeting_name": "Research Networking - January 2021",
+  "applications": [
+    {
+      "application_id": "AH/V011219/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Beaumont",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Rethinking International Communism",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010573/1",
+      "route": "Standard",
+      "lead_applicant": "Carlos van Tongeren",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "The University of Manchester",
+      "title": "Flamenco after Franco: New Interdisciplinary Approaches to Performances of Memory in Post-Dictatorial Spain",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V009761/1",
+      "route": "Standard",
+      "lead_applicant": "Peter Robin William Dale",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of York",
+      "title": "CUMIN: Contemporary Urban Music for Inclusion Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00848X/1",
+      "route": "Standard",
+      "lead_applicant": "Suzanna Ivanic",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Kent",
+      "title": "Connected Central European Worlds, 1500-1700",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V005073/1",
+      "route": "Standard",
+      "lead_applicant": "Quassim Cassam",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Warwick",
+      "title": "Rethinking the Philosophy of Terrorism",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011294/1",
+      "route": "Standard",
+      "lead_applicant": "Amy Amy Burge",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "University of Birmingham",
+      "title": "Muslim Women's Popular Fiction",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V005138/1",
+      "score": "4",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008145/1",
+      "score": "4",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00655X/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010905/1",
+      "score": "4",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006797/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009907/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009842/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008498/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010174/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Yvonne Tasker",
+      "organisation": "University of Leeds",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2021-01-02",
+  "meeting_end": "2021-01-02"
+}

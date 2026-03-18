@@ -1,0 +1,157 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-730060892",
+  "meeting_name": "Understanding the Future of UK-China R+I in CI October 2021",
+  "applications": [
+    {
+      "application_id": "AH/W009323/1",
+      "route": "Standard",
+      "lead_applicant": "Xiaosong Yang",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Bournemouth University",
+      "title": "UK-China Research and Innovation Collaboration in Cloud based Virtual Film Production",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009404/1",
+      "route": "Standard",
+      "lead_applicant": "Haili Ma",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Leeds",
+      "title": "UK-China Song of the Female Textile Workers, past, present and the future",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00948X/1",
+      "route": "Standard",
+      "lead_applicant": "Mohamed Gamal Abdelmonem",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Virtual Heritage Futures: Navigating virtual technologies, creative industries and AI for cultural heritage in the UK and China",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009463/1",
+      "route": "Standard",
+      "lead_applicant": "Young Ok Choi",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "Brunel University London",
+      "title": "Designing the Future of UK-China RD&I Collaboration in the Museums and Galleries Sector",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00951X/1",
+      "route": "Standard",
+      "lead_applicant": "Douglas William Brown",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "Falmouth University",
+      "title": "Creative tourism in the UK and China: Augmented Reality for gardens in Cornwall and Suzhou",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009420/1",
+      "score": "4",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009471/1",
+      "score": "4",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009501/1",
+      "score": "4",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009412/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008548/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009331/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009374/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009382/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009439/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009447/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009455/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009498/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Naren Barfield",
+      "organisation": "Royal College of Art",
+      "role": "Chair"
+    },
+    {
+      "name": "Charlotte Waelde",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Hua Dong",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    },
+    {
+      "name": "Jonathan Sapsed",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Kerry Kerry Brown",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Martyn Evans",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-12",
+  "meeting_end": "2021-01-12"
+}

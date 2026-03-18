@@ -1,0 +1,39 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1304",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel July 2025 - Open Fellowships",
+  "meeting_convenor": "A Seweryn",
+  "applications": [
+    {
+      "application_id": "APP40730",
+      "outcome": "Advance to next stage",
+      "rank_group": "Unranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP25681",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "297",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP26414",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "297",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP28843",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "297",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-08-07",
+  "meeting_end": "2025-08-07"
+}

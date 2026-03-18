@@ -102,103 +102,53 @@
       "application_id": "APP65239"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP60262"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP63075"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP64526"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP66618"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP62125"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP65884"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP68026"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP61344"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP61379"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP62971"
     }
   ],
@@ -309,7 +259,7 @@
   "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
   "meeting_name": "MRC - Clinical Fellowships - Clinical Research Training Fellowships (CRTF) Panel Meeting - July 2025",
   "meeting_reference": "PAN1321",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 22 out of 56 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 12 applications were withdrawn by the applicant / office sifted prior to the meeting.\n\n* APP68049 deferred for interview at the next funding meeting and APP60142 scored 8 and was deferred for decision at the next funding meeting.",
   "meeting_start": "2025-07-02",
-  "meeting_end": "2025-07-02",
-  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 22 out of 56 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 12 applications were withdrawn by the applicant / office sifted prior to the meeting.\n\n* APP68049 deferred for interview at the next funding meeting and APP60142 scored 8 and was deferred for decision at the next funding meeting."
+  "meeting_end": "2025-07-02"
 }

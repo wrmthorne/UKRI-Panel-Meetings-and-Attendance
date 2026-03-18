@@ -5,65 +5,44 @@
   "applications": [
     {
       "application_id": "39521",
-      "title": "",
       "score": "8",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "2"
     },
     {
       "application_id": "45431",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "3"
     },
     {
       "application_id": "45681",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "4"
     },
     {
       "application_id": "41052",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "5"
     },
     {
       "application_id": "43598",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "6"
     },
     {
       "application_id": "47002",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "7"
     },
     {
       "application_id": "43101",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "8"
     },
     {
@@ -77,30 +56,18 @@
     },
     {
       "application_id": "46131",
-      "title": "",
       "score": "5",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "43654",
-      "title": "",
       "score": "5",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "41126",
-      "title": "",
       "score": "3",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     }
   ],
   "panellists": [

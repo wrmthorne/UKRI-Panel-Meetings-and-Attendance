@@ -1,0 +1,68 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-532757725",
+  "meeting_name": "Follow on Fund - March 2020",
+  "applications": [
+    {
+      "application_id": "AH/T012145/1",
+      "route": "Standard",
+      "lead_applicant": "Duncan Garrow",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Reading",
+      "title": "Boundary objects: using grave goods to link communities in the present (as well as the past)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013516/1",
+      "route": "Standard",
+      "lead_applicant": "Maire Ni Mhaonaigh",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Cambridge",
+      "title": "Spreading the Word(s): Engaging with eDIL",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T00696X/1",
+      "route": "Standard",
+      "lead_applicant": "Susan L.T. Ashley",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Northumbria University",
+      "title": "(Multi)Cultural Organisational Archives",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001671/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001884/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "William Alexander Bowden",
+      "organisation": "National Oceanography Centre",
+      "role": "Chair"
+    },
+    {
+      "name": "David Lambert",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Maltby",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-04-03",
+  "meeting_end": "2020-04-03"
+}

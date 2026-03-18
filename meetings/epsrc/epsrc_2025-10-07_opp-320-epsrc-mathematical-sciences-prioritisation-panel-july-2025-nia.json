@@ -1,0 +1,172 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1341",
+  "meeting_name": "OPP 320 - EPSRC Mathematical Sciences Prioritisation Panel July 2025 - NIA",
+  "meeting_convenor": "C Grey",
+  "applications": [
+    {
+      "application_id": "APP33582",
+      "title": "Gauge theory and pseudo-holomorphic curves in symplectic six-manifolds",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "547443.72",
+      "award_id": "UKRI2782",
+      "opportunity_number": "320",
+      "lead_applicant": "A Doan",
+      "link": "https://gtr.ukri.org/projects?ref=2782",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24115",
+      "title": "New Phenomena For Random Walks In Dynamic Environments",
+      "lead_organisation": "King's College London",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "472214.12",
+      "award_id": "UKRI2781",
+      "opportunity_number": "320",
+      "lead_applicant": "G Conchon--Kerjan",
+      "link": "https://gtr.ukri.org/projects?ref=2781",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP41730",
+      "title": "Group representations: orders, lattices and deformations",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "437950.8",
+      "award_id": "UKRI2780",
+      "opportunity_number": "320",
+      "lead_applicant": "F Eisele",
+      "link": "https://gtr.ukri.org/projects?ref=2780",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP22977",
+      "title": "Ergodicity and Lyapunov Exponents in Many-Body Hamiltonian Systems",
+      "lead_organisation": "University of Lincoln",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "395491.82",
+      "award_id": "UKRI3307",
+      "opportunity_number": "320",
+      "lead_applicant": "H Christodoulidi",
+      "link": "https://gtr.ukri.org/projects?ref=3307",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP60692",
+      "title": "Fermionic approach to height fields in the Abelian sandpile",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "award_id": "UKRI3308",
+      "opportunity_number": "320",
+      "lead_applicant": "A Cipriani",
+      "link": "https://gtr.ukri.org/projects?ref=3308",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP27803",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "opportunity_number": "320",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP38277",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "opportunity_number": "320",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP47033",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "opportunity_number": "320",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30795",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "opportunity_number": "320",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30893",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "opportunity_number": "320",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Schroers",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "D Belyaev",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "P Eleftheriou",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "A Felikson",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "V Gelfreich",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "J Levesley",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "J Mackay",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "R Russo",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "A Tzella",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "E Yildirim",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-10-07",
+  "meeting_end": "2025-10-07"
+}

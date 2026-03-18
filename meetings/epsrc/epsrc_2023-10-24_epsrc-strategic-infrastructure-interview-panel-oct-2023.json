@@ -6,16 +6,10 @@
   "applications": [
     {
       "application_id": "APP6541",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "92",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
     },
     {
@@ -90,72 +84,49 @@
     },
     {
       "application_id": "APP4746",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "6",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "92",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
     },
     {
       "application_id": "APP4762",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "7",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "92",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
     },
     {
       "application_id": "APP4688",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "8",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "92",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC strategic infrastructure for engineering and physical sciences: Jun 2023"
     }
   ],
   "panellists": [
     {
       "name": "S Donnelly",
-      "role": "Chair",
-      "organisation": ""
+      "role": "Chair"
     },
     {
       "name": "S Brocchini",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "A Burdett",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "F Meldrum",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "P Sharp",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     }
   ],
   "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",

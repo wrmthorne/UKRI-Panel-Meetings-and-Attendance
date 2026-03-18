@@ -1,0 +1,67 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Beth Taylor",
+  "panel_name": "JUL21 Standard Grant & NI Panel A",
+  "panellists": [
+    {
+      "name": "Melanie Leng",
+      "role": "Chair",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Peter Clarke",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "David Healy",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Philip Benson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Christopher Davies",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Jonathan Chambers",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Joanna Bullard",
+      "role": "Member",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Gavin Foster",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Alexander Thomas",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Margaret Hartley The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Jamie Toney",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    }
+  ],
+  "meeting_name": "Jul21 Standard Grant & NI",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panels-StandardAndNewInvestigatorGrant-130721.pdf",
+  "meeting_start": "2026-12-01",
+  "meeting_end": "2026-12-01"
+}

@@ -1,0 +1,273 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-979517611",
+  "meeting_name": "Research Networking July 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y002520/1",
+      "route": "Standard",
+      "lead_applicant": "Suzanne MacLeod",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Leicester",
+      "title": "Addressing the museum attendance and benefit gap: inequality, representative participation and implementation science",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005864/1",
+      "route": "Standard",
+      "lead_applicant": "Jeremy Davies",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Leeds",
+      "title": "Interdisciplinary Dialogues in Industry and Literature, 1770-1830",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005376/1",
+      "route": "Standard",
+      "lead_applicant": "Karen Davina Simecek",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Warwick",
+      "title": "Embodied Voices: Ethics and politics of voice and body in performance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005481/1",
+      "route": "Standard",
+      "lead_applicant": "Margit Thofner",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "The Open University",
+      "title": "Analysing Art and Music in the Southern Low Countries (1350-1700)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001699/1",
+      "route": "Standard",
+      "lead_applicant": "Iris Wigger",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Loughborough University",
+      "title": "Mixed Relationships - Racialised Boundaries: Histories, experiences, identities and representations of black/white mixed-heritage families in Europe",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y002598/1",
+      "route": "Standard",
+      "lead_applicant": "Éadaoin Agnew",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Kingston University",
+      "title": "Victorian Diversities Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y002539/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005457/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001915/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005163/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005465/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005929/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005473/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00549X/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004108/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005384/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002938/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005422/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002288/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005880/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005910/1",
+      "score": "4",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005988/1",
+      "score": "4",
+      "rank": "22",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y006143/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y006119/1",
+      "score": "4",
+      "rank": "24",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004477/1",
+      "score": "4",
+      "rank": "25",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005902/1",
+      "score": "4",
+      "rank": "26",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00261X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001087/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004833/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005449/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alison Sarah Fell",
+      "organisation": "Bournemouth University",
+      "role": "Chair"
+    },
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Birgit Schippers",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Jo Briggs",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Mohamed Gamal Abdelmonem",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "pammi sinha",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Peter Darron Jackson",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Radha D'Souza",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Wayne Michael Martin",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-01-06",
+  "meeting_end": "2023-01-06"
+}

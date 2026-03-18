@@ -5,92 +5,62 @@
   "applications": [
     {
       "application_id": "14256",
-      "title": "",
       "score": "8",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "3"
     },
     {
       "application_id": "20138",
-      "title": "",
       "score": "8",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "4"
     },
     {
       "application_id": "17644",
-      "title": "",
       "score": "8",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "5"
     },
     {
       "application_id": "16411",
-      "title": "",
       "score": "8",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "6"
     },
     {
       "application_id": "20008",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "7"
     },
     {
       "application_id": "17814",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "8"
     },
     {
       "application_id": "14215",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "9"
     },
     {
       "application_id": "15104",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "10"
     },
     {
       "application_id": "18778",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "11"
     },
     {
       "application_id": "17371",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "12"
     },
     {
@@ -113,129 +83,73 @@
     },
     {
       "application_id": "19289",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "12045",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "19340",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "15290",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "13886",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "15050",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "13787",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "19846",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "17473",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "20209",
-      "title": "",
       "score": "6",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "16487",
-      "title": "",
       "score": "5",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "19025",
-      "title": "",
       "score": "4",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "10358",
-      "title": "",
       "score": "4",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "17625",
-      "title": "",
       "score": "4",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     }
   ],
   "panellists": [

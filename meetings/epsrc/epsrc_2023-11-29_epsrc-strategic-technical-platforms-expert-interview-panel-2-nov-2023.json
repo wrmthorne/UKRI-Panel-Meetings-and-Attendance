@@ -11,7 +11,6 @@
       "outcome": "Successful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
       "award_id": "UKRI056",
       "opportunity_number": "215",
       "lead_applicant": "A Lubben",
@@ -25,7 +24,6 @@
       "outcome": "Successful",
       "rank": "2",
       "rank_group": "Ranked",
-      "awarded_amount": "",
       "award_id": "UKRI058",
       "opportunity_number": "215",
       "lead_applicant": "I Hancox",
@@ -39,7 +37,6 @@
       "outcome": "Successful",
       "rank": "3",
       "rank_group": "Ranked",
-      "awarded_amount": "",
       "award_id": "UKRI059",
       "opportunity_number": "215",
       "lead_applicant": "E Codling",
@@ -76,77 +73,53 @@
     },
     {
       "application_id": "APP12054",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "6",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "215",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
     },
     {
       "application_id": "APP12674",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "7",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "215",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
     },
     {
       "application_id": "APP13435",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "8",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "215",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
     }
   ],
   "panellists": [
     {
       "name": "D Payne",
-      "role": "Chair",
-      "organisation": ""
+      "role": "Chair"
     },
     {
       "name": "N Anthony",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "N Chue Hong",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "S Day",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "T Martin",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "S Whittaker",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     }
   ],
   "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",

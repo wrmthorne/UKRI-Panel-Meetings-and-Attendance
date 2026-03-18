@@ -32,43 +32,23 @@
       "application_id": "APP60425"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP61711"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP63719"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP60148"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP63814"
     }
   ],
@@ -179,7 +159,7 @@
   "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
   "meeting_name": "MRC - Clinical Fellowships - Clinician Scientist Fellowships (CSF) Panel Meeting -  July 2025",
   "meeting_reference": "PAN1321",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 11 out of 19 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 1 application was withdrawn by the applicant prior to the meeting.",
   "meeting_start": "2025-07-02",
-  "meeting_end": "2025-07-02",
-  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 11 out of 19 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 1 application was withdrawn by the applicant prior to the meeting."
+  "meeting_end": "2025-07-02"
 }

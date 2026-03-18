@@ -1,0 +1,93 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN413",
+  "meeting_name": "OPP272 and OPP359: EPSRC driving digital, Day 1",
+  "meeting_convenor": "S Raikova",
+  "applications": [
+    {
+      "application_id": "APP25297",
+      "title": "Digital Innovation and Circular Economy (DICE) Network+",
+      "lead_organisation": "University of Exeter",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "2093147.76",
+      "award_id": "EP/Z533439/1",
+      "opportunity_number": "272",
+      "lead_applicant": "F Charnley",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533439%2F1",
+      "opportunity": "EPSRC network to drive digital sustainability and a circular economy"
+    },
+    {
+      "application_id": "APP23951",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "272",
+      "opportunity": "EPSRC network to drive digital sustainability and a circular economy"
+    },
+    {
+      "application_id": "APP25541",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "272",
+      "opportunity": "EPSRC network to drive digital sustainability and a circular economy"
+    },
+    {
+      "application_id": "APP32048",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "272",
+      "opportunity": "EPSRC network to drive digital sustainability and a circular economy"
+    },
+    {
+      "application_id": "APP32108",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "272",
+      "opportunity": "EPSRC network to drive digital sustainability and a circular economy"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "H Abdalla",
+      "role": "Chair",
+      "organisation": "University of East London"
+    },
+    {
+      "name": "F Ceschin",
+      "role": "Panellist",
+      "organisation": "Brunel University London"
+    },
+    {
+      "name": "S Dudley",
+      "role": "Panellist",
+      "organisation": "London South Bank University"
+    },
+    {
+      "name": "C Giannetti",
+      "role": "Panellist"
+    },
+    {
+      "name": "R Hardeman",
+      "role": "Panellist",
+      "organisation": "Independant"
+    },
+    {
+      "name": "P Lenny Koh",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "P Mativenga",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "E Woolley",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-05",
+  "meeting_end": "2024-07-05"
+}

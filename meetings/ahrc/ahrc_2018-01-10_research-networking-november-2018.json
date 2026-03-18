@@ -1,0 +1,140 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-399688075",
+  "meeting_name": "Research Networking November 2018",
+  "applications": [
+    {
+      "application_id": "AH/S004165/1",
+      "route": "Standard",
+      "lead_applicant": "Janet Mary Wilson",
+      "score": "5",
+      "rank": "0",
+      "lead_organisation": "University of Northampton",
+      "title": "Diaspora Screen Media Network: Charting Glocal Imaginaries",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006664/1",
+      "route": "Standard",
+      "lead_applicant": "Gareth White",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Royal Central Sch of Speech and Drama",
+      "title": "Playing with intimacy & intensity: an interdisciplinary network for participatory performance practice.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004963/1",
+      "route": "Standard",
+      "lead_applicant": "Cristian Tileaga",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Loughborough University",
+      "title": "New challenges for post-communist remembrance cultures: Interdisciplinary perspectives in transitional justice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006338/1",
+      "route": "Standard",
+      "lead_applicant": "Daniel James Whiting",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Southampton",
+      "title": "Higher-Order Evidence in Epistemology, Ethics, and Aesthetics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004831/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Judith Willie",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Soundscapes in the Early Modern World",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006397/1",
+      "route": "Standard",
+      "lead_applicant": "Rebecca Jane Fraser",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of East Anglia",
+      "title": "Black Female Intellectuals in Historical and Contemporary Context",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007229/1",
+      "route": "Standard",
+      "lead_applicant": "Jean Stubbs",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of London",
+      "title": "Commodity Frontiers and Environmental Change in a Challenged Coastal Region of Cuba",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003738/1",
+      "route": "Standard",
+      "lead_applicant": "Connal Parsley",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Kent",
+      "title": "Law and the Human",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006354/1",
+      "route": "Standard",
+      "lead_applicant": "Jonathan Edward Hicks",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Newcastle University",
+      "title": "Mapping Music History",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006559/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005374/1",
+      "score": "4",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00601X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005439/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006079/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006265/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Giorgio Riello",
+      "organisation": "European University Institute",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2018-01-10",
+  "meeting_end": "2018-01-10"
+}

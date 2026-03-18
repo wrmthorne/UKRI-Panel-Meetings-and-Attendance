@@ -3,38 +3,31 @@
   "panellists": [
     {
       "name": "Anthony Hall Earlham",
-      "role": "Chair",
-      "organisation": ""
+      "role": "Chair"
     },
     {
       "name": "Dave Brown Servier",
-      "role": "Chair",
-      "organisation": ""
+      "role": "Chair"
     },
     {
       "name": "Chris Baker Rothamsted",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Ian Duguid Edinburgh",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Jaume Bacardit Newcastle",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Rahuman S Malik Sheriff EBI",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Richard Leggett Earlham",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Richard Mott",
@@ -43,13 +36,11 @@
     },
     {
       "name": "Steve Kelly Oxford",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Till Bretschneider Warwick",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Andrea Townsend-Nicholson",
@@ -68,43 +59,35 @@
     },
     {
       "name": "Emma Rand York",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Florence Abram Galway",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Jennifer Tullet Kent",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Laura-Jayne Gardiner IBM Research",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Lisa Crossman UEA/ Sequence analysis company",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Sari Pennings Edinburgh",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Lucy Colwell Cambridge",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Reyer Zwiggelaar Aberystwyth",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Cleo Kontoravdi",
@@ -113,8 +96,7 @@
     },
     {
       "name": "Joanne Lello Cardiff",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Victoria Savage",
@@ -123,53 +105,43 @@
     },
     {
       "name": "Giovanni Stracquadanio Edinburgh",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Krasimira Tsaneva-Atanasova Exeter",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Lucy Weinert Cambridge",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Paul Kersey Kew Gardens",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Andrew Dowsey Bristol",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Andy French Nottingham",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Lisa Collins Leeds",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Kathryn Hentges Manchester",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Sofia Kourmpetli Cranfield",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Sotos Tsaftaris Edinburgh",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Dick de Ridder",
@@ -183,8 +155,7 @@
     },
     {
       "name": "Hanno Scharr Julich",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Martin Jones",
@@ -193,38 +164,31 @@
     },
     {
       "name": "Mark Turner Newcastle",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Franca Fraternali KCL",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Laurence Hunt Oxford",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Lucia Marucci Bristol",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Pete Smith Aberdeen",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Rifka Vlijm Groningen",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Julia Sigwart Belfast",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     }
   ],
   "meeting_name": "International Partnering Award Plus AI for Bioscience 2023",

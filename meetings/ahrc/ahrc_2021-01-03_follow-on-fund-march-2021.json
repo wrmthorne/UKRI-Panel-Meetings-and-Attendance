@@ -1,0 +1,89 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-656442981",
+  "meeting_name": "Follow on Fund - March 2021",
+  "applications": [
+    {
+      "application_id": "AH/V011391/1",
+      "route": "Standard",
+      "lead_applicant": "Elaine Farrell",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "The Bad Bridget Experience",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010565/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Carter",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "The National Archives",
+      "title": "Teaching the \"Voices of the Victorian Poor\"",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012622/1",
+      "route": "Standard",
+      "lead_applicant": "Maiken Umbach",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Nottingham",
+      "title": "Modes of Engagement: Comparing 'real' and 'virtual' platforms for Holocaust learning",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012649/1",
+      "route": "Standard",
+      "lead_applicant": "Alison Frances Scott-Baumann",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "SOAS University of London",
+      "title": "New everyday practices of free speech on campus: Beyond racialised and religious stereotypes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011375/1",
+      "route": "Standard",
+      "lead_applicant": "Annette Iris Idler",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Oxford",
+      "title": "Network for Change: Building on the Changing Character of Conflict Platform",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013793/1",
+      "score": "4",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Katherine Isobel Baxter",
+      "organisation": "Northumbria University",
+      "role": "Chair"
+    },
+    {
+      "name": "Charlotte Elizabeth Wildman",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Edward Dudley Hughes",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Oscar Odena",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-03",
+  "meeting_end": "2021-01-03"
+}

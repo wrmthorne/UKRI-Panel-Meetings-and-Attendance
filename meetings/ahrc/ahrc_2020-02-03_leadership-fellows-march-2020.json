@@ -1,0 +1,239 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-482454615",
+  "meeting_name": "Leadership Fellows - March 2020",
+  "applications": [
+    {
+      "application_id": "AH/T011521/1",
+      "route": "Early Career",
+      "lead_applicant": "Robin Whelan",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Liverpool",
+      "title": "The Christian State in Late Antiquity: Officials, Identities, and Religious Change, c. 400-600 CE",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004762/1",
+      "route": "Standard",
+      "lead_applicant": "Amelia DeFalco",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Leeds",
+      "title": "Imagining Posthuman Care",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007087/1",
+      "route": "Standard",
+      "lead_applicant": "Zoë Catherine Skoulding",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Bangor University",
+      "title": "Poetry in Transatlantic Translation: Circulation and Practice Across Languages",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006943/1",
+      "route": "Standard",
+      "lead_applicant": "Eleanor Rosamund Barraclough",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Durham University",
+      "title": "Into the Forest: Woods, Trees and Forests in the Germanic-Speaking Cultures of Northern Europe, c. 46 BC - c. 1500.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006412/1",
+      "route": "Early Career",
+      "lead_applicant": "Veronika Kapsali",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of the Arts London",
+      "title": "Bioinspired textiles: an investigation into biomimetic principles and their application to sustainable textile design and making processes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T012528/1",
+      "route": "Early Career",
+      "lead_applicant": "Elisa Serafinelli",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Sheffield",
+      "title": "Drones in Visual Culture: Developing a New Theory of Visual Mobile Communication",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006994/1",
+      "route": "Early Career",
+      "lead_applicant": "Adam Alston",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Staging decadence: Decadent theatre in the long twentieth century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013559/1",
+      "route": "Standard",
+      "lead_applicant": "Holly Furneaux",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Cardiff University",
+      "title": "Strange Meetings: Enemy Encounters 1800-2020",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T010711/1",
+      "route": "Early Career",
+      "lead_applicant": "Jacob Blanc",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The Prestes Column Rebellion: An Interior History of Brazil",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011009/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T009195/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008873/1",
+      "score": "5",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T010975/1",
+      "score": "5",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T011742/1",
+      "score": "5",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T011602/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006935/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T010959/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006773/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007249/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00763X/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004649/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006781/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T011130/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T011149/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012110/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alison Sarah Fell",
+      "organisation": "Bournemouth University",
+      "role": "Chair"
+    },
+    {
+      "name": "Andrew Robert Linn",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Gabriel Egan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Gregor Duncan White",
+      "organisation": "Abertay University",
+      "role": "Member"
+    },
+    {
+      "name": "John H Gillespie",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Michaela Agnes Mahlberg",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Sykes",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Tadmor",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Nicola Kerrie Shaughnessy",
+      "organisation": "University of Kent",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-02-03",
+  "meeting_end": "2020-02-03"
+}

@@ -1,0 +1,81 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1581",
+  "meeting_name": "OPP 280 - EPSRC Mathematical Sciences Prioritisation Panel November 2025 - WWOS",
+  "meeting_convenor": "B Scott",
+  "applications": [
+    {
+      "application_id": "APP67268",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "opportunity_number": "280",
+      "opportunity": "EPSRC working with overseas scientists, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "A Hazel",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "G Brightwell",
+      "role": "Panellist",
+      "organisation": "London School of Economics and Political Science"
+    },
+    {
+      "name": "F Dragoni",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "C Dunlop",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "M Grasso",
+      "role": "Panellist",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "S Jackson",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "R Jane Boyd",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "N Janson",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "A Keating",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "S Langdon",
+      "role": "Panellist",
+      "organisation": "Brunel University London"
+    },
+    {
+      "name": "A Letchford",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "J Newton",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-11",
+  "meeting_end": "2025-04-11"
+}

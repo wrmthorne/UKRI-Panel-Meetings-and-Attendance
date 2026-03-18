@@ -1,0 +1,112 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN859",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel February 2025 – Network Grants",
+  "meeting_convenor": "H Minter",
+  "applications": [
+    {
+      "application_id": "APP26751",
+      "title": "UK Hypersonics Network and Flight Experiment",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1377426.97",
+      "award_id": "UKRI1492",
+      "opportunity_number": "284",
+      "lead_applicant": "M McGilvray",
+      "link": "https://gtr.ukri.org/projects?ref=1492",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "R Le Feuvre",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "A Burrows",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "G Cummins",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "T Curtis",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "P Dodds",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "I Donald",
+      "role": "Panellist",
+      "organisation": "Siemens plc (UK)"
+    },
+    {
+      "name": "C Gerada",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "R Harris",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "I Maria Viola",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "B Norton",
+      "role": "Panellist",
+      "organisation": "Technological University Dublin"
+    },
+    {
+      "name": "D Nowell",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "A OSMAN",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "J Stairmand",
+      "role": "Panellist",
+      "organisation": "Jacobs (United Kingdom)"
+    },
+    {
+      "name": "I Todd",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "L Torrente-Murciano",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "C Vanderwel",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Y Yang",
+      "role": "Panellist",
+      "organisation": "Keele University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-02",
+  "meeting_end": "2025-04-02"
+}

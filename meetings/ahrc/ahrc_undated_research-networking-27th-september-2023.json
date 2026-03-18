@@ -5,173 +5,116 @@
   "applications": [
     {
       "application_id": "AH/Y00714X/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "8"
     },
     {
       "application_id": "AH/Y007336/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "9"
     },
     {
       "application_id": "AH/Y007182/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "10"
     },
     {
       "application_id": "AH/Y007050/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "11"
     },
     {
       "application_id": "AH/Y007271/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "12"
     },
     {
       "application_id": "AH/Y006852/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "13"
     },
     {
       "application_id": "AH/Y00700X/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "14"
     },
     {
       "application_id": "AH/Y007026/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "15"
     },
     {
       "application_id": "AH/Y007107/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "16"
     },
     {
       "application_id": "AH/Y006747/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "17"
     },
     {
       "application_id": "AH/Y007247/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "18"
     },
     {
       "application_id": "AH/Y006224/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "19"
     },
     {
       "application_id": "AH/Y007212/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "20"
     },
     {
       "application_id": "AH/Y007425/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "21"
     },
     {
       "application_id": "AH/Y007190/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "22"
     },
     {
       "application_id": "AH/Y007115/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "23"
     },
     {
       "application_id": "AH/Y007034/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "24"
     },
     {
       "application_id": "AH/Y007042/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "25"
     },
     {
       "application_id": "AH/Y007123/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "26"
     },
     {
@@ -239,57 +182,38 @@
     },
     {
       "application_id": "AH/Y007131/1",
-      "title": "",
       "score": "3",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y007263/1",
-      "title": "",
       "score": "3",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y006127/1",
       "title": "Towards a New Artistic Activism Research Collaborative (AARC)",
-      "score": "",
       "outcome": "Pending",
       "lead_applicant": "Holly Ryan",
-      "lead_organisation": "Queen Mary University of London",
-      "rank": ""
+      "lead_organisation": "Queen Mary University of London"
     },
     {
       "application_id": "AH/Y006429/1",
       "title": "Sisterhood in Britain and Ireland since 1900",
-      "score": "",
       "outcome": "Withdrawn",
       "lead_applicant": "Selina Todd",
-      "lead_organisation": "University of Oxford",
-      "rank": ""
+      "lead_organisation": "University of Oxford"
     },
     {
       "application_id": "AH/Y00647X/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y007174/1",
       "title": "Digital Narratives Network",
-      "score": "",
       "outcome": "Withdrawn",
       "lead_applicant": "Stevie Prickett",
-      "lead_organisation": "University of Cumbria",
-      "rank": ""
+      "lead_organisation": "University of Cumbria"
     }
   ],
   "panellists": [

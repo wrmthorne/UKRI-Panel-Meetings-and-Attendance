@@ -1,0 +1,197 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-644663661",
+  "meeting_name": "Research Grants - March 2021",
+  "applications": [
+    {
+      "application_id": "AH/V00915X/1",
+      "route": "Standard",
+      "lead_applicant": "Louise Purbrick",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Brighton",
+      "title": "Solid Water, Frozen Time, Future Justice: Photography and Mining in the Andean Glaciers",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V009117/1",
+      "route": "Standard",
+      "lead_applicant": "Alison Sarah Buckler",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "The Open University",
+      "title": "Ibali: storying new discourses of educational inclusion/exclusion in the UK, Nigeria and South Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008404/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Joseph Hulme",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Queer Northern Ireland: Sexuality Before Liberation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008722/1",
+      "route": "Standard",
+      "lead_applicant": "Nathan Hill",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "SOAS University of London",
+      "title": "Han Phonology: When Chinese Became Chinese",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008773/1",
+      "route": "Standard",
+      "lead_applicant": "Tim Fulford",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "De Montfort University",
+      "title": "The Collected Letters of Thomas Beddoes, ed. Tim Fulford and Dahlia Porter (Cambridge University Press, 2026)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008633/1",
+      "score": "5",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V007971/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00932X/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008447/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011286/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009346/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008897/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00798X/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008455/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013041/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008927/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009176/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008358/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00896X/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006986/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00686X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009028/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Chair"
+    },
+    {
+      "name": "Adam Stock",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Ana Frankenberg-Garcia",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Charlotte Lucy Alston",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Colin Tyler",
+      "organisation": "University of Hull",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Halvey",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Tony Shaw",
+      "organisation": "University of Warwick",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-03",
+  "meeting_end": "2021-01-03"
+}

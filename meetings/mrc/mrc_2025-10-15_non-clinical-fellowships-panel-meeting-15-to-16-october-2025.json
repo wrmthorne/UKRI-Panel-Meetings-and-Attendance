@@ -72,83 +72,43 @@
       "application_id": "APP75876"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP70679"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP74700"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP76504"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP65269"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP68067"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP70076"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP75737"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "9",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP77009"
     }
   ],
@@ -239,7 +199,7 @@
   "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
   "meeting_name": "Non-Clinical Fellowships Panel Meeting 15 to 16 October 2025",
   "meeting_reference": "PAN1365",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 79 out of 97 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 4 applications were withdrawn by the applicant prior to the meeting.\n\n* APP65132, APP68354 and APP72939 were deferred for consideration at the next funding meeting.",
   "meeting_start": "2025-10-15",
-  "meeting_end": "2025-10-15",
-  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 79 out of 97 applications were unsuccessful at shortlisting and are not displayed here. \n\n* 4 applications were withdrawn by the applicant prior to the meeting.\n\n* APP65132, APP68354 and APP72939 were deferred for consideration at the next funding meeting."
+  "meeting_end": "2025-10-15"
 }

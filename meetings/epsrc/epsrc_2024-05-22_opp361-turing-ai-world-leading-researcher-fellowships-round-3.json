@@ -48,80 +48,49 @@
     },
     {
       "application_id": "APP22760",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "4",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "361",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
     },
     {
       "application_id": "APP22491",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "5",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "361",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
     },
     {
       "application_id": "APP26359",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "6",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "361",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
     },
     {
       "application_id": "APP25879",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "7",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "361",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
     },
     {
       "application_id": "APP23688",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "8",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "361",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
     }
   ],
   "panellists": [
     {
       "name": "W Hall",
-      "role": "Chair",
-      "organisation": ""
+      "role": "Chair"
     },
     {
       "name": "R Misener",

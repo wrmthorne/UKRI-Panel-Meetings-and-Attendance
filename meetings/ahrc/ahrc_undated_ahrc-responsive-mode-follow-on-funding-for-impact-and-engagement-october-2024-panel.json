@@ -5,47 +5,32 @@
   "applications": [
     {
       "application_id": "41371",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "3"
     },
     {
       "application_id": "49394",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "4"
     },
     {
       "application_id": "47215",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "5"
     },
     {
       "application_id": "49752",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "6"
     },
     {
       "application_id": "49138",
-      "title": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "7"
     },
     {
@@ -68,12 +53,8 @@
     },
     {
       "application_id": "41662",
-      "title": "",
       "score": "5",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     }
   ],
   "panellists": [

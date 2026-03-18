@@ -2,9 +2,6 @@
   "council": "MRC",
   "applications": [
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "9",
       "outcome": "Successful",
       "award_id": "UKRI3205",
@@ -12,9 +9,6 @@
       "application_id": "APP80256"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "9",
       "outcome": "Successful",
       "award_id": "UKRI3203",
@@ -22,9 +16,6 @@
       "application_id": "APP80711"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "9",
       "outcome": "Successful",
       "award_id": "UKRI3204",
@@ -42,9 +33,6 @@
       "application_id": "APP83643"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "9",
       "outcome": "Successful",
       "award_id": "UKRI3208",
@@ -52,9 +40,6 @@
       "application_id": "APP83698"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "9",
       "outcome": "Successful",
       "award_id": "UKRI3207",
@@ -62,143 +47,73 @@
       "application_id": "APP84849"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP80315"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP80317"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP80587"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP80258"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP81516"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP81554"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP81778"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP82723"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP82777"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP80259"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP82703"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP82769"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP82997"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "8",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP81001"
     }
   ],
@@ -354,7 +269,7 @@
   "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
   "meeting_name": "MRC - Developmental Pathway Funding Scheme Panel Meeting - September 2025",
   "meeting_reference": "PAN1428",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* APP83573 and APP83690 were deferred for consideration at the next funding meeting.",
   "meeting_start": "2025-09-17",
-  "meeting_end": "2025-09-17",
-  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* APP83573 and APP83690 were deferred for consideration at the next funding meeting."
+  "meeting_end": "2025-09-17"
 }

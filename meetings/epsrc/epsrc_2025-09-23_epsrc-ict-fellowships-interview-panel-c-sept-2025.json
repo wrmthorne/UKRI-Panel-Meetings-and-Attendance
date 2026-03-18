@@ -11,7 +11,6 @@
       "outcome": "Successful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
       "award_id": "UKRI4412",
       "opportunity_number": "297",
       "lead_applicant": "C Clopath",
@@ -20,16 +19,10 @@
     },
     {
       "application_id": "APP63133",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "2",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "297",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
     }
   ],

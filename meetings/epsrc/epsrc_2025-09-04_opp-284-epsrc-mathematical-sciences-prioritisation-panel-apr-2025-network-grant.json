@@ -1,0 +1,67 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1133",
+  "meeting_name": "OPP 284 - EPSRC Mathematical Sciences Prioritisation Panel Apr 2025 - Network Grant",
+  "meeting_convenor": "R Williams",
+  "applications": [
+    {
+      "application_id": "APP30896",
+      "title": "UK-European Representation Theory and Categorification Network",
+      "lead_organisation": "University of York",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "288195.48",
+      "award_id": "UKRI1721",
+      "opportunity_number": "284",
+      "lead_applicant": "C Bowman-Scargill",
+      "link": "https://gtr.ukri.org/projects?ref=1721",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "E Crooks",
+      "role": "Chair",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "A Braun",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "A Brooke-Taylor",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "L Dembélé",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "L Dyson",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "A Johansen",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "J Potts",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "H Wilton",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-09-04",
+  "meeting_end": "2025-09-04"
+}

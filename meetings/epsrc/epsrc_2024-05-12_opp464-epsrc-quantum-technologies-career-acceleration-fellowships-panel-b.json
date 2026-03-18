@@ -1,0 +1,371 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN871",
+  "meeting_name": "OPP464: EPSRC Quantum Technologies Career Acceleration Fellowships PANEL B",
+  "meeting_convenor": "D Chan",
+  "applications": [
+    {
+      "application_id": "APP31485",
+      "title": "Quantum networking at telecom wavelengths with Yb qubits",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1746802.37",
+      "award_id": "UKRI1227",
+      "opportunity_number": "464",
+      "lead_applicant": "T Franzen",
+      "link": "https://gtr.ukri.org/projects?ref=1227",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP32462",
+      "title": "Strongly interacting Rydberg exciton-polaritons (SIREP)",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1618107.07",
+      "award_id": "UKRI1222",
+      "opportunity_number": "464",
+      "lead_applicant": "L Gallagher",
+      "link": "https://gtr.ukri.org/projects?ref=1222",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37860",
+      "title": "Developing Quantum Advantage by Understanding the Paradoxical Aspects of Measurement in Quantum Systems",
+      "lead_organisation": "Newcastle University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1371098.17",
+      "award_id": "UKRI1217",
+      "opportunity_number": "464",
+      "lead_applicant": "J Hance",
+      "link": "https://gtr.ukri.org/projects?ref=1217",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31025",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31113",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31254",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31301",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31790",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP32103",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP32393",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP32805",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP33021",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP33027",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP33709",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34113",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34212",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34283",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34905",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35174",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35349",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35853",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35854",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36295",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36309",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36340",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36595",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36680",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36883",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37176",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37444",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37588",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37626",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37712",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37806",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP38570",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "464",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "L Wilson",
+      "role": "Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "N Alford",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "A Brash",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "G Brown",
+      "role": "Panellist",
+      "organisation": "Defence Science and Technology Laboratory"
+    },
+    {
+      "name": "B Chakraborty",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "D Cleaver",
+      "role": "Panellist",
+      "organisation": "Sheffield Hallam University"
+    },
+    {
+      "name": "M Connolly",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "A Davis",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "D Faccio",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "M Keller",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "A Kowalczyk",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "P Ledingham",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "D Lucas",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "R Oulton",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "J Pritchard",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "A Rossi",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "J Silverstone",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "S Thomas",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "H Williams",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-05-12",
+  "meeting_end": "2024-05-12"
+}

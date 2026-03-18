@@ -1,0 +1,40 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN470",
+  "meeting_name": "OPP588 UKRI Pathway to Exascale – Grant for CR4 construction work Interview Panel",
+  "meeting_convenor": "R Bailey",
+  "applications": [
+    {
+      "application_id": "APP44452",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "588",
+      "opportunity": "UKRI Pathway to Exascale – Grant for CR4 construction work"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Spearing",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "D Cable",
+      "role": "Panellist",
+      "organisation": "Science and Technology Facilities Council Laboratories"
+    },
+    {
+      "name": "S Simon",
+      "role": "Panellist",
+      "organisation": "Medical Research Council"
+    },
+    {
+      "name": "T Venables",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-10-07",
+  "meeting_end": "2024-10-07"
+}

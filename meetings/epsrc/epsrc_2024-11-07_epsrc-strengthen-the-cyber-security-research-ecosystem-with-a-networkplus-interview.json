@@ -1,0 +1,76 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN593",
+  "meeting_name": "EPSRC Strengthen the cyber security research ecosystem with a NetworkPlus Interview",
+  "meeting_convenor": "G Smith",
+  "applications": [
+    {
+      "application_id": "APP33012",
+      "title": "CRANE: Cyber Security Research and Networking Environment",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "6464467.58",
+      "award_id": "EP/Z534845/1",
+      "opportunity_number": "438",
+      "lead_applicant": "A Martin",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534845%2F1",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP31886",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "438",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP33487",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "438",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP34496",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "opportunity_number": "438",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Parr",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "A Bandara",
+      "role": "Panellist",
+      "organisation": "The Open University"
+    },
+    {
+      "name": "V Benson",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "P David McIlhatton",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "N Searle",
+      "role": "Panellist",
+      "organisation": "Goldsmiths, University of London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-11-07",
+  "meeting_end": "2024-11-07"
+}

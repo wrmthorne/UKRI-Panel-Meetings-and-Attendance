@@ -102,143 +102,73 @@
       "application_id": "APP53407"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP48642"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP49598"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP52126"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP52229"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP53899"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP47920"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP51944"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP52218"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP53319"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP53363"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP53527"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP53531"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP54190"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP54647"
     }
   ],
@@ -379,7 +309,7 @@
   "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
   "meeting_name": "MRC - Infections & Immunity Board Meeting - March 2025",
   "meeting_reference": "PAN1004",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 24 out of 61 applications were unsuccessful at shortlisting and are not displayed here.",
   "meeting_start": "2025-03-25",
-  "meeting_end": "2025-03-25",
-  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 24 out of 61 applications were unsuccessful at shortlisting and are not displayed here."
+  "meeting_end": "2025-03-25"
 }

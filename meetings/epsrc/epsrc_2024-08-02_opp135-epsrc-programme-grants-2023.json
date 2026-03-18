@@ -1,0 +1,83 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN181",
+  "meeting_name": "OPP135: EPSRC programme grants 2023",
+  "meeting_convenor": "A Miller",
+  "applications": [
+    {
+      "application_id": "APP6526",
+      "title": "Securing Convergent Ultra-large Scale Infrastructures",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "6780954.038",
+      "award_id": "EP/Z531315/1",
+      "opportunity_number": "135",
+      "lead_applicant": "A Rashid",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ531315%2F1",
+      "opportunity": "EPSRC programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP10688",
+      "title": "Networks of Cardiovascular Digital Twins (CVD-Net)",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "8844327.93",
+      "award_id": "EP/Z531297/1",
+      "opportunity_number": "135",
+      "lead_applicant": "S Niederer",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ531297%2F1",
+      "opportunity": "EPSRC programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP11604",
+      "title": "Inspiring Futures for Zero Carbon Mobility (INFUZE)",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "6295780.96",
+      "award_id": "EP/Z531273/1",
+      "opportunity_number": "135",
+      "lead_applicant": "G Marsden",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ531273%2F1",
+      "opportunity": "EPSRC programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP5877",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "135",
+      "opportunity": "EPSRC programme grants: full application summer 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Petropoulos",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "M Chalmers",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "S Dobson",
+      "role": "Panellist"
+    },
+    {
+      "name": "C Gowing",
+      "role": "Panellist",
+      "organisation": "JA Consulting"
+    },
+    {
+      "name": "M Martini",
+      "role": "Panellist",
+      "organisation": "Kingston University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-08-02",
+  "meeting_end": "2024-08-02"
+}

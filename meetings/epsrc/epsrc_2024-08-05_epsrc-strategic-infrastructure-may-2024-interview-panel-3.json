@@ -1,0 +1,115 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN241",
+  "meeting_name": "EPSRC Strategic Infrastructure May 2024 Interview Panel 3",
+  "meeting_convenor": "S Gilligan",
+  "applications": [
+    {
+      "application_id": "APP21822",
+      "title": "Materials Science Physical Properties Measurement System",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1262489.44",
+      "award_id": "EP/Z533312/1",
+      "opportunity_number": "360",
+      "lead_applicant": "S Sasaki",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533312%2F1",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    },
+    {
+      "application_id": "APP25224",
+      "title": "UHT-MaT: Ultra-High Temperature Materials Testing Infrastructure",
+      "lead_organisation": "UK Atomic Energy Authority (UKAEA)",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1508005.07",
+      "award_id": "EP/U537007/1",
+      "opportunity_number": "360",
+      "lead_applicant": "A Harte",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FU537007%2F1",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    },
+    {
+      "application_id": "APP25702",
+      "title": "Next Generation E-Beam Lithography and 3D Nanopattterning for Nanofabrication",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "2198178.16",
+      "award_id": "EP/Z533269/1",
+      "opportunity_number": "360",
+      "lead_applicant": "H Bhaskaran",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533269%2F1",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    },
+    {
+      "application_id": "APP21115",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "360",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    },
+    {
+      "application_id": "APP21203",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "360",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    },
+    {
+      "application_id": "APP22071",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "360",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    },
+    {
+      "application_id": "APP24926",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "360",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Oct 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "S Thompson",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "S Kazarian",
+      "role": "Deputy chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "D (Lilly) Liu",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "I Hancox",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "B Li",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "I Martin-Fabiani",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "A Rost",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-08-05",
+  "meeting_end": "2024-08-05"
+}

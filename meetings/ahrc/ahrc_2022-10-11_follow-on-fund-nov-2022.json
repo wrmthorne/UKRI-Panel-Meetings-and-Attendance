@@ -1,0 +1,116 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-877204101",
+  "meeting_name": "Follow on Fund - Nov 2022",
+  "applications": [
+    {
+      "application_id": "AH/X008843/1",
+      "route": "Standard",
+      "lead_applicant": "Lesley Patricia Murray",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Brighton",
+      "title": "Transforming trans-national landscapes of gender-based violence through trans-sensory storying",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004325/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Baumeister",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Drawing on Forced Marriage: Teaching Tough Topics Through Comics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005429/1",
+      "route": "Standard",
+      "lead_applicant": "Lauren Eglen",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Nottingham",
+      "title": "\"I Didn't Want to Get Married\": Using Zines to Increase Understanding About the 'Honour'-Based Abuse, Forced Marriage, and Modern Slavery Relationship",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004708/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Heritage",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "KEEP ON KEEPING ON: Follow-On to Building Resilience by developing arts-based resources to reduce young people's depression and anxiety (MR/S03580X/1)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009238/1",
+      "route": "Standard",
+      "lead_applicant": "Eleanor Dickey",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Reading",
+      "title": "Sharing ancient education",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X008738/1",
+      "route": "Standard",
+      "lead_applicant": "Emma Loosley Leeming",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Exeter",
+      "title": "Widening participation and increasing access to Cultural Heritage Activities in Georgia: Magnifying Impact.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006395/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X008592/1",
+      "score": "4",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003612/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Mary Agnes Krell",
+      "organisation": "Northumbria University",
+      "role": "Chair"
+    },
+    {
+      "name": "Anselma Gallinat",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Gerard Briscoe",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Ina Berg",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Maltby",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-10-11",
+  "meeting_end": "2022-10-11"
+}

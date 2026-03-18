@@ -1,0 +1,116 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-487843421",
+  "meeting_name": "Follow on Fund -  November 2019",
+  "applications": [
+    {
+      "application_id": "AH/T005343/1",
+      "route": "Standard",
+      "lead_applicant": "Elizabeth Jane Shepherd",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University College London",
+      "title": "Memory - Identity - Rights in Records - Access: Embedding Participatory Recordkeeping in Child Social Care",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006234/1",
+      "route": "Standard",
+      "lead_applicant": "Catherine Clay",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Time and Tide: Connections and Legacies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002263/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola McLelland",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Nottingham",
+      "title": "Using the History of Language Learning and Teaching to engage the present and improve the future",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006269/1",
+      "route": "Standard",
+      "lead_applicant": "James Gilbert Mansell",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Nottingham",
+      "title": "Sonic Futures: Collecting, Curating and Engaging with Sound at the National Science and Media Museum",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006374/1",
+      "route": "Standard",
+      "lead_applicant": "Simona Valeriani",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Shaping Spaces - Architectural Models in Context.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006919/1",
+      "route": "Standard",
+      "lead_applicant": "Kaeten Mistry",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of East Anglia",
+      "title": "Understanding Secrecy, Upholding the Public Interest: National Security Whistleblowing, Civil Society and Support Networks",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005068/1",
+      "score": "4",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005246/1",
+      "score": "4",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006846/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003731/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Fabrizio James Nevola",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Member"
+    },
+    {
+      "name": "Bennett Zon",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Carenza Lewis",
+      "organisation": "Museum of London Archaeology",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-01-11",
+  "meeting_end": "2019-01-11"
+}

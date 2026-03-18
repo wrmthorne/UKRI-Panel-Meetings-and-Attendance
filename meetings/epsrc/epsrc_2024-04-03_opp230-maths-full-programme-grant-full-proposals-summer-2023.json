@@ -1,0 +1,47 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN218",
+  "meeting_name": "OPP230 - Maths Full Programme Grant Full Proposals Summer 2023",
+  "meeting_convenor": "B McGregor",
+  "applications": [
+    {
+      "application_id": "APP14819",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "230",
+      "opportunity": "EPSRC Mathematics programme grants: full application summer 2023"
+    },
+    {
+      "application_id": "APP14821",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "230",
+      "opportunity": "EPSRC Mathematics programme grants: full application summer 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Kambites",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "M Ottobre",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "C Schönlieb",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "K Tsaneva-Atanasova",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-04-03",
+  "meeting_end": "2024-04-03"
+}

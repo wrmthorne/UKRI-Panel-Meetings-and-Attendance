@@ -2,93 +2,48 @@
   "council": "MRC",
   "applications": [
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "8",
       "outcome": "Successful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP87241"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "8",
       "outcome": "Successful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP88204"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "8",
       "outcome": "Successful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP88397"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "8",
       "outcome": "Successful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP89824"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "8",
       "outcome": "Successful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP90277"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "6",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP86067"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP86599"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP86837"
     },
     {
-      "title": "",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "award_id": "",
-      "link": "",
       "application_id": "APP87711"
     }
   ],
@@ -204,7 +159,7 @@
   "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
   "meeting_name": "MRC - Experimental Medicine - December 2025",
   "meeting_reference": "PAN1593",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.",
   "meeting_start": "2025-12-03",
-  "meeting_end": "2025-12-03",
-  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred."
+  "meeting_end": "2025-12-03"
 }

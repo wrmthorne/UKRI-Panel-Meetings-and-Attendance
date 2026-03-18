@@ -6,115 +6,51 @@
   "applications": [
     {
       "application_id": "APP45271",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP45443",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP46330",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP46333",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP47085",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP47169",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP50153",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     },
     {
       "application_id": "APP51408",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Pending",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
-      "opportunity_number": "637",
-      "lead_applicant": "",
-      "link": "",
-      "opportunity": ""
+      "opportunity_number": "637"
     }
   ],
   "panellists": [
@@ -140,8 +76,7 @@
     },
     {
       "name": "G Evans",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "G Georgiou",

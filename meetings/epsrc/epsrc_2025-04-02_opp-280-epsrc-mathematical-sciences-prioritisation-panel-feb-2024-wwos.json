@@ -1,0 +1,19 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN995",
+  "meeting_name": "OPP 280 - EPSRC Mathematical Sciences Prioritisation Panel Feb 2024 -WWOS",
+  "meeting_convenor": "B McGregor",
+  "applications": [
+    {
+      "application_id": "APP24047",
+      "outcome": "Deferred",
+      "rank": "0",
+      "rank_group": "Unranked",
+      "opportunity_number": "280",
+      "opportunity": "EPSRC working with overseas scientists, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-02",
+  "meeting_end": "2025-04-02"
+}

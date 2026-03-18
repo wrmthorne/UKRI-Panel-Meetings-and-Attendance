@@ -1,0 +1,79 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1338",
+  "meeting_name": "OPP 296 - EPSRC Mathematical Sciences Prioritisation Panel July 2025 - Post Doctoral Fellowships",
+  "meeting_convenor": "C Grey",
+  "applications": [
+    {
+      "application_id": "APP30647",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP48806",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Schroers",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "D Belyaev",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "P Eleftheriou",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "A Felikson",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "V Gelfreich",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "J Levesley",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "J Mackay",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "R Russo",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "A Tzella",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "E Yildirim",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-10-07",
+  "meeting_end": "2025-10-07"
+}

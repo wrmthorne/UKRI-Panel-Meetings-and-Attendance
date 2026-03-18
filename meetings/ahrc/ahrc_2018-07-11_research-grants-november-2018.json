@@ -1,0 +1,205 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-368869644",
+  "meeting_name": "Research Grants - November 2018",
+  "applications": [
+    {
+      "application_id": "AH/S005129/1",
+      "route": "Standard",
+      "lead_applicant": "Lily Okalani Kahn",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University College London",
+      "title": "Contemporary Hasidic Yiddish",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005005/1",
+      "route": "Standard",
+      "lead_applicant": "Robert Parker",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Oxford",
+      "title": "Lexicon of Greek Personal Names- Lower Egypt and the Fayum",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004882/1",
+      "route": "Early Career",
+      "lead_applicant": "Tatiana Grieshofer",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Birmingham City University",
+      "title": "Language of DIY Justice: Communication practices & processes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004742/1",
+      "route": "Standard",
+      "lead_applicant": "Richard Rushton",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Lancaster University",
+      "title": "Cinema Memory and the Digital Archive: 1930s Britain and Beyond",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006273/1",
+      "route": "Standard",
+      "lead_applicant": "Alexander James Metcalfe",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Lancaster University",
+      "title": "Power, society, and (dis)connectivity in medieval Sardinia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006125/1",
+      "route": "Standard",
+      "lead_applicant": "Rob Drummond",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Manchester Voices: A community-oriented project on language use, language attitudes, and regional and social identities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005463/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006435/1",
+      "score": "4",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00520X/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005137/1",
+      "score": "4",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004300/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004696/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005390/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005250/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003754/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003207/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004904/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004734/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00307X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004203/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004947/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005528/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005595/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "James Gordon Clark",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Galina Miazhevich",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "James Nathan Cole",
+      "organisation": "University of Brighton",
+      "role": "Member"
+    },
+    {
+      "name": "Fiona Anne Hackney",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Maltby",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Elliott",
+      "organisation": "National Institute of Agricultural Botany",
+      "role": "Member"
+    },
+    {
+      "name": "Thomas Christian Schmidt",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-07-11",
+  "meeting_end": "2018-07-11"
+}

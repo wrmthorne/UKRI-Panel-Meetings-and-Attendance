@@ -1,0 +1,115 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-980739873",
+  "meeting_name": "AHRC FIC UK Ireland DH 05/09/2023",
+  "applications": [
+    {
+      "application_id": "AH/Y007409/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Stephen Wilson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Bradford",
+      "title": "Kilmallock - Derry - Bradford: Twinning North-South Irish Walled Towns and UK Cities of Culture'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y007328/1",
+      "route": "Standard",
+      "lead_applicant": "Keith Mark Johnston",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of East Anglia",
+      "title": "Empowering Archivists: Applying New Tools and Approaches for Better Representation of Women in Audio-Visual Collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y007395/1",
+      "route": "Standard",
+      "lead_applicant": "Shane O'Sullivan",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Kingston University",
+      "title": "Make Film History: A New Platform for Archive-inspired Storytelling in Education",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y007387/1",
+      "route": "Standard",
+      "lead_applicant": "Katherine Stuart Forsyth",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Glasgow",
+      "title": "Ogham Palaeography+ (OPal+)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y007379/1",
+      "score": "6",
+      "rank": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y007360/1",
+      "score": "6",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y007344/1",
+      "score": "6",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y007352/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y006240/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y007301/1",
+      "score": "4",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00731X/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Olatunji Ogunyemi",
+      "organisation": "Museum of London Archaeology",
+      "role": "Chair"
+    },
+    {
+      "name": "Esperanza Miyake",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Richard Dryburgh",
+      "organisation": "The National Archives",
+      "role": "Member"
+    },
+    {
+      "name": "Jane Winters",
+      "organisation": "University of London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-05-09",
+  "meeting_end": "2023-05-09"
+}

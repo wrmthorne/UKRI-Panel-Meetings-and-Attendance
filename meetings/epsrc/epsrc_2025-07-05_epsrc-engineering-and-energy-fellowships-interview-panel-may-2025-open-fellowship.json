@@ -1,0 +1,24 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1124",
+  "meeting_name": "EPSRC Engineering and Energy Fellowships Interview Panel May 2025 - Open Fellowship",
+  "meeting_convenor": "M Calderon Munoz",
+  "applications": [
+    {
+      "application_id": "APP34578",
+      "title": "Offshore Wind Infrastructure Design Evolution with Provision for Life Extension (WIND-PROLIFE)",
+      "lead_organisation": "University of Strathclyde",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1396025.12",
+      "award_id": "UKRI3801",
+      "opportunity_number": "297",
+      "lead_applicant": "A Mehmanparast",
+      "link": "https://gtr.ukri.org/projects?ref=3801",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-07-05",
+  "meeting_end": "2025-07-05"
+}

@@ -1,0 +1,25 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1582",
+  "meeting_name": "OPP 298 - EPSRC Mathematical Sciences Prioritisation Panel November 2025 - OTG",
+  "meeting_convenor": "B Scott",
+  "applications": [
+    {
+      "application_id": "APP65579",
+      "title": "Regularity Properties For Penalised Optimal Transport",
+      "lead_organisation": "University of Sussex",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "31814.96",
+      "award_id": "UKRI3695",
+      "opportunity_number": "298",
+      "lead_applicant": "L Koch",
+      "link": "https://gtr.ukri.org/projects?ref=3695",
+      "opportunity": "EPSRC overseas travel grant, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-11",
+  "meeting_end": "2025-04-11"
+}

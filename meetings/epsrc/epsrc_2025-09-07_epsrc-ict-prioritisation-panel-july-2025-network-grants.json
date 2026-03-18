@@ -1,0 +1,47 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1293",
+  "meeting_name": "EPSRC: ICT Prioritisation Panel July 2025 Network Grants",
+  "meeting_convenor": "D Tresoldi",
+  "applications": [
+    {
+      "application_id": "APP23977",
+      "title": "The UK Assistive and Accessible Technology (ATech) Network",
+      "lead_organisation": "University of Salford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1035329.29",
+      "award_id": "UKRI2860",
+      "opportunity_number": "284",
+      "lead_applicant": "A Waller",
+      "link": "https://gtr.ukri.org/projects?ref=2860",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP45349",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "284",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP48880",
+      "title": "AI Safety and Security Network (SSAIN)",
+      "lead_organisation": "University of York",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "297792.8",
+      "award_id": "UKRI2159",
+      "opportunity_number": "284",
+      "lead_applicant": "J McDermid",
+      "link": "https://gtr.ukri.org/projects?ref=2159",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-09-07",
+  "meeting_end": "2025-09-07"
+}

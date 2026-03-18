@@ -1,0 +1,19 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1088",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel April 2025 - Open Fellowships",
+  "meeting_convenor": "K Davies",
+  "applications": [
+    {
+      "application_id": "APP36921",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "opportunity_number": "297",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-08-04",
+  "meeting_end": "2025-08-04"
+}

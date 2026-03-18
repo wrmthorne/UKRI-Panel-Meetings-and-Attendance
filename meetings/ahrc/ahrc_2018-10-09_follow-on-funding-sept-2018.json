@@ -1,0 +1,74 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-377995802",
+  "meeting_name": "Follow On Funding - Sept 2018",
+  "applications": [
+    {
+      "application_id": "AH/S003223/1",
+      "score": "4",
+      "rank": "0",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005196/1",
+      "route": "Standard",
+      "lead_applicant": "Karina Theresa Croucher",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Bradford",
+      "title": "Continuing Bonds: Creative Dissemination",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005153/1",
+      "route": "Standard",
+      "lead_applicant": "Michael Punt",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Plymouth",
+      "title": "Technology, Exchange and Flow Writing Workshops at the Kochi-Muziris Biennale",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003819/1",
+      "route": "Standard",
+      "lead_applicant": "Leon Cruickshank",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Lancaster University",
+      "title": "Scaling Up Leapfrog: improving a million creative conversations",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003126/1",
+      "route": "Standard",
+      "lead_applicant": "Laura Jeanice Brooks",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "University of Southampton",
+      "title": "Songs of Home & Distant Isles: Musical Soundscapes of Australia and Britain, 1787-1860",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004890/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Neil Forbes",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-10-09",
+  "meeting_end": "2018-10-09"
+}

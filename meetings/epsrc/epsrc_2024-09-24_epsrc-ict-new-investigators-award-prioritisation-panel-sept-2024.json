@@ -9,7 +9,6 @@
       "title": "PriorPool: Intelligent Video Restoration and Enhancement via a Large Prior Database",
       "lead_organisation": "University of Bristol",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "355164.41",
       "award_id": "UKRI241",
@@ -23,7 +22,6 @@
       "title": "BRanchIng Game HeurisTics for Verification of Neural Networks (BRIGHT)",
       "lead_organisation": "University of Kent",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "443770.68",
       "award_id": "EP/Z536593/1",
@@ -37,7 +35,6 @@
       "title": "Harnessing Synthetic Data Fidelity for Assured Perception of Autonomous Vehicles",
       "lead_organisation": "University of Warwick",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "407859.68",
       "award_id": "EP/Z536568/1",
@@ -48,58 +45,30 @@
     },
     {
       "application_id": "APP24139",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "320",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
     },
     {
       "application_id": "APP26893",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "320",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
     },
     {
       "application_id": "APP30423",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "320",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
     },
     {
       "application_id": "APP33975",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "320",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
     }
   ],
@@ -176,8 +145,7 @@
     },
     {
       "name": "C Zarges",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "F Zheng",

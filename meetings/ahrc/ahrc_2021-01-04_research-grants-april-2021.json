@@ -1,0 +1,291 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-633055914",
+  "meeting_name": "Research Grants - April 2021",
+  "applications": [
+    {
+      "application_id": "AH/V014463/1",
+      "route": "Standard",
+      "lead_applicant": "Robyn Jade Adams",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University College London",
+      "title": "'Shaping Scholarship: Early Donations to the Bodleian Library'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01384X/1",
+      "route": "Standard",
+      "lead_applicant": "Katherine Cecilia Harloe",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of London",
+      "title": "Beyond 'Notability': Re-evaluating Women's Work in Archaeology, History and Heritage in Britain, 1870 - 1950",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013386/1",
+      "route": "Standard",
+      "lead_applicant": "M Braddick",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Sheffield",
+      "title": "The politics of the English grain trade, 1314-1815",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011340/1",
+      "route": "Standard",
+      "lead_applicant": "Franziska Schroeder",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Bridging the Gap - visually impaired and sighted music producers working side by side",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00901X/1",
+      "route": "Standard",
+      "lead_applicant": "Stefan Thor Smith",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Reading",
+      "title": "Community Consultation for Quality of Life (CCQoL)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011235/1",
+      "route": "Standard",
+      "lead_applicant": "Nathan Hill",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "SOAS University of London",
+      "title": "The Emergence of Egophoricity: a diachronic investigation into the marking of the conscious self",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V014625/1",
+      "route": "Standard",
+      "lead_applicant": "Ann-Marie Einhaus",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Northumbria University",
+      "title": "Ephemera and writing about war in Britain, 1914 to the present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013335/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015516/1",
+      "route": "Early Career",
+      "lead_applicant": "Carlo Nicolai",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "King's College London",
+      "title": "Properties, Paradox, and Circularity. A New, Type-Free Account",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01577X/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014498/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00672X/1",
+      "score": "5",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009869/1",
+      "score": "5",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014765/1",
+      "score": "5",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015044/1",
+      "score": "5",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009265/1",
+      "score": "5",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008951/1",
+      "score": "5",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014722/1",
+      "score": "5",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014595/1",
+      "score": "5",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006452/1",
+      "score": "5",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014420/1",
+      "score": "5",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012978/1",
+      "route": "Early Career",
+      "lead_applicant": "Vincent Hughes",
+      "score": "5",
+      "rank": "22",
+      "lead_organisation": "University of York",
+      "title": "Humans and machines: novel methods for testing speaker recognition performance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V015400/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00834X/1",
+      "score": "4",
+      "rank": "24",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014773/1",
+      "score": "4",
+      "rank": "25",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014382/1",
+      "score": "4",
+      "rank": "26",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008935/1",
+      "score": "4",
+      "rank": "27",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014854/1",
+      "score": "4",
+      "rank": "28",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006404/1",
+      "score": "4",
+      "rank": "29",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014889/1",
+      "score": "4",
+      "rank": "30",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013211/1",
+      "score": "4",
+      "rank": "31",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014315/1",
+      "score": "4",
+      "rank": "32",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jane Pavitt",
+      "organisation": "Zaha Hadid Foundation",
+      "role": "Chair"
+    },
+    {
+      "name": "Qian Sun",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Deborah Anne Shaw",
+      "organisation": "University of Portsmouth",
+      "role": "Member"
+    },
+    {
+      "name": "Gareth Hugh Loudon",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Jake Kaner",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Matthew Smith",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Pietari Esa Kaapa",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Rory O'Connell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-04",
+  "meeting_end": "2021-01-04"
+}

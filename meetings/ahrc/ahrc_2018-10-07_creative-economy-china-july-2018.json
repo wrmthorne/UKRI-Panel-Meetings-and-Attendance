@@ -1,0 +1,153 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-344883489",
+  "meeting_name": "Creative Economy China July 2018",
+  "applications": [
+    {
+      "application_id": "AH/S003533/1",
+      "route": "Standard",
+      "lead_applicant": "Tilly Blyth",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Science Museum Group",
+      "title": "Time, Culture and Identity: the co-creation of historical research and co-development of visitor experience in China and the UK",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00341X/1",
+      "route": "Standard",
+      "lead_applicant": "Stuart Walker",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Lancaster University",
+      "title": "Located Making: Unlocking the Potential of Cultural Heritage by Design",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003452/1",
+      "route": "Standard",
+      "lead_applicant": "Beverley Jane Butler",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University College London",
+      "title": "Craft China: (Re)making ethnic heritage in China's creative economy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003444/1",
+      "route": "Standard",
+      "lead_applicant": "Busayawan Lam",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Brunel University London",
+      "title": "Fostering creative citizens in China through co-design and public makerspaces",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003517/1",
+      "route": "Standard",
+      "lead_applicant": "FANG BIN GUO",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "What aspects of participatory design can help urban revitalisation; in particular in the restructuring of former industrial zones in China.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003304/1",
+      "route": "Standard",
+      "lead_applicant": "Haili Ma",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "University of Leeds",
+      "title": "Popular performance for new urban audiences: reconnecting M50 creative cluster with Shanghai All-Female Yue Opera",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003401/1",
+      "route": "Standard",
+      "lead_applicant": "Nick Bryan-Kinns",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Digital Platforms for Craft in the UK and China",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003398/1",
+      "route": "Standard",
+      "lead_applicant": "Robert George Harland",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "Loughborough University",
+      "title": "Repositioning Graphic Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003371/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003428/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003436/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003460/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003479/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003487/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003509/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003525/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Harriet Hawkins",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Chair"
+    },
+    {
+      "name": "Lisanne Gibson",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Louise Valentine",
+      "organisation": "Taylor and Francis Books",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Wilson",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-10-07",
+  "meeting_end": "2018-10-07"
+}

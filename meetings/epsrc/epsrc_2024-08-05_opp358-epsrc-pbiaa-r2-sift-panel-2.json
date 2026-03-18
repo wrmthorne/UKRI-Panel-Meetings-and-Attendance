@@ -1,0 +1,208 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN208",
+  "meeting_name": "OPP358 EPSRC PBIAA R2 Sift Panel 2",
+  "meeting_convenor": "H Niblock",
+  "applications": [
+    {
+      "application_id": "APP30244",
+      "outcome": "Advance to next stage",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP32855",
+      "outcome": "Advance to next stage",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP24664",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP26075",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP28275",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP28711",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP29382",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP30439",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP30482",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP30640",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP30686",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP32677",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP33426",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP33969",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP34023",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP34732",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP34842",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP34987",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP35217",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    },
+    {
+      "application_id": "APP35882",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "358",
+      "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Shollock",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "R Richardson",
+      "role": "Deputy chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "A Choudhary",
+      "role": "Panellist"
+    },
+    {
+      "name": "S Cox",
+      "role": "Panellist"
+    },
+    {
+      "name": "S Harris",
+      "role": "Panellist",
+      "organisation": "BAE Systems (United Kingdom)"
+    },
+    {
+      "name": "C Johnson",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "I Mabbett",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "P Mohammad Hammoudeh",
+      "role": "Panellist",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "P O'Brien",
+      "role": "Panellist"
+    },
+    {
+      "name": "N Oxtoby",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "R Riley",
+      "role": "Panellist"
+    },
+    {
+      "name": "L Towns-Andrews",
+      "role": "Panellist"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-08-05",
+  "meeting_end": "2024-08-05"
+}

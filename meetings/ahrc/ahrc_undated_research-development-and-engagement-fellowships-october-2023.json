@@ -5,146 +5,98 @@
   "applications": [
     {
       "application_id": "AH/Y00485X/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "12"
     },
     {
       "application_id": "AH/Y004345/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "13"
     },
     {
       "application_id": "AH/Y004167/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "14"
     },
     {
       "application_id": "AH/Y004752/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "15"
     },
     {
       "application_id": "AH/Y004698/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "16"
     },
     {
       "application_id": "AH/Y004744/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "17"
     },
     {
       "application_id": "AH/Y003497/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "18"
     },
     {
       "application_id": "AH/Y004981/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "19"
     },
     {
       "application_id": "AH/Y005074/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "20"
     },
     {
       "application_id": "AH/Y004418/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "21"
     },
     {
       "application_id": "AH/Y004965/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "22"
     },
     {
       "application_id": "AH/Y003691/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "23"
     },
     {
       "application_id": "AH/Y004558/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "24"
     },
     {
       "application_id": "AH/Y004493/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "25"
     },
     {
       "application_id": "AH/Y004809/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "26"
     },
     {
       "application_id": "AH/Y004469/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "27"
     },
     {
@@ -248,92 +200,51 @@
     },
     {
       "application_id": "AH/Y003357/1",
-      "title": "",
       "score": "3",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y003802/1",
-      "title": "",
       "score": "3",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y005430/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y005414/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y005082/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y004663/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y004515/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/Y004361/1",
-      "title": "",
-      "score": "",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     }
   ],
   "panellists": [
     {
       "name": "James Hegarty",
-      "organisation": "Cardiff University",
-      "role": ""
+      "organisation": "Cardiff University"
     },
     {
       "name": "Nandini Das",
-      "organisation": "University of Oxford",
-      "role": ""
+      "organisation": "University of Oxford"
     },
     {
       "name": "Sarita Malik",
-      "organisation": "Brunel University London",
-      "role": ""
+      "organisation": "Brunel University London"
     },
     {
       "name": "Charles Forsdick",

@@ -1,0 +1,101 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN936",
+  "meeting_name": "OPP472: EPSRC Prosperity Partnerships Round 6, Route 2 Interview Panel B",
+  "meeting_convenor": "A Luqmani",
+  "applications": [
+    {
+      "application_id": "APP38819",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP39783",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP40930",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP41478",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP41511",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP42481",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP42811",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP42951",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP43471",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "L Lapworth",
+      "role": "Chair",
+      "organisation": "Rolls-Royce (United Kingdom)"
+    },
+    {
+      "name": "A Bristow",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "J Crain",
+      "role": "Panellist",
+      "organisation": "IBM (United Kingdom)"
+    },
+    {
+      "name": "H Finch",
+      "role": "Panellist",
+      "organisation": "Manufacturing Technology Centre (United Kingdom)"
+    },
+    {
+      "name": "N Race",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-12-02",
+  "meeting_end": "2025-12-02"
+}

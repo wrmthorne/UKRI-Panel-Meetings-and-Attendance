@@ -1,0 +1,76 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN997",
+  "meeting_name": "OPP 298 - EPSRC Mathematical Sciences Prioritisation Panel Feb 2024 - OTG",
+  "meeting_convenor": "B McGregor",
+  "applications": [
+    {
+      "application_id": "APP23271",
+      "outcome": "Deferred",
+      "rank": "0",
+      "rank_group": "Unranked",
+      "opportunity_number": "298",
+      "opportunity": "EPSRC overseas travel grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "A Kyprianou",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "C Bleak",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "R Bowness",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "D Cheraghi",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "J Davenport",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "F Diamond",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "P Fearnhead",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "A Hone",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "T Kelly",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "M Wang",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "D Yurchenko",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-02",
+  "meeting_end": "2025-04-02"
+}

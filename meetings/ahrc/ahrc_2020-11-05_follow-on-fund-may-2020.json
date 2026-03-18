@@ -1,0 +1,84 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-540689159",
+  "meeting_name": "Follow on Fund - May 2020",
+  "applications": [
+    {
+      "application_id": "AH/V001183/1",
+      "route": "Standard",
+      "lead_applicant": "Mathew Adkins",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Gerhard Revealed",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T012250/1",
+      "route": "Standard",
+      "lead_applicant": "Ben Harker",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "The University of Manchester",
+      "title": "Confronting alienation: bringing theatre to 'areas of low cultural engagement'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013532/1",
+      "route": "Standard",
+      "lead_applicant": "George Revill",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The Open University",
+      "title": "Sounding Out Wells: sonic postcards for heritage and environmental engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008601/1",
+      "route": "Standard",
+      "lead_applicant": "Catherine Stones",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leeds",
+      "title": "'Use 123 to get Germ Free': Extending the Reach and Impact of a Hand Hygiene Intervention",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001329/1",
+      "route": "Standard",
+      "lead_applicant": "Ian Grosvenor",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Birmingham",
+      "title": "The First World War and its Legacy 2020 and Beyond: Community, Collaboration and Conflict",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013109/1",
+      "score": "4",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Chair"
+    },
+    {
+      "name": "Martin Halvey",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Mihaela Ligia Kelemen",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-11-05",
+  "meeting_end": "2020-11-05"
+}

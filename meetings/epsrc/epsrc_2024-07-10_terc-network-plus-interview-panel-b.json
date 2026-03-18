@@ -1,0 +1,151 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN754",
+  "meeting_name": "TERC Network Plus Interview Panel B",
+  "meeting_convenor": "S Crook",
+  "applications": [
+    {
+      "application_id": "APP39397",
+      "title": "The Digital Design Network plus: designing faster and better with less (D2N+)",
+      "lead_organisation": "Queen's University Belfast",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1798747.69",
+      "award_id": "UKRI394",
+      "opportunity_number": "535",
+      "lead_applicant": "T Robinson",
+      "link": "https://gtr.ukri.org/projects?ref=394",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP44076",
+      "title": "UK Open Multimodal AI Network (UKOMAIN)",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1820258.99",
+      "award_id": "UKRI396",
+      "opportunity_number": "535",
+      "lead_applicant": "H Lu",
+      "link": "https://gtr.ukri.org/projects?ref=396",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP44928",
+      "title": "Noise Network Plus: Engineering a Quieter Future",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "1830879.24",
+      "award_id": "UKRI397",
+      "opportunity_number": "535",
+      "lead_applicant": "M Plumbley",
+      "link": "https://gtr.ukri.org/projects?ref=397",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP45950",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP46308",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP47061",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP47632",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48199",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48968",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP49358",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "535",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "J Quinta da Fonseca",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "J Allwood",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "N Aouf",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "M Ball",
+      "role": "Panellist",
+      "organisation": "Thales (United Kingdom)"
+    },
+    {
+      "name": "J Bowles",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "J Deng",
+      "role": "Panellist",
+      "organisation": "Leeds Beckett University"
+    },
+    {
+      "name": "S Dudley",
+      "role": "Panellist",
+      "organisation": "London South Bank University"
+    },
+    {
+      "name": "C Eckert",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "F Lam",
+      "role": "Panellist",
+      "organisation": "ARUP"
+    },
+    {
+      "name": "R Trask",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-10",
+  "meeting_end": "2024-07-10"
+}

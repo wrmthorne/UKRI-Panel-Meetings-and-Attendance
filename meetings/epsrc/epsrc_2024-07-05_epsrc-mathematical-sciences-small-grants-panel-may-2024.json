@@ -1,0 +1,260 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN401",
+  "meeting_name": "EPSRC Mathematical Sciences Small Grants Panel May 2024",
+  "meeting_convenor": "C Ammatmanee",
+  "applications": [
+    {
+      "application_id": "APP28148",
+      "title": "Approaching the Birch and Swinnerton-Dyer conjecture by counting adelic points",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "67354.15",
+      "award_id": "UKRI071",
+      "opportunity_number": "393",
+      "lead_applicant": "C Wuthrich",
+      "link": "https://gtr.ukri.org/projects?ref=071",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28315",
+      "title": "Mathematical Tools for Practical Quantum Imaging Protocols",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "86153.68",
+      "award_id": "UKRI069",
+      "opportunity_number": "393",
+      "lead_applicant": "P Kok",
+      "link": "https://gtr.ukri.org/projects?ref=069",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28614",
+      "title": "Multi-dimensional, Multi-soliton Patch Interactions",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "75432.68",
+      "award_id": "UKRI070",
+      "opportunity_number": "393",
+      "lead_applicant": "M Turner",
+      "link": "https://gtr.ukri.org/projects?ref=070",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP29916",
+      "title": "Rapid mixing for compact group extensions",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "79466.22",
+      "award_id": "UKRI067",
+      "opportunity_number": "393",
+      "lead_applicant": "M Pollicott",
+      "link": "https://gtr.ukri.org/projects?ref=067",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30491",
+      "title": "Berry-Esseen bounds for the stable central limit theorem by Stein's method",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "55055.07",
+      "award_id": "UKRI068",
+      "opportunity_number": "393",
+      "lead_applicant": "R Gaunt",
+      "link": "https://gtr.ukri.org/projects?ref=068",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27252",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27346",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP33136",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP33964",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP34686",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28129",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28371",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28752",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP29738",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30356",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP33798",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27331",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30122",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP30294",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "J Forster",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "A Corti",
+      "role": "Deputy chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "J Andrade",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "O Castro Alvaredo",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "S Chandler-Wilde",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "C Dunlop",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "G Garkusha",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "A Georgakopoulos",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "T Heaton",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "N Janson",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "A Letchford",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "O Maleva",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "J Vanneste",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-05",
+  "meeting_end": "2024-07-05"
+}

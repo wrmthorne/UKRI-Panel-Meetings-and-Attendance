@@ -2073,13 +2073,11 @@
     },
     {
       "name": "Member",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "20RM3: Committee B",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Elizabeth Baggs",
@@ -2103,8 +2101,7 @@
     },
     {
       "name": "Benitez-Alfonso Yoselin",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Mike Blatt",
@@ -2178,8 +2175,7 @@
     },
     {
       "name": "20RM3: Committee C",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Richard Emes",
@@ -2283,8 +2279,7 @@
     },
     {
       "name": "20RM3: Committee D",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Claire Eyers",
@@ -2368,8 +2363,7 @@
     },
     {
       "name": "Carolyn Birkbeck College Moores",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     },
     {
       "name": "Daniel Mulvihill",
@@ -2408,8 +2402,7 @@
     },
     {
       "name": "Member",
-      "role": "Member",
-      "organisation": ""
+      "role": "Member"
     }
   ],
   "membership_source_files": [

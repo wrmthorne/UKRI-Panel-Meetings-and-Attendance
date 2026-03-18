@@ -1,0 +1,179 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-998740231",
+  "meeting_name": "Follow on Funding Sep 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y001877/1",
+      "route": "Standard",
+      "lead_applicant": "Lucy Jane Frith",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "The University of Manchester",
+      "title": "Working with hospital-based staff wellbeing professionals to address moral distress and moral injury amongst healthcare staff",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y002946/1",
+      "route": "Standard",
+      "lead_applicant": "Ed McKeon",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Science Museum Group",
+      "title": "Musical Affordances and Counterfactuals",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003748/1",
+      "route": "Standard",
+      "lead_applicant": "Aaron Williamon",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Royal College of Music",
+      "title": "HEartS Follow On: Enhancing the Future of Creative Health and the Health of Creative Professionals",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y004302/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Kerrie Shaughnessy",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Kent",
+      "title": "Playing Apart online",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005023/1",
+      "route": "Standard",
+      "lead_applicant": "Jacqueline Michelle Willson",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Leeds",
+      "title": "Self-worth as a community asset: co-authoring and extending burlesque's protected and deregulated spaces as good practice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y004760/1",
+      "route": "Standard",
+      "lead_applicant": "Kirrily Pells",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University College London",
+      "title": "Nkwihoreze: Intergenerational Creative Arts and Healing in Rwanda",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y004256/1",
+      "route": "Standard",
+      "lead_applicant": "Tom Fitzpatrick Wright",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Sussex",
+      "title": "Challenging Oracy and Citizenship Myths",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001885/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00535X/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003667/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004647/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005058/1",
+      "score": "5",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005031/1",
+      "score": "5",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00454X/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005333/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004191/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001796/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00311X/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003713/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Chante St Clair Inglis",
+      "organisation": "The Royal College of Surgeons of Edin",
+      "role": "Chair"
+    },
+    {
+      "name": "Kyungeun Sung",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Manuella Ruth Blackburn",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Sean Cunningham",
+      "organisation": "The National Archives",
+      "role": "Member"
+    },
+    {
+      "name": "Ting Xu",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-12-09",
+  "meeting_end": "2023-12-09"
+}

@@ -1,0 +1,19 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN441",
+  "meeting_name": "EPSRC; ICT Open Plus Fellowship Interview Panel 2024",
+  "meeting_convenor": "M Crabbe-Mann",
+  "applications": [
+    {
+      "application_id": "APP18153",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "opportunity_number": "140",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-11-06",
+  "meeting_end": "2024-11-06"
+}

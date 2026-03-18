@@ -6,16 +6,10 @@
   "applications": [
     {
       "application_id": "APP17393",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "142",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC network grant, May 2023: responsive mode"
     }
   ],
@@ -92,8 +86,7 @@
     },
     {
       "name": "C Zarges",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "F Zheng",

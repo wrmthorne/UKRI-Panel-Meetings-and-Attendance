@@ -1,0 +1,161 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-980739614",
+  "meeting_name": "AHRC FIC UK US DS 05/09/2023",
+  "applications": [
+    {
+      "application_id": "AH/Y00602X/1",
+      "route": "Standard",
+      "lead_applicant": "David Francis Stirrup",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of York",
+      "title": "Indigenous Knowledges: a Digital Residency Exchange and Best Practices Pilot",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y006054/1",
+      "route": "Standard",
+      "lead_applicant": "Atau Tanaka",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Hybrid Venue: From Network Audio to Future Gigs",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y006038/1",
+      "route": "Standard",
+      "lead_applicant": "Andrea Wallace",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Exeter",
+      "title": "Grassroots & Ground Up Open GLAM: Building more sustainable networks, pathways and infrastructures to open GLAM participation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y006100/1",
+      "route": "Standard",
+      "lead_applicant": "Haida Liang",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Follow on to \"From Lima to Canton and Beyond: An AI-aided heritage materials research platform for studying globalisation through art\"",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y006011/1",
+      "route": "Standard",
+      "lead_applicant": "Kevin Page",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Oxford",
+      "title": "Enriching Exhibition Stories: Adding Voices to Quire",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005996/1",
+      "route": "Standard",
+      "lead_applicant": "Alison Freeland Eardley",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Westminster",
+      "title": "Developing W-ICAD as a means of enhancing equity, diversity and inclusion within museum digital audio interpretation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y006070/1",
+      "route": "Standard",
+      "lead_applicant": "Meha Priyadarshini",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Connecting Threads: Digitally Connecting Collections, Expanding Public Engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y00597X/1",
+      "route": "Standard",
+      "lead_applicant": "Stefania Stefania Merlo",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Cambridge",
+      "title": "Reframing the African past:using museum collections and digital storytelling to increase accessibility for and participation by low-resource audiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y006046/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005937/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y006062/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y006097/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005953/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005899/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005961/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005945/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Olatunji Ogunyemi",
+      "organisation": "Museum of London Archaeology",
+      "role": "Chair"
+    },
+    {
+      "name": "Esperanza Miyake",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Richard Dryburgh",
+      "organisation": "The National Archives",
+      "role": "Member"
+    },
+    {
+      "name": "Jane Winters",
+      "organisation": "University of London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-05-09",
+  "meeting_end": "2023-05-09"
+}

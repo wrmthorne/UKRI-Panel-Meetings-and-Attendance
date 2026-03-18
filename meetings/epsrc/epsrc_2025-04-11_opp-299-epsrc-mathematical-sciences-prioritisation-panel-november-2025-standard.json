@@ -1,0 +1,215 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1583",
+  "meeting_name": "OPP 299 - EPSRC Mathematical Sciences Prioritisation Panel November 2025 - Standard",
+  "meeting_convenor": "B Scott",
+  "applications": [
+    {
+      "application_id": "APP66151",
+      "title": "Quantitative theory for geometric variational problems",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "646174.45",
+      "award_id": "UKRI3754",
+      "opportunity_number": "299",
+      "lead_applicant": "M Rupflin",
+      "link": "https://gtr.ukri.org/projects?ref=3754",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP57502",
+      "title": "The Critical 2d Stochastic Heat Flow : properties and universality",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "557001.81",
+      "award_id": "UKRI3700",
+      "opportunity_number": "299",
+      "lead_applicant": "N Zygouras",
+      "link": "https://gtr.ukri.org/projects?ref=3700",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP54891",
+      "title": "LMS-Sheffield Symposia",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "726793.76",
+      "award_id": "UKRI3699",
+      "opportunity_number": "299",
+      "lead_applicant": "H Sengun",
+      "link": "https://gtr.ukri.org/projects?ref=3699",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP72416",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP66229",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP67049",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30900",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP40666",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP70754",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP42151",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP54801",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP57698",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP64440",
+      "outcome": "Unsuccessful",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP59088",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP66059",
+      "outcome": "Unsuccessful",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP67241",
+      "outcome": "Unsuccessful",
+      "rank": "17",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP78973",
+      "outcome": "Unsuccessful",
+      "rank": "18",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP50152",
+      "outcome": "Unsuccessful",
+      "rank": "19",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP44190",
+      "outcome": "Unsuccessful",
+      "rank": "20",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP44257",
+      "outcome": "Unsuccessful",
+      "rank": "21",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP54734",
+      "outcome": "Unsuccessful",
+      "rank": "22",
+      "rank_group": "Ranked",
+      "awarded_amount": "9",
+      "opportunity_number": "299",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-11",
+  "meeting_end": "2025-04-11"
+}

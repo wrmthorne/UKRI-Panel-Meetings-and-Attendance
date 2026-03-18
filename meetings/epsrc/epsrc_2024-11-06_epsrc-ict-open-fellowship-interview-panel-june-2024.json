@@ -1,0 +1,91 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN440",
+  "meeting_name": "EPSRC: ICT- OPEN FELLOWSHIP INTERVIEW PANEL JUNE 2024",
+  "meeting_convenor": "M Crabbe-Mann",
+  "applications": [
+    {
+      "application_id": "APP5541",
+      "title": "HearFit: Hearable Sensing Systems and Machine Learning for Health and Fitness",
+      "lead_organisation": "University of Cambridge",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2058428.99",
+      "award_id": "EP/Z53447X/1",
+      "opportunity_number": "139",
+      "lead_applicant": "C Mascolo",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ53447X%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP7748",
+      "title": "Programmable and Robust Optical frequency combs to empower Stability and Precision for sEnsing and Communication Technologies (PROSPECT)",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1594030.06",
+      "award_id": "EP/Z534444/1",
+      "opportunity_number": "139",
+      "lead_applicant": "Z Liu",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534444%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP14403",
+      "title": "Learned Quantitative Stochastic Imaging",
+      "lead_organisation": "Heriot-Watt University",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1506530.61",
+      "award_id": "EP/Z534481/1",
+      "opportunity_number": "139",
+      "lead_applicant": "M Pereyra",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534481%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP6853",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "opportunity_number": "139",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP15583",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "opportunity_number": "139",
+      "opportunity": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Martini",
+      "role": "Chair",
+      "organisation": "Kingston University"
+    },
+    {
+      "name": "M Chen",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "G Cosma",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "A Kaban",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-11-06",
+  "meeting_end": "2024-11-06"
+}

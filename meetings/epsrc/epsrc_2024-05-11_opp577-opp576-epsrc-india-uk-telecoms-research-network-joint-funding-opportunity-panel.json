@@ -1,0 +1,580 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN820",
+  "meeting_name": "OPP577, OPP576: EPSRC India-UK Telecoms Research & Network Joint Funding Opportunity Panel",
+  "meeting_convenor": "E Hims",
+  "applications": [
+    {
+      "application_id": "APP51387",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "576",
+      "opportunity": "EPSRC UK-India Network Closed Funding Opportunity"
+    },
+    {
+      "application_id": "APP50917",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP50950",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP51003",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP52637",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP52726",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP52944",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP53137",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP53471",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP53576",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP53695",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP53965",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54141",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54166",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54218",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54366",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54388",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54409",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54729",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54868",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54880",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP54959",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55025",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55096",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55121",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55159",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55211",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55225",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55273",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55344",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55346",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55387",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55484",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55490",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55510",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55603",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55617",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55796",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55865",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55919",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP55946",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56033",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56034",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56157",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56163",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56168",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56250",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56294",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56321",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56368",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56403",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56488",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56508",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56530",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56569",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56626",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56629",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56670",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    },
+    {
+      "application_id": "APP56770",
+      "outcome": "Pending",
+      "rank_group": "Unranked",
+      "opportunity_number": "577",
+      "opportunity": "EPSRC UK - India open funding opportunity in telecoms"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "U Ani",
+      "role": "Chair",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "P Wong",
+      "role": "Deputy chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "M Abdel-Maguid",
+      "role": "Panellist",
+      "organisation": "Canterbury Christ Church University"
+    },
+    {
+      "name": "A Anjum",
+      "role": "Panellist",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "A Brucker",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "S Bu",
+      "role": "Panellist",
+      "organisation": "Brock University"
+    },
+    {
+      "name": "D Budimir",
+      "role": "Panellist",
+      "organisation": "University of Westminster"
+    },
+    {
+      "name": "W Chai",
+      "role": "Panellist",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "H Chizari",
+      "role": "Panellist",
+      "organisation": "University of Gloucestershire"
+    },
+    {
+      "name": "J Cunningham",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "M El-Hajjar",
+      "role": "Panellist"
+    },
+    {
+      "name": "A Ellis",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "S Gu",
+      "role": "Panellist",
+      "organisation": "Bristol University"
+    },
+    {
+      "name": "P Harvey",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "E Ilbiz",
+      "role": "Panellist",
+      "organisation": "University of South Wales"
+    },
+    {
+      "name": "A Jindal",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "P Karadimas",
+      "role": "Panellist",
+      "organisation": "Edinburgh Napier University"
+    },
+    {
+      "name": "S Ki Yoo",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "S Lakshminarayana",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Z Luo",
+      "role": "Panellist",
+      "organisation": "Royal Holloway, University of London"
+    },
+    {
+      "name": "E Lupu",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "A Marshall",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "G Oguntala",
+      "role": "Panellist",
+      "organisation": "Birmingham City University"
+    },
+    {
+      "name": "S Phang",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "W Popoola",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "B Pranggono",
+      "role": "Panellist",
+      "organisation": "Anglia Ruskin University"
+    },
+    {
+      "name": "S Rajbhandari",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Y Shaikh",
+      "role": "Panellist",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "I White",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "T Xu",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "A Zisman",
+      "role": "Panellist",
+      "organisation": "The Open University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-05-11",
+  "meeting_end": "2024-05-11"
+}

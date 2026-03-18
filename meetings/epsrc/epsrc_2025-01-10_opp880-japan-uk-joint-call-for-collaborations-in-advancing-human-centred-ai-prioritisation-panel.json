@@ -1,0 +1,493 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1479",
+  "meeting_name": "OPP880: Japan-UK joint call for collaborations in Advancing Human-Centred AI Prioritisation Panel",
+  "meeting_convenor": "E Bent",
+  "applications": [
+    {
+      "application_id": "APP76800",
+      "title": "Statistical Safeguarding: A Japan-UK Collaboration Towards the Responsible Data-driven Learning Paradigm",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1611521.3",
+      "award_id": "UKRI3926",
+      "opportunity_number": "880",
+      "lead_applicant": "W Xu",
+      "link": "https://gtr.ukri.org/projects?ref=3926",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79693",
+      "title": "CHARISM: Japan-UK Centre for Human-Oriented AI and Robotics in Inclusive and Sustainable Manufacturing",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1607879.99",
+      "award_id": "UKRI3929",
+      "opportunity_number": "880",
+      "lead_applicant": "N Lohse",
+      "link": "https://gtr.ukri.org/projects?ref=3929",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP77845",
+      "title": "Neuro-Symbolic Debates for Safeguarded Generative AI (NeSyDebates)",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1612586.73",
+      "award_id": "UKRI3928",
+      "opportunity_number": "880",
+      "lead_applicant": "F Toni",
+      "link": "https://gtr.ukri.org/projects?ref=3928",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78083",
+      "title": "Understanding Multilingual Communication Spaces (UMCS):  Real-Time Translation and Learning Across Signed and Spoken Languages",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "1618313.87",
+      "award_id": "UKRI3927",
+      "opportunity_number": "880",
+      "lead_applicant": "R Bowden",
+      "link": "https://gtr.ukri.org/projects?ref=3927",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP77279",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79066",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78381",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80939",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80892",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80358",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80727",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP77195",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP76367",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP75713",
+      "outcome": "Unsuccessful",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78851",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78448",
+      "outcome": "Unsuccessful",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80975",
+      "outcome": "Unsuccessful",
+      "rank": "17",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80961",
+      "outcome": "Unsuccessful",
+      "rank": "18",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80372",
+      "outcome": "Unsuccessful",
+      "rank": "19",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP81094",
+      "outcome": "Unsuccessful",
+      "rank": "20",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79277",
+      "outcome": "Unsuccessful",
+      "rank": "21",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78113",
+      "outcome": "Unsuccessful",
+      "rank": "22",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80670",
+      "outcome": "Unsuccessful",
+      "rank": "23",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79839",
+      "outcome": "Unsuccessful",
+      "rank": "24",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79810",
+      "outcome": "Unsuccessful",
+      "rank": "25",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP77468",
+      "outcome": "Unsuccessful",
+      "rank": "26",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78338",
+      "outcome": "Unsuccessful",
+      "rank": "27",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78939",
+      "outcome": "Unsuccessful",
+      "rank": "28",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79723",
+      "outcome": "Unsuccessful",
+      "rank": "29",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80360",
+      "outcome": "Unsuccessful",
+      "rank": "30",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79200",
+      "outcome": "Unsuccessful",
+      "rank": "31",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80410",
+      "outcome": "Unsuccessful",
+      "rank": "32",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79617",
+      "outcome": "Unsuccessful",
+      "rank": "33",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP78218",
+      "outcome": "Unsuccessful",
+      "rank": "34",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79112",
+      "outcome": "Unsuccessful",
+      "rank": "35",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP76618",
+      "outcome": "Unsuccessful",
+      "rank": "36",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80062",
+      "outcome": "Unsuccessful",
+      "rank": "37",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79089",
+      "outcome": "Unsuccessful",
+      "rank": "38",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP75859",
+      "outcome": "Unsuccessful",
+      "rank": "39",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP77052",
+      "outcome": "Unsuccessful",
+      "rank": "40",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP81341",
+      "outcome": "Unsuccessful",
+      "rank": "41",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80647",
+      "outcome": "Unsuccessful",
+      "rank": "42",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP79978",
+      "outcome": "Unsuccessful",
+      "rank": "43",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP81349",
+      "outcome": "Unsuccessful",
+      "rank": "44",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP81387",
+      "outcome": "Unsuccessful",
+      "rank": "45",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP80336",
+      "outcome": "Unsuccessful",
+      "rank": "46",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    },
+    {
+      "application_id": "APP81215",
+      "outcome": "Unsuccessful",
+      "rank": "47",
+      "rank_group": "Ranked",
+      "opportunity_number": "880",
+      "opportunity": "Japan-UK joint call for collaborations in advancing human-centred AI"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "L Soldatova",
+      "role": "Chair",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Y Yagi",
+      "role": "Deputy chair",
+      "organisation": "Osaka University"
+    },
+    {
+      "name": "N Babaguchi",
+      "role": "Panellist",
+      "organisation": "Fukui University of Technology"
+    },
+    {
+      "name": "M Corpas",
+      "role": "Panellist",
+      "organisation": "University of Westminster"
+    },
+    {
+      "name": "H Cuayahuitl",
+      "role": "Panellist",
+      "organisation": "University of Lincoln"
+    },
+    {
+      "name": "D Gooch",
+      "role": "Panellist",
+      "organisation": "The Open University"
+    },
+    {
+      "name": "K Kato",
+      "role": "Panellist",
+      "organisation": "University of Tsukuba"
+    },
+    {
+      "name": "I Kucuckdemiral",
+      "role": "Panellist",
+      "organisation": "Glasgow Caledonian University"
+    },
+    {
+      "name": "E Maeda",
+      "role": "Panellist",
+      "organisation": "Tokyo Denki University"
+    },
+    {
+      "name": "T Matsui",
+      "role": "Panellist",
+      "organisation": "The Institute of Statistical Mathematics"
+    },
+    {
+      "name": "M Minoh",
+      "role": "Panellist",
+      "organisation": "Kyoto University"
+    },
+    {
+      "name": "Y Sato",
+      "role": "Panellist",
+      "organisation": "Nara Institute of Science and Technology"
+    },
+    {
+      "name": "A Suglia",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "A Villavicencio",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "G Webster",
+      "role": "Panellist",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Y Zheng",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-10",
+  "meeting_end": "2025-01-10"
+}

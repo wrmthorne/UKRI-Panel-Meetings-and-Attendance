@@ -6,30 +6,18 @@
   "applications": [
     {
       "application_id": "APP11737",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "141",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC post doctoral fellowship, May 2023"
     },
     {
       "application_id": "APP12101",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "2",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "141",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC post doctoral fellowship, May 2023"
     }
   ],
@@ -46,8 +34,7 @@
     },
     {
       "name": "M Mamlouk",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "M Mazzera",

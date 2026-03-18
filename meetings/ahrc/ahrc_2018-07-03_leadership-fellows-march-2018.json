@@ -1,0 +1,201 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-307263023",
+  "meeting_name": "Leadership Fellows - March 2018",
+  "applications": [
+    {
+      "application_id": "AH/R00773X/1",
+      "route": "Early Career",
+      "lead_applicant": "Lise Jaillant",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Loughborough University",
+      "title": "Survival of the Weakest: Preserving and Analysing Born-Digital Records to Understand How Small Poetry Publishers Survive in the Global Marketplace",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R010943/1",
+      "route": "Early Career",
+      "lead_applicant": "Katherine Louise McDonald",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Exeter",
+      "title": "Connectivity and competition: multilingualism in Ancient Italy 800-200 BC",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R007780/1",
+      "route": "Early Career",
+      "lead_applicant": "Donna McCormack",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Surrey",
+      "title": "Transplant Imaginaries: Haunted Times, Segregated Spaces and Embodied Ethics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013128/1",
+      "route": "Early Career",
+      "lead_applicant": "Chloe Ward",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "From Protest to Propaganda: A History of Activist Art in Britain, 1845-1918",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R007616/1",
+      "route": "Early Career",
+      "lead_applicant": "Charlotte Gleghorn",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The Politics of Authorship in Latin American Indigenous Filmmaking",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013691/1",
+      "route": "Standard",
+      "lead_applicant": "Charlotte Hempel",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Birmingham",
+      "title": "Ezra's Legacy and the Dead Sea Scrolls: Law and Narratives of Exclusion",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R007438/1",
+      "route": "Early Career",
+      "lead_applicant": "Nadine Muller",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "War Widows' Stories",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R006873/1",
+      "score": "4",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008361/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R010773/1",
+      "score": "4",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014515/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R006903/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014884/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008469/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R006253/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013454/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013896/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R012946/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013276/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013012/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008248/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Martin Johnes",
+      "organisation": "Brunel University London",
+      "role": "Chair"
+    },
+    {
+      "name": "Alan O'Leary",
+      "organisation": "Aarhus University",
+      "role": "Member"
+    },
+    {
+      "name": "Elizabeth Jane Tomlin",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Fraser MacBride",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "John H Gillespie",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Keith Mark Johnston",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Maiken Umbach",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-07-03",
+  "meeting_end": "2018-07-03"
+}

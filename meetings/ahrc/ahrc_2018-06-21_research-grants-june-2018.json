@@ -77,12 +77,8 @@
     },
     {
       "application_id": "AH/S001425/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "5",
       "rank": "8",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
@@ -97,22 +93,14 @@
     },
     {
       "application_id": "AH/S001875/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "5",
       "rank": "10",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S001573/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "11",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
@@ -127,102 +115,58 @@
     },
     {
       "application_id": "AH/S002588/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "13",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S001336/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "14",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/R014841/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "15",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/R008299/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "16",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S002103/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "17",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S002529/1",
-      "route": "Not Disclosed",
-      "lead_applicant": "",
       "score": "4",
       "rank": "18",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S000445/1",
-      "route": "",
-      "lead_applicant": "",
       "score": "3",
-      "rank": "",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S001018/1",
-      "route": "",
-      "lead_applicant": "",
       "score": "3",
-      "rank": "",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S001638/1",
-      "route": "",
-      "lead_applicant": "",
       "score": "3",
-      "rank": "",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     },
     {
       "application_id": "AH/S002057/1",
-      "route": "",
-      "lead_applicant": "",
       "score": "3",
-      "rank": "",
-      "lead_organisation": "",
-      "title": "",
       "outcome": "Unsuccessful"
     }
   ],

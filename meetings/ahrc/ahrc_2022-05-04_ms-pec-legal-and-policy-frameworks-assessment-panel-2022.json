@@ -1,0 +1,191 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-779119757",
+  "meeting_name": "MS PEC Legal and policy frameworks Assessment Panel 2022",
+  "applications": [
+    {
+      "application_id": "AH/X000796/1",
+      "route": "Standard",
+      "lead_applicant": "Timothy Masiko",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Nottingham",
+      "title": "Harnessing UK trade and investment to address Indo-Pacific modern slavery risks",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001180/1",
+      "route": "Standard",
+      "lead_applicant": "Anita Anita Franklin",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Portsmouth",
+      "title": "Internal trafficking and exploitation of children and young people with special educational needs and disabilities (SEND) within England and Wales.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00094X/1",
+      "score": "5",
+      "rank": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000702/1",
+      "route": "Standard",
+      "lead_applicant": "T Sanders",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leicester",
+      "title": "Prevention of Modern Slavery within Sex Work: the role of Adult Services Websites",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001202/1",
+      "route": "Standard",
+      "lead_applicant": "Inga Thiemann",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Exeter",
+      "title": "Access to protection, enforcement & redress? Effects of visas for agriculture & care on migrant workers' vulnerabilities in the UK workforce",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001091/1",
+      "route": "Standard",
+      "lead_applicant": "Marija Marija Jovanovic",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Essex",
+      "title": "Survivors of Modern Slavery in Prisons: The Blind Spot of the UK Anti-Slavery Regime",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001024/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001172/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000788/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001113/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001075/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000656/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000915/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001032/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001008/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000982/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001210/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001229/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000877/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001067/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001121/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001148/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Sam Scott",
+      "organisation": "Royal Conservatoire of Scotland",
+      "role": "Chair"
+    },
+    {
+      "name": "Gary Gary Craig",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Ryszard Wilson Piotrowicz",
+      "organisation": "Aberystwyth University",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Timothy Green",
+      "organisation": "University of Hull",
+      "role": "Member"
+    },
+    {
+      "name": "Sonia Morano-Foadi",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Sylvia Walby",
+      "organisation": "University of Salford",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-05-04",
+  "meeting_end": "2022-05-04"
+}

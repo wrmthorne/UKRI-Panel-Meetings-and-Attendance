@@ -5,101 +5,68 @@
   "applications": [
     {
       "application_id": "AH/Y001885/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "8"
     },
     {
       "application_id": "AH/Y00535X/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "9"
     },
     {
       "application_id": "AH/Y003667/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "10"
     },
     {
       "application_id": "AH/Y004647/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "11"
     },
     {
       "application_id": "AH/Y005058/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "12"
     },
     {
       "application_id": "AH/Y005031/1",
-      "title": "",
       "score": "5",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "13"
     },
     {
       "application_id": "AH/Y00454X/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "14"
     },
     {
       "application_id": "AH/Y005333/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "15"
     },
     {
       "application_id": "AH/Y004191/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "16"
     },
     {
       "application_id": "AH/Y001796/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "17"
     },
     {
       "application_id": "AH/Y00311X/1",
-      "title": "",
       "score": "4",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "18"
     },
     {
@@ -167,12 +134,8 @@
     },
     {
       "application_id": "AH/Y003713/1",
-      "title": "",
       "score": "3",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     }
   ],
   "panellists": [

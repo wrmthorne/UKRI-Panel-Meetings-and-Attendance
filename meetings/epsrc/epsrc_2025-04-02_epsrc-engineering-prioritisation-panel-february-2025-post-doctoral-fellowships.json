@@ -1,0 +1,19 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN856",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel February 2025 – Post-Doctoral Fellowships",
+  "meeting_convenor": "H Minter",
+  "applications": [
+    {
+      "application_id": "APP27180",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-02",
+  "meeting_end": "2025-04-02"
+}

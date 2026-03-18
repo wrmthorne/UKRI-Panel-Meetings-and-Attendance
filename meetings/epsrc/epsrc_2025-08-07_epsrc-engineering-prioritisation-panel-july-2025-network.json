@@ -1,0 +1,18 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1305",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel July 2025 - Network",
+  "meeting_convenor": "A Seweryn",
+  "applications": [
+    {
+      "application_id": "APP28651",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "284",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-08-07",
+  "meeting_end": "2025-08-07"
+}

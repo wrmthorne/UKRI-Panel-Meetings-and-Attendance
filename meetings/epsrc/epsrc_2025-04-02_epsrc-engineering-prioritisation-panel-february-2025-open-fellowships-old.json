@@ -1,0 +1,19 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN954",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel February 2025 – Open Fellowships (Old)",
+  "meeting_convenor": "H Minter",
+  "applications": [
+    {
+      "application_id": "APP7913",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "opportunity_number": "139",
+      "opportunity": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-02",
+  "meeting_end": "2025-04-02"
+}

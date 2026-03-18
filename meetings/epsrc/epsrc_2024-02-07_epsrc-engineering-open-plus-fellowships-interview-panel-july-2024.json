@@ -1,0 +1,55 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN466",
+  "meeting_name": "EPSRC Engineering Open Plus Fellowships Interview Panel - July 2024",
+  "meeting_convenor": "M Calderon Munoz",
+  "applications": [
+    {
+      "application_id": "APP5874",
+      "title": "Digital twinning of next-generation massive-scale offshore metal wind support structures",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1957940.46",
+      "award_id": "EP/Z533622/1",
+      "opportunity_number": "140",
+      "lead_applicant": "A Sadowski",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533622%2F1",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13659",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "140",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "L Marucci",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "D Coca",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "P Kumar",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "S Tait",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-02-07",
+  "meeting_end": "2024-02-07"
+}

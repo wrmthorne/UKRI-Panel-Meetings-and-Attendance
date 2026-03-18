@@ -6,16 +6,10 @@
   "applications": [
     {
       "application_id": "APP27239",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "284",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC network grant, November 2023: responsive mode"
     }
   ],
@@ -82,8 +76,7 @@
     },
     {
       "name": "P Scarfe",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "D Stamate",

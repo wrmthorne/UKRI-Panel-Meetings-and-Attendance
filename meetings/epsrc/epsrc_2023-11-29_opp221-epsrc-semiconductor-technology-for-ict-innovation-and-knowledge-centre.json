@@ -34,119 +34,77 @@
     },
     {
       "application_id": "APP11786",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "3",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "221",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
     },
     {
       "application_id": "APP11821",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "4",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "221",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
     },
     {
       "application_id": "APP13503",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "5",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "221",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
     },
     {
       "application_id": "APP14302",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "6",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "221",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
     },
     {
       "application_id": "APP16882",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "7",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "221",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
     },
     {
       "application_id": "APP13138",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "8",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "221",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
     }
   ],
   "panellists": [
     {
       "name": "G Parr",
-      "role": "Chair",
-      "organisation": ""
+      "role": "Chair"
     },
     {
       "name": "R Hardeman",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "M Hinton",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "P Parbrook",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "Ö Simsek",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "R Webb",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     }
   ],
   "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",

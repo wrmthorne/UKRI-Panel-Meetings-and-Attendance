@@ -6,30 +6,18 @@
   "applications": [
     {
       "application_id": "APP26823",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "1",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "320",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
     },
     {
       "application_id": "APP23442",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
       "rank": "2",
       "rank_group": "Ranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "320",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
     }
   ],
@@ -41,8 +29,7 @@
     },
     {
       "name": "C Brace",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "J Coupland",
@@ -71,8 +58,7 @@
     },
     {
       "name": "E Lopez Quiroga",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     },
     {
       "name": "S Lyon",

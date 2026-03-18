@@ -2,16 +2,18 @@
 
 This repository contains a best attempt at unifying funding panel meeting outcomes and panel attendance for each of the UKRI funding councils into a processable format.
 
+<!-- SUMMARY-TABLE:START -->
 | Council   | Meetings  | Applications | Successful | Panellists | With panellists | Unmatched |
 |-----------|-----------|--------------|------------|------------|-----------------|-----------|
-| AHRC      | 449       | 9,112        | 3,063      | 2,102      | 283             | 0         |
-| BBSRC     | 31        | 5,215        | 1,432      | 3,109      | 20              | 65        |
-| EPSRC     | 308       | 4,557        | 870        | 2,554      | 228             | 0         |
-| ESRC      | 158       | 4,992        | 1,434      | 395        | 10              | 9         |
-| MRC       | 324       | 7,522        | 3,063      | 339        | 16              | 0         |
-| NERC      | 153       | 7,966        | 2,342      | 3,231      | 32              | 299       |
-| STFC      | 27        | 1,145        | 283        | 0          | 0               | 0         |
-| **Total** | **1,450** | **40,509**   | **12,487** | **11,730** | **589**         | **373**   |
+| AHRC      |      449 |        9,112 |      3,063 |      2,102 |             283 |         0 |
+| BBSRC     |       31 |        5,215 |      1,432 |      3,109 |              20 |        65 |
+| EPSRC     |      308 |        4,557 |        870 |      2,554 |             228 |         0 |
+| ESRC      |      158 |        4,992 |      1,434 |        395 |              10 |         9 |
+| MRC       |      324 |        7,522 |      3,063 |        339 |              16 |         0 |
+| NERC      |      153 |        7,966 |      2,342 |      3,231 |              32 |       299 |
+| STFC      |       27 |        1,145 |        283 |          0 |               0 |         0 |
+| **Total** | **1,450** | **40,509** | **12,487** | **11,730** | **589** | **373** |
+<!-- SUMMARY-TABLE:END -->
 
 
 The data for each panel is spread across a number of locations and a wide array of document formats and layouts, making analysis across meetings and funding bodies effectively impossible. Interrogation of these meetings is crucial as they mark the actual point at which final funding decisions are made and offers the only insight, publicly available, into unfunded proposals. Without a unified and standardised representation of this data, investigations into systematic bias or the actual competitiveness of particular opportunities is not possible. While imperfect and incomplete, I hope this data allows for further research to tackle pressing questions of inequality in funding allocation under UKRI and its subsidiary councils.
@@ -38,69 +40,67 @@ When interpreting this data, UKRI make the following very clear:
 
 ## Structure
 
-Each meeting is a single JSON file. Fields vary by council and meeting type — not all fields are present in every file. The number in parentheses indicates how many files contain that field out of 1,823 total.
+<!-- STRUCTURE:START -->
+Each meeting is a single JSON file. Fields vary by council and meeting type — not all fields are present in every file. Count indicates how many files/entries contain that field out of 1,450 total.
 
 ### Meeting-level fields
 
-| Field                     | Description                                 | Count |
-|---------------------------|---------------------------------------------|-------|
-| `council`                 | Funding council (e.g. AHRC, BBSRC, EPSRC)   | 1,823 |
-| `meeting_name`            | Name of the panel meeting                   | 1,823 |
-| `source`                  | Original source file name                   | 1,823 |
-| `meeting_start`           | Start date of the meeting                   | 1,483 |
-| `meeting_end`             | End date of the meeting                     | 1,483 |
-| `meeting_reference`       | Council-specific meeting reference code     | 535   |
-| `meeting_convenor`        | Name of the meeting convenor                | 303   |
-| `meeting_location`        | Location of the meeting                     | 225   |
-| `panel_name`              | Name of the assessment panel                | 62    |
-| `panel_secretary`         | Name of the panel secretary                 | 239   |
-| `count_of_applications`   | Total number of applications considered     | 864   |
-| `count_of_awards`         | Total number of successful applications     | 864   |
-| `count_of_deferred`       | Number of deferred applications             | 1     |
-| `year`                    | Year of the meeting                         | 733   |
-| `notes`                   | Additional notes about the meeting          | 488   |
-| `membership_source_files` | Source files used for panel membership      | 52    |
-| `stage2_meeting_date`     | Date of stage 2 meeting (multi-stage calls) | 2     |
+| Field                     | Description                               | Count |
+|---------------------------|-------------------------------------------|-------|
+| `council`                 | Funding council (e.g. AHRC, BBSRC, EPSRC) | 1,450 |
+| `meeting_name`            | Name of the panel meeting                 | 1,450 |
+| `source`                  | Original source file name                 | 1,450 |
+| `meeting_start`           | Start date of the meeting                 | 1,248 |
+| `meeting_end`             | End date of the meeting                   | 1,248 |
+| `count_of_applications`   | Total number of applications considered   |   864 |
+| `count_of_awards`         | Total number of successful applications   |   864 |
+| `year`                    | Year of the meeting                       |   731 |
+| `meeting_reference`       | Council-specific meeting reference code   |   535 |
+| `notes`                   | Additional notes about the meeting        |   464 |
+| `meeting_convenor`        | Name of the meeting convenor              |   296 |
+| `membership_source_files` | Source files used for panel membership    |    52 |
+| `count_of_deferred`       | Number of deferred applications           |     1 |
 
 ### `applications[]`
 
-Each file contains an `applications` array (1,450 files). Fields per application:
+Each file contains an `applications` array (1,440 files). Fields per application:
 
-| Field                   | Description                                                    | Count  |
+| Field                   | Description                                                    |  Count |
 |-------------------------|----------------------------------------------------------------|--------|
+| `outcome`               | Funding decision (e.g. Successful, Unsuccessful)               | 40,476 |
 | `application_id`        | Grant reference number                                         | 40,439 |
-| `outcome`               | Funding decision (e.g. Successful, Unsuccessful)               | 40,477 |
-| `score`                 | Numeric score assigned by the panel                            | 26,629 |
-| `score_range`           | Score range (used by ESRC)                                     | 4,992  |
-| `rank`                  | Rank position within the meeting                               | 17,018 |
-| `rank_group`            | Rank grouping (e.g. Ranked, Reserve)                           | 4,487  |
-| `lead_applicant`        | Name of the lead applicant (successful only for some councils) | 12,339 |
-| `lead_organisation`     | Institution of the lead applicant                              | 12,370 |
-| `title`                 | Project title                                                  | 12,371 |
-| `opportunity`           | Name of the funding opportunity                                | 10,624 |
-| `opportunity_number`    | Opportunity reference number                                   | 4,487  |
-| `panel`                 | Sub-panel identifier                                           | 5,241  |
-| `route`                 | Funding route                                                  | 4,665  |
-| `award_id`              | Award reference (if funded)                                    | 4,905  |
-| `awarded_amount`        | Amount awarded                                                 | 4,487  |
-| `link`                  | Link to further details                                        | 4,888  |
-| `year`                  | Year of application                                            | 988    |
-| `type_of_application`   | Type (e.g. new submission, resubmission)                       | 70     |
-| `kaus_awarded`          | kAUs awarded (HPC allocations)                                 | 70     |
-| `child_grant_reference` | Related child grant references                                 | 15     |
-| `notes`                 | Application-specific notes                                     | 32     |
+| `score`                 | Numeric score assigned by the panel                            | 26,479 |
+| `rank`                  | Rank position within the meeting                               | 13,958 |
+| `opportunity`           | Name of the funding opportunity                                | 10,616 |
+| `panel`                 | Sub-panel identifier                                           |  5,241 |
+| `score_range`           | Score range (used by ESRC)                                     |  4,992 |
+| `rank_group`            | Rank grouping (e.g. Ranked, Reserve)                           |  4,487 |
+| `opportunity_number`    | Opportunity reference number                                   |  4,487 |
+| `title`                 | Project title                                                  |  4,023 |
+| `lead_organisation`     | Institution of the lead applicant                              |  4,022 |
+| `lead_applicant`        | Name of the lead applicant (successful only for some councils) |  3,991 |
+| `route`                 | Funding route                                                  |  1,963 |
+| `awarded_amount`        | Amount awarded                                                 |  1,646 |
+| `year`                  | Year of application                                            |    988 |
+| `link`                  | Link to further details                                        |    945 |
+| `award_id`              | Award reference (if funded)                                    |    896 |
+| `type_of_application`   | Type (e.g. new submission, resubmission)                       |     70 |
+| `kaus_awarded`          | kAUs awarded (HPC allocations)                                 |     70 |
+| `notes`                 | Application-specific notes                                     |     32 |
+| `child_grant_reference` | Related child grant references                                 |     15 |
 
 ### `panellists[]`
 
-Panel membership is included in 930 files. Fields per panellist:
+Panel membership is included in 589 files. Fields per panellist:
 
-| Field          | Description                            | Count  |
-|----------------|----------------------------------------|--------|
-| `name`         | Name of the panel member               | 11,730 |
-| `role`         | Role on the panel (e.g. Chair, Member) | 11,730 |
-| `organisation` | Organisation of the panel member       | 11,591 |
+| Field          | Description                            | Count |
+|----------------|----------------------------------------|-------|
+| `name`         | Name of the panel member               | 7,043 |
+| `role`         | Role on the panel (e.g. Chair, Member) | 6,988 |
+| `organisation` | Organisation of the panel member       | 6,793 |
 
 Unmatched panellists (where panel membership could not be reliably linked to a specific meeting) are stored separately under `meetings/bbsrc/unmatched_panellists/` and `meetings/nerc/unmatched_panellists/` using the same panellist schema.
+<!-- STRUCTURE:END -->
 
 ## Source Information and Limitations
 

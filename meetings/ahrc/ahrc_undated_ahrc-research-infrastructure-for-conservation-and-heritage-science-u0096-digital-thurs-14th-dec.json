@@ -5,11 +5,8 @@
   "applications": [
     {
       "application_id": "16860",
-      "title": "",
       "score": "7",
       "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
       "rank": "2"
     },
     {
@@ -23,12 +20,8 @@
     },
     {
       "application_id": "12456",
-      "title": "",
       "score": "2",
-      "outcome": "Unsuccessful",
-      "lead_applicant": "",
-      "lead_organisation": "",
-      "rank": ""
+      "outcome": "Unsuccessful"
     }
   ],
   "panellists": [

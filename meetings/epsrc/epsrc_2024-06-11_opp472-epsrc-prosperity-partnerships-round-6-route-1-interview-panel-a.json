@@ -1,0 +1,132 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN718",
+  "meeting_name": "OPP472: EPSRC Prosperity Partnerships round 6, route 1 interview panel A",
+  "meeting_convenor": "J Woolley",
+  "applications": [
+    {
+      "application_id": "APP43834",
+      "title": "Stabilisation of Metal Anodes for Long-life Lithium-Sulfur Batteries (SiMBa)",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "461770.32",
+      "award_id": "UKRI568",
+      "opportunity_number": "472",
+      "lead_applicant": "D Walsh",
+      "link": "https://gtr.ukri.org/projects?ref=568",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP42441",
+      "title": "Fusion Reactor Shielding Materials (FURESHMA): Understanding In-service Degradation",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1041144.97",
+      "award_id": "UKRI564",
+      "opportunity_number": "472",
+      "lead_applicant": "A Bhattacharya",
+      "link": "https://gtr.ukri.org/projects?ref=564",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP37765",
+      "title": "Engineering for Cyber Resilience: Through-Life Modelling and Analysis (ENCYRCLE)",
+      "lead_organisation": "Swansea University",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1047488.19",
+      "award_id": "UKRI561",
+      "opportunity_number": "472",
+      "lead_applicant": "S Shaikh",
+      "link": "https://gtr.ukri.org/projects?ref=561",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP40395",
+      "title": "AI-enabled High Stakes Assessment",
+      "lead_organisation": "King's College London",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "607829.12",
+      "award_id": "UKRI566",
+      "opportunity_number": "472",
+      "lead_applicant": "Y He",
+      "link": "https://gtr.ukri.org/projects?ref=566",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP43592",
+      "title": "AI^2: Assurance and Insurance for Artificial Intelligence",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "1050364.68",
+      "award_id": "UKRI567",
+      "opportunity_number": "472",
+      "lead_applicant": "L Szpruch",
+      "link": "https://gtr.ukri.org/projects?ref=567",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP41723",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP40566",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP38336",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "opportunity_number": "472",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "R Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "M Ball",
+      "role": "Panellist",
+      "organisation": "Thales (United Kingdom)"
+    },
+    {
+      "name": "M Kearney",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "B Shollock",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "J Sibson",
+      "role": "Panellist",
+      "organisation": "Babcock International Group (United Kingdom)"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-06-11",
+  "meeting_end": "2024-06-11"
+}

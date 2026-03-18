@@ -1,0 +1,93 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-734726071",
+  "meeting_name": "AI Pump Priming Sept 2021",
+  "applications": [
+    {
+      "application_id": "AH/W007681/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Sorell",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Warwick",
+      "title": "Emerging Ethical Issues for DataLakes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00769X/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew Ewart Studley",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "University of the West of England",
+      "title": "Ethical AID (Ethics in AI Development)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007673/1",
+      "route": "Standard",
+      "lead_applicant": "Kanta Dihal",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "University of Cambridge",
+      "title": "Better Images of AI: Research-Informed Diversification of Stock Imagery of Artificial Intelligence",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007630/1",
+      "route": "Standard",
+      "lead_applicant": "Jonathan Foster",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Sheffield",
+      "title": "Understanding Fairness in Data-Driven AI for Mental Health",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007649/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007738/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007754/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Tony McEnery",
+      "organisation": "Lancaster University",
+      "role": "Chair"
+    },
+    {
+      "name": "Bernd Carsten Stahl",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Johnny Golding",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Mike Wald",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Shaun William Lawson",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-08-11",
+  "meeting_end": "2021-08-11"
+}

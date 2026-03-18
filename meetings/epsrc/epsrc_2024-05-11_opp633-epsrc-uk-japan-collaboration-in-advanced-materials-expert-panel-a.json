@@ -1,0 +1,413 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN726",
+  "meeting_name": "OPP633: EPSRC UK-Japan Collaboration in Advanced Materials - Expert Panel A",
+  "meeting_convenor": "L Behrooz",
+  "applications": [
+    {
+      "application_id": "APP46272",
+      "title": "Atomistic understanding of extended defects in reduced tungsten oxide to guide the optimisation of properties for energy applications",
+      "lead_organisation": "University of York",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "315041.24",
+      "award_id": "UKRI656",
+      "opportunity_number": "633",
+      "lead_applicant": "K McKenna",
+      "link": "https://gtr.ukri.org/projects?ref=656",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47827",
+      "title": "3DAniMat - Functional 3D anisotropic materials via microstructured polymer-liquid-crystal resins",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "315275.89",
+      "award_id": "UKRI658",
+      "opportunity_number": "633",
+      "lead_applicant": "M Booth",
+      "link": "https://gtr.ukri.org/projects?ref=658",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP50324",
+      "title": "Multi-skyrmion materials",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "310690.28",
+      "award_id": "UKRI666",
+      "opportunity_number": "633",
+      "lead_applicant": "T Moore",
+      "link": "https://gtr.ukri.org/projects?ref=666",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP50351",
+      "title": "Exploiting the PEG Dilemma to Innovate Advanced Healthcare Materials",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "310139.24",
+      "award_id": "UKRI665",
+      "opportunity_number": "633",
+      "lead_applicant": "D Scurr",
+      "link": "https://gtr.ukri.org/projects?ref=665",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP45153",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP45645",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP45827",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP45863",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP45932",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP46273",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP46310",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP46315",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP46549",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP46827",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47073",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47089",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47168",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47220",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47321",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47763",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP47783",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP48009",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP48129",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP48329",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP48384",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP48442",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP48665",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49112",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49294",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49507",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49586",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49640",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49814",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49833",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP49970",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP50612",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP50715",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP50979",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP51002",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP51070",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    },
+    {
+      "application_id": "APP51371",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "633",
+      "opportunity": "EPSRC UK-Japan Collaboration in Advanced Materials"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "R Morris",
+      "role": "Chair",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "V Falko",
+      "role": "Deputy chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "P A. Thomas",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "T Allen",
+      "role": "Panellist",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "D Atkinson",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "R Beanland",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "J Chen",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "K Coleman",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "P Gould",
+      "role": "Panellist",
+      "organisation": "QinetiQ"
+    },
+    {
+      "name": "J Hobbs",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "J Knowles",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "H Leese",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "A McLaughlin",
+      "role": "Panellist",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "M Molinari",
+      "role": "Panellist",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "G Möller",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "J Spencer",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "S Thomas",
+      "role": "Panellist"
+    },
+    {
+      "name": "S Turner",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-05-11",
+  "meeting_end": "2024-05-11"
+}

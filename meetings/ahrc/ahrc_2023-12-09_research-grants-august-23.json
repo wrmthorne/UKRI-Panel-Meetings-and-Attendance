@@ -1,0 +1,341 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-975743641",
+  "meeting_name": "Research Grants - August 23",
+  "applications": [
+    {
+      "application_id": "AH/Y001354/1",
+      "route": "Standard",
+      "lead_applicant": "Stephen Rose",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Music, Heritage, Place: Unlocking the Musical Collections of English County Record Offices",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y00163X/1",
+      "route": "Standard",
+      "lead_applicant": "Jane Elizabeth Plastow",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Leeds",
+      "title": "Communication and Creativity: An Arts-Based Study Focusing on Marginalised East African Communities in Kenya, Uganda and the United Kingdom",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y002989/1",
+      "route": "Standard",
+      "lead_applicant": "Julia Moses",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Sheffield",
+      "title": "Global Socio-Economic Rights, Local Contexts: Work in East Africa and Western Europe, 1880 to the Present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003101/1",
+      "route": "Early Career",
+      "lead_applicant": "Selina Rajnikant Patel Nascimento",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Lancaster University",
+      "title": "Defining Concubinage in the Luso-Atlantic World: Gender, Slavery, and Networks of Power in Brazil and Angola (1800-1860)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001958/1",
+      "score": "5",
+      "rank": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003195/1",
+      "score": "5",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004507/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004485/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002555/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003969/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002148/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001893/1",
+      "score": "5",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003462/1",
+      "score": "5",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003950/1",
+      "score": "5",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001532/1",
+      "score": "5",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001486/1",
+      "score": "5",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002091/1",
+      "score": "5",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003144/1",
+      "score": "5",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002458/1",
+      "score": "5",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004531/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001818/1",
+      "score": "4",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002075/1",
+      "score": "4",
+      "rank": "22",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002679/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003500/1",
+      "score": "4",
+      "rank": "24",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003381/1",
+      "score": "4",
+      "rank": "25",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002717/1",
+      "score": "4",
+      "rank": "26",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010473/1",
+      "score": "4",
+      "rank": "27",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004426/1",
+      "score": "4",
+      "rank": "28",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004442/1",
+      "score": "4",
+      "rank": "29",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003128/1",
+      "score": "4",
+      "rank": "30",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004930/1",
+      "score": "4",
+      "rank": "31",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002016/1",
+      "score": "4",
+      "rank": "32",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00504X/1",
+      "score": "4",
+      "rank": "33",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004639/1",
+      "score": "4",
+      "rank": "34",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001583/1",
+      "score": "4",
+      "rank": "35",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004329/1",
+      "score": "4",
+      "rank": "36",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003136/1",
+      "score": "4",
+      "rank": "37",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001745/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001788/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001907/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002040/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002482/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002571/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003608/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004280/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Luciana Martins",
+      "organisation": "Birkbeck College",
+      "role": "Chair"
+    },
+    {
+      "name": "Adam Stock",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Brianna Elyse Robertson-Kirkland",
+      "organisation": "Royal Conservatoire of Scotland",
+      "role": "Member"
+    },
+    {
+      "name": "Galina Miazhevich",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "G Gasper",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Haida Liang",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "James Gordon Clark",
+      "organisation": "Unknown",
+      "role": "Member"
+    },
+    {
+      "name": "Katharine Mary Cockin",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Whatley",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Stefan Manz",
+      "organisation": "Ravensbourne University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-12-09",
+  "meeting_end": "2023-12-09"
+}

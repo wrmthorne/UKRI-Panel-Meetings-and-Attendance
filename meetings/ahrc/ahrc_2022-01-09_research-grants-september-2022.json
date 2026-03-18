@@ -1,0 +1,172 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-825253194",
+  "meeting_name": "Research Grants - September 2022",
+  "applications": [
+    {
+      "application_id": "AH/X00399X/1",
+      "route": "Standard",
+      "lead_applicant": "Stacey Hynd",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Exeter",
+      "title": "Children of War: Evolving Local and Global Understandings of Child Soldiering in African Conflicts, c.1940-2000",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001458/1",
+      "route": "Early Career",
+      "lead_applicant": "Garrick Allen",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Glasgow",
+      "title": "Annotating the New Testament: Codex H, Euthalian Traditions, and the Humanities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004317/1",
+      "route": "Standard",
+      "lead_applicant": "Andy Kesson",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Roehampton University",
+      "title": "Diverse alarums: centering marginalised communities in the contemporary performance of early modern plays",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000605/1",
+      "score": "5",
+      "rank": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001547/1",
+      "score": "5",
+      "rank": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003841/1",
+      "route": "Early Career",
+      "lead_applicant": "Johanna Mary Dale",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University College London",
+      "title": "Liturgical and literary landscapes: the cult of St Oswald of Northumbria in the German-speaking world",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001377/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003949/1",
+      "score": "5",
+      "rank": "8",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00287X/1",
+      "score": "4",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000389/1",
+      "score": "4",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004422/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000567/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000397/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00130X/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004872/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003957/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000311/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000966/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Robert Linn",
+      "organisation": "University of Westminster",
+      "role": "Chair"
+    },
+    {
+      "name": "Kathryn Sian Hurlock",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Moderator"
+    },
+    {
+      "name": "Alice Entwistle",
+      "organisation": "University of South Wales",
+      "role": "Moderator"
+    },
+    {
+      "name": "Nadia Kiwan",
+      "organisation": "Imperial War Museum",
+      "role": "Moderator"
+    },
+    {
+      "name": "Richard E Ashcroft",
+      "organisation": "University of Salford",
+      "role": "Moderator"
+    },
+    {
+      "name": "Robert Vilain",
+      "organisation": "Edge Hill University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Steve Goodhew",
+      "organisation": "University of Plymouth",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-01-09",
+  "meeting_end": "2022-01-09"
+}

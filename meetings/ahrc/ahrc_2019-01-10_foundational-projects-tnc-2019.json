@@ -1,0 +1,128 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-473792100",
+  "meeting_name": "Foundational projects TNC 2019",
+  "applications": [
+    {
+      "application_id": "AH/T011092/1",
+      "route": "Standard",
+      "lead_applicant": "Rachael Kotarski",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "British Library",
+      "title": "Persistent Identifiers as IRO Infrastructure",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011114/1",
+      "route": "Standard",
+      "lead_applicant": "Lora Angelova",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "The National Archives",
+      "title": "Deep Discoveries",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011122/1",
+      "route": "Standard",
+      "lead_applicant": "Pip Willcox",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The National Archives",
+      "title": "Engaging crowds: citizen research and heritage data at scale",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T01119X/1",
+      "route": "Standard",
+      "lead_applicant": "Gethin Powell Rees",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "British Library",
+      "title": "Locating a National Collection (LANC)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011084/1",
+      "route": "Standard",
+      "lead_applicant": "Joseph Padfield",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "The National Gallery",
+      "title": "Practical applications of IIIF as a building block towards a digital National Collection",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011076/1",
+      "route": "Standard",
+      "lead_applicant": "Emily Pringle",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Tate",
+      "title": "Provisional Semantics: Addressing the challenges of representing multiple perspectives within an evolving digitised national collection",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T01122X/1",
+      "route": "Standard",
+      "lead_applicant": "Natalie Kane",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Preserving and sharing born-digital and hybrid objects from and across the National Collection",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011068/1",
+      "route": "Standard",
+      "lead_applicant": "John Stack",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "Science Museum Group",
+      "title": "Heritage Connector",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T011041/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T011106/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Edward Harcourt",
+      "organisation": "University of Oxford",
+      "role": "Chair"
+    },
+    {
+      "name": "Areti Galani",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Nick Merriman",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Joanna Kate Robinson",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Ross Parry",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-01-10",
+  "meeting_end": "2019-01-10"
+}

@@ -1,0 +1,68 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1040",
+  "meeting_name": "OPP701:EPSRC programme grant Full Application - ENZ - 6 March 2025",
+  "meeting_convenor": "G Davies",
+  "applications": [
+    {
+      "application_id": "APP52563",
+      "title": "ENLIGHT - Enabling a Lifecycle approach to Graphite for AMR",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "7062167.73",
+      "award_id": "UKRI1795",
+      "opportunity_number": "701",
+      "lead_applicant": "A Jones",
+      "link": "https://gtr.ukri.org/projects?ref=1795",
+      "opportunity": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP52352",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "701",
+      "opportunity": "EPSRC programme grant full application: summer 2024"
+    },
+    {
+      "application_id": "APP57235",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "701",
+      "opportunity": "EPSRC programme grant full application: summer 2024"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Shollock",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "J Corney",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "P Meredith",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "S Middleburgh",
+      "role": "Panellist",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "P Papakonstantinou",
+      "role": "Panellist",
+      "organisation": "University of Ulster"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-06-03",
+  "meeting_end": "2025-06-03"
+}

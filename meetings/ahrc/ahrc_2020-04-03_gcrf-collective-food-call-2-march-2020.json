@@ -1,0 +1,460 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-494690557",
+  "meeting_name": "GCRF Collective Food Call 2 - March 2020",
+  "applications": [
+    {
+      "application_id": "AH/V000551/1",
+      "route": "Standard",
+      "lead_applicant": "Philippa Ryan",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Royal Botanic Gardens Kew",
+      "title": "Agri-system histories and trajectories: crops, landscapes, and heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V000446/1",
+      "route": "Standard",
+      "lead_applicant": "Nicholas Christopher Nisbett",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Institute of Development Studies",
+      "title": "Remembering and acting on 'Malnutrition': A Latin American Network to Foster Deep Learning on Nutrition Interventions Past and Present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V000454/1",
+      "route": "Standard",
+      "lead_applicant": "Erica Rowan",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Negotiating the Modernity Crisis: Globalization, economic gain and the loss of traditional and sustainable food practices in Turkey",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V000209/1",
+      "score": "5",
+      "rank": "4",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000128/1",
+      "score": "5",
+      "rank": "5",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000136/1",
+      "score": "5",
+      "rank": "6",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000586/1",
+      "score": "5",
+      "rank": "7",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000020/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000322/1",
+      "score": "5",
+      "rank": "9",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000152/1",
+      "route": "Standard",
+      "lead_applicant": "Isabelle Uny",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Stirling",
+      "title": "From Fuel to Pot: an interdisciplinary partnership to address the role of solid fuel use in food preparation in the household in Kenya and Malawi",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V000144/1",
+      "route": "Standard",
+      "lead_applicant": "Imogen Bellwood-Howard",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "Institute of Development Studies",
+      "title": "Connecting agropastoral food culture research to livestock commercialisation policy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00056X/1",
+      "route": "Standard",
+      "lead_applicant": "Levi Gahman",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "University of Liverpool",
+      "title": "\"Forward Ever, Backward Never\": Documenting and (Re)Vitalising Revolutionary Agriculture and Sustainable Food Systems in Grenada",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V000381/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000659/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000217/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000268/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000195/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000314/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000411/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000438/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000071/1",
+      "score": "4",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000233/1",
+      "score": "4",
+      "rank": "22",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000284/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000683/1",
+      "score": "4",
+      "rank": "24",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000047/1",
+      "score": "4",
+      "rank": "25",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000098/1",
+      "score": "4",
+      "rank": "26",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000306/1",
+      "score": "4",
+      "rank": "27",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000535/1",
+      "score": "4",
+      "rank": "28",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000241/1",
+      "score": "4",
+      "rank": "29",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00011X/1",
+      "score": "4",
+      "rank": "30",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000519/1",
+      "score": "4",
+      "rank": "31",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000373/1",
+      "score": "4",
+      "rank": "32",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000608/1",
+      "score": "4",
+      "rank": "33",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000179/1",
+      "score": "4",
+      "rank": "34",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000543/1",
+      "score": "4",
+      "rank": "35",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000349/1",
+      "score": "4",
+      "rank": "36",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000462/1",
+      "score": "4",
+      "rank": "37",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00025X/1",
+      "score": "4",
+      "rank": "38",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00039X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00042X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000039/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000101/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000160/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000187/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000225/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000276/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000292/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000330/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000357/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000365/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000403/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000470/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000489/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000497/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000500/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000527/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000578/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000594/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000616/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000624/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000632/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000640/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000667/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000675/1",
+      "score": "1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000691/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Naomi Sykes",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Andi Mabhala",
+      "organisation": "University of Chester",
+      "role": "Member"
+    },
+    {
+      "name": "Jonathan Hillier",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Ruby Asmah",
+      "organisation": "Water Research Institute (CSIR)",
+      "role": "Member"
+    },
+    {
+      "name": "Tom Wakeford",
+      "organisation": "ETC Group",
+      "role": "Member"
+    },
+    {
+      "name": "Amandine Garde",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Church",
+      "organisation": "University of East Anglia",
+      "role": "Member"
+    },
+    {
+      "name": "Ben Bennett",
+      "organisation": "Exeter College",
+      "role": "Member"
+    },
+    {
+      "name": "Ben John Highmore",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Kathrin Schreckenberg",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Luciana Martins",
+      "organisation": "Birkbeck College",
+      "role": "Member"
+    },
+    {
+      "name": "Susan Elizabeth Farran",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-04-03",
+  "meeting_end": "2020-04-03"
+}

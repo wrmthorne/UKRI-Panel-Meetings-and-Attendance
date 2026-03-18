@@ -1,0 +1,206 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1295",
+  "meeting_name": "OPP 296 EPSRC Mathematical Sciences Postdoc Fellowship Assessment Panel – MA + MP - July 2025",
+  "meeting_convenor": "B McGregor",
+  "applications": [
+    {
+      "application_id": "APP56982",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP49523",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP47594",
+      "outcome": "Advance to next stage",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP55555",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP53959",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP47531",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP34723",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62255",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP49706",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP50502",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP64422",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP64009",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58532",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP59611",
+      "outcome": "Unsuccessful",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP61376",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP51320",
+      "outcome": "Unsuccessful",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "opportunity_number": "296",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "R Gregory",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "T Adamo",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "M Akman",
+      "role": "Panellist",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "O Castro Alvaredo",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "M Dafermos",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "S Gielen",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "S Krusch",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "M Kurzke",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "S Majid",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "A Mijatovic",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "K Rejzner",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "P Sutcliffe",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "A Torrielli",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-03-07",
+  "meeting_end": "2025-03-07"
+}

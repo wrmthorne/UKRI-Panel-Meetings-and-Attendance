@@ -1,0 +1,373 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-576161004",
+  "meeting_name": "EDI Fellowships Pilot - November 2020",
+  "applications": [
+    {
+      "application_id": "AH/V010549/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Thompson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "IDEA: Inclusive Description for Equality and Access",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010352/1",
+      "route": "Standard",
+      "lead_applicant": "Churnjeet Mahn",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Strathclyde",
+      "title": "EDI in Scottish Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010581/1",
+      "route": "Standard",
+      "lead_applicant": "Sandeep Parmar",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Liverpool",
+      "title": "Race and Reviewing in the UK: The Ledbury Poetry Critics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010484/1",
+      "route": "Standard",
+      "lead_applicant": "Anna anna fox",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University for the Creative Arts",
+      "title": "Fast Forward 5; Women in Photography -  striving for equality, diversity and inclusion for women through photography",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010301/1",
+      "route": "Standard",
+      "lead_applicant": "Patricia Elaine Noxolo",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Birmingham",
+      "title": "Creative Approaches to Race and In/security in the Caribbean and the UK (CARICUK)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010166/1",
+      "route": "Standard",
+      "lead_applicant": "Manuella Ruth Blackburn",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Keele University",
+      "title": "Overcoming sonic stalemates: representing cultural diversity in sample packs",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010433/1",
+      "route": "Standard",
+      "lead_applicant": "Charlotte Jones",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Exeter",
+      "title": "The Beat of Our Hearts - Staging new histories of LGBTQ+ loneliness",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01076X/1",
+      "route": "Standard",
+      "lead_applicant": "Amanda Ravetz Ravetz",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Social Artists for Equality, Diversity and Inclusion - SAFEDI",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010271/1",
+      "route": "Standard",
+      "lead_applicant": "John Ravenscroft",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "University of Edinburgh",
+      "title": "CVI and ART, (CVIART) SENSING THINGS DIFFERENTLY: DEVELOPING UNDERSTANDING OF CEREBRAL VISUAL IMPAIRMENT THROUGH MUSIC, DANCE AND ART COMPOSITION",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010883/1",
+      "route": "Standard",
+      "lead_applicant": "Shawn Sobers",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "University of the West of England",
+      "title": "Freedom in the City - Festival of Learning",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010700/1",
+      "score": "4",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010344/1",
+      "score": "4",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010719/1",
+      "score": "4",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010816/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010441/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010778/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010263/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010557/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010190/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010298/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01062X/1",
+      "score": "4",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010743/1",
+      "score": "4",
+      "rank": "22",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010859/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010867/1",
+      "score": "4",
+      "rank": "24",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010832/1",
+      "score": "4",
+      "rank": "25",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01028X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01031X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010239/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010255/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010328/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010336/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010360/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010379/1",
+      "score": "1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010387/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010395/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010409/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010417/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010425/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010468/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010492/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010514/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010522/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010603/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010638/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010646/1",
+      "score": "1",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010654/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010670/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010727/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010735/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010751/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010794/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010808/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010824/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010875/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010891/1",
+      "score": "2",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jennifer Richards",
+      "organisation": "Newcastle University",
+      "role": "Chair"
+    },
+    {
+      "name": "Anna-Maria Susheila Misra",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Iyiola Solanke",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Mckeown",
+      "organisation": "Teesside University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-05-11",
+  "meeting_end": "2020-05-11"
+}

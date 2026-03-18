@@ -1,0 +1,247 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-759897561",
+  "meeting_name": "Research, Development and Engagement Fellowships - March 2022",
+  "applications": [
+    {
+      "application_id": "AH/W01002X/1",
+      "route": "Early Career",
+      "lead_applicant": "Hetty Hetty Blades",
+      "score": "7",
+      "rank": "1",
+      "lead_organisation": "Coventry University",
+      "title": "Moving Online: Ontology and Ownership of Internet Dance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011190/1",
+      "route": "Early Career",
+      "lead_applicant": "Zeina Maasri",
+      "score": "7",
+      "rank": "2",
+      "lead_organisation": "University of Bristol",
+      "title": "Decolonising the Page: The Visual Politics and Poetics of Postcolonial Arabic Publications",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010232/1",
+      "route": "Early Career",
+      "lead_applicant": "Jamie Chambers",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Towards a Global Folk Cinema",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011115/1",
+      "route": "Early Career",
+      "lead_applicant": "Rebecca Harrison",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "The Open University",
+      "title": "The Environmental Impact of Filmmaking: Using Star Wars to Improve Sector Sustainability Practices",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011077/1",
+      "route": "Standard",
+      "lead_applicant": "Anne-Marie McAlinden",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Transforming Justice: An All-Island Examination of Justice Responses to Historical Institutional Abuse",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011212/1",
+      "route": "Early Career",
+      "lead_applicant": "Tim Rothwell Livsey",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "Northumbria University",
+      "title": "Stolen archives? Re-evaluating the British 'migrated' archives and decolonisation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007568/1",
+      "route": "Standard",
+      "lead_applicant": "Emily Brownell",
+      "score": "6",
+      "rank": "7",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Stories from the Substrate: A 20th Century History of East Africa from the Soil",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010364/1",
+      "route": "Standard",
+      "lead_applicant": "Michael Ridge",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Why So Serious?  Playfulness and Transcending Transcendence in a World with Less Work",
+      "outcome": "Withdrawn"
+    },
+    {
+      "application_id": "AH/W007479/1",
+      "route": "Early Career",
+      "lead_applicant": "Rebecca Ogden",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Kent",
+      "title": "Adolescent Parenthoods and Culture in Latin America",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011158/1",
+      "score": "5",
+      "rank": "10",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000818/1",
+      "score": "5",
+      "rank": "11",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010127/1",
+      "score": "5",
+      "rank": "12",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008432/1",
+      "score": "5",
+      "rank": "13",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010623/1",
+      "score": "4",
+      "rank": "14",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009528/1",
+      "score": "4",
+      "rank": "15",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010917/1",
+      "score": "4",
+      "rank": "16",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010690/1",
+      "score": "4",
+      "rank": "17",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010321/1",
+      "score": "4",
+      "rank": "18",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008351/1",
+      "score": "4",
+      "rank": "19",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011433/1",
+      "score": "4",
+      "rank": "20",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011301/1",
+      "score": "4",
+      "rank": "21",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010844/1",
+      "score": "4",
+      "rank": "22",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008521/1",
+      "score": "4",
+      "rank": "23",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W01100X/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011492/1",
+      "score": "3",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Thomas Walters",
+      "organisation": "Institute of Cancer Research",
+      "role": "Chair"
+    },
+    {
+      "name": "Agnes Gulyas",
+      "organisation": "Canterbury Christ Church University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Alison Sarah Fell",
+      "organisation": "Bournemouth University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Bella Dicks",
+      "organisation": "National Museum Wales",
+      "role": "Moderator"
+    },
+    {
+      "name": "Claire Rachel Lindsay",
+      "organisation": "University of Surrey",
+      "role": "Moderator"
+    },
+    {
+      "name": "John H Gillespie",
+      "organisation": "University of Ulster",
+      "role": "Moderator"
+    },
+    {
+      "name": "Mark Mark Johnson",
+      "organisation": "Goldsmiths College",
+      "role": "Moderator"
+    },
+    {
+      "name": "Reina Lewis",
+      "organisation": "University of the Arts London",
+      "role": "Moderator"
+    },
+    {
+      "name": "Sarah Wright",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Moderator"
+    },
+    {
+      "name": "Stephen Derek Wilkinson",
+      "organisation": "Lancaster University",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-01-03",
+  "meeting_end": "2022-01-03"
+}

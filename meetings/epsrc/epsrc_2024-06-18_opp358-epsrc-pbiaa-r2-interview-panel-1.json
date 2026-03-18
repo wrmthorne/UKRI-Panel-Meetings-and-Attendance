@@ -9,7 +9,6 @@
       "title": "STREAM 1: Accelerating Innovation in the Forth and Tay Offshore Wind Cluster",
       "lead_organisation": "University of Edinburgh",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "2658378.76",
       "award_id": "EP/U536921/1",
@@ -23,7 +22,6 @@
       "title": "STREAM 1. Digital Healthcare Technology Impact Accelerator (DHTA)",
       "lead_organisation": "University of Ulster",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "2657135.55",
       "award_id": "EP/Z536155/1",
@@ -37,7 +35,6 @@
       "title": "STREAM 1: North East Space Communications Accelerator (NESCA)",
       "lead_organisation": "Northumbria University",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "2548176.48",
       "award_id": "EP/Z536301/1",
@@ -51,7 +48,6 @@
       "title": "STREAM 1: East Midlands Emerging Rehabilitation Technology Growth Enterprise",
       "lead_organisation": "Nottingham Trent University",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "2658884.64",
       "award_id": "EP/Z536076/1",
@@ -65,7 +61,6 @@
       "title": "STREAM 1: Maritime and Last Mile Net Zero (MaLaMi)",
       "lead_organisation": "Liverpool John Moores University",
       "outcome": "Successful",
-      "rank": "",
       "rank_group": "Unranked",
       "awarded_amount": "2658569",
       "award_id": "EP/U536714/1",
@@ -76,30 +71,16 @@
     },
     {
       "application_id": "APP25345",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "358",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
     },
     {
       "application_id": "APP34813",
-      "title": "",
-      "lead_organisation": "",
       "outcome": "Unsuccessful",
-      "rank": "",
       "rank_group": "Unranked",
-      "awarded_amount": "",
-      "award_id": "",
       "opportunity_number": "358",
-      "lead_applicant": "",
-      "link": "",
       "opportunity": "EPSRC Place Based Impact Acceleration Account: Round 2"
     }
   ],
@@ -131,8 +112,7 @@
     },
     {
       "name": "L Towns-Andrews",
-      "role": "Panellist",
-      "organisation": ""
+      "role": "Panellist"
     }
   ],
   "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",

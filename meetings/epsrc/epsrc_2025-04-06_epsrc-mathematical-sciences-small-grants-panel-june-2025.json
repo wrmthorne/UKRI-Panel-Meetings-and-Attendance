@@ -1,0 +1,536 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1258",
+  "meeting_name": "EPSRC Mathematical Sciences Small Grants Panel June 2025",
+  "meeting_convenor": "C Ammatmanee",
+  "applications": [
+    {
+      "application_id": "APP30337",
+      "title": "Computational Optimisation of Robotic Swimmers",
+      "lead_organisation": "Swansea University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81726.56",
+      "award_id": "UKRI2392",
+      "opportunity_number": "393",
+      "lead_applicant": "W Dettmer",
+      "link": "https://gtr.ukri.org/projects?ref=2392",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP46305",
+      "title": "Rapidly convergent data-driven modelling of high-frequency wave fields",
+      "lead_organisation": "Nottingham Trent University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81638.04",
+      "award_id": "UKRI2393",
+      "opportunity_number": "393",
+      "lead_applicant": "D Chappell",
+      "link": "https://gtr.ukri.org/projects?ref=2393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP53284",
+      "title": "Spinorial methods for geometric inequalities   in Relativity",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "76587",
+      "award_id": "UKRI2395",
+      "opportunity_number": "393",
+      "lead_applicant": "J Valiente Kroon",
+      "link": "https://gtr.ukri.org/projects?ref=2395",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP55369",
+      "title": "Unique graph realisation problems under symmetry constraints",
+      "lead_organisation": "Lancaster University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "58437.32",
+      "award_id": "UKRI2397",
+      "opportunity_number": "393",
+      "lead_applicant": "B Schulze",
+      "link": "https://gtr.ukri.org/projects?ref=2397",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP55732",
+      "title": "Curve counting at conifold singularities",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "79348.2",
+      "award_id": "UKRI2394",
+      "opportunity_number": "393",
+      "lead_applicant": "A Brini",
+      "link": "https://gtr.ukri.org/projects?ref=2394",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP57068",
+      "title": "Extreme Value Analysis for Non-Stationary Processes",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81506.84",
+      "award_id": "UKRI2396",
+      "opportunity_number": "393",
+      "lead_applicant": "R Passeggeri",
+      "link": "https://gtr.ukri.org/projects?ref=2396",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP59398",
+      "title": "New Mathematical Connections Between Collective Cell and Animal Migration Over Surfaces",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81565.88",
+      "award_id": "UKRI2388",
+      "opportunity_number": "393",
+      "lead_applicant": "P Pearce",
+      "link": "https://gtr.ukri.org/projects?ref=2388",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP60346",
+      "title": "Cross-border gas diffusion  in aqueous foams",
+      "lead_organisation": "Aberystwyth University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81555.21",
+      "award_id": "UKRI2390",
+      "opportunity_number": "393",
+      "lead_applicant": "S Cox",
+      "link": "https://gtr.ukri.org/projects?ref=2390",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP60947",
+      "title": "Inferring Neuronal Network Properties in Healthy and Diseased Cultures (INTENSE)",
+      "lead_organisation": "Aston University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81447.02",
+      "award_id": "UKRI2387",
+      "opportunity_number": "393",
+      "lead_applicant": "D Saad",
+      "link": "https://gtr.ukri.org/projects?ref=2387",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP62165",
+      "title": "Ample generics and extreme amenability for the automorphism groups of Boolean powers",
+      "lead_organisation": "University of St Andrews",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "41960.23",
+      "award_id": "UKRI2386",
+      "opportunity_number": "393",
+      "lead_applicant": "N Ruscuc",
+      "link": "https://gtr.ukri.org/projects?ref=2386",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP62501",
+      "title": "Finite structures, combinatorial regularity, and measuring semirings",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "75307.2",
+      "award_id": "UKRI2391",
+      "opportunity_number": "393",
+      "lead_applicant": "D Macpherson",
+      "link": "https://gtr.ukri.org/projects?ref=2391",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP65236",
+      "title": "Discipline Hopping Small Grant: Improving Statistical Models and Stimulating Cross-disciplinary Research for Comparative Judgement Methods",
+      "lead_organisation": "Loughborough University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "73852.8",
+      "award_id": "UKRI2389",
+      "opportunity_number": "393",
+      "lead_applicant": "I Jones",
+      "link": "https://gtr.ukri.org/projects?ref=2389",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP65307",
+      "title": "Bayesian inference of sparsity in stationary, multivariate autoregressive processes",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81910.2",
+      "award_id": "UKRI2402",
+      "opportunity_number": "393",
+      "lead_applicant": "S Heaps",
+      "link": "https://gtr.ukri.org/projects?ref=2402",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP65900",
+      "title": "Wave-mean field interaction in integrable turbulence",
+      "lead_organisation": "Northumbria University",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "76876.4",
+      "award_id": "UKRI2401",
+      "opportunity_number": "393",
+      "lead_applicant": "G El",
+      "link": "https://gtr.ukri.org/projects?ref=2401",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP66131",
+      "title": "Reliable probabilistic learning & accurate prediction - flooding in the Humber Estuary",
+      "lead_organisation": "University of York",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81974.14",
+      "award_id": "UKRI2398",
+      "opportunity_number": "393",
+      "lead_applicant": "D Chakrabarty",
+      "link": "https://gtr.ukri.org/projects?ref=2398",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP66640",
+      "title": "Webs of Interacting Paths",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "45647",
+      "award_id": "UKRI2400",
+      "opportunity_number": "393",
+      "lead_applicant": "N Freeman",
+      "link": "https://gtr.ukri.org/projects?ref=2400",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP68512",
+      "title": "Pancharatnam-Berry  phase for Voigt waves and Voigt surface waves",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "70589.04",
+      "award_id": "UKRI2399",
+      "opportunity_number": "393",
+      "lead_applicant": "T Mackay",
+      "link": "https://gtr.ukri.org/projects?ref=2399",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP68517",
+      "title": "Random Geometry via Volume Minimization",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81432.28",
+      "award_id": "UKRI2403",
+      "opportunity_number": "393",
+      "lead_applicant": "A Georgakopoulos",
+      "link": "https://gtr.ukri.org/projects?ref=2403",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP71172",
+      "title": "Prophet Inequalities for Mixtures",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "63326.08",
+      "award_id": "UKRI2406",
+      "opportunity_number": "393",
+      "lead_applicant": "F Fischer",
+      "link": "https://gtr.ukri.org/projects?ref=2406",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP72196",
+      "title": "STOIC: Stochastic Transport and Optimal Inference for Control",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "81927.4",
+      "award_id": "UKRI2404",
+      "opportunity_number": "393",
+      "lead_applicant": "R Herzallah",
+      "link": "https://gtr.ukri.org/projects?ref=2404",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP74517",
+      "title": "Beilinson, Tate and Serre conjectures via noncommutative motives",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank_group": "Unranked",
+      "awarded_amount": "47586",
+      "award_id": "UKRI2405",
+      "opportunity_number": "393",
+      "lead_applicant": "G Tabuada",
+      "link": "https://gtr.ukri.org/projects?ref=2405",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP27503",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP28790",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP36816",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP37950",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP54944",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP58607",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP58990",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP59226",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP60311",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP60522",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP63258",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP64297",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP65602",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP65924",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP66423",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP67718",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP67862",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP68504",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP68930",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP69082",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP69761",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP70951",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP71347",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP74049",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    },
+    {
+      "application_id": "APP74971",
+      "outcome": "Unsuccessful",
+      "rank_group": "Unranked",
+      "opportunity_number": "393",
+      "opportunity": "EPSRC Mathematical Sciences Small Grants"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "T Kypraios",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "A Nixon",
+      "role": "Deputy chair",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "M Bazargani",
+      "role": "Panellist",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "C Carvalho",
+      "role": "Panellist",
+      "organisation": "University of Hertfordshire"
+    },
+    {
+      "name": "M Evangelou",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "S Fedotov",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "M Foondun",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "B Juarez Aubry",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Y Len",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "P Loh",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "S Roper",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "C Smyth",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "R Thompson",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "M Wolfram",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "H Zhao",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-06",
+  "meeting_end": "2025-04-06"
+}
