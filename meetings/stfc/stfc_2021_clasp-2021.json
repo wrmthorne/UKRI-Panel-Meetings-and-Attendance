@@ -1,0 +1,68 @@
+{
+  "council": "STFC",
+  "year": "2021",
+  "count_of_applications": "8",
+  "count_of_awards": "3",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002221/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002175/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002159/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002094/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002167/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002213/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002191/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP 2021",
+      "year": "2021",
+      "application_id": "ST/W002132/1",
+      "rank": "8"
+    }
+  ],
+  "meeting_name": "CLASP 2021",
+  "source": "Challenge-lead-applied-systems-programme-CLASP-201/STFC-020322-CLASP-2021-RankingList.docx",
+  "meeting_start": "2021",
+  "meeting_end": "2021"
+}

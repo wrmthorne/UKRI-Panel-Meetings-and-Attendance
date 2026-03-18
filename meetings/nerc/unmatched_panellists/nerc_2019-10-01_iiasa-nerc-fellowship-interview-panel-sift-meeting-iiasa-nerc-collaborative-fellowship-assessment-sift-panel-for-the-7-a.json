@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "London",
+  "panel_secretary": "Heather Bagnall",
+  "panellists": [
+    {
+      "name": "John Brodholt",
+      "role": "Chair",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Jim Hall",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Andy Lane",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Alice Milner Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Joshua Vande Hey",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    }
+  ],
+  "meeting_name": "IIASA NERC Fellowship Interview Panel Sift Meeting IIASA-NERC Collaborative Fellowship Assessment Sift Panel for the 7 August 2019 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-IIASA-NERC-CollaborativeFellowship-070819.pdf",
+  "meeting_start": "2019-10-01",
+  "meeting_end": "2019-10-01"
+}

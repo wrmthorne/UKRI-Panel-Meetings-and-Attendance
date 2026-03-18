@@ -1,0 +1,215 @@
+{
+  "council": "MRC",
+  "count_of_applications": "41",
+  "count_of_awards": "17",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 40/81 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M021459/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M012190/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M018032/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M01908X/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M02251X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M012638/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M019535/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M020843/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M022625/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M012751/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M020479/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M02220X/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M022706/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M020967/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022463/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022579/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M022943/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M02184X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022471/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022684/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M02296X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M022501/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022544/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M023087/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M023060/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M022552/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022617/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M023265/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M023095/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022641/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M023281/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022749/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M012514/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022811/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M020355/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M023133/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M022935/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M023206/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M02332X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M023397/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M023478/1"
+    }
+  ],
+  "meeting_name": "Population and Sytems Medicine Board 10 March 2015",
+  "source": "government_web_archive/Population and Sytems Medicine Board 10 March 2015.xlsx"
+}

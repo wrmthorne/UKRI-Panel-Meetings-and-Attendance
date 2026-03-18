@@ -1,0 +1,108 @@
+{
+  "council": "ESRC",
+  "year": "2018",
+  "count_of_applications": "16",
+  "count_of_awards": "8",
+  "applications": [
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S002588/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S004440/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S004424/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S004351/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S004467/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S00324X/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S004726/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S004459/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S004696/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S005609/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S004815/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00484X/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S005153/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S005161/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S004629/1"
+    },
+    {
+      "opportunity": "XRC Mental Health Network Plus",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S004491/1"
+    }
+  ],
+  "meeting_name": "Cross Council Mental Health Network Plus - Interviews",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2018-12",
+  "meeting_end": "2018-12"
+}

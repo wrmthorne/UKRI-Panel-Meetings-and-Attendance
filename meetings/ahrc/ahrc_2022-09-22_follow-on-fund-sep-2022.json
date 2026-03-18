@@ -1,0 +1,138 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-867448821",
+  "meeting_name": "Follow on Fund - Sep 2022",
+  "applications": [
+    {
+      "application_id": "AH/X005402/1",
+      "route": "Standard",
+      "lead_applicant": "Zoe Norridge",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "King's College London",
+      "title": "Stories from Rwanda: Agency, Editing and New Audiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000648/1",
+      "route": "Standard",
+      "lead_applicant": "Alex Hughes",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Newcastle University",
+      "title": "Reducing Modern Slavery in the Health Sector's Supply Chains for Personal Protective Equipment",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004473/1",
+      "route": "Standard",
+      "lead_applicant": "Veronika Kapsali",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of the Arts London",
+      "title": "Bioinspired Design: Unforeseen Pathways to impact arising from AHRC funded Bioinspired Textiles Research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005550/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Pickles",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Chester",
+      "title": "Early Christian Churches and Landscapes (ECCLES): Co-Creating Public Resources",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00595X/1",
+      "route": "Standard",
+      "lead_applicant": "Sally Caroline Bushell",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Lancaster University",
+      "title": "Steampunk Sherlock Holmes: Knowledge Exchange and Impact through Experiential Reading in Minecraft",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006735/1",
+      "route": "Standard",
+      "lead_applicant": "Keith May",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Historic Bldgs & Mnts Commis for England",
+      "title": "The Archaeologist's Guide To Good Practice - Handbook",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004635/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004902/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004554/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006913/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Lorna Hughes",
+      "organisation": "University of Glasgow",
+      "role": "Chair"
+    },
+    {
+      "name": "Felicity Myrone",
+      "organisation": "British Library",
+      "role": "Member"
+    },
+    {
+      "name": "Katherine Isobel Baxter",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Nesbitt",
+      "organisation": "Royal Botanic Gardens Kew",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-09-22",
+  "meeting_end": "2022-09-22"
+}

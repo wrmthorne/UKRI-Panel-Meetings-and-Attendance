@@ -1,0 +1,141 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN052",
+  "meeting_name": "EPSRC Strategic Technical Platforms Expert Interview Panel 1 Nov 2023",
+  "meeting_convenor": "S Gilligan",
+  "applications": [
+    {
+      "application_id": "APP17914",
+      "title": "UK Robotics and Autonomous Systems Strategic technical Platform (UKRAS-STEP)",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1607275.68",
+      "award_id": "EP/Z530669/1",
+      "opportunity_number": "215",
+      "lead_applicant": "R Richardson",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ530669%2F1",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13218",
+      "title": "a Strategic TEchnical Platform for University technical Professionals",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1700237.48",
+      "award_id": "EP/Y530608/1",
+      "opportunity_number": "215",
+      "lead_applicant": "J Cohen",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FY530608%2F1",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP11569",
+      "title": "National Platform for RTPs on AI for Science and Engineering (NPRAISE)",
+      "lead_organisation": "Science and Technology Facilities Council",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1701274.76",
+      "award_id": "EP/Y530633/1",
+      "opportunity_number": "215",
+      "lead_applicant": "J Thiyagalingam",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FY530633%2F1",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13498",
+      "title": "People in Data (Community)",
+      "lead_organisation": "The Alan Turing Institute",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "1384588.5",
+      "award_id": "EP/Y530645/1",
+      "opportunity_number": "215",
+      "lead_applicant": "A Mallon",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FY530645%2F1",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP18887",
+      "title": "Meet Future Needs of Antenna Measurements and RF Characterization for Changing Research Culture (MUSCAT)",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "816763.48",
+      "award_id": "EP/Y530621/1",
+      "opportunity_number": "215",
+      "lead_applicant": "M Munoz Torrico",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FY530621%2F1",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP19515",
+      "title": "Developing technical capability and capacity for UK Secure Data Environments",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "1077892.08",
+      "award_id": "EP/Y530591/1",
+      "opportunity_number": "215",
+      "lead_applicant": "P Couch",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FY530591%2F1",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP12725",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "215",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "K Vere",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "S Asif",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "B Johnston",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "P King",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "T Martin",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "M Wienzierl",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2023-11-29",
+  "meeting_end": "2023-11-29"
+}

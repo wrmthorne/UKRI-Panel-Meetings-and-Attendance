@@ -1,0 +1,76 @@
+{
+  "council": "NERC",
+  "meeting_location": "Videoconference",
+  "panel_secretary": "Jennifer Morris",
+  "panellists": [
+    {
+      "name": "Jonathan Bull",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Gary Bending",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Cristina Banks-Leite",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Heather Bouman",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "William Collins",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Nicola De Paola",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Neil Edwards",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Ralf Halama",
+      "role": "Member",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "Awadhesh Jha",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Manoj Joshi",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Phyllis Lam",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Jaime Toney",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Andrew Willmott",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "Large Grant NOV21 Large Grants NOV21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-240322-AssessmentPanelMembers-LargeGrantsNov21.pdf",
+  "meeting_start": "2022-03-16",
+  "meeting_end": "2022-03-17"
+}

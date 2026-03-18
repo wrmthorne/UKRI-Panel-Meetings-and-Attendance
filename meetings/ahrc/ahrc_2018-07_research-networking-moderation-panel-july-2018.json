@@ -1,0 +1,54 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S001522/1",
+      "lead_applicant": "Simon Barber",
+      "lead_organisation": "Birmingham City University",
+      "title": "Songwriting Studies Research Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002197/1",
+      "lead_applicant": "Gemma Louise Davies",
+      "lead_organisation": "Northumbria University",
+      "title": "UK-Irish Criminal Justice Cooperation Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R01390X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002715/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003363/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001506/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001514/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, July 2018",
+  "source": "Research Networking, July 2018 Moderation.xlsx",
+  "meeting_start": "2018-07",
+  "meeting_end": "2018-07"
+}

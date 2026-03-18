@@ -1,0 +1,37 @@
+{
+  "council": "NERC",
+  "panellists": [
+    {
+      "name": "Mike Boots",
+      "role": "Chair",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Wilfred Otten",
+      "role": "Member",
+      "organisation": "University of Abertay"
+    },
+    {
+      "name": "Gary Bending",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "David Hopkins Royal Agricultural",
+      "role": "Member",
+      "organisation": "College"
+    },
+    {
+      "name": "Mike Stocking",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Bas",
+      "role": "Member",
+      "organisation": "van Wesemael Catholic University, Louvain"
+    }
+  ],
+  "meeting_name": "2014 Soil Security Consortia Moderation Panel Thursday 27th November 2014 The MRC, One Kemble Street, London",
+  "source": "NERC-funding-assessment-panel-members-2014/2014soilsecurity-panel.pdf"
+}

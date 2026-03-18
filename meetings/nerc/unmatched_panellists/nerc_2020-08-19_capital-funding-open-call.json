@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Thomas Robinson",
+  "panellists": [
+    {
+      "name": "Iain Williams",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Keith Davidson",
+      "role": "Member",
+      "organisation": "Scottish Association for Marine Science"
+    },
+    {
+      "name": "Karin Lochte German Alliance",
+      "role": "Member",
+      "organisation": "Marine Science"
+    },
+    {
+      "name": "Katrien Van Landeghem",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Geraint West Sonardyne International",
+      "role": "Member",
+      "organisation": "Limited"
+    },
+    {
+      "name": "George Wolff",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    }
+  ],
+  "meeting_name": "Capital Funding (Open Call)",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-CapitalFunding-NZOC-040820.pdf",
+  "meeting_start": "2020-08-19",
+  "meeting_end": "2020-08-19"
+}

@@ -1,0 +1,182 @@
+{
+  "council": "NERC",
+  "count_of_applications": "34",
+  "count_of_awards": "15",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R00532X/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R004986/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005222/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R004927/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005141/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005133/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005230/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005214/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R00515X/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004870/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R004897/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R004935/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005117/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005281/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R004978/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005125/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00529X/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005257/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005044/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005273/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004889/1",
+      "rank": "21"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004951/1",
+      "rank": "22"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004919/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005087/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005052/1",
+      "rank": "25"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004943/1",
+      "rank": "26"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005176/1",
+      "rank": "27"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005109/1",
+      "rank": "28"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005206/1",
+      "rank": "29"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004862/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005192/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00501X/1",
+      "rank": "32"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005265/1",
+      "rank": "33"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005168/1",
+      "rank": "34"
+    }
+  ],
+  "meeting_name": "INTERNATIONAL OPPOURTUNITIES FUND, PUMP PRIMING, JUN 2017",
+  "source": "NERC-061021-InternationalOpportunitiesFundPumpPriming-FundingOutcomes-June2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

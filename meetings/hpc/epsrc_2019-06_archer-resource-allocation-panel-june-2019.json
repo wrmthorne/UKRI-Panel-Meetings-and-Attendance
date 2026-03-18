@@ -1,0 +1,93 @@
+{
+  "council": "EPSRC",
+  "year": "2019",
+  "count_of_applications": "6",
+  "count_of_awards": "5",
+  "notes": "One application was unsuccessful in the June 2019 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "Charles Laughton",
+      "organisation": "Nottingham University",
+      "role": "Chair"
+    },
+    {
+      "name": "Krasimira Tsaneva-Atanasova",
+      "organisation": "Exeter University",
+      "role": "Member"
+    },
+    {
+      "name": "Tony Arber",
+      "organisation": "Mathworks",
+      "role": "Member"
+    },
+    {
+      "name": "Krasimira Tsaneva-Atanasova",
+      "organisation": "Warwick University",
+      "role": "Chair"
+    },
+    {
+      "name": "Ben Slater",
+      "organisation": "UCL",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Tucker",
+      "organisation": "Cambridge University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "title": "Micro-mechanical modelling of the intervertebral disc",
+      "outcome": "Successful",
+      "kaus_awarded": "62104.32",
+      "lead_applicant": "Lee Margetts",
+      "lead_organisation": "University of Manchester"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Simulation and Feedback Control of Wake Dynamics for Vehicle Drag Reduction",
+      "outcome": "Successful",
+      "kaus_awarded": "8500",
+      "lead_applicant": "Aimee Morgans",
+      "lead_organisation": "Imperial College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Dispersion of Small Heavy Particles in Linear Shear Turbulence",
+      "outcome": "Successful",
+      "kaus_awarded": "6451.2",
+      "lead_applicant": "John Shrimpton",
+      "lead_organisation": "University of Southampton"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Dynamical mean field theory calculations for rare-earth interfaces",
+      "outcome": "Successful",
+      "kaus_awarded": "35136",
+      "lead_applicant": "Cedric Weber",
+      "lead_organisation": "King's College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Understanding the mechanism of cryptic pocket formation at protein-protein interfaces",
+      "outcome": "Successful",
+      "kaus_awarded": "44582.4",
+      "lead_applicant": "Francesco Gervasio",
+      "lead_organisation": "UCL"
+    }
+  ],
+  "meeting_name": "ARCHER resource allocation panel - June 2019",
+  "source": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-June2019.xlsx",
+  "meeting_start": "2019-06",
+  "meeting_end": "2019-06"
+}

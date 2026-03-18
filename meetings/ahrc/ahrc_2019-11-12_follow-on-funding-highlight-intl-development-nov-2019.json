@@ -1,0 +1,208 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-465461529",
+  "meeting_name": "Follow-on Funding Highlight Intl Development Nov 2019",
+  "applications": [
+    {
+      "application_id": "AH/T007923/1",
+      "route": "Standard",
+      "lead_applicant": "Peter Manning",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Bath",
+      "title": "Elephant conservation and indigenous experiences in Cambodia: Shaping environmental awareness through participatory filmmaking with young people",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007915/1",
+      "route": "Standard",
+      "lead_applicant": "Jessica Mitchell",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Leeds",
+      "title": "The use of creative arts to engage Nepali schools with antimicrobial-resistance and create positive behaviour change on health-seeking behaviours.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007672/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Burton",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Newcastle University",
+      "title": "Art and Work in East Africa: New Engagements in Art Curating",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007885/1",
+      "route": "Standard",
+      "lead_applicant": "Claire Louise Taylor",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Liverpool",
+      "title": "Archives of Human Rights and Historical Memory",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T00777X/1",
+      "route": "Standard",
+      "lead_applicant": "Steven John Mithen",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Reading",
+      "title": "ARCHAEOLOGY TO BUSINESS IN FAYNAN: EMPOWERING AND ALLEVIATING THE POVERTY OF BEDOUIN WOMEN IN SOUTHERN JORDAN",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007990/1",
+      "route": "Standard",
+      "lead_applicant": "Kirsten MacLeod",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "Edinburgh Napier University",
+      "title": "Pacific Community Filmmaking and Gender, Impact and Public Engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007877/1",
+      "route": "Standard",
+      "lead_applicant": "Sabine Lee",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "University of Birmingham",
+      "title": "In the name of the father: Otino Onywalo Ilum - docu-dance theatre and children born of war",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007966/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Clare Kerr",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "King's College London",
+      "title": "ART AND RECONCILIATION - THE PCRC AND ASBO MAGAZINE: SUSTAINING VISUAL PEACEBUILDING, EMPOWERING YOUTH, AND EMBEDDING IMPACT",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007982/1",
+      "route": "Standard",
+      "lead_applicant": "Keith Hyams",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "University of Warwick",
+      "title": "Inserting Ethics into Deliberation on Adaptation and Resilience Policy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007850/1",
+      "route": "Standard",
+      "lead_applicant": "Kate Heron Pahl",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Questioning the form:Re-imagining identities through zine-making in Kampala, Uganda",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007036/1",
+      "route": "Standard",
+      "lead_applicant": "Magda Sibley",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "Cardiff University",
+      "title": "Eco-Hammam: Engaging key stakeholders with bespoke low-carbon technologies for lighting, heating and water recycling to sustain a Moroccan heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007958/1",
+      "route": "Standard",
+      "lead_applicant": "Ian Magedera",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "University of Liverpool",
+      "title": "Implementation Action Team: Cultural Heritage Promoting Quality of Life and Sustainable Development in the At-Risk Megacity Periphery of Kolkata",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007702/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007796/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007893/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007974/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Ginger",
+      "organisation": "Northeastern University",
+      "role": "Chair"
+    },
+    {
+      "name": "Birgit Schippers",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "M. Satish Kumar",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Alan Smith",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Fiona Anne Hackney",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Katherine Isobel Baxter",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Nandini Das",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-11-12",
+  "meeting_end": "2019-11-12"
+}

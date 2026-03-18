@@ -1,0 +1,234 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "37",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S011528/1",
+      "lead_applicant": "Lynn Abrams",
+      "lead_organisation": "University of Glasgow",
+      "title": "Fleece to Fashion: Economies and Cultures of Knitting in Modern Scotland",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S006869/1",
+      "lead_applicant": "David Sneath",
+      "lead_organisation": "University of Cambridge",
+      "title": "Mongolian Cosmopolitical Heritage: Tracing Divergent Healing Practices Across the Mongolian-Chinese Border",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S011765/1",
+      "lead_applicant": "Adrian Bell",
+      "lead_organisation": "University of Reading",
+      "title": "The People of 1381",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S01098X/1",
+      "lead_applicant": "Matthew Grenby",
+      "lead_organisation": "Newcastle University",
+      "title": "Eighteenth-Century Political Participation and Electoral Culture",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S011587/1",
+      "lead_applicant": "Victoria Newton",
+      "lead_organisation": "Open University",
+      "title": "Reproductive Bodylore: the role of vernacular knowledge in women's contraceptive decision-making",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S011323/1",
+      "lead_applicant": "Aditi Lahiri",
+      "lead_organisation": "University of Oxford",
+      "title": "Journey of words: Manuscript to Mind",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S013032/1",
+      "lead_applicant": "Norbert Meyn",
+      "lead_organisation": "Royal College of Music",
+      "title": "Music, Migration and Mobility: The Legacy of Migrant Musicians from Nazi-Europe in Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S011951/1",
+      "lead_applicant": "Caoimhe McAvinchey",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Clean Break: Women, Theatre, Organisation and the Criminal Justice System",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012877/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010823/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S012192/1",
+      "lead_applicant": "Francisco Eissa Barroso",
+      "lead_organisation": "University of Manchester",
+      "title": "Trajectories of Reform in the Spanish World: Careering, Networks and Empire under the Early Bourbons (1700-1759)",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S008950/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011250/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010777/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010440/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010297/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013059/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012915/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007547/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006672/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013016/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012176/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010785/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012664/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012990/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012257/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013008/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012753/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011536/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006982/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S008012/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012133/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01229X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012362/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01277X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013075/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013237/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, May 2019 Panel Meeting",
+  "source": "Research Grants Panel, May 2019 Meeting.xlsx",
+  "meeting_start": "2019-05",
+  "meeting_end": "2019-05"
+}

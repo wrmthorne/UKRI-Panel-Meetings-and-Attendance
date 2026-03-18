@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Tina Temporal",
+  "panellists": [
+    {
+      "name": "Liqun Yang Innovate",
+      "role": "Chair",
+      "organisation": "UK"
+    },
+    {
+      "name": "Agathe Laes French Research",
+      "role": "Member",
+      "organisation": "Institute for Exploitation of the Sea"
+    },
+    {
+      "name": "Evangelos Spyrakos",
+      "role": "Member",
+      "organisation": "University of Stirling"
+    },
+    {
+      "name": "Kevin Oxborough Chelsea Technologies",
+      "role": "Member",
+      "organisation": "(UK)"
+    },
+    {
+      "name": "William Nimmo Smith",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    }
+  ],
+  "meeting_name": "NERC Accelerating Adoption of Marine Sensor Innovation",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-170125-AcceleratingAdoptionMarineSensorInnovationAssessmentPanelMay2024.pdf",
+  "meeting_start": "2024-06-18",
+  "meeting_end": "2024-06-18"
+}

@@ -1,0 +1,330 @@
+{
+  "council": "ESRC",
+  "year": "2018",
+  "count_of_applications": "53",
+  "count_of_awards": "12",
+  "applications": [
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S000798/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S001417/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S00081X/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S000658/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S000453/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S000550/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S000542/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S000623/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S00050X/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S000941/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S001336/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S001352/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001158/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001204/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001301/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001344/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00095X/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000887/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000631/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000607/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000305/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000348/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000437/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000445/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000909/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001026/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000968/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000879/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000828/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001492/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001263/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00128X/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001484/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001247/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001166/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001557/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001565/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000933/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000771/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000461/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000488/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000135/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000178/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000593/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000518/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000852/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000992/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001107/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S001115/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00159X/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00131X/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000917/1"
+    },
+    {
+      "opportunity": "GCRF Sustainable Development",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S000844/1"
+    }
+  ],
+  "meeting_name": "GCRF New Models of Sustainable Development",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2018-08",
+  "meeting_end": "2018-08"
+}

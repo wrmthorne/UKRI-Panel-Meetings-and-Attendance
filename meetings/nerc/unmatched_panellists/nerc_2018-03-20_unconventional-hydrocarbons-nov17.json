@@ -1,0 +1,71 @@
+{
+  "council": "NERC",
+  "meeting_location": "Swindon",
+  "panel_secretary": "Hannah Perkins",
+  "panellists": [
+    {
+      "name": "Andrew Binley",
+      "role": "Chair",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Simone Abram",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Claudia Aravena",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Auke Barnhoorn Delft",
+      "role": "Member",
+      "organisation": "University of Technology"
+    },
+    {
+      "name": "Rob Bellamy",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Mike Bickle",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Andrew Binley",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Neil Carter",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Niels Hemmingsen Schovsbo Geol",
+      "role": "Member",
+      "organisation": "Survey of Denmark and Greenland"
+    },
+    {
+      "name": "Chris Hilson",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Ulrich Ofterdinger Queen’s",
+      "role": "Member",
+      "organisation": "University of Belfast"
+    },
+    {
+      "name": "David Sanderson",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    }
+  ],
+  "meeting_name": "Unconventional Hydrocarbons NOV17",
+  "source": "NERC-funding-assessment-panel-members-2017/Meeting List Template - Single Panel Meeting - Uncoventional Hydrocarbons NOV17 (003).pdf",
+  "meeting_start": "2018-03-20",
+  "meeting_end": "2018-03-20"
+}

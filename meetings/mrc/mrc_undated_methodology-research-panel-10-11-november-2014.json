@@ -1,0 +1,175 @@
+{
+  "council": "MRC",
+  "count_of_applications": "33",
+  "count_of_awards": "7",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 12/45 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M013170/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M013049/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L022451/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M011968/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M012999/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013294/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M01326X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M013138/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L023792/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M012220/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013456/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013421/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/M013278/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M013227/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M00550X/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M012247/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M01357X/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013642/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/M013510/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013073/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013154/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013375/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013200/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013030/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013413/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013243/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013219/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013308/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013472/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013332/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013359/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013499/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/M013545/1"
+    }
+  ],
+  "meeting_name": "Methodology Research Panel 10   11 November 2014",
+  "source": "government_web_archive/Methodology Research Panel 10 - 11 November 2014.xlsx"
+}

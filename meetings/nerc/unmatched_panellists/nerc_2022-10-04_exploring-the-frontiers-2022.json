@@ -1,0 +1,107 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom Virtual Meeting",
+  "panel_secretary": "Eve Sherman",
+  "panel_name": "Exploring the Frontiers Panel 1",
+  "panellists": [
+    {
+      "name": "Finlay Stuart",
+      "role": "Chair",
+      "organisation": "Scottish Universities Environmental Research Centre"
+    },
+    {
+      "name": "Sasha Turchyn",
+      "role": "Deputy Chair",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Laurent Amoudry",
+      "role": "Member",
+      "organisation": "National Oceanography Centre"
+    },
+    {
+      "name": "Andreas Baas",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Peter Clarke",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "David Dobson",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Richard Evershed",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Mike Fowler",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Daren Gooddy",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Stephen Jones",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Andrew McCaig",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Adrian Muxworthy",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Annie Ockelford",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Sandhya Patidar",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Michele Paulatto",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Clare Robinson The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Ulrich Salzmann",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Andrew Walker",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Jim Wharfe Wharfe",
+      "role": "Member",
+      "organisation": "Independent Consulting"
+    }
+  ],
+  "meeting_name": "Exploring the Frontiers 2022",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-030223-ExploringFrontiersAssessmentPanelMembershipJune2022.pdf",
+  "meeting_start": "2022-10-04",
+  "meeting_end": "2022-10-05"
+}

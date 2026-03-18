@@ -1,0 +1,122 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "17",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P012299/1",
+      "lead_applicant": "Nicolas Salazar Sutil",
+      "lead_organisation": "University of Leeds",
+      "title": "Social Choreography Network",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P014518/1",
+      "lead_applicant": "Catriona Pennell",
+      "lead_organisation": "University of Exeter",
+      "title": "Teaching and Learning War Research Network: Education and Modern Conflict in an International Comparative Perspective",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009050/1",
+      "lead_applicant": "Janet Watson",
+      "lead_organisation": "University of Leeds",
+      "title": "The Symbiotic Relationship between Language and Nature in Southern and Eastern Arabia",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P01402X/1",
+      "lead_applicant": "Maxine Berg",
+      "lead_organisation": "University of Warwick",
+      "title": "Global History and Micro History: A GlobalMicro Pathway",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P013473/1",
+      "lead_applicant": "James Mussell",
+      "lead_organisation": "University of Leeds",
+      "title": "Letterpress Printing: Past, Present, Future",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00993X/1",
+      "lead_applicant": "Alexandrina Buchanan",
+      "lead_organisation": "University of Liverpool",
+      "title": "Architecture and Society in an Age of Reform",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P013449/1",
+      "lead_applicant": "Philip Hammond",
+      "lead_organisation": "London South Bank University",
+      "title": "War Games: Memory, Militarism, and the Subject of Play",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P014852/1",
+      "lead_applicant": "Dominic Glynn",
+      "lead_organisation": "University of London",
+      "title": "Literature under Constraint",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013457/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014100/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015026/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014283/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013945/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009743/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013864/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009182/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01514X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, February 2017",
+  "source": "1702-research-networking-moderation.xlsx",
+  "meeting_start": "2017-02",
+  "meeting_end": "2017-02"
+}

@@ -1,0 +1,102 @@
+{
+  "council": "MRC",
+  "count_of_applications": "18",
+  "count_of_awards": "13",
+  "notes": "No applications were deferred for consideration at the next Panel meeting. \n\nProposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 75 of the initial 93 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "MR/X007146/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/X007197/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/X007219/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/X007170/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/X007553/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/X007065/1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "MR/X007332/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/X00743X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/X007413/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/X007243/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/X007847/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/X007324/1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "MR/X00757X/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/X007464/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/X007472/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/X007421/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/X007510/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/X007669/1"
+    }
+  ],
+  "meeting_name": "Non-Clinical Fellowships round 1 -19-20 October 2022",
+  "source": "Career-development-award-and-senior-non-clinical-f/MRC-051222-NonClinicalFellowshipsRound1-FundingOutcomesOctober2022.xlsx",
+  "meeting_start": "2022-10-01",
+  "meeting_end": "2022-10-01"
+}

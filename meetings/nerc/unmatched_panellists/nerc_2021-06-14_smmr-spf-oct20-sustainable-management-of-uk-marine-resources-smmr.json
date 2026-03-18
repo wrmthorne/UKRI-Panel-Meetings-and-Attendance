@@ -1,0 +1,96 @@
+{
+  "council": "NERC",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Nicola Lewis",
+  "panellists": [
+    {
+      "name": "Ian Boyd",
+      "role": "Chair",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Hilary Graham",
+      "role": "Deputy Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Peder Andersen",
+      "role": "Member",
+      "organisation": "University of Copenhagen"
+    },
+    {
+      "name": "Peter Barbrook-Johnson",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Lory Barile",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Keith Brander Technical",
+      "role": "Member",
+      "organisation": "University of Denmark"
+    },
+    {
+      "name": "Paul Brooks",
+      "role": "Member",
+      "organisation": "University College Dublin"
+    },
+    {
+      "name": "Donata Melaku Canu National",
+      "role": "Member",
+      "organisation": "Institute of Oceanography and"
+    },
+    {
+      "name": "Applied Geophysics",
+      "role": "Member",
+      "organisation": "(OGS)"
+    },
+    {
+      "name": "Corrado Di Maria",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Claire Gollety Centre Universitaire",
+      "role": "Member",
+      "organisation": "Mayotte"
+    },
+    {
+      "name": "Sabine Pahl",
+      "role": "Member",
+      "organisation": "University of Vienna/University of Plymouth"
+    },
+    {
+      "name": "Jeremy Phillipson",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Lynda Rodwell",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Tommaso Russo",
+      "role": "Member",
+      "organisation": "University of Rome II (Tor Vergata)"
+    },
+    {
+      "name": "Tom Spencer",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Jonathan Yearsley",
+      "role": "Member",
+      "organisation": "University College Dublin"
+    }
+  ],
+  "meeting_name": "SMMR (SPF) OCT20 Sustainable Management of UK Marine Resources (SMMR)",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-SMMR-061020.pdf",
+  "meeting_start": "2021-06-14",
+  "meeting_end": "2021-06-15"
+}

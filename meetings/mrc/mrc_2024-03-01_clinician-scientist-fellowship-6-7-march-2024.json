@@ -1,0 +1,32 @@
+{
+  "council": "MRC",
+  "count_of_applications": "4",
+  "count_of_awards": "0",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 8 applications did not pass an initial shortlisting stage and were not considered further. Of the 9 applications that did pass the initial shortslisting stage, 1 application were withdrawn by the applicants prior to the meeting.",
+  "applications": [
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP10843"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP11670"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP12949"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP13693"
+    }
+  ],
+  "meeting_name": "Clinician Scientist Fellowship 6-7 March 2024",
+  "source": "Clinician-scientist-fellowship/MRC-210125-ClinicianScientistFellowshipFundingDecisionsMarch2024.xlsx",
+  "meeting_start": "2024-03-01",
+  "meeting_end": "2024-03-01"
+}

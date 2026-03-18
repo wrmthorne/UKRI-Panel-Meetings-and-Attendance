@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote via zoom",
+  "panel_secretary": "Philippa Kennard",
+  "panellists": [
+    {
+      "name": "Jackie Parry",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Christine",
+      "role": "Chair",
+      "organisation": "MaggsBournemouth University"
+    },
+    {
+      "name": "Elizabeth Gardner Kew",
+      "role": "Member",
+      "organisation": "Gardens"
+    },
+    {
+      "name": "Vincent Smith",
+      "role": "Member",
+      "organisation": "Natural History Museum"
+    },
+    {
+      "name": "Arwyn Edwards",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    }
+  ],
+  "meeting_name": "Culture Collection of Algae and Protozoa (CCAP) Assessment Panel For the 4 th October 2023 closing date",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-23112023-CCAP-assessment-panel.pdf",
+  "meeting_start": "2023-11-09",
+  "meeting_end": "2023-11-09"
+}

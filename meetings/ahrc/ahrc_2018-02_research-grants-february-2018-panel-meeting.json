@@ -1,0 +1,234 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "37",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R012989/1",
+      "lead_applicant": "Kate Elswit",
+      "lead_organisation": "Royal Central School of Speech and Drama",
+      "title": "Dunham's Data - Katherine Dunham and Digital Methods for Dance Historical Inquiry",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R005494/1",
+      "lead_applicant": "Jan Van Zyl Smit",
+      "lead_organisation": "British Institute of International and Comp Law",
+      "title": "Special Processes for the Reassessment and Removal of Judges in the Context of a Constitutional Transition: Strengthening the Rule of Law?",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R005915/1",
+      "lead_applicant": "Anselma Gallinat",
+      "lead_organisation": "Newcastle University",
+      "title": "KNOWING THE SECRET POLICE: Secrecy and knowledge in East German Society",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R008426/1",
+      "lead_applicant": "Liam Harte",
+      "lead_organisation": "University of Manchester",
+      "title": "Conflict, Memory and Migration: Northern Irish Migrants and the Troubles in Great Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R007896/1",
+      "lead_applicant": "Thomas Hulme",
+      "lead_organisation": "Queen's University Belfast",
+      "title": "Voyaging through History: the Meanings of the Mayflower, 1620-2020",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R012873/1",
+      "lead_applicant": "Claire Taylor",
+      "lead_organisation": "University of Liverpool",
+      "title": "Memory, Victims and Representation of the Colombian Conflict",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R007101/1",
+      "lead_applicant": "Jim Davis",
+      "lead_organisation": "University of Warwick",
+      "title": "Theatre and Visual Cultre in the Long Nineteenth Century",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R005842/1",
+      "lead_applicant": "David Austin",
+      "lead_organisation": "University of Wales Trinity St David",
+      "title": "The sacred landscapes of medieval monasteries: an inter-disciplinary study of meaning embedded in space and production",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007179/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008183/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R012695/1",
+      "lead_applicant": "Rebecca Tipton",
+      "lead_organisation": "University of Manchester",
+      "title": "Translation, interpretation and the British humanitarian response to asylum seeker and refugee arrivals since the 1940s",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008159/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R010595/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008604/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007322/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00708X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007373/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007470/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R010501/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007098/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008450/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R011184/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007233/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008388/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008051/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006954/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007608/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006431/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008353/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005281/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008523/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007721/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008108/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007748/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007756/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012938/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006547/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, February 2018 Panel Meeting",
+  "source": "Research Grants Panel, February 2018 Meeting.xlsx",
+  "meeting_start": "2018-02",
+  "meeting_end": "2018-02"
+}

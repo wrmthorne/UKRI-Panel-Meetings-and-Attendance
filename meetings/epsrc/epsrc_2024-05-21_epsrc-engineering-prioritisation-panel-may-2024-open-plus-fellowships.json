@@ -1,0 +1,67 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN345",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel May 2024 – Open Plus Fellowships",
+  "meeting_convenor": "Z Brown",
+  "applications": [
+    {
+      "application_id": "APP9587",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "140",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13411",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "140",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13659",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "140",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    },
+    {
+      "application_id": "APP5874",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "140",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-05-21",
+  "meeting_end": "2024-05-21"
+}

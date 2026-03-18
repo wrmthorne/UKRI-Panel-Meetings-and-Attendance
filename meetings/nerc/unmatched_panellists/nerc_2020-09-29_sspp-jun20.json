@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Liz Rowse",
+  "panellists": [
+    {
+      "name": "Phil Purnell",
+      "role": "Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Allen Alexander",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Marco Amici",
+      "role": "Member",
+      "organisation": "INEOS"
+    },
+    {
+      "name": "Nick Cliffe Innovate",
+      "role": "Member",
+      "organisation": "UK"
+    },
+    {
+      "name": "Paul Davidson Innovate",
+      "role": "Member",
+      "organisation": "UK"
+    },
+    {
+      "name": "Andrew Dove",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Kristina Niedderer",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Nikolaos Stylos",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Nina Sweet",
+      "role": "Member",
+      "organisation": "WRAP"
+    },
+    {
+      "name": "Benny Tjahjono Coventry",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Jim Wharfe",
+      "role": "Member",
+      "organisation": "Independent"
+    }
+  ],
+  "meeting_name": "SSPP JUN20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-SmartSustainablePlasticPackaging-28300920meeting-300620.pdf",
+  "meeting_start": "2020-09-29",
+  "meeting_end": "2020-09-30"
+}

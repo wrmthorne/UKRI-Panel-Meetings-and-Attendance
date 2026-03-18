@@ -1,0 +1,53 @@
+{
+  "council": "NERC",
+  "panel_secretary": "Kay Heuser, NERC CIRIA Attendees: Owen Jenkins, CIRIA",
+  "panellists": [
+    {
+      "name": "Panel Chair:",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Dawson",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Panel Members:",
+      "role": "Member"
+    },
+    {
+      "name": "EDF Pietro Bernardara",
+      "role": "Member"
+    },
+    {
+      "name": "ARUP Kate Canning",
+      "role": "Member"
+    },
+    {
+      "name": "Nigel Cassidy",
+      "role": "Member",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "National Grid David Green",
+      "role": "Member"
+    },
+    {
+      "name": "Kevin Horsburgh",
+      "role": "Member",
+      "organisation": "National Oceanography Centre"
+    },
+    {
+      "name": "Simon Jude",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Roger Street",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    }
+  ],
+  "meeting_name": "Environmental Risk to Infrastructure Innovation Programme Full Proposal: Assessment Panel 20 July 2016 CIRIA, London Panel Chair: Richard Dawson, Newcastle University",
+  "source": "NERC-funding-assessment-panel-members-2016/ERIIP Panel Members Full Proposal.pdf"
+}

@@ -1,0 +1,47 @@
+{
+  "council": "NERC",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P011217/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P011160/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011187/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011179/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011209/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011128/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011225/1",
+      "rank": "7"
+    }
+  ],
+  "meeting_name": "ENVIRONMENTAL SCIENCE IMPACT PROGRAMME July 2016",
+  "source": "ESIP July 2016.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

@@ -1,0 +1,29 @@
+{
+  "council": "NERC",
+  "count_of_applications": "4",
+  "count_of_awards": "4",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P003079/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P003060/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P003087/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P003133/1",
+      "rank": "2017"
+    }
+  ],
+  "meeting_name": "Grant Reference",
+  "source": "CONICYT - NERC Antarctic Jan 2016.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

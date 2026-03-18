@@ -1,0 +1,95 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "14",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M003396/1",
+      "lead_applicant": "Paul Foulkes",
+      "lead_organisation": "University of York",
+      "title": "Voice and Identity: source, filter, biometric",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005550/1",
+      "lead_applicant": "Jennifer Smith",
+      "lead_organisation": "University of Glasgow",
+      "title": "The Scots Syntactic Atlas",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M004155/1",
+      "lead_applicant": "Nicki Hitchcott",
+      "lead_organisation": "University of Nottingham",
+      "title": "Post-Traumatic Growth in Testimonies from Survivors and Perpetrators of the Rwanda Genocide",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005119/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004287/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00550X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004996/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005208/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M001903/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M001911/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004112/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003329/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004864/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005542/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants Panel D September 2014",
+  "source": "AHRC Scheme Call Panel Research Grants Panel D September 2014.xlsx",
+  "meeting_start": "2014-09",
+  "meeting_end": "2014-09"
+}

@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Sam Tailby",
+  "panellists": [
+    {
+      "name": "Guillaume Chomicki",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Alice Pyne",
+      "role": "Deputy Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Robert Blackwell",
+      "role": "Member",
+      "organisation": "CEFAS"
+    },
+    {
+      "name": "Guillaume Chomicki",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Kate Gill",
+      "role": "Member",
+      "organisation": "Kew"
+    },
+    {
+      "name": "Stefan Istrate",
+      "role": "Member",
+      "organisation": "Tech4Nature Ltd"
+    },
+    {
+      "name": "Diego Marcos National Institute",
+      "role": "Member",
+      "organisation": "for Research in Digital Science and"
+    },
+    {
+      "name": "Dan Morris Google",
+      "role": "Member",
+      "organisation": "AI for Nature"
+    },
+    {
+      "name": "Ben Scott",
+      "role": "Member",
+      "organisation": "Natural History Museum"
+    },
+    {
+      "name": "Craig Sturrock The",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Heather Turner The",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    }
+  ],
+  "meeting_name": "NERC Tools for Automating Image Analysis for Biodiversity Monitoring",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-23112023-Tools-for-automating-image-analysis-for-biodiversity-monitoring-panel-meeting.pdf",
+  "meeting_start": "2023-11-22",
+  "meeting_end": "2023-11-22"
+}

@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2020",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "Productivity Inst Full 2020",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/V002740/1"
+    },
+    {
+      "opportunity": "Productivity Inst Full 2020",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V002783/1"
+    }
+  ],
+  "meeting_name": "Productivity Institute Full 2020 - AG Mtg and Interview",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2020-08",
+  "meeting_end": "2020-08"
+}

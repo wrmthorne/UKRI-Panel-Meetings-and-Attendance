@@ -1,0 +1,61 @@
+{
+  "council": "NERC",
+  "meeting_location": "Crowne Plaza London - Kensington",
+  "panel_secretary": "Dr Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Gideon Henderson Department",
+      "role": "Chair",
+      "organisation": "of Environment, Food and Rural Affairs"
+    },
+    {
+      "name": "/",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Paul Manners",
+      "role": "Deputy Chair",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Megan Bowman",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Allan Butler Royal Agricultural",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Steven Emery",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Cathy Johnson Department",
+      "role": "Member",
+      "organisation": "for Business, Energy & Industrial Strategy"
+    },
+    {
+      "name": "Ole Pedersen",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Jorn Scharlemann",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Dimitrios Xenias",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    }
+  ],
+  "meeting_name": "GGR Directorate Hub Outline",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-GreenhouseGasRemovalDemonstratorsOutline-191119.pdf",
+  "meeting_start": "2020-01-27",
+  "meeting_end": "2020-01-27"
+}

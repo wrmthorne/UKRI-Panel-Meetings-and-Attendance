@@ -1,0 +1,149 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "20",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006887/1",
+      "lead_applicant": "Greville Corbett",
+      "lead_organisation": "University of Surrey",
+      "title": "Lexical splits: a novel perspective on the structure of words",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006070/1",
+      "lead_applicant": "Simon Gilson",
+      "lead_organisation": "University of Warwick",
+      "title": "Petrarch Commentary and Exegesis in Renaissance Italy, c. 1350-c. 1650",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N010051/1",
+      "lead_applicant": "Nicolas Whybrow",
+      "lead_organisation": "University of Warwick",
+      "title": "Sensing the City: an Embodied Documentation and Mapping of the Changing Uses and Tempers of Urban Place (a practice-based case-study of Coventry)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P000126/1",
+      "lead_applicant": "George Revill",
+      "lead_organisation": "Open University",
+      "title": "Listening to Climate Change: experiments with sonic democracy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P003273/1",
+      "lead_applicant": "Julia Laite",
+      "lead_organisation": "Birkbeck College",
+      "title": "Trafficking, Smuggling, and Illicit Migration in Gendered and Historical Perspective, c 1870-2000",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N009177/1",
+      "lead_applicant": "Roy Gibson",
+      "lead_organisation": "The University of Manchester",
+      "title": "Ancient Letter Collections",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P003923/1",
+      "lead_applicant": "Juliane Christiane Angelika Furst",
+      "lead_organisation": "University of Bristol",
+      "title": "Notes from the Zone of Kaif: The Life and Work of Azazello - Hippie, Poet, Drug Addict and Artist",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P00217X/1",
+      "lead_applicant": "Christoph Hoerl",
+      "lead_organisation": "University of Warwick",
+      "title": "Time: Between Metaphysics and Psychology",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N009053/1",
+      "lead_applicant": "Benjamin Sutherland Wardhaugh",
+      "lead_organisation": "University of Oxford",
+      "title": "Reading Euclid: Euclid's Elements of Geometry and its reception in Britain and Ireland, 1570-1700",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009967/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007298/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007263/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007832/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P000231/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003524/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00955X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006003/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007646/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00972X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009835/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, April 2016 panel meeting",
+  "source": "Research Grants Panel, April 2016 meeting.xlsx",
+  "meeting_start": "2016-04",
+  "meeting_end": "2016-04"
+}

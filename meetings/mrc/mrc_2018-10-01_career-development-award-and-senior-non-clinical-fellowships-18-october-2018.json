@@ -1,0 +1,92 @@
+{
+  "council": "MRC",
+  "count_of_applications": "16",
+  "count_of_awards": "7",
+  "notes": null,
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/S006982/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S006990/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007172/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S006907/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/S007091/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S007180/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007431/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007237/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/S007229/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S007288/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007636/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007350/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/S007644/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007695/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007423/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S007342/1"
+    }
+  ],
+  "meeting_name": "Career Development Award and Senior Non-Clinical Fellowships - 18 October 2018",
+  "source": "Career-development-award-and-senior-non-clinical-f/MRC-111021-CDA-SNCF-FundingOutcomes-October2018.xlsx",
+  "meeting_start": "2018-10-01",
+  "meeting_end": "2018-10-01"
+}

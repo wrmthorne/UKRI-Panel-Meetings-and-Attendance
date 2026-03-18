@@ -1,0 +1,78 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-407129773",
+  "meeting_name": "Follow on Fund - December 2018",
+  "applications": [
+    {
+      "application_id": "AH/S008055/1",
+      "route": "Standard",
+      "lead_applicant": "Sharon Ruston",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Lancaster University",
+      "title": "Crowdsourced Transcriptions of Humphry Davy's Notebooks",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007628/1",
+      "route": "Standard",
+      "lead_applicant": "Shelley Jane Trower",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Roehampton University",
+      "title": "Living Libraries",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007075/1",
+      "route": "Standard",
+      "lead_applicant": "Lee Moya Edwards",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "London School of Economics & Pol Sci",
+      "title": "Follow-on Funding: Improving Deliberation, Improving Copyright",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006109/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006788/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Fabrizio James Nevola",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Franziska Schroeder",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Wayne Michael Martin",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-12-12",
+  "meeting_end": "2018-12-12"
+}

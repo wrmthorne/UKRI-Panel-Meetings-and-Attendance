@@ -1,0 +1,76 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Katie Waiters",
+  "panellists": [
+    {
+      "name": "Harriett Richardson",
+      "role": "Chair",
+      "organisation": "National Centre for Atmospheric Science"
+    },
+    {
+      "name": "Glenn Watts Environment",
+      "role": "Deputy Chair",
+      "organisation": "Agency"
+    },
+    {
+      "name": "Enda Hayes",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Clio Heslop British Science",
+      "role": "Member",
+      "organisation": "Association"
+    },
+    {
+      "name": "Saba Iftikhar Pennine",
+      "role": "Member",
+      "organisation": "Oaks"
+    },
+    {
+      "name": "Caroline Lear",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "David Milan",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Richard Pancost",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "David Pyle",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Melanie Rohse Anglia Ruskin",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Chloe Sheppard The Health",
+      "role": "Member",
+      "organisation": "Foundation"
+    },
+    {
+      "name": "Dean Veall",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Savita Willmot Natural History",
+      "role": "Member",
+      "organisation": "Consortium"
+    }
+  ],
+  "meeting_name": "NERC Engaged Environmental Science",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-240624-EngagedEnvironmentalScienceAssessmentPanelForThe30April2024ClosingDate.pdf",
+  "meeting_start": "2024-06-24",
+  "meeting_end": "2024-06-24"
+}

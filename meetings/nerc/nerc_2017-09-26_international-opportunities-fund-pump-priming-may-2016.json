@@ -1,0 +1,200 @@
+{
+  "council": "NERC",
+  "count_of_applications": "24",
+  "count_of_awards": "5",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P00878X/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008798/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008453/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008534/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008100/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008046/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008682/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008739/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008410/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008569/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008496/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008038/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008313/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P00850X/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008518/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008542/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008550/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P00864X/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008704/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008712/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008720/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008801/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P00847X/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008607/1",
+      "rank": "23"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Philip Ashworth",
+      "role": "Chair",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Awadhesh Jha",
+      "role": "Member",
+      "organisation": "Plymouth University"
+    },
+    {
+      "name": "Colin Prentice",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "James Brasington Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Yit Arn Teh",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Kevin Hiscock",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Charles Knapp",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Nicholas Kamenos",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Mark Allen",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Sofia Consuegra del Olmo",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Lena Bayer-Wilfert",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Friederike Otto",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Dudley Shallcross",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    }
+  ],
+  "meeting_name": "INTERNATIONAL OPPORTUNITIES FUND - PUMP PRIMING, MAY 2016",
+  "source": "IOF (Pump Priming) May 2016.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2017/International Opportunities Fund panel list June 2017.pdf",
+  "meeting_start": "2017-09-26",
+  "meeting_end": "2017-09-26"
+}

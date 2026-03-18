@@ -1,0 +1,51 @@
+{
+  "council": "NERC",
+  "meeting_location": "Department for Business Energy and Industrial Strategy (BEIS) Conference",
+  "panel_secretary": "Claire Simmons",
+  "panellists": [
+    {
+      "name": "Nick Chappell",
+      "role": "Chair",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Dilanthi Amaratunga",
+      "role": "Member",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "Sarah Brown Practical",
+      "role": "Member",
+      "organisation": "Action"
+    },
+    {
+      "name": "Wouter Buytaert",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Jon Ensor",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Bjorn Kalsnes",
+      "role": "Member",
+      "organisation": "Norwegian Geotechnical Institute"
+    },
+    {
+      "name": "Celia Petty",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Fabrice Renaud",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    }
+  ],
+  "meeting_name": "GCRF Multi-Hazards Risk SEP19",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-GCRF-MultihazardsSystemicRisks-120919.pdf",
+  "meeting_start": "2020-01-22",
+  "meeting_end": "2020-01-23"
+}

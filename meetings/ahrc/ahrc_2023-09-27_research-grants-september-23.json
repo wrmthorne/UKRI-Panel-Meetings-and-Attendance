@@ -1,0 +1,158 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-984613367",
+  "meeting_name": "Research Grants - September 23",
+  "applications": [
+    {
+      "application_id": "AH/Y004248/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004841/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00499X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001869/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003071/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004884/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001990/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002121/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002733/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004566/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002660/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001982/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Marianne Greated",
+      "organisation": "Glasgow School of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Hewitt",
+      "organisation": "Private Address",
+      "role": "Member"
+    },
+    {
+      "name": "Yun Gao",
+      "organisation": "Writtle University College",
+      "role": "Member"
+    },
+    {
+      "name": "Graham Saunders",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Yang Jiang",
+      "organisation": "University of Hull",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-09-27",
+  "meeting_end": "2023-09-27"
+}

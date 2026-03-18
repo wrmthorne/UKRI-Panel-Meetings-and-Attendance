@@ -1,0 +1,279 @@
+{
+  "council": "NERC",
+  "count_of_applications": "34",
+  "count_of_awards": "8",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S012850/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S013172/1",
+      "rank": "2"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S01232X/1",
+      "rank": "3"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S012427/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S012478/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S012834/1",
+      "rank": "6"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S012354/1",
+      "rank": "7"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S012567/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S012613/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S012311/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S01280X/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S012761/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S013075/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S012974/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S012680/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S012087/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S012060/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S012370/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S012389/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S012869/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S012966/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S013024/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S01201X/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S012095/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S012192/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S012400/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S012435/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S01294X/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S01313X/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/S013156/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/S011986/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/S01263X/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/S012656/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/S013105/1",
+      "rank": "30"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Piran White",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Milena Buchs",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Georgina Endfield",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Kersty Hobson",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Congqiang Liu Chinese Academy",
+      "role": "Member",
+      "organisation": "of Sciences"
+    },
+    {
+      "name": "Virendra Kumar Vijay Indian",
+      "role": "Member",
+      "organisation": "Institute of Technology Delhi"
+    },
+    {
+      "name": "Lindsey McEwen",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Tom Henry Oliver",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Mark Reed",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Osamu Saito Hitotsubashi",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Thorsten Wagener",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Erik Westholm Swedish",
+      "role": "Member",
+      "organisation": "University of Agricultural"
+    }
+  ],
+  "meeting_name": "Towards a Sustainable Earth (TaSE) Rank",
+  "source": "TaSE - August 2018.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2018/TaSE Panel for web publishing.pdf",
+  "meeting_start": "2018-11-20",
+  "meeting_end": "2018-11-21"
+}

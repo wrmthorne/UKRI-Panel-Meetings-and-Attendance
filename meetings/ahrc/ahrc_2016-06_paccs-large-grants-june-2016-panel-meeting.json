@@ -1,0 +1,91 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "12",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005330/1",
+      "lead_applicant": "Jeremy Lind",
+      "lead_organisation": "Institute of Development Studies",
+      "title": "'Seeing' conflicts at the margins: understanding community experiences through social research and digital narrative in Kenya and Madagascar",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005381/1",
+      "lead_applicant": "Fiona Magowan",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Sounding Conflict: From Resistance to Reconciliation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005438/1",
+      "lead_applicant": "Elena Fiddian-Qasmiyeh",
+      "lead_organisation": "University College London",
+      "title": "Local Community Experiences of and Responses to Conflict-Induced Displacement from Syria: Views from Lebanon, Jordan and Turkey",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005454/1",
+      "lead_applicant": "Tim Allen",
+      "lead_organisation": "London School of Economics & Pol Sci",
+      "title": "Return, Responsibility and Reintegration in Central Africa: A multi-disciplinary exploration into endemic violence and social repair",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005446/1",
+      "lead_applicant": "Annette Idler",
+      "lead_organisation": "University of Oxford",
+      "title": "The Changing Character of Conflict Platform: Understanding, Tracing and Forecasting Change across Time, Space and Cultures",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005365/1",
+      "lead_applicant": "Rachel Kerr",
+      "lead_organisation": "King's College London",
+      "title": "Art and Reconciliation: Conflict, Culture and Community",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P00542X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005462/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005403/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005497/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005470/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005489/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "PaCCS Large Grants, June 2016 Panel Meeting",
+  "source": "PaCCS Large Grants June 2016 Meeting.xlsx",
+  "meeting_start": "2016-06",
+  "meeting_end": "2016-06"
+}

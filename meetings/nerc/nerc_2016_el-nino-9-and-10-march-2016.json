@@ -1,0 +1,534 @@
+{
+  "council": "NERC",
+  "count_of_applications": "87",
+  "count_of_awards": "14",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/P004725/1",
+      "rank": "5"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/P00458X/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004121/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004512/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004881/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004210/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004091/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P003974/1",
+      "rank": "4"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004806/1",
+      "rank": "4"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004407/1",
+      "rank": "4"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P004830/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/P004784/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P00363X/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P00394X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004482/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P00489X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004350/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P00427X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004903/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004652/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004113/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004547/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004393/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004911/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P00461X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004822/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/P004318/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P00413X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004172/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004733/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P003648/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004067/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004105/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004156/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004415/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004423/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004563/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004660/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P00475X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004776/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004040/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P004644/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P003168/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P003389/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004083/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004288/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P00430X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004326/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004342/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004636/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004695/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P003346/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004199/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004261/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004334/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004369/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P00444X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004458/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004490/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004814/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004849/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004601/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004628/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004717/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P004768/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P003559/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004245/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004377/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004504/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004555/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004571/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004598/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004679/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004741/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004865/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004873/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P003753/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004032/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004059/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004148/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004164/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004253/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004520/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P004857/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/P004296/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/P004709/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "2",
+      "application_id": "NE/P004687/1",
+      "rank": "2"
+    }
+  ],
+  "meeting_name": "El Nino 9 and 10 March 2016",
+  "source": "El Nino Jan 16.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

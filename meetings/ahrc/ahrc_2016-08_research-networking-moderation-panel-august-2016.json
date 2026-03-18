@@ -1,0 +1,117 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "16",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\n* Please note that Application AH/P006280/1 was exceptionally funded due to it's strong strategic fit to the Highlight Notice - International Development in the Research Networking Scheme",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005993/1",
+      "lead_applicant": "Robin Coningham",
+      "lead_organisation": "Durham University",
+      "title": "Promoting the Protection of Heritage Sites in Nepal's Western Terai in the Face of Accelerated Development",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006841/1",
+      "lead_applicant": "Aleksandra McClain",
+      "lead_organisation": "University of York",
+      "title": "Archaeologies of the Norman Conquest",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006027/1",
+      "lead_applicant": "Aoife O'Donoghue",
+      "lead_organisation": "Durham University",
+      "title": "UN Gender Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00606X/1",
+      "lead_applicant": "Chris Paterson",
+      "lead_organisation": "University of Leeds",
+      "title": "Development Assistance and independent journalism in Africa and Latin America: A cross-national and multidisciplinary research network.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006418/1",
+      "lead_applicant": "Emma Tomalin",
+      "lead_organisation": "University of Leeds",
+      "title": "Keeping Faith in 2030: Religions and the Sustainable Development Goals",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006299/1",
+      "lead_applicant": "Mark Philp",
+      "lead_organisation": "University of Warwick",
+      "title": "Constructions of Public Office",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006760/1",
+      "lead_applicant": "Olivette Otele",
+      "lead_organisation": "Bath Spa University",
+      "title": "People of African Descent in the 21st century: knowledge and cultural production in reluctant sites of memory",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005284/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006280/1",
+      "lead_applicant": "Julia McClure",
+      "lead_organisation": "University of Warwick",
+      "title": "Poverty Research Network",
+      "score": "4*"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006213/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006094/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006779/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006647/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006388/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006302/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005756/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, August 2016",
+  "source": "Research Networking , August 2016 Moderation.xlsx",
+  "meeting_start": "2016-08",
+  "meeting_end": "2016-08"
+}

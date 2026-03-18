@@ -1,0 +1,68 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-338118001",
+  "meeting_name": "FoF February 2018",
+  "applications": [
+    {
+      "application_id": "AH/R013543/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Kerrie Shaughnessy",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Kent",
+      "title": "Autism Re-Imagined: Creative Resources for Schools and Communities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00002X/1",
+      "route": "Standard",
+      "lead_applicant": "Selina Todd",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Oxford",
+      "title": "Housing, Culture and Women's Citizenship in Britain, c.1945 to the present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013233/1",
+      "route": "Standard",
+      "lead_applicant": "Laura King",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Leeds",
+      "title": "The Role of Objects and Places in Remembrance Culture: Using research in an artistic collaboration",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S000240/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Catherine Teresa Eagleton",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Fabrizio James Nevola",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-02-22",
+  "meeting_end": "2018-02-22"
+}

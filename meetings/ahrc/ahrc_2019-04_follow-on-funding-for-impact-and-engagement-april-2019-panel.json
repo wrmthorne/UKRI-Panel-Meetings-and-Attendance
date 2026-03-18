@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "11",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001372/1",
+      "lead_applicant": "Paul Heritage",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Xingu Encounter: Venice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012834/1",
+      "lead_applicant": "Rosalind Crone",
+      "lead_organisation": "Open University",
+      "title": "Prison History for New Learners Inside and Outside the Prison",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012435/1",
+      "lead_applicant": "Frances Lennard",
+      "lead_organisation": "University of Glasgow",
+      "title": "A living tradition: Expanding engagement with Pacific barkcloth",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010947/1",
+      "lead_applicant": "Barry Godfrey",
+      "lead_organisation": "University of Liverpool",
+      "title": "Prison culture and heritage: Fremantle Prison Wall paintings and their artists",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012702/1",
+      "lead_applicant": "Graeme Gooday",
+      "lead_organisation": "University of Leeds",
+      "title": "Electrifying Women: Understanding the Long History of Women in Engineering.",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012230/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T001062/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T002050/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011978/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013083/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T001275/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow on Funding for Impact and Engagement April 2019 panel",
+  "source": "Follow-on Funding for Impact and Engagement April 2019 Meeting.xlsx",
+  "meeting_start": "2019-04",
+  "meeting_end": "2019-04"
+}

@@ -1,0 +1,360 @@
+{
+  "council": "MRC",
+  "applications": [
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3205",
+      "link": "https://gtr.ukri.org/projects?ref=3205",
+      "application_id": "APP80256"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3203",
+      "link": "https://gtr.ukri.org/projects?ref=3203",
+      "application_id": "APP80711"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3204",
+      "link": "https://gtr.ukri.org/projects?ref=3204",
+      "application_id": "APP82986"
+    },
+    {
+      "title": "ICF - Restoring the neural code through optimal hearing aids: Toward validated prototypes",
+      "lead_applicant": "Nicholas Lesica",
+      "lead_organisation": "University College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3206",
+      "link": "https://gtr.ukri.org/projects?ref=3206",
+      "application_id": "APP83643"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3208",
+      "link": "https://gtr.ukri.org/projects?ref=3208",
+      "application_id": "APP83698"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3207",
+      "link": "https://gtr.ukri.org/projects?ref=3207",
+      "application_id": "APP84849"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP80315"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP80317"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP80587"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP80258"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP81516"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP81554"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP81778"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP82723"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP82777"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP80259"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP82703"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP82769"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP82997"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP81001"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Peter Parker",
+      "organisation": "Francis Crick Institute",
+      "role": "Chair"
+    },
+    {
+      "name": "Carl Goodyear",
+      "organisation": "University of Glasgow",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Aidan O'Keeffe",
+      "organisation": "University of Nottingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Alan Stitt",
+      "organisation": "Queen's University Belfast",
+      "role": "Panellist"
+    },
+    {
+      "name": "Alice Sitch",
+      "organisation": "University of Birmingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Amin Hajitou",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Angela Russell",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Aryelly Rodriguez",
+      "organisation": "University of Edinburgh",
+      "role": "Panellist"
+    },
+    {
+      "name": "Divya Chari",
+      "organisation": "Keele University",
+      "role": "Panellist"
+    },
+    {
+      "name": "Fadi Issa",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Giancarlo Biagini",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Panellist"
+    },
+    {
+      "name": "Helen Minnis",
+      "organisation": "University of Glasgow",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jenny Crinion",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jun Wang",
+      "organisation": "Queen Mary University of London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Kirsty Le Doare",
+      "organisation": "City St George's University of London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Michelle Lockley",
+      "organisation": "Queen Mary University of London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Paul Hamblin",
+      "organisation": "Bioventia Consulting Ltd",
+      "role": "Panellist"
+    },
+    {
+      "name": "Pavel Mozgunov",
+      "organisation": "University of Cambridge",
+      "role": "Panellist"
+    },
+    {
+      "name": "Payam Barnaghi",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Rachel Williams",
+      "organisation": "University of Liverpool",
+      "role": "Panellist"
+    },
+    {
+      "name": "Robert Gray",
+      "organisation": "University of Glasgow",
+      "role": "Panellist"
+    },
+    {
+      "name": "Ronjon Chakraverty",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sam Butterworth",
+      "organisation": "University of Manchester",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sanjiv Sharma",
+      "organisation": "University of Liverpool",
+      "role": "Panellist"
+    },
+    {
+      "name": "Tim Hammonds",
+      "organisation": "University of Leicester",
+      "role": "Panellist"
+    },
+    {
+      "name": "Waty Lilaonitkul",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Zion Tse",
+      "organisation": "Queen Mary University of London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Ela Chakkarapani",
+      "organisation": "University of Bristol",
+      "role": "Associate"
+    },
+    {
+      "name": "Helen Berry",
+      "organisation": "University of Leeds",
+      "role": "Associate"
+    }
+  ],
+  "count_of_applications": "20",
+  "count_of_awards": "6",
+  "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
+  "meeting_name": "MRC - Developmental Pathway Funding Scheme Panel Meeting - September 2025",
+  "meeting_reference": "PAN1428",
+  "meeting_start": "2025-09-17",
+  "meeting_end": "2025-09-17",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* APP83573 and APP83690 were deferred for consideration at the next funding meeting."
+}

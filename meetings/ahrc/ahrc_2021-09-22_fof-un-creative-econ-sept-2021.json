@@ -1,0 +1,453 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-708413812",
+  "meeting_name": "FoF UN Creative Econ Sept 2021",
+  "applications": [
+    {
+      "application_id": "AH/W006693/1",
+      "route": "Standard",
+      "lead_applicant": "Claire Louise Taylor",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Liverpool",
+      "title": "Community Museums in the Creative Economy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006839/1",
+      "route": "Standard",
+      "lead_applicant": "Lars Waldorf",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Essex",
+      "title": "Performing/Informing Rights: Dance, Right to Information, and Sustainable Development for Disabled People in Sri Lanka and Nepal",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006936/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Paul Sumner",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Leeds",
+      "title": "Cottons Hidden Voices: Stories from the makers of your clothes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00688X/1",
+      "route": "Standard",
+      "lead_applicant": "Roberta Comunian",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "King's College London",
+      "title": "African Hub for Sustainable Creative Economies (AHSCE)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006901/1",
+      "route": "Standard",
+      "lead_applicant": "Jane Elizabeth Plastow",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Leeds",
+      "title": "Building sustainable improvements in gender equality for youth through creative engagement in Uganda",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006979/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Heritage",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Roots of Resilience: building secure societies through preserving cultural heritage (Follow-On to Build Back Better AH/V006355/1)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006707/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Cooke",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Leeds",
+      "title": "My Story - News for and by teenagers. Preventing the recruitment of teenagers by illegal armed groups through participatory journalism in Colombia.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006677/1",
+      "route": "Standard",
+      "lead_applicant": "Magda Sibley",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Cardiff University",
+      "title": "HBIM Interactive Platform for Social Inclusivity in the Rehabilitation of Heritage hammams and the Development of Creative Design Economy in Marrakech",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006766/1",
+      "route": "Standard",
+      "lead_applicant": "alice tilche",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Leicester",
+      "title": "Supporting Indigenous Creative Economies in a Digital Age",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006863/1",
+      "route": "Standard",
+      "lead_applicant": "Daniel Strutt",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Building an international network for virtual dance collaboration: Deploying Goldsmiths MoCap Streamer tool for inclusive and sustainable development",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006510/1",
+      "route": "Standard",
+      "lead_applicant": "Heather Flowe",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of Birmingham",
+      "title": "Visualising Justice on Sexual Violence in Kenya: Stimulating inclusion, Peace and Public Engagement through the Creative Economy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006944/1",
+      "route": "Standard",
+      "lead_applicant": "Emma Crewe",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "SOAS University of London",
+      "title": "Performing for peace: mobilising cultural assets to leave the Mursi in peace with no-one left behind",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006804/1",
+      "route": "Standard",
+      "lead_applicant": "Marie Marie Rodet",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "SOAS University of London",
+      "title": "Co-production of a mobile game against slavery and for peace in Mali",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006812/1",
+      "route": "Standard",
+      "lead_applicant": "Melis Cin",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "Lancaster University",
+      "title": "Embedding and Enabling Creative Economy in Marginalised Societies: Creative Skills for Peace",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006537/1",
+      "route": "Standard",
+      "lead_applicant": "Cory Cory Rodgers",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "University of Oxford",
+      "title": "Cohesion & the Creative Economy: Inclusive Arts-based Programming for Peace, Stability and Conflict Prevention in Contexts of Protracted Displacement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006634/1",
+      "route": "Standard",
+      "lead_applicant": "Oliver Bond",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "University of Surrey",
+      "title": "Nuer Literacy Initiative",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006642/1",
+      "route": "Standard",
+      "lead_applicant": "Imogen Bellwood-Howard",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "Institute of Development Studies",
+      "title": "Pan-African network for the arts in environmentally sustainable development",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006952/1",
+      "route": "Standard",
+      "lead_applicant": "Joyce S R Yee",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "Northumbria University",
+      "title": "Women's leadership in designing social innovation: mutual learning in the Asia-Pacific",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006502/1",
+      "route": "Standard",
+      "lead_applicant": "Lisa Anne Boden",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "University of Edinburgh",
+      "title": "FIELD SONGS - How can Syrian refugees' intangible cultural heritage inform innovative approaches to sustainable development in the Middle East?",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006790/1",
+      "route": "Standard",
+      "lead_applicant": "Roger John Matthews",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "University of Reading",
+      "title": "Heritage and Ecotourism for Sustainable Development in Iraqi Kurdistan",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006723/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Stephen Wilson",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "University of Bradford",
+      "title": "Reimagining Tanzania's Townscape Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006855/1",
+      "route": "Standard",
+      "lead_applicant": "Gehan Selim",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "University of Leeds",
+      "title": "Creative Economies Through Youth- led Arts and Craft in Jordan (CEARC)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00691X/1",
+      "route": "Standard",
+      "lead_applicant": "Kate Emily Moles",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "Cardiff University",
+      "title": "Out of the museum and into the community (OMIC): digitalised heritage, widening engagement and inclusive dialogue in Uganda",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00612X/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Ashmore",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "University of Brighton",
+      "title": "Guernica Remakings: Ghana and South Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006782/1",
+      "route": "Standard",
+      "lead_applicant": "Alice Panepinto",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Palestinian Bedouin at risk of forced displacement: Creative communication",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006529/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006472/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006928/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00657X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006227/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006545/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006553/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006685/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006774/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006820/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006847/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006960/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006987/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Sarita Malik",
+      "organisation": "Brunel University London",
+      "role": "Chair"
+    },
+    {
+      "name": "Bronwin Patrickson",
+      "organisation": "University of South Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Kate Newman",
+      "organisation": "Christian Aid",
+      "role": "Member"
+    },
+    {
+      "name": "Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Goldsworthy",
+      "organisation": "University of the Arts London",
+      "role": "Member"
+    },
+    {
+      "name": "Katy Jenkins",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Leon Cruickshank",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Charter",
+      "organisation": "University for the Creative Arts",
+      "role": "Member"
+    },
+    {
+      "name": "Mary Agnes Krell",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Thomas Jennings",
+      "organisation": "University of Suffolk",
+      "role": "Member"
+    },
+    {
+      "name": "Oscar Odena",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Stephen Russell",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-09-22",
+  "meeting_end": "2021-09-22"
+}

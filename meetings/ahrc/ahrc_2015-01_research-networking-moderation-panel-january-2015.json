@@ -1,0 +1,109 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008711/1",
+      "lead_applicant": "Peter Jackson",
+      "lead_organisation": "University of Glasgow",
+      "title": "The Practice of International History in the Twenty-First Century",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008517/1",
+      "lead_applicant": "Cormac Newark",
+      "lead_organisation": "University of Ulster",
+      "title": "The operatic canon",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008843/1",
+      "lead_applicant": "Penelope Allison",
+      "lead_organisation": "University of Leicester",
+      "title": "Big Data on the Roman Table",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009033/1",
+      "lead_applicant": "Helen Stalford",
+      "lead_organisation": "University of Liverpool",
+      "title": "Children's Rights Judgments Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009122/1",
+      "lead_applicant": "Tom Walker",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "What we owe older people: who should provide care and how much care should they provide",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008045/1",
+      "lead_applicant": "Lucy Frith",
+      "lead_organisation": "University of Liverpool",
+      "title": "MEDICINE, MARKETS AND MORALS: A MULTI-DISCIPLINARY RESEARCH NETWORK ON HEALTH AND SOCIAL CARE PRIORITISATION",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008681/1",
+      "lead_applicant": "Ranjana Das",
+      "lead_organisation": "University of Leicester",
+      "title": "Developing 'CEDAR': Consortium on Emerging Directions in Audience Research",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008703/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009572/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008401/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009068/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008746/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009696/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008193/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009580/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, January 2015",
+  "source": "Networking Moderation January 2015.xlsx",
+  "meeting_start": "2015-01",
+  "meeting_end": "2015-01"
+}

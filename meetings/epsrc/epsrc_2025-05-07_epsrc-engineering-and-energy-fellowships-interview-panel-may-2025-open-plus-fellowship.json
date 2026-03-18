@@ -1,0 +1,25 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1125",
+  "meeting_name": "EPSRC Engineering and Energy Fellowships Interview Panel May 2025 - Open Plus Fellowship",
+  "meeting_convenor": "M Calderon Munoz",
+  "applications": [
+    {
+      "application_id": "APP15654",
+      "title": "Trustworthy Robot Swarms to Power City-Scale Logistics",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "2225693.09",
+      "award_id": "UKRI2030",
+      "opportunity_number": "140",
+      "lead_applicant": "S Hauert",
+      "link": "https://gtr.ukri.org/projects?ref=2030",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-05-07",
+  "meeting_end": "2025-05-07"
+}

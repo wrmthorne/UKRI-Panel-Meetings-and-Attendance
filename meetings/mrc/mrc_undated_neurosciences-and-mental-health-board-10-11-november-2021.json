@@ -1,0 +1,155 @@
+{
+  "council": "MRC",
+  "count_of_applications": "29",
+  "count_of_awards": "15",
+  "notes": "Proposals are scored by all Board members after the presentation by designated Board members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \nFor this meeting, 50 out of 79 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/W019752/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W019647/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019361/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W020173/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/W019914/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W019663/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019434/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/W020025/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W01971X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019671/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/W020408/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W019787/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W01968X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W019876/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019817/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W019892/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019841/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W019906/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019868/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W02005X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W019922/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W020238/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W020017/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W020297/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W020114/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/W02036X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W020130/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W020157/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/W020165/1"
+    }
+  ],
+  "meeting_name": "Neurosciences and Mental Health Board 10 - 11 November 2021",
+  "source": "Neurosciences-and-mental-health-board/Neurosciences-and-Mental-Health-Board-10-11-November-2021.xlsx"
+}

@@ -1,0 +1,98 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-584119481",
+  "meeting_name": "Research Networking - July 2020",
+  "applications": [
+    {
+      "application_id": "AH/T013664/1",
+      "route": "Standard",
+      "lead_applicant": "Chris William Kiefer",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Sussex",
+      "title": "Feedback Musicianship Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00090X/1",
+      "route": "Standard",
+      "lead_applicant": "Jennifer Coates",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Sheffield",
+      "title": "Groups, Clubs, and Scenes: Informal Creative Practices in Japan",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T012544/1",
+      "route": "Standard",
+      "lead_applicant": "Rona Cran",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Birmingham",
+      "title": "Creating the Network for New York School Studies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002643/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012587/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004921/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001027/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004107/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "David Lambert",
+      "organisation": "University of Nottingham",
+      "role": "Chair"
+    }
+  ],
+  "meeting_start": "2020-07-27",
+  "meeting_end": "2020-07-27"
+}

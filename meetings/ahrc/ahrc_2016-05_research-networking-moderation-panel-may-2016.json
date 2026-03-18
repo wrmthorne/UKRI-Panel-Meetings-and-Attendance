@@ -1,0 +1,78 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "10",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00105X/1",
+      "lead_applicant": "Thomas Pickles",
+      "lead_organisation": "University of Chester",
+      "title": "Early Christian Churches and Landscapes (ECCLES)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P002447/1",
+      "lead_applicant": "Nicholas White",
+      "lead_organisation": "University of Cambridge",
+      "title": "The Art of Friendship in France, 1789-1914",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N008790/1",
+      "lead_applicant": "Matthew Sangster",
+      "lead_organisation": "University of Glasgow",
+      "title": "Institutions of Literature, 1700-1900",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P004741/1",
+      "lead_applicant": "Richard Rushton",
+      "lead_organisation": "Lancaster University",
+      "title": "Theatricality and Interrelations Between Art, Film and Theatre",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006232/1",
+      "lead_applicant": "Rupert Read",
+      "lead_organisation": "University of East Anglia",
+      "title": "Valuing nature",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003516/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007964/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007794/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005813/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009509/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, May 2016",
+  "source": "Copy of Research Networking May 2016 Meeting.xlsx",
+  "meeting_start": "2016-05",
+  "meeting_end": "2016-05"
+}

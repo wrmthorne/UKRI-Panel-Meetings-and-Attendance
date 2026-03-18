@@ -1,0 +1,283 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-682568911",
+  "meeting_name": "Research Grants  May 2021",
+  "applications": [
+    {
+      "application_id": "AH/V014862/1",
+      "route": "Standard",
+      "lead_applicant": "Lucie Joy Armitt",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Lincoln",
+      "title": "A [Socially Isolated] Room of One's Own -- Women Writing Lockdown",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V015583/1",
+      "route": "Standard",
+      "lead_applicant": "Mariana Julieta Lopez",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of York",
+      "title": "Enhancing Audio Description II: Implementing accessible personalised and inclusive film and television experiences for visually impaired audiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V015346/1",
+      "route": "Standard",
+      "lead_applicant": "Victoria Bazin",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Northumbria University",
+      "title": "Liberating Histories: Women's Movement Magazines, Media Activism and Periodical Pedagogies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V015338/1",
+      "route": "Standard",
+      "lead_applicant": "Martin John Millett",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Cambridge",
+      "title": "Roman York beneath the streets",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V014331/1",
+      "route": "Standard",
+      "lead_applicant": "Kirsty Elizabeth Squires",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "Staffordshire University",
+      "title": "The health, development and social identity of children afforded mummification in the Capuchin Catacombs of Palermo, Sicily",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010050/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014412/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01546X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014374/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015117/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014811/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014358/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014749/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015281/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015869/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006789/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015427/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015389/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V015621/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008501/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006606/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009273/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009915/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Church",
+      "organisation": "University of East Anglia",
+      "role": "Chair"
+    },
+    {
+      "name": "Anna Pakes",
+      "organisation": "Roehampton University",
+      "role": "Member"
+    },
+    {
+      "name": "Sara McDowell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Spooner",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "William Marx",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Amy Bryzgel",
+      "organisation": "Northeastern University",
+      "role": "Member"
+    },
+    {
+      "name": "David Murphy",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "David Stewart Nash",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-05-01",
+  "meeting_end": "2021-05-01"
+}

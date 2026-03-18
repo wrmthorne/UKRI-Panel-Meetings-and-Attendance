@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2021",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "UK Centre for Evidence Implementation in Adult Social Care",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/V001035/1"
+    },
+    {
+      "opportunity": "UK Centre for Evidence Implementation in Adult Social Care",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V002236/1"
+    }
+  ],
+  "meeting_name": "ASC Evidence Centre -Interviews",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2021-03",
+  "meeting_end": "2021-03"
+}

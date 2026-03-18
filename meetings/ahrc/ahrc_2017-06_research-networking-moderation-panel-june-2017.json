@@ -1,0 +1,72 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "10",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002320/1",
+      "lead_applicant": "Rachel Herrmann",
+      "lead_organisation": "Cardiff University",
+      "title": "Geographies of Power on Land and Water: Space, People, and Borders",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003203/1",
+      "lead_applicant": "Elizabeth Kirk",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Science Based Regulation of Arctic Energy Installations (SciBAr Installations)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00546X/1",
+      "lead_applicant": "Katherine Anne Wilson",
+      "lead_organisation": "University of Chester",
+      "title": "Mobility of Objects Across Boundaries 1000-1700 (MOB)",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003475/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002274/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005532/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002509/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005389/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003440/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003300/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, June 2017",
+  "source": "Research Networking, June 2017 Moderation.xlsx",
+  "meeting_start": "2017-06",
+  "meeting_end": "2017-06"
+}

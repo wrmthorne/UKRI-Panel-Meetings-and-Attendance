@@ -1,0 +1,112 @@
+{
+  "council": "ESRC",
+  "year": "2024",
+  "count_of_applications": "8",
+  "count_of_awards": "8",
+  "panellists": [
+    {
+      "name": "Matt Neale",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Clare Holdsworth",
+      "organisation": "Keele University",
+      "role": "Chair"
+    },
+    {
+      "name": "Chris Playford",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Elaine Douglas",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    },
+    {
+      "name": "Fran Darlington-Pollock",
+      "organisation": "Greater Manchester Mayor's Charity",
+      "role": "Member"
+    },
+    {
+      "name": "Peter Elias",
+      "organisation": "University of Warwick",
+      "role": "Member"
+    },
+    {
+      "name": "Roxanne Connelly",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Samantha Cockings",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Scott Orford",
+      "organisation": "Cardiff University",
+      "role": "Member"
+    },
+    {
+      "name": "Seraphim Alvanides",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z502777/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z502741/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z502893/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50290X/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50273X/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502753/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502881/1"
+    },
+    {
+      "opportunity": "OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502856/1"
+    }
+  ],
+  "meeting_name": "PAN121: OPP262: ESRC UK census 2021/2 data opportunity: invite-only full stage",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2024-02",
+  "meeting_end": "2024-02"
+}

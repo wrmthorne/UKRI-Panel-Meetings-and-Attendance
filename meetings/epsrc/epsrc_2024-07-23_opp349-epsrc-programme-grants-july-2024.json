@@ -1,0 +1,108 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN589",
+  "meeting_name": "OPP349: EPSRC programme grants - July 2024",
+  "meeting_convenor": "M Crabbe-Mann",
+  "applications": [
+    {
+      "application_id": "APP24554",
+      "title": "SignGPT: Building Generative Predictive Transformers for Sign Language",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "6763638.03",
+      "award_id": "EP/Z535370/1",
+      "opportunity_number": "349",
+      "lead_applicant": "R Bowden",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ535370%2F1",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    },
+    {
+      "application_id": "APP21124",
+      "title": "Sustainable heterogenoUs e-textileS for impercepTible humAn INterfaces (SUSTAIN)",
+      "lead_organisation": "University of Southampton",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "8201421.046",
+      "award_id": "EP/U537081/1",
+      "opportunity_number": "349",
+      "lead_applicant": "S Beeby",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FU537081%2F1",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    },
+    {
+      "application_id": "APP21149",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "349",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    },
+    {
+      "application_id": "APP21781",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "349",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    },
+    {
+      "application_id": "APP21801",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "349",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "T Mahmoodi",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "N Campbell",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "T Kiss",
+      "role": "Panellist",
+      "organisation": "University of Westminster"
+    },
+    {
+      "name": "T Krauss",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "P Machado",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-23",
+  "meeting_end": "2024-07-23"
+}

@@ -1,0 +1,140 @@
+{
+  "council": "MRC",
+  "count_of_applications": "26",
+  "count_of_awards": "6",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R000883/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R000867/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R000980/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002487/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002525/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002398/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R000999/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002622/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001103/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002509/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002495/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R00255X/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002169/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002533/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002517/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R002584/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002568/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002541/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R002606/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002614/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R00269X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R002630/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002649/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R000921/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001650/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002576/1"
+    }
+  ],
+  "meeting_name": "Public Health Intervention Development Scheme 16 March 2017",
+  "source": "government_web_archive/Public Health Intervention Development Scheme 16 March 2017.xlsx"
+}

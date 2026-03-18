@@ -1,0 +1,140 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "19",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M009548/1",
+      "lead_applicant": "Thomas Schofield",
+      "lead_organisation": "University College London",
+      "title": "Convict Australia and Utilitarianism: Jeremy Bentham's 'Writings on Australia'",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001222/1",
+      "lead_applicant": "Giles Gasper",
+      "lead_organisation": "Durham University",
+      "title": "The Ordered Universe: Interdisciplinary Readings of Medieval Science",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M011151/1",
+      "lead_applicant": "Matthew Cook",
+      "lead_organisation": "Birkbeck College",
+      "title": "Sexualities and Localities, c.1965 - 2013",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M011119/1",
+      "lead_applicant": "Helen Dampier",
+      "lead_organisation": "Leeds Beckett University",
+      "title": "The Emily Hobhouse Letters: South Africa in International Context, 1899-1926",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M010813/1",
+      "lead_applicant": "Philippa Hoskin",
+      "lead_organisation": "University of Lincoln",
+      "title": "Imprint. A Forensic and Historical Investigation of Fingerprints on Medieval Seals",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M010694/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009629/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001206/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N001850/1",
+      "lead_applicant": "Jonathan Krause",
+      "lead_organisation": "University of Oxford",
+      "title": "Rebellion and Mobilisation in French and German colonies, 1914-1918",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M009610/1",
+      "lead_applicant": "Stephan Leuenberger",
+      "lead_organisation": "University of Glasgow",
+      "title": "The Whole Truth: Varieties of Totality",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011135/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N001788/1",
+      "lead_applicant": "Anna Barker",
+      "lead_organisation": "University of Bradford",
+      "title": "The future prospects of urban parks: The life, times and social order of Victorian public parks as places of social mixing",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011437/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M010961/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001060/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N000080/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009653/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N000021/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002830/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel A, June 2015 meeting",
+  "source": "Research Grants Panel A, June 2015 meeting.xlsx",
+  "meeting_start": "2015-06",
+  "meeting_end": "2015-06"
+}

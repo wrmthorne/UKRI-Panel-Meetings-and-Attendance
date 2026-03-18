@@ -1,0 +1,80 @@
+{
+  "council": "NERC",
+  "meeting_location": "Via videoconference",
+  "panel_secretary": "Charlotte Hawkins",
+  "panellists": [
+    {
+      "name": "Lorraine Maltby",
+      "role": "Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Engineer Ramon",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Santos Solomon Islands Mining",
+      "role": "Member",
+      "organisation": "Company Limited"
+    },
+    {
+      "name": "Jonathan Hobbs Hobbs Tigon Ltd /",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Kathryn Goodenough",
+      "role": "Member",
+      "organisation": "BGS"
+    },
+    {
+      "name": "Danielle Sinnett",
+      "role": "Member",
+      "organisation": "University of West England"
+    },
+    {
+      "name": "Martin Smith",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Fernando Sajona Mapua",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Engineer Rodolfo",
+      "role": "Member",
+      "organisation": "Velasco, Jr. Retired - Mines and Geoscience Bureau"
+    },
+    {
+      "name": "Joey Nelson Ayson",
+      "role": "Member",
+      "organisation": "MMIH Group"
+    },
+    {
+      "name": "Andrew Hursthouse",
+      "role": "Member",
+      "organisation": "University of West Scotland"
+    },
+    {
+      "name": "Diane Purchase Middlesex University",
+      "role": "Member",
+      "organisation": "London"
+    },
+    {
+      "name": "Alex Lechner",
+      "role": "Member",
+      "organisation": "University of Nottingham, Malaysia"
+    },
+    {
+      "name": "campus &",
+      "role": "Member",
+      "organisation": "University of Lincoln"
+    }
+  ],
+  "meeting_name": "Sustainable Minerals JAN21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-SustainableMineralResourcesPhilippinesPPD-210121.pdf",
+  "meeting_start": "2021-03-09",
+  "meeting_end": "2021-03-11"
+}

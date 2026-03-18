@@ -1,0 +1,164 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN935",
+  "meeting_name": "OPP472: EPSRC Prosperity Partnerships Round 6, Route 2 Interview Panel A",
+  "meeting_convenor": "J Woolley",
+  "applications": [
+    {
+      "application_id": "APP40907",
+      "title": "ADAPT-EAF: Accelerating the Development of Automotive and Packaging steel Technology for EAF production",
+      "lead_organisation": "University of Cambridge",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2790527.58",
+      "award_id": "UKRI1295",
+      "opportunity_number": "472",
+      "lead_applicant": "H Stone",
+      "link": "https://gtr.ukri.org/projects?ref=1295",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP43772",
+      "title": "Securing Chemical Synthesis by Chemputation in the Glasgow-Chemify Prosperity Partnership",
+      "lead_organisation": "University of Glasgow",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "2830757.1",
+      "award_id": "UKRI1305",
+      "opportunity_number": "472",
+      "lead_applicant": "L Cronin",
+      "link": "https://gtr.ukri.org/projects?ref=1305",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP36256",
+      "title": "Earth-Abundant Metal Catalysis in the Production of Pharmaceutical Drugs",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "2106859.49",
+      "award_id": "UKRI1298",
+      "opportunity_number": "472",
+      "lead_applicant": "R Bedford",
+      "link": "https://gtr.ukri.org/projects?ref=1298",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP36704",
+      "title": "Centre for the Decarbonisation of Heavy Duty Power Systems",
+      "lead_organisation": "Loughborough University",
+      "outcome": "Successful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "2729537.55",
+      "award_id": "UKRI1299",
+      "opportunity_number": "472",
+      "lead_applicant": "A Spencer",
+      "link": "https://gtr.ukri.org/projects?ref=1299",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP39828",
+      "title": "Model-assisted, Self-optimising Unit Operations for Accelerated Bioprocess Optimisation",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "1050387.33",
+      "award_id": "UKRI1301",
+      "opportunity_number": "472",
+      "lead_applicant": "N Szita",
+      "link": "https://gtr.ukri.org/projects?ref=1301",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP40772",
+      "title": "Mission biodegradability: Foundations for the sustainable future of formulated polymers",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "3584359.03",
+      "award_id": "UKRI1296",
+      "opportunity_number": "472",
+      "lead_applicant": "A Dove",
+      "link": "https://gtr.ukri.org/projects?ref=1296",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP36300",
+      "title": "Virtual Exascale Calculations Transform Aviation (VECTA)",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "6991489.82",
+      "award_id": "UKRI1300",
+      "opportunity_number": "472",
+      "lead_applicant": "M Parsons",
+      "link": "https://gtr.ukri.org/projects?ref=1300",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP40241",
+      "title": "A Prosperity Partnership for the Design, Synthesis, and Evaluation of Next Generation Molecules Beyond Lipinski Space",
+      "lead_organisation": "University of Strathclyde",
+      "outcome": "Successful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "3932933.48",
+      "award_id": "UKRI1372",
+      "opportunity_number": "472",
+      "lead_applicant": "C Jamieson",
+      "link": "https://gtr.ukri.org/projects?ref=1372",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    },
+    {
+      "application_id": "APP36831",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "472",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Prosperity Partnerships round six"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "J Legh-Smith",
+      "role": "Chair",
+      "organisation": "UKQuantum"
+    },
+    {
+      "name": "D Bate",
+      "role": "Panellist",
+      "organisation": "Nikon (United Kingdom)"
+    },
+    {
+      "name": "R Burguete",
+      "role": "Panellist",
+      "organisation": "National Physical Laboratory"
+    },
+    {
+      "name": "Z Shipton",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "D Twitchen",
+      "role": "Panellist",
+      "organisation": "Element Six (United Kingdom)"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-02-12",
+  "meeting_end": "2025-02-12"
+}

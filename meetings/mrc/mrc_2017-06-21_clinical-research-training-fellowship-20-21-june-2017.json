@@ -1,0 +1,242 @@
+{
+  "council": "MRC",
+  "count_of_applications": "46",
+  "count_of_awards": "28",
+  "notes": "MR/R001421/1 was deferred for consideration at the next Board meeting. \n\nProposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 57/117 applications did not pass an initial triage stage and were not considered further. Of the 60 applications that did pass the initial triage stage, 13 applications were withdrawn by the applicants prior to the meeting and 0 applications were withdrawn by the applicants following the meeting.",
+  "applications": [
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "MR/P019730/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R000484/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R000735/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/R000743/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/P018599/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001227/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R001162/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R000875/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/R001332/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R000395/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001618/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R001286/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R000913/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/R001901/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R000557/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001812/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R001693/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R000964/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/R002061/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001081/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001863/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R001839/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R001065/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R00174X/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R00224X/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R002142/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R00112X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001022/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001855/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/R002258/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R001146/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001278/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R001995/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R001359/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002126/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R001375/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002134/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R001472/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002320/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R00160X/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R002371/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R00191X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R001936/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R002118/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R002339/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/R002363/1"
+    }
+  ],
+  "meeting_name": "Clinical Research Training Fellowship 20 - 21 June 2017",
+  "source": "Clinical-research-training-fellowship/MRC-12102021-ClinicalResearchTrainingFellowship-20-21June2017.xlsx",
+  "meeting_start": "2017-06-21",
+  "meeting_end": "2017-06-21"
+}

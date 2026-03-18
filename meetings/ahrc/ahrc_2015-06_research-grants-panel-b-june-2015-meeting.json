@@ -1,0 +1,75 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "10",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00146X/1",
+      "lead_applicant": "Peter Guillery",
+      "lead_organisation": "University College London",
+      "title": "Survey of London: Whitechapel Initiative",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001567/1",
+      "lead_applicant": "Helen Nicholson",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "For Love or Money? Collaboration between Amateur and Professional Theatre",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M00970X/1",
+      "lead_applicant": "William Higbee",
+      "lead_organisation": "University of Exeter",
+      "title": "Transnational Moroccan Cinema",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00967X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001915/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011488/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009475/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011194/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009831/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001095/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Research Grants Panel B, June 2015 meeting",
+  "source": "Research Grants Panel B, June 2015 meeting.xlsx",
+  "meeting_start": "2015-06",
+  "meeting_end": "2015-06"
+}

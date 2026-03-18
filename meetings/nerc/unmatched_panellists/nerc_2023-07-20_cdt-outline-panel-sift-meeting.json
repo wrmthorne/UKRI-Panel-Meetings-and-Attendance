@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Sarah Rabbetts",
+  "panellists": [
+    {
+      "name": "Nigel Brown",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Ian Allison",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Kathryn Arnold",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Jenni Barclay",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Richard Butler",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Jenny Collier",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Matthew Collins",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Christine Maggs",
+      "role": "Member",
+      "organisation": "JNCC (Joint Nature Conservation"
+    },
+    {
+      "name": "Geraint Vaughan",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Jonathan Wentworth",
+      "role": "Member",
+      "organisation": "UK Parliament"
+    },
+    {
+      "name": "Helen Williams",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "meeting_name": "CDT Outline Panel Sift Meeting",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-130723-Panel-Meeting-List-CDT-Outline-Panel-Sift-Meeting.pdf",
+  "meeting_start": "2023-07-20",
+  "meeting_end": "2023-07-21"
+}

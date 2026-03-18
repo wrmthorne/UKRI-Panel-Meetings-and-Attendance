@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "2",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "Research Community Catalysts",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Y010566/1"
+    },
+    {
+      "opportunity": "Research Community Catalysts",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y007530/1"
+    }
+  ],
+  "meeting_name": "ADR England Research Community Catalysts Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-11",
+  "meeting_end": "2023-11"
+}

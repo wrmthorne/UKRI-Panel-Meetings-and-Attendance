@@ -1,0 +1,89 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1153",
+  "meeting_name": "OPP636 EPSRC Sustainable Industrial Futures Interview Panel",
+  "meeting_convenor": "K Hart",
+  "applications": [
+    {
+      "application_id": "APP62897",
+      "title": "Great British Chemicals",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "19794441.1",
+      "award_id": "UKRI2199",
+      "opportunity_number": "636",
+      "lead_applicant": "P Styring",
+      "link": "https://gtr.ukri.org/projects?ref=2199",
+      "opportunity": "EPSRC and NERC Sustainable Industrial Futures"
+    },
+    {
+      "application_id": "APP58206",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "636",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC and NERC Sustainable Industrial Futures"
+    },
+    {
+      "application_id": "APP53568",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "636",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC and NERC Sustainable Industrial Futures"
+    },
+    {
+      "application_id": "APP53027",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "636",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC and NERC Sustainable Industrial Futures"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Shollock",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "A Armstrong",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "U Ofterdinger",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "I Portugues",
+      "role": "Panellist",
+      "organisation": "Siemens Energy"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-30",
+  "meeting_end": "2025-04-30"
+}

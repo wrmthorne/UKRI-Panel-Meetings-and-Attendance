@@ -1,0 +1,39 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "4",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004094/1",
+      "lead_applicant": "Sarita Malik",
+      "lead_organisation": "Brunel University London",
+      "title": "Creative Interruptions: grassroots creativity, State structures and disconnection as a space for 'radical openness'",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004108/1",
+      "lead_applicant": "Martin Levinson",
+      "lead_organisation": "University of Exeter",
+      "title": "Disability and Community: Dis/engagement, dis/enfranchisement, dis/parity and dissent - aka The D4D project",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004086/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004175/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Connected Communities Disconnection, Division and Exclusion Large Grants",
+  "source": "Connected Communities Disconnection Division and Exclusion Large Grants October 2015 Meeting.xlsx",
+  "meeting_start": "2015-10",
+  "meeting_end": "2015-10"
+}

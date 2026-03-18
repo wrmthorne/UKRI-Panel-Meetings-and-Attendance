@@ -1,0 +1,101 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Nicky Lewis",
+  "panellists": [
+    {
+      "name": "Stuart Piertney",
+      "role": "Chair",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Bill Austin",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Peter Clarke",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Andrew Davies",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Paul Halloran",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Andrew Hirst Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Martin King Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Prashant Kumar",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Andrew Large",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Gregor Leckebusch",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Jon Lloyd The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "David Pearce",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Daniela Schmidt",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Seirian Sumner",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Gail Taylor",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Sami Ullah",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Andrew Willmott",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "John Woodward",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    }
+  ],
+  "meeting_name": "Large Grant Outline MAR17",
+  "source": "NERC-funding-assessment-panel-members-2017/Large Grants Outlines Panel List for web (updated 09.05).pdf",
+  "meeting_start": "2017-05-11",
+  "meeting_end": "2017-05-11"
+}

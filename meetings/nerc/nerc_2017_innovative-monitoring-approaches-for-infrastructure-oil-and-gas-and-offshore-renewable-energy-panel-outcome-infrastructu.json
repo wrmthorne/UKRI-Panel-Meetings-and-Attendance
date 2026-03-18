@@ -1,0 +1,264 @@
+{
+  "council": "NERC",
+  "count_of_applications": "42",
+  "count_of_awards": "14",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R014019/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R014752/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R014868/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R014965/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014183/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R014167/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R014876/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R014078/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R014833/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R014957/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/R014396/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/R014248/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/R014787/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/R014728/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/R01468X/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "10",
+      "application_id": "NE/R014639/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R014698/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R014779/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R014531/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R014132/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R014701/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R014485/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R014922/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R014884/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R01454X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014663/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014736/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R01499X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R014930/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/R01485X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/R014981/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/R014914/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "application_id": "NE/R014744/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "application_id": "NE/R01471X/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "66",
+      "application_id": "NE/R014760/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "75",
+      "application_id": "NE/R014442/1",
+      "rank": "21"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "75",
+      "application_id": "NE/R014817/1",
+      "rank": "22"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "84",
+      "application_id": "NE/R014825/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "56",
+      "application_id": "NE/R014841/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "55",
+      "application_id": "NE/R014647/1",
+      "rank": "25"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "55",
+      "application_id": "NE/R014906/1",
+      "rank": "26"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "54",
+      "application_id": "NE/R014949/1",
+      "rank": "27"
+    }
+  ],
+  "meeting_name": "Innovative Monitoring Approaches for Infrastructure, Oil and Gas, and Offshore Renewable Energy – Panel Outcome Infrastructure",
+  "source": "NERC-061021-InnovativeMonitoringApproaches-FundingOutcomes-2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

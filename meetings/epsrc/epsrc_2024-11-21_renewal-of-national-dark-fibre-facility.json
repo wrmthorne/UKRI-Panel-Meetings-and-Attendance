@@ -1,0 +1,52 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN850",
+  "meeting_name": "Renewal of National Dark Fibre Facility",
+  "meeting_convenor": "S Russin",
+  "applications": [
+    {
+      "application_id": "APP55936",
+      "title": "National Dark Fibre Facility",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "4441386.3",
+      "award_id": "UKRI508",
+      "opportunity_number": "700",
+      "lead_applicant": "A Seeds",
+      "link": "https://gtr.ukri.org/projects?ref=508",
+      "opportunity": "EPSRC National research facility for dark fibre infrastructure"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "T O'Farrell",
+      "role": "Chair",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "N Chakraborty",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "S Diaz-Moreno",
+      "role": "Panellist",
+      "organisation": "Diamond Light Source"
+    },
+    {
+      "name": "J Totero Gongora",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "C Wilson",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-11-21",
+  "meeting_end": "2024-11-21"
+}

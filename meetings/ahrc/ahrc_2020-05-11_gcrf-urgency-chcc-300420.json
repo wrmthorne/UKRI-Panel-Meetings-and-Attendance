@@ -1,0 +1,228 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-550414527",
+  "meeting_name": "GCRF Urgency CHCC 30/04/20",
+  "applications": [
+    {
+      "application_id": "AH/V006568/1",
+      "route": "Standard",
+      "lead_applicant": "William Peter Megarry",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Values-based Climate Change Risk Assessment: Piloting the Climate Vulnerability Index for Cultural Heritage in Africa [Highlight Notice]",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006363/1",
+      "route": "Standard",
+      "lead_applicant": "Michael A Crang",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Durham University",
+      "title": "Fragile heritage ecologies: vernacular cultures and the at-risk landscapes of the Hindu-Kush-Himalaya mountain region",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006398/1",
+      "route": "Standard",
+      "lead_applicant": "Alan Alan Forrest",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Royal Botanic Garden Edinburgh",
+      "title": "Mitigating climate change effects through traditional land management practices",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00638X/1",
+      "route": "Standard",
+      "lead_applicant": "Bernadette Marie Devilat",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "'A sustainable re-construction method for seismic-prone heritage areas of India based on advanced recording technologies'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006479/1",
+      "route": "Standard",
+      "lead_applicant": "Hisham Elkadi",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Salford",
+      "title": "Conservation of Climate Change Endangered Cultural Furniture Industry Heritage in Damietta, Egypt",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006436/1",
+      "route": "Standard",
+      "lead_applicant": "Nomalanga Hamadziripi",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Marondera University of Agri Sci & Tech",
+      "title": "Inventorying Intangible Cultural Heritage Assets Affected by Cyclone Idai in Chimanimani, Chipinge and Buhera districts in Zimbabwe",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006320/1",
+      "route": "Standard",
+      "lead_applicant": "Ashraf El Khatim Osman",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Durham University",
+      "title": "Developing a novel Climate change Risk Assessment Framework for cultural heritage in Turkey (CRAFT)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006371/1",
+      "route": "Standard",
+      "lead_applicant": "Katherine Crowley",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Edinburgh",
+      "title": "CRITICAL: Cultural Heritage Risk and Impact Tools for Integrated and Collaborative Learning (Highlight)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006355/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Heritage",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Build Back Better: a participatory approach to mapping, measuring and mobilising cultural heritage in Brazil's Iron Quadrangle",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006274/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006339/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006487/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006312/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006290/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006304/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006401/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006444/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006584/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Eleanor Robson",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Isabella Rega",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Meredith Wiggins",
+      "organisation": "Historic Bldgs & Mnts Commis for England",
+      "role": "Member"
+    },
+    {
+      "name": "Elena Isayev",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Georgina Hope Endfield",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Gil Pasternak",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Stuart James Taberner",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-05-11",
+  "meeting_end": "2020-05-11"
+}

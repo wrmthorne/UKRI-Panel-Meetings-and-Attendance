@@ -1,0 +1,141 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "22",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P003621/1",
+      "lead_applicant": "Esme Rose Cleall",
+      "lead_organisation": "University of Sheffield",
+      "title": "Colonising Disability: race, impairment and otherness in the British Empire, c. 1800-1914",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N009533/1",
+      "lead_applicant": "Tom Dougherty",
+      "lead_organisation": "University of Cambridge",
+      "title": "The Ethics of Communicating Consent",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P003478/1",
+      "lead_applicant": "Laura King",
+      "lead_organisation": "University of Leeds",
+      "title": "Living with Dying: Everyday Cultures of Dying within Family Life in Britain, c.1900s-1950s",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N007735/1",
+      "lead_applicant": "James Stark",
+      "lead_organisation": "University of Leeds",
+      "title": "Endless Possibilities of Rejuvenation: Defining Youth, Defying Ageing in Britain, 1919-1948",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P002544/1",
+      "lead_applicant": "Lonán Ó Briain",
+      "lead_organisation": "University of Nottingham",
+      "title": "Voice of Vietnam Radio: The Sonic Formation of the State",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N009924/1",
+      "lead_applicant": "John Harper-Scott",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Uncovering Ideology in Britten's Operas",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00986X/1",
+      "lead_applicant": "Selina Todd",
+      "lead_organisation": "University of Oxford",
+      "title": "Feminism, culture and women's lives in Britain, c.1945-c.2015",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N010124/1",
+      "lead_applicant": "Jonathan Pitches",
+      "lead_organisation": "University of Leeds",
+      "title": "Performing Landscapes: Mountains",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003753/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009789/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009126/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009827/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009711/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009185/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004466/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N010000/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009665/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004423/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003583/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003915/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009207/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006747/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, June 2016 panel meeting",
+  "source": "Fellowships, June 2016 Meeting.xlsx",
+  "meeting_start": "2016-06",
+  "meeting_end": "2016-06"
+}

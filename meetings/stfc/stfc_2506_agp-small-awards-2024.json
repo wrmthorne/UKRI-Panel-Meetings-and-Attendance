@@ -1,0 +1,1035 @@
+{
+  "council": "STFC",
+  "year": "2506",
+  "count_of_applications": "146",
+  "count_of_awards": "48",
+  "notes": "Note: Successful applications are shown in rank order, however unsuccesful applications are shown in Upper, Middle and Lower Terciles,",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31695",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33181",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32194",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33137",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33385",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29666",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27883",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33135",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28003",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32778",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26227",
+      "rank": "11"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30854",
+      "rank": "12"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33241",
+      "rank": "13"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29822",
+      "rank": "14"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28462",
+      "rank": "15"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26335",
+      "rank": "16"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28188",
+      "rank": "17"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32200",
+      "rank": "18"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31275",
+      "rank": "19"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30279",
+      "rank": "20"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28255",
+      "rank": "21"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29134",
+      "rank": "22"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32293",
+      "rank": "23"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33515",
+      "rank": "24"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27197",
+      "rank": "25"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34085",
+      "rank": "26"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29714",
+      "rank": "27"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31230",
+      "rank": "28"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28244",
+      "rank": "29"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29954",
+      "rank": "30"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26690",
+      "rank": "31"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31503",
+      "rank": "32"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32280",
+      "rank": "33"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32926",
+      "rank": "34"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29319",
+      "rank": "35"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29897",
+      "rank": "36"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31291",
+      "rank": "37"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32043",
+      "rank": "38"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33179",
+      "rank": "39"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32964",
+      "rank": "40"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27809",
+      "rank": "41"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26405",
+      "rank": "42"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30508",
+      "rank": "43"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31234",
+      "rank": "44"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29820",
+      "rank": "45"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32775",
+      "rank": "46"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30146",
+      "rank": "47"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32881",
+      "rank": "48"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26184",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26213",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27212",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27674",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27881",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27954",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28245",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28773",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28966",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29028",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29147",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29159",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29227",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29311",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29539",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29669",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29688",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29853",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30360",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31091",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31130",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31439",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31620",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31641",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31986",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32163",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32269",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32632",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32648",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32672",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33024",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33185",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33543",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34107",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34192",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34203",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34222",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34233",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34518",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34577",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34872",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP35171",
+      "rank": "Upper"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26232",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26947",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28154",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28354",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28493",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28636",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28782",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29552",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29984",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30030",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30307",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32848",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32871",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32931",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33409",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33460",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33526",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33639",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34375",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34601",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34647",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34703",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP35101",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP35204",
+      "rank": "Middle"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP26199",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27125",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP27627",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28083",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28654",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28693",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP28854",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29465",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29575",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29600",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29665",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP29869",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30249",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30333",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30631",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP30646",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31046",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31071",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31293",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31622",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31656",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP31731",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32100",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32796",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32808",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP32835",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33168",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33398",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP33522",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34007",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP34682",
+      "rank": "Lower"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards 2024",
+      "application_id": "APP35144",
+      "rank": "Lower"
+    }
+  ],
+  "meeting_name": "AGP Small Awards 2024",
+  "source": "Astronomy-grants-panel-small-award-2023/STFC-250625-Small-Awards-Ranked-List-2024-For-Web.xlsx",
+  "meeting_start": "2506",
+  "meeting_end": "2506"
+}

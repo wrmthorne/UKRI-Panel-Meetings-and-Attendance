@@ -1,0 +1,152 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "23",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S005129/1",
+      "lead_applicant": "Kriszta Szendroi",
+      "lead_organisation": "University College London",
+      "title": "Contemporary Hasidic Yiddish",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S005005/1",
+      "lead_applicant": "Robert Parker",
+      "lead_organisation": "University of Oxford",
+      "title": "Lexicon of Greek Personal Names- Lower Egypt and the Fayum",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S004882/1",
+      "lead_applicant": "Tatiana Tkacukova",
+      "lead_organisation": "Birmingham City University",
+      "title": "Language of DIY Justice: Communication practices & processes",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S004742/1",
+      "lead_applicant": "Richard Rushton",
+      "lead_organisation": "Lancaster University",
+      "title": "Cinema Memory and the Digital Archive: 1930s Britain and Beyond",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S006273/1",
+      "lead_applicant": "Alexander Metcalfe",
+      "lead_organisation": "Lancaster University",
+      "title": "Power, society, and (dis)connectivity in medieval Sardinia",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S006125/1",
+      "lead_applicant": "Rob Drummond",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Manchester Voices: A community-oriented project on language use, language attitudes, and regional and social identities",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005463/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006435/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00520X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005137/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004300/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004696/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005390/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005250/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003754/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003207/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004904/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004734/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00307X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004203/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004947/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005528/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005595/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, November 2018 Panel Meeting",
+  "source": "Research GRants Panel, November 2018 Meeting.xlsx",
+  "meeting_start": "2018-11",
+  "meeting_end": "2018-11"
+}

@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-377368761",
+  "meeting_name": "Research Networking July 2018",
+  "applications": [
+    {
+      "application_id": "AH/S001522/1",
+      "route": "Standard",
+      "lead_applicant": "Simon Barber",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Birmingham City University",
+      "title": "Songwriting Studies Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002197/1",
+      "route": "Standard",
+      "lead_applicant": "Gemma Louise Davies",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Northumbria University",
+      "title": "UK-Irish Criminal Justice Cooperation Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R01390X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S002715/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003363/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001506/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001514/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Giorgio Riello",
+      "organisation": "European University Institute",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2018-07-24",
+  "meeting_end": "2018-07-24"
+}

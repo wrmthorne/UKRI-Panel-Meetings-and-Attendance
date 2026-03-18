@@ -1,0 +1,54 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X011879/1"
+    },
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/X011348/1"
+    },
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X011690/1"
+    },
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X011739/1"
+    },
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X011178/1"
+    },
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X012107/1"
+    },
+    {
+      "opportunity": "ADR UK DF Eval Fellow",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X011755/1"
+    }
+  ],
+  "meeting_name": "ADR UK Data First Evaluation Interviews",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-03",
+  "meeting_end": "2023-03"
+}

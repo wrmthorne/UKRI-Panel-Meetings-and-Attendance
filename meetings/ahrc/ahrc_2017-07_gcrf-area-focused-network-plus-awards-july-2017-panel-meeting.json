@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "12",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005443/1",
+      "lead_applicant": "Jon Henderson",
+      "lead_organisation": "University of Nottingham",
+      "title": "Rising from the Depths: Utilising Marine Cultural Heritage in East Africa to help develop sustainable social, economic and cultural benefits",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005435/1",
+      "lead_applicant": "Emma Crewe",
+      "lead_organisation": "SOAS",
+      "title": "Deepening democracy in extremely politically fragile countries: networking for historical, cultural and arts research on Parliaments and people",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005354/1",
+      "lead_applicant": "Paul Cooke",
+      "lead_organisation": "University of Leeds",
+      "title": "Building Inclusive Civil Societies with, and for, Young People in 5 Post-Conflict Countries",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005370/1",
+      "lead_applicant": "Eleanor Robson",
+      "lead_organisation": "University College London",
+      "title": "The Nahrein Network: New Ancient History Research for Education in Iraq and its Neighbours",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005427/1",
+      "lead_applicant": "Alex Balch",
+      "lead_organisation": "University of Liverpool",
+      "title": "The Antislavery Knowledge Network: Community-Led Strategies for Creative and Heritage-Based Interventions in Sub-Saharan Africa",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00532X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005222/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005400/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005346/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005451/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00529X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005311/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "GCRF Area Focused Network Plus Awards, July 2017 panel meeting",
+  "source": "GCRF Area Focused Network Plus Awards, July 2017 Meeting.xlsx",
+  "meeting_start": "2017-07",
+  "meeting_end": "2017-07"
+}

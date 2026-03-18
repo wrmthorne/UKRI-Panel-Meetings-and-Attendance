@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "12",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R014566/1",
+      "lead_applicant": "John Mercer",
+      "lead_organisation": "Birmingham City University",
+      "title": "Masculinity, Sex and Popular Culture",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012962/1",
+      "lead_applicant": "Elizabeth Tomlin",
+      "lead_organisation": "University of Glasgow",
+      "title": "Incubate/Propagate: Towards Alternative Models for Artist Development in Theatre and Performance",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013500/1",
+      "lead_applicant": "Joanna Marschner",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "Victoria's Self-Fashioning: curating the royal image for dynasty, nation, and empire",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R014523/1",
+      "lead_applicant": "Charlotta Hillerdal",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Living Heritage Workshop",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R014612/1",
+      "lead_applicant": "Stefan Skrimshire",
+      "lead_organisation": "University of Leeds",
+      "title": "Religion and Extinction Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014493/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013705/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000097/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001026/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012849/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013209/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014604/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, March 2018",
+  "source": "Research Networking, March 2018 Moderation.xlsx",
+  "meeting_start": "2018-03",
+  "meeting_end": "2018-03"
+}

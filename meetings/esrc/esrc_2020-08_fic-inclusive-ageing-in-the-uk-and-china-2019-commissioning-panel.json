@@ -1,0 +1,108 @@
+{
+  "council": "ESRC",
+  "year": "2020",
+  "count_of_applications": "16",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/T014091/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T014083/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T014164/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T014377/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T014547/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014563/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014415/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014423/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T01430X/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014326/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014113/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T01413X/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014075/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T01427X/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T014482/1"
+    },
+    {
+      "opportunity": "FIC Ageing UK-China 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T01458X/1"
+    }
+  ],
+  "meeting_name": "FIC Inclusive Ageing in the UK and China 2019 Commissioning Panel",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2020-08",
+  "meeting_end": "2020-08"
+}

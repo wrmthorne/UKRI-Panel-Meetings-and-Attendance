@@ -1,0 +1,97 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "12",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Leadership Fellows",
+      "application_id": "AH/M009750/1",
+      "lead_applicant": "David Fergusson",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The understanding and interpretation of Reformed theology in theoretical, practical and inter-disciplinary contexts",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Leadership Fellows",
+      "application_id": "AH/M008436/1",
+      "lead_applicant": "Erica Fudge",
+      "lead_organisation": "University of Strathclyde",
+      "title": "The Farmyard Worlds of Early Modern England: Animal Studies, History, Theory and Interdisciplinarity",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Leadership Fellows",
+      "application_id": "AH/M008614/1",
+      "lead_applicant": "Jonathan Webber",
+      "lead_organisation": "Cardiff University",
+      "title": "Rethinking Existentialism",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Leadership Fellows",
+      "application_id": "AH/M009149/1",
+      "lead_applicant": "David Horrell",
+      "lead_organisation": "University of Exeter",
+      "title": "Ethnicity, race, and religion in early Christian and Jewish identities: a critical examination of ancient sources and modern scholarship",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Leadership Fellows - Early Career",
+      "application_id": "AH/M009432/1",
+      "lead_applicant": "Matthew Boswell",
+      "lead_organisation": "University of Leeds",
+      "title": "Virtual Holocaust Memory: from Testimony to Holography",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Leadership Fellows - Early Career",
+      "application_id": "AH/M010686/1",
+      "lead_applicant": "Clive Gabay",
+      "lead_organisation": "Queen Mary, University of London",
+      "title": "Contemporary 'Africa Rising' narratives in historical perspective",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008991/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008657/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008916/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008851/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008959/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009351/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellows Panel - March 2015",
+  "source": "Fellowships March 2015 Meeting.xlsx",
+  "meeting_start": "2015-03",
+  "meeting_end": "2015-03"
+}

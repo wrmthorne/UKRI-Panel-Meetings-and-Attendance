@@ -1,0 +1,36 @@
+{
+  "council": "ESRC",
+  "year": "2024",
+  "count_of_applications": "4",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "opportunity": "OPP159: ESRC: UKRI Creating Opportunities Trial Accelerator Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503034/1"
+    },
+    {
+      "opportunity": "OPP159: ESRC: UKRI Creating Opportunities Trial Accelerator Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503046/1"
+    },
+    {
+      "opportunity": "OPP159: ESRC: UKRI Creating Opportunities Trial Accelerator Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503022/1"
+    },
+    {
+      "opportunity": "OPP159: ESRC: UKRI Creating Opportunities Trial Accelerator Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503010/1"
+    }
+  ],
+  "meeting_name": "PAN298: OPP159: UKRI Creating Opportunities Trial Accelerator Fund",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2024-06",
+  "meeting_end": "2024-06"
+}

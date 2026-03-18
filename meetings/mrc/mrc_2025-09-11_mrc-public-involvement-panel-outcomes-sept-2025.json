@@ -1,0 +1,175 @@
+{
+  "council": "MRC",
+  "applications": [
+    {
+      "title": "The LINK Funding Scheme: Linking researchers and public partners for the development of Medical Research Council funding proposals",
+      "lead_applicant": "Kamar Ameen-Ali",
+      "lead_organisation": "Teesside University",
+      "score": "7",
+      "outcome": "Successful",
+      "award_id": "UKRI3194",
+      "link": "https://gtr.ukri.org/projects?ref=3194",
+      "application_id": "APP79162"
+    },
+    {
+      "title": "ManMet ECHO: Empowering Community and Health Outreach for Cardiovascular, Metabolic and Neuromuscular Research",
+      "lead_applicant": "Kelly Bowden Davies",
+      "lead_organisation": "Manchester Metropolitan University",
+      "score": "7",
+      "outcome": "Successful",
+      "award_id": "UKRI3195",
+      "link": "https://gtr.ukri.org/projects?ref=3195",
+      "application_id": "APP79656"
+    },
+    {
+      "title": "Partnering from the Start: Embedding Public Voices in Biomedical Research",
+      "lead_applicant": "Rebecca Lawson",
+      "lead_organisation": "University of Cambridge",
+      "score": "7",
+      "outcome": "Successful",
+      "award_id": "UKRI3198",
+      "link": "https://gtr.ukri.org/projects?ref=3198",
+      "application_id": "APP83358"
+    },
+    {
+      "title": "INSPIRE Portsmouth for MRC: INtegrating Support for Public Involvement in REsearch at Portsmouth for the Medical Research Council.",
+      "lead_applicant": "Amy Drahota",
+      "lead_organisation": "University of Portsmouth",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI3199",
+      "link": "https://gtr.ukri.org/projects?ref=3199",
+      "application_id": "APP84155"
+    },
+    {
+      "title": "King's/MRC Public Partnership Programme",
+      "lead_applicant": "Sarah Crabtree",
+      "lead_organisation": "King's College London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI3197",
+      "link": "https://gtr.ukri.org/projects?ref=3197",
+      "application_id": "APP84250"
+    },
+    {
+      "title": "RIPPLE: Researchers Involving the Public at Pre-application, to Learn and Embed",
+      "lead_applicant": "Paul Davies",
+      "lead_organisation": "University of Dundee",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3196",
+      "link": "https://gtr.ukri.org/projects?ref=3196",
+      "application_id": "APP82087"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP79362"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP84516"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP79372"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP79642"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP81137"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Emma Cook",
+      "organisation": "BBSRC",
+      "role": "Chair"
+    },
+    {
+      "name": "Jo Goddard",
+      "organisation": "ESRC",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Bethany Pleydell",
+      "organisation": "UKRI PE",
+      "role": "Panellist"
+    },
+    {
+      "name": "Chris Manion",
+      "organisation": "British Science Association",
+      "role": "Panellist"
+    },
+    {
+      "name": "Gemma Winsor",
+      "organisation": "Versus Arthritis",
+      "role": "Panellist"
+    },
+    {
+      "name": "Mike Collins",
+      "organisation": "AHRC",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sadia Haqnawaz",
+      "organisation": "Public Partner",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sarah Golding",
+      "organisation": "Wellcome",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sophie Evans",
+      "organisation": "Public Partner",
+      "role": "Panellist"
+    },
+    {
+      "name": "Tony Cope",
+      "organisation": "Public Partner",
+      "role": "Panellist"
+    }
+  ],
+  "count_of_applications": "11",
+  "count_of_awards": "6",
+  "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
+  "meeting_name": "MRC Public Involvement Panel Outcomes Sept 2025",
+  "meeting_reference": "PAN1393",
+  "meeting_start": "2025-09-11",
+  "meeting_end": "2025-09-11",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 8 out of 19 applications were unsuccessful at shortlisting and are not displayed here."
+}

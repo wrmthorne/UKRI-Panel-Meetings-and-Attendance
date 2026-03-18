@@ -1,0 +1,42 @@
+{
+  "council": "NERC",
+  "count_of_applications": "5",
+  "count_of_awards": "4",
+  "year": "2014",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/M007820/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007812/1",
+      "rank": "2"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007847/1",
+      "rank": "3"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007855/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "0",
+      "application_id": "NE/M007863/1",
+      "rank": "0"
+    }
+  ],
+  "meeting_name": "Innovation Projects June 2014",
+  "source": "innovation-projects.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

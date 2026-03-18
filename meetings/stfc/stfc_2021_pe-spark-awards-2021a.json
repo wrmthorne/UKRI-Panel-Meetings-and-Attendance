@@ -1,0 +1,103 @@
+{
+  "council": "STFC",
+  "year": "2021",
+  "count_of_applications": "13",
+  "count_of_awards": "7",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001896/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001993/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W002027/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001926/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W002000/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001985/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001977/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001705/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W002035/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W001918/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W002051/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W002043/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2021A",
+      "year": "2021",
+      "application_id": "ST/W002019/1",
+      "rank": "13"
+    }
+  ],
+  "meeting_name": "PE SPARK Awards 2021A",
+  "source": "Public-engagement-PE-legacy-nucleus-and-SPARK-awar/STFC-251021-PESparkAwards-2021A-RankingList.xlsx",
+  "meeting_start": "2021",
+  "meeting_end": "2021"
+}

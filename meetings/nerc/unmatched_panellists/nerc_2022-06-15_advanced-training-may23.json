@@ -1,0 +1,61 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Nikki Cholod",
+  "panellists": [
+    {
+      "name": "Liz",
+      "role": "Chair",
+      "organisation": "BaggsUniversity of Edinburgh"
+    },
+    {
+      "name": "Rebekah",
+      "role": "Deputy Chair",
+      "organisation": "Smith-McGloinNottingham Trent University"
+    },
+    {
+      "name": "Samantha Aspinall",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Nicolas Bellouin",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Lisa Emberson",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Andrew Gibson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Richard Hardy",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Ian Holman",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Stephen Martin",
+      "role": "Member",
+      "organisation": "University of Salford"
+    },
+    {
+      "name": "Erica Thompson",
+      "role": "Member",
+      "organisation": "University College London"
+    }
+  ],
+  "meeting_name": "Advanced Training MAY23",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-23062023-Advanced-Training-Panel-2023-Membership.pdf",
+  "meeting_start": "2022-06-15",
+  "meeting_end": "2022-06-15"
+}

@@ -1,0 +1,128 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee A",
+  "panellists": [
+    {
+      "name": "Eileen Wall",
+      "role": "Chair",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Elma Tchilian",
+      "role": "Deputy Chair",
+      "organisation": "The Pirbright Institute"
+    },
+    {
+      "name": "Richard Barrett-Jolley",
+      "role": "Deputy Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Francesca Cacucci",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Colin Selman",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Hugh Piggins",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Stephen John Torr",
+      "role": "Member",
+      "organisation": "Liverpool School of Tropical Medicine"
+    },
+    {
+      "name": "Alan Walker",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Emma Hodson-Tole",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Vicky MacRae",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "David Bechtold",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Thomas Wilkinson",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Shahriar Behboudi",
+      "role": "Member",
+      "organisation": "The Pirbright Institute"
+    },
+    {
+      "name": "Matthew Parker",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Zoe Kourtzi",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "James Gardiner",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Vladyslav Viazovskiy",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Paul Dudchenko",
+      "role": "Member",
+      "organisation": "University of Stirling"
+    },
+    {
+      "name": "Maria Montoya",
+      "role": "Member",
+      "organisation": "Centro de Investigaciones Biológicas, CIB\u0002CSIC"
+    },
+    {
+      "name": "Nicholas Lesica",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Michael Bailey",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Amanda Bretman",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Simon Turner",
+      "role": "Member",
+      "organisation": "SRUC – Scotland’s Rural College"
+    },
+    {
+      "name": "Thomas Otto",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    }
+  ],
+  "meeting_name": "22RM2 - Committee A",
+  "source": "membership/BBSRC-07062023-22RM2-Committee-Members.pdf"
+}

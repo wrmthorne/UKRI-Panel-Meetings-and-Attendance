@@ -1,0 +1,85 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "12",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R007527/1",
+      "lead_applicant": "Teresa Dillon",
+      "lead_organisation": "University of the West of England",
+      "title": "Network for Repair, Reuse & Maintenance (RRM) Cultures",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R007411/1",
+      "lead_applicant": "Chris Manias",
+      "lead_organisation": "King's College London",
+      "title": "Popularizing Palaeontology: Current and Historical Perspectives",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R006571/1",
+      "lead_applicant": "Matthew Creasy",
+      "lead_organisation": "University of Glasgow",
+      "title": "Decadence and Translation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00756X/1",
+      "lead_applicant": "Sara M. Pons-Sanz",
+      "lead_organisation": "Cardiff University",
+      "title": "Medieval English (ca600-1500) in a multilingual context",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007713/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006601/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008205/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007020/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007837/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00675X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00806X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007160/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, November 2017",
+  "source": "Research Networking, November 2017 Moderation.xlsx",
+  "meeting_start": "2017-11",
+  "meeting_end": "2017-11"
+}

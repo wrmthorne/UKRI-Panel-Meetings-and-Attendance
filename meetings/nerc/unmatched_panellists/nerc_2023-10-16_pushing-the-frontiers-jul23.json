@@ -1,0 +1,116 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Eve Sherman",
+  "panellists": [
+    {
+      "name": "Daren Gooddy",
+      "role": "Chair",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Jaime Toney",
+      "role": "Deputy Chair",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Anna Bird",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "John Bloomfield",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Vanesa Broto",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Daniel Conley",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Fidel Costa Institut",
+      "role": "Member",
+      "organisation": "de Physique du Globe de Paris"
+    },
+    {
+      "name": "Cees-Jan De Hoog",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Amy Gilligan",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Kathryn Goodenough",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Margaret Hartley",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Jason Harvey",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Rebecca Hodge",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Simon Kelley",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Sami Mikhail",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Tim Minshull",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Andy Nowacki",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Maria Romero-Gonzalez Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Hendrik Schaefer",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Sarah Sherlock The",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Pauline Smedley",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    }
+  ],
+  "meeting_name": "Pushing the Frontiers JUL23",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-19082024-Pushing-the-Frontiers-Assessment-Panels-stage-1-v2-Jul23.pdf",
+  "meeting_start": "2023-10-16",
+  "meeting_end": "2023-10-17"
+}

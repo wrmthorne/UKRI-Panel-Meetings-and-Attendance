@@ -1,0 +1,453 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-866900907",
+  "meeting_name": "Disability Networking",
+  "applications": [
+    {
+      "application_id": "AH/X00970X/1",
+      "route": "Standard",
+      "lead_applicant": "Deborah Jane Crook",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Central Lancashire",
+      "title": "Fighting 4 Rights: Young People's International Evidence Network for Disability & Solidarity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009467/1",
+      "route": "Standard",
+      "lead_applicant": "Dina Jane Kiwan",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Birmingham",
+      "title": "Deinstitutionalisation Under Siege: A network for deinstitutionalisation of persons with disabilities in the Middle East",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009718/1",
+      "route": "Standard",
+      "lead_applicant": "Nicholas Barrie Palfreyman",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Central Lancashire",
+      "title": "Deaf Caribbean Academic Network: Making language policy work for deaf communities in the Caribbean",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009580/1",
+      "route": "Standard",
+      "lead_applicant": "Morgon Banks",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "London Sch of Hygiene & Tropic. Medicine",
+      "title": "Developing a network for measuring and addressing disability-related extra costs",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009335/1",
+      "route": "Standard",
+      "lead_applicant": "Femke Bannink Mbazzi",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "London Sch of Hygiene & Tropic. Medicine",
+      "title": "DIsabled Youth Investigates (DIY): a co-creative research collaboration",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009572/1",
+      "route": "Standard",
+      "lead_applicant": "Rosemary Smith",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "De Montfort University",
+      "title": "Cultures of participation for equitable development in Cuba and the UK.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009769/1",
+      "route": "Standard",
+      "lead_applicant": "Daniel Jackson",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Bournemouth University",
+      "title": "Developing capacity for youth disability advocacy through networking in East Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009505/1",
+      "route": "Standard",
+      "lead_applicant": "Amy Madalaine Russell",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Leeds",
+      "title": "Changing the pace of change: Disability inclusion in development responses to sexual violence for women with disabilities through arts & humanities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009637/1",
+      "route": "Standard",
+      "lead_applicant": "Ursula Mary Read",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Warwick",
+      "title": "Developing a network for mutual learning on the potential of creative arts for mental health advocacy and activism in Ghana and Indonesia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009688/1",
+      "route": "Standard",
+      "lead_applicant": "Yvette Hutchison",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Warwick",
+      "title": "Encountering disability through contemporary dance in Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009696/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009327/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009661/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009750/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00967X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009602/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009610/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00936X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009599/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009793/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009319/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00953X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009386/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009394/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009416/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009432/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009440/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009459/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009475/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009483/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009491/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009521/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009548/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009556/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009564/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009629/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009653/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009726/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009734/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009742/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009777/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Nora Groce",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Laura Dean",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Member"
+    },
+    {
+      "name": "Tanvir Bush",
+      "organisation": "Bath Spa University",
+      "role": "Member"
+    },
+    {
+      "name": "Emmanuel Tsekleves",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Lars Waldorf",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Mckeown",
+      "organisation": "Teesside University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-11-14",
+  "meeting_end": "2022-11-14"
+}

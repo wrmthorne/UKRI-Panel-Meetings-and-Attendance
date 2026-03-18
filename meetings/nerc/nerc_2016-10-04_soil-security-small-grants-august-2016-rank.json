@@ -1,0 +1,265 @@
+{
+  "council": "NERC",
+  "count_of_applications": "38",
+  "count_of_awards": "8",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "1",
+      "outcome": "Successful",
+      "application_id": "NE/P014097/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Successful",
+      "application_id": "NE/P013708/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Successful",
+      "application_id": "NE/P014364/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Successful",
+      "application_id": "NE/P014208/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/P014100/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "NE/P014313/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/P014224/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P014399/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/P01416X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "10",
+      "application_id": "NE/P014348/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "NE/P014194/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/P013996/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "13",
+      "application_id": "NE/P014275/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/P014070/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "15",
+      "application_id": "NE/P014232/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "16",
+      "application_id": "NE/P014011/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "16",
+      "application_id": "NE/P014003/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "17",
+      "application_id": "NE/P013961/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "18",
+      "application_id": "NE/P014054/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "19",
+      "application_id": "NE/P013953/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "20",
+      "application_id": "NE/P013988/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "21",
+      "application_id": "NE/P014380/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "application_id": "NE/P014038/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "application_id": "NE/P01402X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "application_id": "NE/P014240/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "application_id": "NE/P014259/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "24",
+      "application_id": "NE/P013937/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "25",
+      "application_id": "NE/P014151/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "26",
+      "application_id": "NE/P014119/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "application_id": "NE/P014283/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "27",
+      "application_id": "NE/P01433X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "28",
+      "application_id": "NE/P014402/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "29",
+      "application_id": "NE/P014291/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "30",
+      "application_id": "NE/P014216/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "31",
+      "application_id": "NE/P014046/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "32",
+      "application_id": "NE/P014321/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "33",
+      "application_id": "NE/P014267/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "34",
+      "application_id": "NE/P014356/1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Michael Stocking",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Duncan Cameron Sheffield",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Julia Cooper",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Guy Kirk",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Eric Paterson James Hutton",
+      "role": "Member",
+      "organisation": "Institute"
+    },
+    {
+      "name": "Helaina Black James Hutton",
+      "role": "Member",
+      "organisation": "Institute"
+    },
+    {
+      "name": "Anne Verhoef Reading",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Gareth Clay Manchester",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Joanna Clark Reading",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "David Hopkins Royal Agricultural",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "John Scullion",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Chris Collins",
+      "role": "Member",
+      "organisation": "(Programme Coordinator) Reading University"
+    }
+  ],
+  "meeting_name": "Soil Security (Small Grants) August 2016 RANK",
+  "source": "Soil Security Small Grants August 2016.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2016/Soil Security Small Grants Panel (2).pdf",
+  "meeting_start": "2016-10-04",
+  "meeting_end": "2016-10-04"
+}

@@ -1,0 +1,47 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-358672410",
+  "meeting_name": "CDP3 Feb 2019",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Neil Forbes",
+      "organisation": "Falmouth University",
+      "role": "Chair"
+    },
+    {
+      "name": "Simon Alasdair McKerrell",
+      "organisation": "Institute of Development Studies",
+      "role": "Member"
+    },
+    {
+      "name": "Dana Arnold",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Hamish Fyfe",
+      "organisation": "University of South Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Lisanne Gibson",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Tracey Louise Loughran",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-05-26",
+  "meeting_end": "2019-05-26"
+}

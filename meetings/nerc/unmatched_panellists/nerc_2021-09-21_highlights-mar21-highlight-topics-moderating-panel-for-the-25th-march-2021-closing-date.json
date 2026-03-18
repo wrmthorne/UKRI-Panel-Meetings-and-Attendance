@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom video conference",
+  "panel_secretary": "Rehemat Bhatia",
+  "panellists": [
+    {
+      "name": "Mark Brandon",
+      "role": "Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Bethan Davies Royal Holloway",
+      "role": "Deputy Chair",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Grant Allen",
+      "role": "Member",
+      "organisation": "University of Manchester (Department of Earth"
+    },
+    {
+      "name": "Michael Balikhin",
+      "role": "Member",
+      "organisation": "University of Sheffield (Department of Automatic"
+    },
+    {
+      "name": "Camille Bonneaud",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Janette Bradley",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Samantha Buzzard",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Gina Cavan",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Silvia Dalla",
+      "role": "Member",
+      "organisation": "University of Central Lancashire"
+    },
+    {
+      "name": "Deirdre Hollingsworth",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Philip James",
+      "role": "Member",
+      "organisation": "University of Salford"
+    },
+    {
+      "name": "Sarah Moller",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Jenny Pickerill",
+      "role": "Member",
+      "organisation": "University of Sheffield (Department of Geography)"
+    },
+    {
+      "name": "Mark Viney",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    }
+  ],
+  "meeting_name": "Highlights MAR21 Highlight Topics Moderating Panel for the 25th March 2021 closing date",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-HighlightTopics-250321.pdf",
+  "meeting_start": "2021-09-21",
+  "meeting_end": "2021-09-22"
+}

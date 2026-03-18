@@ -1,0 +1,113 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN961",
+  "meeting_name": "OPP711: EPSRC UK Multidisciplinary Centre for Neuromorphic Computing Full",
+  "meeting_convenor": "M Crabbe-Mann",
+  "applications": [
+    {
+      "application_id": "APP56820",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "711",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC UK Multidisciplinary Centre for Neuromorphic Computing"
+    },
+    {
+      "application_id": "APP57587",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "711",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC UK Multidisciplinary Centre for Neuromorphic Computing"
+    },
+    {
+      "application_id": "APP58611",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "711",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC UK Multidisciplinary Centre for Neuromorphic Computing"
+    },
+    {
+      "application_id": "APP60248",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "711",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC UK Multidisciplinary Centre for Neuromorphic Computing"
+    },
+    {
+      "application_id": "APP61004",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "711",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC UK Multidisciplinary Centre for Neuromorphic Computing"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "A Xu",
+      "role": "Chair",
+      "organisation": "Wave Photonics"
+    },
+    {
+      "name": "A Adamatzky",
+      "role": "Panellist",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "D Dold",
+      "role": "Panellist",
+      "organisation": "European Space Agency"
+    },
+    {
+      "name": "M Fouda",
+      "role": "Panellist",
+      "organisation": "Rain Neuromorphics"
+    },
+    {
+      "name": "L McDaid",
+      "role": "Panellist",
+      "organisation": "University of Ulster"
+    },
+    {
+      "name": "V Ojha",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-02-17",
+  "meeting_end": "2025-02-17"
+}

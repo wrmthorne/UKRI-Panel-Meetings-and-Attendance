@@ -1,0 +1,118 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-853306831",
+  "meeting_name": "Research Networking September 2022",
+  "applications": [
+    {
+      "application_id": "AH/X007758/1",
+      "route": "Standard",
+      "lead_applicant": "Aoife McGrath",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Parenting and Dance Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004953/1",
+      "route": "Standard",
+      "lead_applicant": "Yolana Pringle",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Roehampton University",
+      "title": "Negotiating health and care in humanitarian history",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004627/1",
+      "route": "Standard",
+      "lead_applicant": "Laura Purcell-Gates",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Bath Spa University",
+      "title": "Disability and Puppetry Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X007790/1",
+      "route": "Standard",
+      "lead_applicant": "Serena Dyer",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "De Montfort University",
+      "title": "Making Historical Dress: Hands, bodies and methods",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X003787/1",
+      "route": "Standard",
+      "lead_applicant": "Lee David Higgins",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "York St John University",
+      "title": "Singing for Health Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006891/1",
+      "route": "Standard",
+      "lead_applicant": "Misha Ewen",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "Generations of Care in the Early Modern Royal Palaces",
+      "outcome": "Withdrawn"
+    },
+    {
+      "application_id": "AH/X004163/1",
+      "route": "Standard",
+      "lead_applicant": "Lucy Arnold",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "University of Worcester",
+      "title": "Haunting Issues: Children, Spectrality and Culture",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004341/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006433/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007022/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Helena Frances Gaunt",
+      "organisation": "University of South Wales",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-09-22",
+  "meeting_end": "2022-09-22"
+}

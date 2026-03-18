@@ -1,0 +1,118 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-523978412",
+  "meeting_name": "UK Turkey Creative Industries Networking Grants Mar 2020",
+  "applications": [
+    {
+      "application_id": "AH/V003828/1",
+      "route": "Standard",
+      "lead_applicant": "Donna Close",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Brighton",
+      "title": "5G: Fusing the Istanbul theatre and games sectors for a more sustainable, productive and connected future",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V003933/1",
+      "route": "Standard",
+      "lead_applicant": "ELIF OZDEN YENIGUN",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Royal College of Art",
+      "title": "Crafting Technology for Textiles",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004131/1",
+      "route": "Standard",
+      "lead_applicant": "Michael Ellison",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Bristol",
+      "title": "Transtraditional Istanbul",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V003909/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00378X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003631/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003410/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003755/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003682/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Rajinder Dudrah",
+      "organisation": "City of Bristol College",
+      "role": "Chair"
+    },
+    {
+      "name": "Aylin Orbasli",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Naren Barfield",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-04-02",
+  "meeting_end": "2020-04-02"
+}

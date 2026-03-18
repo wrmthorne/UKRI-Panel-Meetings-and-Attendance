@@ -1,0 +1,67 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN344",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel May 2024 - Post Doctoral Fellowships",
+  "meeting_convenor": "Z Brown",
+  "applications": [
+    {
+      "application_id": "APP11737",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP11953",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP7744",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP13049",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-05-21",
+  "meeting_end": "2024-05-21"
+}

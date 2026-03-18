@@ -1,0 +1,207 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1327",
+  "meeting_name": "EPSRC Engineering and Energy Fellowships Expert Panel B June 2025 - Open Plus Fellowships",
+  "meeting_convenor": "",
+  "applications": [
+    {
+      "application_id": "APP51660",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP58072",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP60046",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP35515",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP66174",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62064",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Smith",
+      "role": "Chair",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "D Arnold",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "M Barros",
+      "role": "Panellist",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "F Del Giudice",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "C Du",
+      "role": "Panellist",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "H Gao",
+      "role": "Panellist",
+      "organisation": "Teesside University"
+    },
+    {
+      "name": "N Garcia-Araez",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "W Huang",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "S Korossis",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "A Livingston",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "D Moschou",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "A Mumtaz",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "O Ola",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "A Pickford",
+      "role": "Panellist",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "M Price",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Q Rafiq",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "A Sasikala",
+      "role": "Panellist",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "N Shirshova",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "N Tapia Ruiz",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "J Xuan",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Z Zhang",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "W Zimmerman",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-06-25",
+  "meeting_end": "2025-06-25"
+}

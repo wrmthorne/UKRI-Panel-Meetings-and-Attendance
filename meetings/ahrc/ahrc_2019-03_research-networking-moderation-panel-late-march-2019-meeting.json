@@ -1,0 +1,87 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "13",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010793/1",
+      "lead_applicant": "Pietari Esa Kaapa",
+      "lead_organisation": "University of Warwick",
+      "title": "The Global Green Media Production Network",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S01215X/1",
+      "lead_applicant": "Elliot Kendall",
+      "lead_organisation": "University of Exeter",
+      "title": "Social Networks and Pre-Modern Literature 1300-1600",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011986/1",
+      "lead_applicant": "Amy Holroyd",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Crafting the Commons",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010386/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012869/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011617/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007407/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010742/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012001/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012699/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011439/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012095/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011137/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, Late March 2019 Meeting",
+  "source": "Research Networking, Late March 2019 Moderation.xlsx",
+  "meeting_start": "2019-03",
+  "meeting_end": "2019-03"
+}

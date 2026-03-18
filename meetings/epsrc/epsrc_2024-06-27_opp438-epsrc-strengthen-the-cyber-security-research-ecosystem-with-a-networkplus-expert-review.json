@@ -1,0 +1,94 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN468",
+  "meeting_name": "OPP438: EPSRC Strengthen the cyber security research ecosystem with a NetworkPlus Expert Review",
+  "meeting_convenor": "G Smith",
+  "applications": [
+    {
+      "application_id": "APP31886",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "438",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP33012",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "438",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP34496",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "438",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    },
+    {
+      "application_id": "APP33487",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "438",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC – Strengthen the cyber security research ecosystem with a NetworkPlus"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Parr",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "A Bandara",
+      "role": "Panellist",
+      "organisation": "The Open University"
+    },
+    {
+      "name": "V Benson",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "P David McIlhatton",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "N Searle",
+      "role": "Panellist",
+      "organisation": "Goldsmiths, University of London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-06-27",
+  "meeting_end": "2024-06-27"
+}

@@ -1,0 +1,57 @@
+{
+  "council": "ESRC",
+  "panellists": [
+    {
+      "name": "Chiaki Beis",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Sophie Martin",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Dabo Guan",
+      "organisation": "University College London",
+      "role": "Member"
+    },
+    {
+      "name": "Claudia Carter",
+      "organisation": "Birmingham City University",
+      "role": "Member"
+    },
+    {
+      "name": "Marylyn Carrigan",
+      "organisation": "Herriot-Watt University",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Upham",
+      "organisation": "University of Groningen",
+      "role": "Member"
+    },
+    {
+      "name": "Rosie Robison",
+      "organisation": "Anglia Ruskin University",
+      "role": "Member"
+    },
+    {
+      "name": "Rebecca Nourse",
+      "organisation": "Department for Transport",
+      "role": "Member"
+    },
+    {
+      "name": "Keith James",
+      "organisation": "WRAP",
+      "role": "Member"
+    },
+    {
+      "name": "Kathy Rastle",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Chair"
+    }
+  ],
+  "meeting_name": "Centres in Sustainable and Equitable Low-Carbon Living Full Stage Assessment Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx"
+}

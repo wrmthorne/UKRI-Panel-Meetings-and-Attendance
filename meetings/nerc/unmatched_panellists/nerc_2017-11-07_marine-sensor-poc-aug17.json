@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Medical Research Council (MRC), London",
+  "panel_secretary": "Nicola Lewis",
+  "panellists": [
+    {
+      "name": "Gwyn Griffiths Autonomous",
+      "role": "Chair",
+      "organisation": "Analytics"
+    },
+    {
+      "name": "Philip Culverhouse",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Koh Harada National Institute",
+      "role": "Member",
+      "organisation": "of Advanced Industrial"
+    },
+    {
+      "name": "Isao Koike",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "David Meldrum",
+      "role": "Member",
+      "organisation": "Independent"
+    }
+  ],
+  "meeting_name": "Marine Sensor PoC AUG17",
+  "source": "NERC-funding-assessment-panel-members-2017/Marine Sensors Proof of Concept - August 2017.pdf",
+  "meeting_start": "2017-11-07",
+  "meeting_end": "2017-11-07"
+}

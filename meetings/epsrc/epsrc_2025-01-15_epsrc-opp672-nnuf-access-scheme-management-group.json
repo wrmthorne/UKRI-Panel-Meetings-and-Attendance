@@ -1,0 +1,52 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN911",
+  "meeting_name": "EPSRC OPP672 NNUF Access Scheme Management Group",
+  "meeting_convenor": "J Tarver",
+  "applications": [
+    {
+      "application_id": "APP60574",
+      "title": "NNUF Successor - NNUF User Access Management Group",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "5057765.54",
+      "award_id": "UKRI832",
+      "opportunity_number": "672",
+      "lead_applicant": "D Armstrong",
+      "link": "https://gtr.ukri.org/projects?ref=832",
+      "opportunity": "National Nuclear User Facilities access scheme management group"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "R Grimes",
+      "role": "Chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "J Farnaby",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "A Gandy",
+      "role": "Panellist",
+      "organisation": "CCFE/UKAEA"
+    },
+    {
+      "name": "S Pemberton",
+      "role": "Panellist",
+      "organisation": "Nuclear Innovation and Research Office"
+    },
+    {
+      "name": "K Whittle",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-15",
+  "meeting_end": "2025-01-15"
+}

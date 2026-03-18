@@ -1,0 +1,114 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "16",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P014275/1",
+      "lead_applicant": "Henriette van der Blom",
+      "lead_organisation": "University of Birmingham",
+      "title": "The Crisis of Rhetoric: Renewing Political Speech and Speechwriting",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P01481X/1",
+      "lead_applicant": "Simona Valeriani",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Architectural Models in context: creativity, skill and spectacle",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R000085/1",
+      "lead_applicant": "Adam Morton",
+      "lead_organisation": "Newcastle University",
+      "title": "Anti-Catholicism across British History (c.1520-2000)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P015085/1",
+      "lead_applicant": "Sara Wasson",
+      "lead_organisation": "Lancaster University",
+      "title": "Translating Chronic Pain: A Critical and Creative Research Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001340/1",
+      "lead_applicant": "Simon Richards",
+      "lead_organisation": "Loughborough University",
+      "title": "Delos Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001677/1",
+      "lead_applicant": "Alexa Wright",
+      "lead_organisation": "University of Westminster",
+      "title": "Hybrid Bodies Network - An artist-led interdisciplinary study into the effects of heart transplantation on donor families",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001294/1",
+      "lead_applicant": "Karen Elisabeth McAulay",
+      "lead_organisation": "Royal Conservatoire of Scotland",
+      "title": "Claimed from Stationers' Hall: the United Kingdom's Historical Copyright Music Collections",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001529/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000298/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015042/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001200/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009905/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013996/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009913/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000050/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001278/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, March 2017",
+  "source": "1703-research-networking-moderation.xlsx",
+  "meeting_start": "2017-03",
+  "meeting_end": "2017-03"
+}

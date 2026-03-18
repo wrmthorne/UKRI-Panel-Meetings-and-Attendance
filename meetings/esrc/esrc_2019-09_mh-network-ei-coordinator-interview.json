@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "MH Networks E&I Coordinator",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T004754/1"
+    },
+    {
+      "opportunity": "MH Networks E&I Coordinator",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T004738/1"
+    }
+  ],
+  "meeting_name": "MH Network E&I Coordinator Interview",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-09",
+  "meeting_end": "2019-09"
+}

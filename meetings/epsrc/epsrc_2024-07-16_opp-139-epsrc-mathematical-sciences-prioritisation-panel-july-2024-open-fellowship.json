@@ -1,0 +1,39 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN579",
+  "meeting_name": "OPP 139 - EPSRC Mathematical Sciences Prioritisation Panel July 2024 - Open Fellowship",
+  "meeting_convenor": "R Williams",
+  "applications": [
+    {
+      "application_id": "APP6044",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "139",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP16238",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "139",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-16",
+  "meeting_end": "2024-07-16"
+}

@@ -1,0 +1,38 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-859295225",
+  "meeting_name": "IRO ECR Fellowships Cohort August 2022",
+  "applications": [
+    {
+      "application_id": "AH/X006719/1",
+      "route": "Standard",
+      "lead_applicant": "Joanna Norman",
+      "score": "4",
+      "rank": "1",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Scheme Coordination and Cohort-Building: Early Career Research Fellowships in Cultural and Heritage IROs",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Emily Pringle",
+      "organisation": "Tate",
+      "role": "Member"
+    },
+    {
+      "name": "Robert Harry Knifton",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Chante St Clair Inglis",
+      "organisation": "The Royal College of Surgeons of Edin",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-08-09",
+  "meeting_end": "2022-08-09"
+}

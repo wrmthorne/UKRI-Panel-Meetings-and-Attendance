@@ -1,0 +1,84 @@
+{
+  "council": "NERC",
+  "count_of_applications": "12",
+  "count_of_awards": "6",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "6.05",
+      "outcome": "Successful",
+      "application_id": "NE/P00797X/1",
+      "rank": "1"
+    },
+    {
+      "score": "5.8",
+      "outcome": "Successful",
+      "application_id": "NE/P007945/1",
+      "rank": "2"
+    },
+    {
+      "score": "5.2",
+      "outcome": "Successful",
+      "application_id": "NE/P007902/1",
+      "rank": "3"
+    },
+    {
+      "score": "5.2",
+      "outcome": "Successful",
+      "application_id": "NE/P007996/1",
+      "rank": "4"
+    },
+    {
+      "score": "4.95",
+      "outcome": "Successful",
+      "application_id": "NE/P007988/1",
+      "rank": "5"
+    },
+    {
+      "score": "4.6",
+      "outcome": "Successful",
+      "application_id": "NE/P008011/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.15",
+      "application_id": "NE/P007910/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.1",
+      "application_id": "NE/P008003/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.65",
+      "application_id": "NE/P007929/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.4",
+      "application_id": "NE/P007953/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.35",
+      "application_id": "NE/P007937/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/P007961/1",
+      "rank": "12"
+    }
+  ],
+  "meeting_name": "SARIC Research Translation Call – March 2016 SARIC Research Translation Projects Assessment Panel – 13 June 2016",
+  "source": "SARIC research translation grants - March 2016 call.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

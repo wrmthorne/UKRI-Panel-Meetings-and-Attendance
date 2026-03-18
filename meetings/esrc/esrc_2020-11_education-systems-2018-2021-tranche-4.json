@@ -1,0 +1,66 @@
+{
+  "council": "ESRC",
+  "year": "2020",
+  "count_of_applications": "9",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X014088/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X014037/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X013871/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/X014118/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/X013987/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V013920/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V013904/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V013955/1"
+    },
+    {
+      "opportunity": "Education systems 2018 to 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V013939/1"
+    }
+  ],
+  "meeting_name": "Education Systems 2018-2021 - Tranche 4",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2020-11",
+  "meeting_end": "2020-11"
+}

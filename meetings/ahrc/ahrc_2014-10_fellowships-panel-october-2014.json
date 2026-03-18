@@ -1,0 +1,215 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "30",
+  "count_of_awards": "13",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M005240/1",
+      "lead_applicant": "James Kirby",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Singing in tone: Text-setting constraints in Southeast Asia",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M004120/1",
+      "lead_applicant": "Joel Cabrita",
+      "lead_organisation": "University of Cambridge",
+      "title": "Empire of Healing: South Africa, the United States and the Transatlantic Zionist Movement",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M004236/1",
+      "lead_applicant": "Sumita Mukherjee",
+      "lead_organisation": "University of Glasgow",
+      "title": "Indian Suffragettes: Networks, Transnationalism and International Feminism, 1918-1950",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M005216/1",
+      "lead_applicant": "James Mooney",
+      "lead_organisation": "University of Leeds",
+      "title": "Hugh Davies: Electronic Music Innovator",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M004570/1",
+      "lead_applicant": "Annebella Pollen",
+      "lead_organisation": "University of Brighton",
+      "title": "Picturesqueness in Everything:Primitivism, futurism, mysticism and resistance in the art,craft, design and dress of British woodcraft groups 1916-2016",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005062/1",
+      "lead_applicant": "Nicholas Cronk",
+      "lead_organisation": "University of Oxford",
+      "title": "Voltaire's radical Enlightenment: Editing and re-interpreting the Lettres sur les Anglais",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/L014831/1",
+      "lead_applicant": "Nicholas Reyland",
+      "lead_organisation": "Keele University",
+      "title": "Lutoslawski's Worlds",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M004171/1",
+      "lead_applicant": "Ruth Ahnert",
+      "lead_organisation": "Queen Mary, University of London",
+      "title": "Tudor Networks of Power, 1509-1603",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M005631/1",
+      "lead_applicant": "Sonia Roca-Royes",
+      "lead_organisation": "University of Stirling",
+      "title": "Towards a non-uniform epistemology of modality",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M004805/1",
+      "lead_applicant": "Ben Colburn",
+      "lead_organisation": "University of Glasgow",
+      "title": "Conceptions of Responsibility",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005291/1",
+      "lead_applicant": "Richard Cleminson",
+      "lead_organisation": "University of Leeds",
+      "title": "Anarchism and Eugenics: A Seeming Paradox (1890-1940)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005933/1",
+      "lead_applicant": "Nicholas Shea",
+      "lead_organisation": "King's College London",
+      "title": "Meaning for the Brain and Meaning for the Person",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M005585/1",
+      "lead_applicant": "Amy Bryzgel",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Performance Art in Eastern Europe",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00483X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005526/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003507/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005267/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L014785/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005135/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004856/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004058/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004406/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004066/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015528/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002039/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004074/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005186/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005321/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M001954/1",
+      "score": "Invited Resubmission"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002047/1",
+      "score": "Invited Resubmission"
+    }
+  ],
+  "meeting_name": "Fellowships Panel  - October 2014",
+  "source": "Fellowships Panel October 2014.xlsx",
+  "meeting_start": "2014-10",
+  "meeting_end": "2014-10"
+}

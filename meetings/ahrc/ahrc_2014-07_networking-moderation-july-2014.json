@@ -1,0 +1,119 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "17",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/L01551X/1",
+      "lead_applicant": "James Mills",
+      "lead_organisation": "University of Strathclyde",
+      "title": "International Health Organizations (IHOs): The history for the future network (International Highlight Notice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/L01548X/1",
+      "lead_applicant": "Heather Widdows",
+      "lead_organisation": "University of Birmingham",
+      "title": "The changing requirements of beauty: Concepts, norms and regulations.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M002020/1",
+      "lead_applicant": "Heather Marsden",
+      "lead_organisation": "University of York",
+      "title": "Meaning in Language Learning",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M000044/1",
+      "lead_applicant": "Jane Collins",
+      "lead_organisation": "University of the Arts London",
+      "title": "Performing Romani Identities: Strategy and Critique",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M004007/1",
+      "lead_applicant": "Suzanne Bardgett",
+      "lead_organisation": "Imperial War Museum",
+      "title": "The BBC Monitoring Service collection at IWM Duxford: investigating and evaluating its heritage and academic value and how it can be made accessible",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/L01498X/1",
+      "lead_applicant": "Dimitris Tziovas",
+      "lead_organisation": "University of Birmingham",
+      "title": "The cultural politics of the Greek crisis",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/L015188/1",
+      "lead_applicant": "Kate Oakley",
+      "lead_organisation": "University of Leeds",
+      "title": "Improving Cultural Work: combating inequality and exclusion in the cultural and creative industries",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00516X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005577/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005852/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003272/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004147/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003043/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004023/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M000400/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004341/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002837/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Networking Moderation - July 2014",
+  "source": "Networking Moderation July 2014.xlsx",
+  "meeting_start": "2014-07",
+  "meeting_end": "2014-07"
+}

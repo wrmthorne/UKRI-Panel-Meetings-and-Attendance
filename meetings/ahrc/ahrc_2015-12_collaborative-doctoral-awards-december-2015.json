@@ -1,0 +1,515 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "88",
+  "count_of_awards": "21",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005333/1",
+      "lead_applicant": "Joanne Fox",
+      "lead_organisation": "Durham University",
+      "title": "British Newsreels at War, 1939-1945",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005279/1",
+      "lead_applicant": "Jim MacPherson",
+      "lead_organisation": "University of the Highlands and Islands",
+      "title": "Badenoch Textiles: Economy, Innovation and Identity in the Eighteenth Century",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005015/1",
+      "lead_applicant": "Camilla Speller",
+      "lead_organisation": "University of York",
+      "title": "Digital Tools for Molecular Conservation and Heritage",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004957/1",
+      "lead_applicant": "Eleanor Robson",
+      "lead_organisation": "University College London",
+      "title": "Before Virtual Reality: Visualising Ancient Sumerian Luxury in the Great Depression",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005163/1",
+      "lead_applicant": "Elizabeth Evans",
+      "lead_organisation": "University of Nottingham",
+      "title": "Longitudinal Analysis of Media Users' Attitudes to Changes in Digital Media Culture",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005341/1",
+      "lead_applicant": "David Watkinson",
+      "lead_organisation": "Cardiff University",
+      "title": "Functional Fires in Historic Houses: What price visitor experience?",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004949/1",
+      "lead_applicant": "Matt Hills",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Post-TV's Digital Audiences: Mapping Consumption via the Development and Use of an Innovative Diary-Based App",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00485X/1",
+      "lead_applicant": "Hayden Lorimer",
+      "lead_organisation": "University of Glasgow",
+      "title": "Skies Above, Earth Below: Mapping the Values of the Galloway Forest Dark Sky Park",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00552X/1",
+      "lead_applicant": "Andrew Dewdney",
+      "lead_organisation": "London South Bank University",
+      "title": "Performativity and Preservation in the Archive of Online Born-Digital Art",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004906/1",
+      "lead_applicant": "Robert Johnston",
+      "lead_organisation": "University of Sheffield",
+      "title": "Snowdonia's Early Fieldscapes: reconstructing and conserving the prehistoric and Roman landscapes of northwest Wales",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004825/1",
+      "lead_applicant": "Stephanie Bunn",
+      "lead_organisation": "University of St Andrews",
+      "title": "Burkett and Beyond: continuity and change in Middle Eastern felt textiles from museum collection to production and use",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004876/1",
+      "lead_applicant": "Amy Holdsworth",
+      "lead_organisation": "University of Glasgow",
+      "title": "Children with Learning Disabilities as Digital Audiences",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005570/1",
+      "lead_applicant": "Christopher King",
+      "lead_organisation": "University of Nottingham",
+      "title": "Building a History: Exploring and Explaining Tattershall Castle, Lincolnshire",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004892/1",
+      "lead_applicant": "Ian Shaw",
+      "lead_organisation": "University of Chester",
+      "title": "Contextualising textiles: using the Bolton Museum collection to explore social and international contexts of Egyptian Bronze Age-Islamic cloth.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005511/1",
+      "lead_applicant": "Karen Elizabeth Boyle",
+      "lead_organisation": "University of Stirling",
+      "title": "Fandom, Media and Gender in Scotland's \"National\" Game",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005481/1",
+      "lead_applicant": "Margaret Procter",
+      "lead_organisation": "University of Liverpool",
+      "title": "Accounts with interest:   opening up the archives of Barclays Bank",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005600/1",
+      "lead_applicant": "Matthew Rubery",
+      "lead_organisation": "Queen Mary, University of London",
+      "title": "Blindness, Disability, and Literacy in Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005295/1",
+      "lead_applicant": "Hannah Knox",
+      "lead_organisation": "University College London",
+      "title": "Workplace Design in the Digital Age",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005147/1",
+      "lead_applicant": "Neil Macdonald",
+      "lead_organisation": "University of Liverpool",
+      "title": "Learning from the past - exploring historical archives to inform future",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004760/1",
+      "lead_applicant": "Richard Peterson",
+      "lead_organisation": "University of Central Lancashire",
+      "title": "Settling down around the Solway Plain: the Mesolithic/Neolithic Transition in Cumbria",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005090/1",
+      "lead_applicant": "Sarah Whatley",
+      "lead_organisation": "Coventry University",
+      "title": "People Dancing: changing perceptions through inclusion and intervention",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00549X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005058/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004914/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005562/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00518X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004612/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004817/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005023/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004981/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005554/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005589/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005260/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004582/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005422/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005228/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004884/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00504X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005104/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004787/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005368/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005287/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005082/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004574/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005112/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005155/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005317/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00535X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005465/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005538/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005651/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00566X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004809/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004833/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004922/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005066/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005139/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005236/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005376/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005406/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005457/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005503/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005643/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004566/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004868/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004930/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005201/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005244/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005449/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005635/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004744/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004795/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005325/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005384/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005546/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004965/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00499X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005074/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005198/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005309/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005473/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005007/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00521X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005430/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005627/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004973/1",
+      "score": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005392/1",
+      "score": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005597/1",
+      "score": "1"
+    }
+  ],
+  "meeting_name": "Collaborative Doctoral Awards December 2015",
+  "source": "Collaborative Doctoral Awards December 2015 Meeting.xlsx",
+  "meeting_start": "2015-12",
+  "meeting_end": "2015-12"
+}

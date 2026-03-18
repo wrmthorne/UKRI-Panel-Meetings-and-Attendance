@@ -1,0 +1,107 @@
+{
+  "council": "NERC",
+  "count_of_applications": "19",
+  "count_of_awards": "9",
+  "year": "2014",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005941/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005828/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M00581X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005860/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005852/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005968/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M00600X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005801/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005836/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005844/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005976/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005798/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005895/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M00595X/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005992/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005917/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005933/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005925/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M005984/1",
+      "rank": "19"
+    }
+  ],
+  "meeting_name": "International Opportunities Fund - Pump Priming grants call - April 2014",
+  "source": "iof.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

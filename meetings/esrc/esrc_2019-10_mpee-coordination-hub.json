@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "MP-EE Coord Evid Hub 2019",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T001771/1"
+    },
+    {
+      "opportunity": "MP-EE Coord Evid Hub 2019",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001720/1"
+    }
+  ],
+  "meeting_name": "MPEE Coordination Hub",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-10",
+  "meeting_end": "2019-10"
+}

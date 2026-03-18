@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_name": "IRF OCT17 Sift Panel A",
+  "panellists": [
+    {
+      "name": "Marie Edmonds",
+      "role": "Chair",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Ray Burgess The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Melanie Leng",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Edward Llewellin",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Conall MacNiocaill",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Andrew Nicholas",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    }
+  ],
+  "meeting_name": "Independent Research Fellowship Sift Panels for the 3rd Oct 2017 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2017/OCT17 IRF Sift Panel List for Web.pdf",
+  "meeting_start": "2018-01-30",
+  "meeting_end": "2018-01-30"
+}

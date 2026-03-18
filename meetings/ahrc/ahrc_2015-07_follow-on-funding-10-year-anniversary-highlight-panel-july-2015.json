@@ -1,0 +1,246 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "36",
+  "count_of_awards": "18",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00342X/1",
+      "lead_applicant": "Anne Douglas",
+      "lead_organisation": "The Robert Gordon University",
+      "title": "Cultural leadership and the place of the artist",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003446/1",
+      "lead_applicant": "Jane Winters",
+      "lead_organisation": "University of London",
+      "title": "TOBIAS: Thesaurus of British and Irish History as SKOS",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003462/1",
+      "lead_applicant": "Evelyn Welch",
+      "lead_organisation": "King's College London",
+      "title": "Early Modern Dress in Your Hands",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00311X/1",
+      "lead_applicant": "Franziska Schroeder",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Distributed Listening - socially engaged art",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003667/1",
+      "lead_applicant": "Syed Towheed",
+      "lead_organisation": "Open University",
+      "title": "Reading Communities: Connecting the Past and the Present",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003691/1",
+      "lead_applicant": "Mieko Kanno",
+      "lead_organisation": "Royal Conservatoire of Scotland",
+      "title": "Modelling a Virtual Violin",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003268/1",
+      "lead_applicant": "James Thompson",
+      "lead_organisation": "The University of Manchester",
+      "title": "In Place of War Ten Year Anniversary Initiative: from research to practice (Highlight call)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003896/1",
+      "lead_applicant": "Thomas Betteridge",
+      "lead_organisation": "Brunel University London",
+      "title": "Exploring the potential of combining performance and digital research in a heritage context.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003578/1",
+      "lead_applicant": "James Procter",
+      "lead_organisation": "Newcastle University",
+      "title": "Out of Bounds",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003357/1",
+      "lead_applicant": "Louise Sylvester",
+      "lead_organisation": "University of Westminster",
+      "title": "Lexis of cloth and clothing: Medieval Royal Wardrobe accounts",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003624/1",
+      "lead_applicant": "Wolfgang Weileder",
+      "lead_organisation": "Newcastle University",
+      "title": "Transfer - Impact",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003438/1",
+      "lead_applicant": "Katharine Cockin",
+      "lead_organisation": "University of Hull",
+      "title": "Searching for Theatrical Ancestors (STAR)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00356X/1",
+      "lead_applicant": "Damian Murphy",
+      "lead_organisation": "University of York",
+      "title": "WEb Audio Virtual Environment Rendering (WEAVER): Online Virtual Acoustics for Sonic Art, Digital Heritage, and Broadcast",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N002393/1",
+      "lead_applicant": "Ulrike Hanna Meinhof",
+      "lead_organisation": "University of Southampton",
+      "title": "Madagascar in the World: the impact of music on global concerns",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003195/1",
+      "lead_applicant": "Stuart Taberner",
+      "lead_organisation": "University of Leeds",
+      "title": "Engaging Young Black Britons with the Relevance of The Holocaust",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003543/1",
+      "lead_applicant": "Matthew Fitzjohn",
+      "lead_organisation": "University of Liverpool",
+      "title": "Grand designs in Ancient Greece: using Classical archaeology in cross-curricular teaching in Primary and Secondary schools",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003284/1",
+      "lead_applicant": "Stuart Jeffrey",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "Research Engagement through Virtual Immersive Tools for Learning (REVISIT Learning)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003594/1",
+      "lead_applicant": "Stuart Murray",
+      "lead_organisation": "University of Leeds",
+      "title": "Our Own Image: The Legacies of Maori Filmmaking in Aotearoa/New Zealand",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003586/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003608/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003659/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003527/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003292/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002849/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00339X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003500/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003551/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003616/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003675/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003209/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003381/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003403/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003497/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003705/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00325X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003632/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Follow On Funding 10 Year Anniversary Highlight Panel, July 2015",
+  "source": "Follow-on Funding for IE 10 Years Highlight Notice July 2015 Meeting.xlsx",
+  "meeting_start": "2015-07",
+  "meeting_end": "2015-07"
+}

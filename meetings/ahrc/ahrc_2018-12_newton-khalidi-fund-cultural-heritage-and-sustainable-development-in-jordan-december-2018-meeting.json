@@ -1,0 +1,109 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011722/1",
+      "lead_applicant": "James Dakin James Smithies",
+      "lead_organisation": "King's College London",
+      "title": "MaDiH: Mapping Digital Heritage in Jordan",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011595/1",
+      "lead_applicant": "Bill Finlayson",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "Rewriting the Prehistory of Jordan",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011609/1",
+      "lead_applicant": "Gehan Selim",
+      "lead_organisation": "University of Leeds",
+      "title": "The Living Museum of Umm Qais: Sustainable preservation, analysis and virtual reconstruction of Gadara's ancient site and village",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011633/1",
+      "lead_applicant": "Steven Mithen",
+      "lead_organisation": "University of Reading",
+      "title": "Our Past Our Future, All Together In Faynan",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011714/1",
+      "lead_applicant": "Bruce Routledge",
+      "lead_organisation": "University of Liverpool",
+      "title": "Dhiban: Valuing Sites Through Valuable Stories",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011676/1",
+      "lead_applicant": "Graham Philip",
+      "lead_organisation": "Durham University",
+      "title": "A multi-isotope base map for Jordan: a tool for re-examining movement and community in the past",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011641/1",
+      "lead_applicant": "Robin Skeates",
+      "lead_organisation": "Durham University",
+      "title": "Learning from Multicultural Amman: Engaging Jordan's Youth",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011560/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011625/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011684/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011706/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011730/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011749/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01165X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011692/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Newton-Khalidi Fund Cultural Heritage and Sustainable Development in Jordan, December 2018 meeting",
+  "source": "Newton Khalidi Fund Cultural Heritage and Sustainable Development in Jordan, December 2018 meeting.xlsx",
+  "meeting_start": "2018-12",
+  "meeting_end": "2018-12"
+}

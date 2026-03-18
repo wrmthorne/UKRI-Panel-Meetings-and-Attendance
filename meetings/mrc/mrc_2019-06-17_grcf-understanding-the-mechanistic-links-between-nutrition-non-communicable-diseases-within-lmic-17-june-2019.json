@@ -1,0 +1,152 @@
+{
+  "council": "MRC",
+  "count_of_applications": "28",
+  "count_of_awards": "11",
+  "notes": "The aim of this call was to provide Development Stage funding to enable teams to strengthen their partnerships and better develop their research questions, prior to the submission of a more substantial application. Assessment of the proposals included the importance of the topic, clarity and scientific merit of the plans, and potential impact.\n\nProposals are scored by all Panel members after the presentation by designated Panel members and discussion against criteria to reflect their scientific quality and potential impact, leading to a single median score. At the end of the meeting, they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting.  \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/T00861X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/T006285/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "MR/T008121/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T007834/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T006595/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008563/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/T00679X/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "MR/T008504/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008407/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008601/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008679/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/T008628/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "MR/T008512/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008482/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008644/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "MR/T008652/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "MR/T008520/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008555/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008660/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "MR/T008547/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008598/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008806/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "MR/T00858X/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008636/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008687/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T006412/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008318/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T008571/1"
+    }
+  ],
+  "meeting_name": "GRCF Understanding the mechanistic links between nutrition & non-communicable diseases (within LMIC) 17 June 2019",
+  "source": "Global-Challenges-Research-Fund-GCRF/MRC-12102021-GRCFUnderstandingMechanisticLinks-17June2019.xlsx",
+  "meeting_start": "2019-06-17",
+  "meeting_end": "2019-06-17"
+}

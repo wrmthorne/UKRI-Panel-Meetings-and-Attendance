@@ -1,0 +1,258 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-847829081",
+  "meeting_name": "Research Grants - January 23",
+  "applications": [
+    {
+      "application_id": "AH/X008274/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Philip Schofield",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University College London",
+      "title": "'A Picture of the Treasury': The Panopticon Penitentiary, Bureaucracy, and Autobiography in the Writings of Jeremy Bentham",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X007065/1",
+      "route": "Standard",
+      "lead_applicant": "Mary Laven",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Cambridge",
+      "title": "Objects and Spaces of Encounter in Renaissance Italy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006727/1",
+      "route": "Standard",
+      "lead_applicant": "Nancy Cartwright",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Durham University",
+      "title": "Providing Credible Evidence For Singular Causal Claims",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009165/1",
+      "route": "Standard",
+      "lead_applicant": "Mathew Adkins",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Ernest Berk: An Expressionist 'Outsider'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X007685/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X008657/1",
+      "route": "Early Career",
+      "lead_applicant": "Ana-Maria Cretu",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Bristol",
+      "title": "Human Computers as Instruments",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X007251/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007294/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003981/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007782/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00709X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X008525/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007472/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007367/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010619/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007707/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005577/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X008800/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007715/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007839/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007898/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "David Parsons",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Galina Miazhevich",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Richard John Bramwell",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Fiona Anne Hackney",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Gurchathen Singh Sanghera",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Luciana Martins",
+      "organisation": "Birkbeck College",
+      "role": "Member"
+    },
+    {
+      "name": "Soumyen Bandyopadhyay Bandyopadhyay",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-01-13",
+  "meeting_end": "2023-01-13"
+}

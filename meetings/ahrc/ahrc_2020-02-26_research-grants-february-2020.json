@@ -1,0 +1,333 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-491562572",
+  "meeting_name": "Research Grants - February 2020",
+  "applications": [
+    {
+      "application_id": "AH/T007265/1",
+      "route": "Early Career",
+      "lead_applicant": "Neil Christopher Wilkin",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "The British Museum",
+      "title": "Icons in Context: Rethinking Symbols of Power at the Time of Stonehenge",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004606/1",
+      "route": "Standard",
+      "lead_applicant": "James Edward Scorer",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "The University of Manchester",
+      "title": "Comics and Race in Latin America",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T00729X/1",
+      "route": "Standard",
+      "lead_applicant": "Sue Brownill",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "Spaces of HOPE. The Hidden History of Community Led Planning in the UK",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006978/1",
+      "route": "Standard",
+      "lead_applicant": "Lamberto Coccioli",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Birmingham City University",
+      "title": "Augmented Vocality: Recomposing the Sounds of Early Irish and Old Norse",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T009292/1",
+      "route": "Standard",
+      "lead_applicant": "Katie Lloyd Thomas",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "Newcastle University",
+      "title": "AHRC-FAPESP MoU Translating Ferro / Transforming Knowledges of Architecture, Design and Labour for the New Field of Production Studies  [TF/TK]",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007044/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Owen Clancy",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "University of Glasgow",
+      "title": "Iona's Namescape: Place-Names and their Dynamics in Iona and its Environs",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006382/1",
+      "route": "Early Career",
+      "lead_applicant": "Laure Humbert",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "The University of Manchester",
+      "title": "Colonial and Transnational Intimacies: Medical Humanitarianism in the French external Resistance, 1940-1945.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T009411/1",
+      "route": "Standard",
+      "lead_applicant": "Naomi Appleton",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Comparative Buddhology in Indian Narrative Literature",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007028/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00715X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006927/1",
+      "route": "Early Career",
+      "lead_applicant": "Sean Geraint Roberts",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "Cardiff University",
+      "title": "Causal approaches to investigating language evolution",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T003995/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007206/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006323/1",
+      "route": "Early Career",
+      "lead_applicant": "Ken Ri Kim",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "Loughborough University",
+      "title": "Novel Digital Weaving Application Development to Innovate the current Woven Textile Coloration by developing an Optical Yarn Colour Mixing System",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008733/1",
+      "route": "Early Career",
+      "lead_applicant": "Jade Munslow Ong",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "University of Salford",
+      "title": "South African Modernism 1880-2020",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006889/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007591/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007117/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006897/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007192/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005505/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00732X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007907/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005270/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006544/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006005/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006501/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007230/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Maria Delgado",
+      "organisation": "Royal Central Sch of Speech and Drama",
+      "role": "Chair"
+    },
+    {
+      "name": "Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Alex Goody",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Jane Catherine Whittle",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Katharine S. Willis",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Neil Forbes",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Thomas Maguire",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-02-26",
+  "meeting_end": "2020-02-26"
+}

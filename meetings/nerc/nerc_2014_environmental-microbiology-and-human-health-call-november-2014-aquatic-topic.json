@@ -1,0 +1,153 @@
+{
+  "council": "NERC",
+  "count_of_applications": "13",
+  "count_of_awards": "4",
+  "year": "2014",
+  "applications": [
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "NE/M011674/1",
+      "rank": "9"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/M010996/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M010937/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M010775/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M011666/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M010821/1",
+      "rank": "6"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/M011631/1",
+      "rank": "9"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/M010813/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M011585/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M011011/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M011798/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M01181X/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "44",
+      "application_id": "NE/M010872/1",
+      "rank": "8"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Penny Johnes",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Jon Caplin",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Dominique Despeyroux",
+      "role": "Member",
+      "organisation": "Dstl"
+    },
+    {
+      "name": "Paul Hunter",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Danny O’Hare",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Peter Sykes",
+      "role": "Member",
+      "organisation": "Cardiff Metropolitan University"
+    },
+    {
+      "name": "Jim Wharfe",
+      "role": "Member",
+      "organisation": "Freelance"
+    },
+    {
+      "name": "Victor Aguilera",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Adrian Baker",
+      "role": "Member",
+      "organisation": "Dstl"
+    },
+    {
+      "name": "Elaine Connolly",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Lizzie Garratt",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Valerie McFarlane",
+      "role": "Member",
+      "organisation": "FSA"
+    }
+  ],
+  "meeting_name": "Environmental Microbiology and Human Health Call - November 2014 Aquatic Topic",
+  "source": "emhh-outcomes.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2014/2014emhh-modpanel.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

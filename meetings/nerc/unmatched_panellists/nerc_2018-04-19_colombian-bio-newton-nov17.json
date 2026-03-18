@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "MRC Conference Centre, London",
+  "panel_secretary": "Beth Taylor",
+  "panellists": [
+    {
+      "name": "Michele Clarke",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Marian Cabrera",
+      "role": "Member",
+      "organisation": "University of Amsterdam"
+    },
+    {
+      "name": "Michael Crang",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Helen Dancer",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Isabelle Durance",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Robert Fish",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Marcela Quinones",
+      "role": "Member",
+      "organisation": "SarVision"
+    }
+  ],
+  "meeting_name": "Colombian bio (Newton) NOV17",
+  "source": "NERC-funding-assessment-panel-members-2017/Exploring and Understanding Colombian Bio Resources Panel - November 2017.pdf",
+  "meeting_start": "2018-04-19",
+  "meeting_end": "2018-04-19"
+}

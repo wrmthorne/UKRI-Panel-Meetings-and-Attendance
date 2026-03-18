@@ -1,0 +1,98 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-680485533",
+  "meeting_name": "(L1) NEH AHRC New Directions for Digital Scholarship September 2021",
+  "applications": [
+    {
+      "application_id": "AH/W005581/1",
+      "route": "Standard",
+      "lead_applicant": "David Francis Stirrup",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Kent",
+      "title": "Indigenous Knowledges: a Digital Residency Exchange and Best Practices Pilot",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005662/1",
+      "route": "Standard",
+      "lead_applicant": "Meha Priyadarshini",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Subaltern Histories of Global Textiles: Connecting Collections, Expanding Engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005549/1",
+      "route": "Standard",
+      "lead_applicant": "Alison Freeland Eardley",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Westminster",
+      "title": "'I don't see what you mean': Broadening participation through co-created inclusive digital museum audio interpretation.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005360/1",
+      "route": "Standard",
+      "lead_applicant": "James Cummings",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "Newcastle University",
+      "title": "Evolving Hands: Building Workflows and Scalable Practices for Handwriting Recognition and Text Encoding in Cultural Institutions",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005476/1",
+      "route": "Standard",
+      "lead_applicant": "Stefania Stefania Merlo",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Cambridge",
+      "title": "Digital Storytelling on African Urbanisms: A Model to Empower Education Initiatives Across the Global South",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005573/1",
+      "route": "Standard",
+      "lead_applicant": "Eddie Bruce-Jones",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "Birkbeck College",
+      "title": "Towards an Integrated Colonial Archive: Humanities, Law and British Indentureship",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Chante St Clair Inglis",
+      "organisation": "The Royal College of Surgeons of Edin",
+      "role": "Member"
+    },
+    {
+      "name": "Gregory Toner",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Lorna Hughes",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Luciana Martins",
+      "organisation": "Birkbeck College",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-09-13",
+  "meeting_end": "2021-09-13"
+}

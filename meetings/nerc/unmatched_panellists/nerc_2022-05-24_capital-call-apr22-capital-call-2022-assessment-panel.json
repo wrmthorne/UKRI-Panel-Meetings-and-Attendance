@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Kola Akinola",
+  "panellists": [
+    {
+      "name": "Rob Mackenzie",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Steve Banwart",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Mark Brandon",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Terry Burke",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Graham Ferrier",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Rebecca Fisher Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Matthew Horstwood",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Alastair Lewis",
+      "role": "Member",
+      "organisation": "National Centre for Atmospheric Science"
+    },
+    {
+      "name": "/",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Suzanne",
+      "role": "Member",
+      "organisation": "McGowan Netherlands Institute of Ecology"
+    },
+    {
+      "name": "Maria Romero-Gonzalez Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Victoria Smith",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Rachel Stubbington",
+      "role": "Member",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "Katrien Van Landeghem",
+      "role": "Member",
+      "organisation": "University of Bangor"
+    }
+  ],
+  "meeting_name": "Capital Call APR22 Capital Call 2022 Assessment Panel",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-230522-CapitalCall2022AssessmentPanelApr2022.pdf",
+  "meeting_start": "2022-05-24",
+  "meeting_end": "2022-05-26"
+}

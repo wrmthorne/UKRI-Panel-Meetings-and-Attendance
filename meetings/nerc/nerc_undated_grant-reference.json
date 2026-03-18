@@ -1,0 +1,171 @@
+{
+  "council": "NERC",
+  "count_of_applications": "27",
+  "count_of_awards": "27",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R009090/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/R008930/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R009198/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R008884/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R009015/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R009007/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R009082/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R008876/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R009155/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R009066/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R009147/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R008892/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R009171/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R009058/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R008914/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R008833/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R00918X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R008957/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R008965/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R008981/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R00899X/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R009023/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R008973/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R009112/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/R009120/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "5",
+      "application_id": "NE/R008922/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "score": "4",
+      "application_id": "NE/R009104/1",
+      "rank": "4"
+    }
+  ],
+  "meeting_name": "Grant Reference",
+  "source": "NERC-051021-EnvironmentalRiskToInfrastructureInnovation2017-FundingOutcomes.pdf"
+}

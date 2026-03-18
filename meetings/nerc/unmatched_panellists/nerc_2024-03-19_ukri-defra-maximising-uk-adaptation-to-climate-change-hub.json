@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Caxton House, London",
+  "panel_secretary": "Jennifer Wickens",
+  "panellists": [
+    {
+      "name": "Sasha Turchyn",
+      "role": "Chair",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Emma Ferranti",
+      "role": "Deputy Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Julie Doyle",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Lindsey McEwen",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Ece Ozdemiroglu",
+      "role": "Member",
+      "organisation": "eftec"
+    },
+    {
+      "name": "Iain Thom",
+      "role": "Member",
+      "organisation": "Scottish Government"
+    }
+  ],
+  "meeting_name": "UKRI-Defra maximising UK adaptation to climate change hub",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-110324-MaximisingUKAdaptationClimateChangeHubInterviewPanelFebruary2024.pdf",
+  "meeting_start": "2024-03-19",
+  "meeting_end": "2024-03-19"
+}

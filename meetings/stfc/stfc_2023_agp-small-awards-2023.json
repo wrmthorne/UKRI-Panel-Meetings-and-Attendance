@@ -1,0 +1,1410 @@
+{
+  "council": "STFC",
+  "year": "2023",
+  "count_of_applications": "174",
+  "count_of_awards": "84",
+  "notes": "Note: Successful proposals are shown in rank order, however unsuccesful proposals are shown in High, Middle and Lower Terciles,",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002032/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "child_grant_reference": "ST/Y002237/1",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002121/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002008/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001478/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002318/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001850/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002733/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001826/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "child_grant_reference": "ST/Y001648/1",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002148/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001281/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002210/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002725/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001117/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001419/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000951/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002040/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001230/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002792/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001834/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001605/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002229/1",
+      "rank": "21"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002695/1",
+      "rank": "22"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002458/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001133/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002024/1",
+      "rank": "25"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002369/1",
+      "rank": "26"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001508/1",
+      "rank": "27"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001710/1",
+      "rank": "28"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001591/1",
+      "rank": "29"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000676/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002490/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001680/1",
+      "rank": "32"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001672/1",
+      "rank": "33"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001028/1",
+      "rank": "34"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001249/1",
+      "rank": "35"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002563/1",
+      "rank": "36"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001575/1",
+      "rank": "37"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002865/1",
+      "rank": "38"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001907/1",
+      "rank": "39"
+    },
+    {
+      "outcome": "Successful",
+      "child_grant_reference": "ST/Y002296/1\nST/Y002113/1",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002156/1",
+      "rank": "40"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001443/1",
+      "rank": "41"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00275X/1",
+      "rank": "42"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002415/1",
+      "rank": "43"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002393/1",
+      "rank": "44"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001095/1",
+      "rank": "45"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001656/1",
+      "rank": "46"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002687/1",
+      "rank": "47"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001621/1",
+      "rank": "48"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001338/1",
+      "rank": "49"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001699/1",
+      "rank": "50"
+    },
+    {
+      "outcome": "Successful",
+      "child_grant_reference": "ST/Y001796/1",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001206/1",
+      "rank": "51"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002482/1",
+      "rank": "52"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001273/1",
+      "rank": "53"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001788/1",
+      "rank": "54"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002164/1",
+      "rank": "55"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002334/1",
+      "rank": "56"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000846/1",
+      "rank": "57"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002423/1",
+      "rank": "58"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002741/1",
+      "rank": "59"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000986/1",
+      "rank": "60"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001141/1",
+      "rank": "61"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002385/1",
+      "rank": "62"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002253/1",
+      "rank": "63"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000943/1",
+      "rank": "64"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00230X/1",
+      "rank": "65"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00082X/1",
+      "rank": "66"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002857/1",
+      "rank": "67"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00146X/1",
+      "rank": "68"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001257/1",
+      "rank": "69"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002644/1",
+      "rank": "70"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001990/1",
+      "rank": "71"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001176/1",
+      "rank": "72"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001060/1",
+      "rank": "73"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001982/1",
+      "rank": "74"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002245/1",
+      "rank": "75"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001001/1",
+      "rank": "76"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000811/1",
+      "rank": "77"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002652/1",
+      "rank": "78"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001524/1",
+      "rank": "79"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00261X/1",
+      "rank": "80"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002407/1",
+      "rank": "81"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001532/1",
+      "rank": "82"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002520/1",
+      "rank": "83"
+    },
+    {
+      "outcome": "Successful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002288/1",
+      "rank": "84"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002881/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002075/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000781/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001877/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "child_grant_reference": "ST/Y001192/1\nST/Y001869/1\nST/Y001192/1\nST/Y001052/1",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001184/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001745/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002512/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001540/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002571/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002660/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002377/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000978/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002083/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000501/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000927/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002636/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002539/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002849/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001559/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001265/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001915/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000994/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002466/1",
+      "rank": "Upper tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001427/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001761/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002547/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002601/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001400/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002822/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001567/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001974/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00129X/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001451/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002814/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001583/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00213X/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002326/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001079/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001842/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001818/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002628/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002555/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001087/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001168/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001435/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001729/1",
+      "rank": "Middle tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001516/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001354/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002091/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002105/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000609/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00227X/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002059/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002768/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001036/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001222/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001362/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001370/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001389/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00163X/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001737/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001753/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00180X/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001885/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001923/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00194X/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002199/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002202/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00244X/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002504/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002598/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002709/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002717/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001044/1",
+      "rank": "Lower tercile"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002784/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000935/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "PL",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002830/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "SS",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00115X/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000919/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001109/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001125/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001303/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001486/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y001702/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002172/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002180/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002342/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AT",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y00258X/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y002806/1",
+      "rank": "Reject"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "panel": "AO",
+      "opportunity": "AGP Small Awards",
+      "year": "2023",
+      "application_id": "ST/Y000897/1",
+      "rank": "Reject"
+    }
+  ],
+  "meeting_name": "AGP Small Awards 2023",
+  "source": "Astronomy-grants-panel-small-award-2023/STFC-230524-RankingListAstronomySmallAwards2023.xlsx",
+  "meeting_start": "2023",
+  "meeting_end": "2023"
+}

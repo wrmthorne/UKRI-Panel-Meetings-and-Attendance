@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2024",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "ESRC Data Infrastructure",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y008340/1"
+    },
+    {
+      "opportunity": "ESRC Data Infrastructure",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y008367/1"
+    }
+  ],
+  "meeting_name": "PRUK Co-ordination Hub",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2024-03",
+  "meeting_end": "2024-03"
+}

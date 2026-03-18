@@ -1,0 +1,75 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "10",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007328/1",
+      "lead_applicant": "Nicola Dempsey",
+      "lead_organisation": "University of Sheffield",
+      "title": "Reflecting on the river: rapid urbanisation and representations of Indian cultural heritage.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007387/1",
+      "lead_applicant": "Adam Hardy",
+      "lead_organisation": "Cardiff University",
+      "title": "The Historic City of Ajmer-Pushkar: mapping layers of history, use and meaning for sustainable planning and conservation",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007395/1",
+      "lead_applicant": "Ayona Datta",
+      "lead_organisation": "University of Leeds",
+      "title": "Learning from the Utopian City: An international network on alternative histories of India's urban futures",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007220/1",
+      "lead_applicant": "Aylin Orbasli",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "Community-led Heritage Regeneration in India",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007352/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007344/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007360/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007271/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007336/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007379/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Cultural Heritage and Rapid Urbanisation in India",
+  "source": "Cultural Heritage and Rapid Urbanisation in India October 2015 Meeting.xlsx",
+  "meeting_start": "2015-10",
+  "meeting_end": "2015-10"
+}

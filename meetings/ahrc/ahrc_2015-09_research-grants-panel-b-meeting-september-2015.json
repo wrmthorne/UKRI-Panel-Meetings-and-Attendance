@@ -1,0 +1,137 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "20",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00308X/1",
+      "lead_applicant": "Martin Clayton",
+      "lead_organisation": "Durham University",
+      "title": "Interpersonal Entrainment in Music Performance",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001826/1",
+      "lead_applicant": "Mykaell Riley",
+      "lead_organisation": "University of Westminster",
+      "title": "Bass Culture",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001605/1",
+      "lead_applicant": "Ian Goode",
+      "lead_organisation": "University of Glasgow",
+      "title": "The Major Minor Cinema: the Highlands and Islands Film Guild (1946-71)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00440X/1",
+      "lead_applicant": "Timothy Clark",
+      "lead_organisation": "The British Museum",
+      "title": "Late Hokusai: Thought, Technique, Society",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N003683/1",
+      "lead_applicant": "Jon Dovey",
+      "lead_organisation": "University of the West of England",
+      "title": "Ambient Literature",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002806/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002032/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002121/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001656/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002717/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00275X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003217/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N002938/1",
+      "lead_applicant": "Sandra Costa Santos",
+      "lead_organisation": "Northumbria University",
+      "title": "Place and belonging: what can we learn from Claremont Court Housing Scheme?",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001478/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001486/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001753/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001818/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001958/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002873/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003136/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, panel B meeting September 2015",
+  "source": "Research Grants Panel B, September 2015 meeting.xlsx",
+  "meeting_start": "2015-09",
+  "meeting_end": "2015-09"
+}

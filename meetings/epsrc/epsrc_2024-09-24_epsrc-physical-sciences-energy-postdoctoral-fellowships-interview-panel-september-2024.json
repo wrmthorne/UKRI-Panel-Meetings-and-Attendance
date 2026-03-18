@@ -1,0 +1,76 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN675",
+  "meeting_name": "EPSRC Physical Sciences Energy Postdoctoral Fellowships Interview Panel - September 2024",
+  "meeting_convenor": "J Dennis",
+  "applications": [
+    {
+      "application_id": "APP11737",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    },
+    {
+      "application_id": "APP12101",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Eberlein",
+      "role": "Chair",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "N Greenham",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "M Mamlouk",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "M Mazzera",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "R Melen",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "V Ting",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "C Trager-Cowan",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-09-24",
+  "meeting_end": "2024-09-24"
+}

@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Philippa Kennard",
+  "panellists": [
+    {
+      "name": "Iain Williams",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Heiko Balzter",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Tara Dean London South",
+      "role": "Member",
+      "organisation": "Bank University"
+    },
+    {
+      "name": "Isabelle Durance",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Mark Fletcher",
+      "role": "Member",
+      "organisation": "ARUP"
+    },
+    {
+      "name": "Steven Hill",
+      "role": "Member",
+      "organisation": "UKRI"
+    },
+    {
+      "name": "Diane Mitchell",
+      "role": "Member",
+      "organisation": "NFU"
+    },
+    {
+      "name": "Ece Ozdemiroglu Economics",
+      "role": "Member",
+      "organisation": "for the Environment Consultancy"
+    },
+    {
+      "name": "Peter Singleton",
+      "role": "Member",
+      "organisation": "SEPA"
+    }
+  ],
+  "meeting_name": "Changing the Environment 2021 3 June 2021 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-ChangingTheEnvironment030621.pdf",
+  "meeting_start": "2021-10-27",
+  "meeting_end": "2021-10-28"
+}

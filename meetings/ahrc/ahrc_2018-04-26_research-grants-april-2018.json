@@ -1,0 +1,438 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-326193363",
+  "meeting_name": "Research Grants - April 2018",
+  "applications": [
+    {
+      "application_id": "AH/R012768/1",
+      "route": "Standard",
+      "lead_applicant": "Gordon Alexander McMullan",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "King's College London",
+      "title": "Shakespeare in the Royal Collections (ShaRC)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R01308X/1",
+      "route": "Standard",
+      "lead_applicant": "Elizabeth Jane Thynne",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Sussex",
+      "title": "Jill Craigie: Film Pioneer",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R012857/1",
+      "route": "Standard",
+      "lead_applicant": "A G Brown",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Southampton",
+      "title": "Waves of colonization around the Sea of Moyle: Linking population history, resilience and landscape change of island communities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013292/1",
+      "route": "Standard",
+      "lead_applicant": "Colin David Jones",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "The Duchesse d'Elbeuf's Letters to a Friend, 1788-94",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013861/1",
+      "route": "Standard",
+      "lead_applicant": "Aleksander Pluskowski",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Reading",
+      "title": "Landscapes of (Re)Conquest: Dynamics of Multicultural Frontiers in Medieval SW Europe",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013845/1",
+      "route": "Standard",
+      "lead_applicant": "George Lau",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of East Anglia",
+      "title": "(NSF/SBE-RCUK) Rise of divine lordships in the ancient Andes: ancestors and polity in northern Peru",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013055/1",
+      "route": "Standard",
+      "lead_applicant": "Camillia Kong",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Birkbeck College",
+      "title": "The Role of Values and Participation in Judicial Deliberation and Mental Capacity Law",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R01356X/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Barker",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "The University of Manchester",
+      "title": "Faith in the town: lay religion, urbanisation and industrialisation in England, 1740-1830",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013381/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013594/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014736/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008485/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R012032/1",
+      "route": "Early Career",
+      "lead_applicant": "Nicholas James Webb",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "University of Liverpool",
+      "title": "Tracing the past: analysing the design and construction of English medieval vaults using digital techniques.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013918/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013284/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013586/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013071/1",
+      "route": "Early Career",
+      "lead_applicant": "Chloe Kathleen Preedy",
+      "score": "5",
+      "rank": "17",
+      "lead_organisation": "University of Exeter",
+      "title": "Atmospheric Theatre: Open-Air Performance and the Environment",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R008760/1",
+      "route": "Early Career",
+      "lead_applicant": "Leila Jancovich",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "University of Leeds",
+      "title": "Cultural participation: Stories of success, histories of failure",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R012911/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013683/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014906/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014949/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008612/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014809/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013721/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R011435/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013799/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R01342X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014701/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "29",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014027/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "30",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R01406X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008167/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R012687/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013047/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013101/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013152/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013179/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014787/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Barbara Lucy Kelly",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Alexander John Thomson",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "David Parsons",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Edward Paleit",
+      "organisation": "University of Salford",
+      "role": "Member"
+    },
+    {
+      "name": "Emilie Kathleen Capulet",
+      "organisation": "The University of West London",
+      "role": "Member"
+    },
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Berthold Johannes Schoene",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Bryce Salisbury Lease",
+      "organisation": "Royal Central Sch of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Charlotte Lucy Alston",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-04-26",
+  "meeting_end": "2018-04-26"
+}

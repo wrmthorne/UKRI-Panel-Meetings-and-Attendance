@@ -1,0 +1,318 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-726827131",
+  "meeting_name": "AHRC NERC Hidden Histories Call 2021",
+  "applications": [
+    {
+      "application_id": "AH/W009056/1",
+      "route": "Standard",
+      "lead_applicant": "Aditya Ramesh",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "The University of Manchester",
+      "title": "Cottonopolis: lessons for environmental science through the hidden histories of Manchester",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009145/1",
+      "route": "Standard",
+      "lead_applicant": "Shelda-Jane Smith",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Liverpool",
+      "title": "Confronting Historical Wrongs in Liverpool and Beyond: Creative Responses and Anticolonial Approaches to Environmental Science",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008726/1",
+      "route": "Standard",
+      "lead_applicant": "Rebecca Williams",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Hull",
+      "title": "Decolonising UK Earth Science pedagogy - from the hidden histories of our geological institutions to inclusive curricula",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008793/1",
+      "route": "Standard",
+      "lead_applicant": "Ashley Coutu",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Oxford",
+      "title": "Activating the Archive: African environmental histories and knowledges materialised in museum collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009099/1",
+      "route": "Standard",
+      "lead_applicant": "David Wilson",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Strathclyde",
+      "title": "British Colonialism, Marine Sciences, and Fisheries Governance: Lessons from Lake Malawi in the Mid-Twentieth Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008505/1",
+      "route": "Standard",
+      "lead_applicant": "Christina Ann Mary Welch",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Winchester",
+      "title": "Unearthing the contribution of indigenous & enslaved African knowledge systems to the St Vincent Botanical Garden under Dr Anderson (1785-1811)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008998/1",
+      "route": "Standard",
+      "lead_applicant": "Alan Gray",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "UK Centre for Ecology & Hydrology",
+      "title": "The UK Overseas Territories: colonialism as a cultural and ecological driver and ensuring equity in environmental research and data exchanges",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009161/1",
+      "route": "Standard",
+      "lead_applicant": "Vinita Damodaran",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Sussex",
+      "title": "Science and the Colonies; Hidden networks of Botanical science, Ecology and Eugenics at the end of Empire",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00898X/1",
+      "route": "Standard",
+      "lead_applicant": "Jennifer Barclay",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of East Anglia",
+      "title": "Curating crises: the past as a key to improving the stewardship of hazard knowledges for the future",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008866/1",
+      "route": "Standard",
+      "lead_applicant": "Christopher Christopher Prior",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Southampton",
+      "title": "Decolonising Victorian histories: Frank Oates, geographic exploration and teaching imperial history and environmental science",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009196/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008734/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008688/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00920X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008564/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009005/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008580/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008904/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00870X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008807/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008858/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008955/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008971/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009013/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009021/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009072/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Patricia Elaine Noxolo",
+      "organisation": "University of Birmingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Eli Lazarus",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Stuart Black",
+      "organisation": "University of Reading",
+      "role": "Member"
+    },
+    {
+      "name": "Patrick Campbell",
+      "organisation": "The Natural History Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Anna-Maria Susheila Misra",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Julie Cupples",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Nicola Beaumont",
+      "organisation": "Plymouth Marine Laboratory",
+      "role": "Member"
+    },
+    {
+      "name": "Robert Beckford",
+      "organisation": "University of Central Lancashire",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-11-15",
+  "meeting_end": "2021-11-15"
+}

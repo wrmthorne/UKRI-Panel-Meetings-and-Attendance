@@ -1,0 +1,150 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN418",
+  "meeting_name": "OPP361 Turing AI World-Leading Researcher Fellowships Round 3",
+  "meeting_convenor": "M Raynor",
+  "applications": [
+    {
+      "application_id": "APP22478",
+      "title": "Turing AI Fellowship: Generative Machine Learning Models for Data of Arbitrary Underlying Geometry (MAGAL)",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "4429379.18",
+      "award_id": "EP/Z534699/1",
+      "opportunity_number": "361",
+      "lead_applicant": "S Zafeiriou",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534699%2F1",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP28712",
+      "title": "Turing AI Fellowship: AI for Person-Centred and Teachable Autonomy",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "5152912.65",
+      "award_id": "EP/Z534833/1",
+      "opportunity_number": "361",
+      "lead_applicant": "S Ramamoorthy",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534833%2F1",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP26222",
+      "title": "Turing AI Fellowship: Somabotics - Creatively Embodying Artificial Intelligence",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "5137618.77",
+      "award_id": "EP/Z534808/1",
+      "opportunity_number": "361",
+      "lead_applicant": "S Benford",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534808%2F1",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP22760",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "361",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP22491",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "361",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP26359",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "361",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP25879",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "361",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    },
+    {
+      "application_id": "APP23688",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "361",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Turing AI World-Leading Researcher Fellowships: round three"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "W Hall",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "R Misener",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "A Noble",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "P Remagnino",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "C Sierra",
+      "role": "Panellist",
+      "organisation": "Research Institute for Artificial Intelligence"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-05-22",
+  "meeting_end": "2024-05-22"
+}

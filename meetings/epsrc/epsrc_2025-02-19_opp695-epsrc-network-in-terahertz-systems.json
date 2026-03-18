@@ -1,0 +1,57 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN909",
+  "meeting_name": "OPP695: EPSRC network in terahertz systems",
+  "meeting_convenor": "D Tresoldi",
+  "applications": [
+    {
+      "application_id": "APP53107",
+      "title": "NetworkPlus in Terahertz Systems",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1050425.04",
+      "award_id": "UKRI1362",
+      "opportunity_number": "695",
+      "lead_applicant": "J Cunningham",
+      "link": "https://gtr.ukri.org/projects?ref=1362",
+      "opportunity": "EPSRC network in terahertz systems"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Parr",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "S Hadjiloucas",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "S Haxha",
+      "role": "Panellist",
+      "organisation": "Royal Holloway, University of London"
+    },
+    {
+      "name": "M Matters-Kammerer",
+      "role": "Panellist",
+      "organisation": "Eindhoven University of Technology"
+    },
+    {
+      "name": "M Nekovee",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "M Watkinson",
+      "role": "Panellist",
+      "organisation": "Manchester Metropolitan University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-02-19",
+  "meeting_end": "2025-02-19"
+}

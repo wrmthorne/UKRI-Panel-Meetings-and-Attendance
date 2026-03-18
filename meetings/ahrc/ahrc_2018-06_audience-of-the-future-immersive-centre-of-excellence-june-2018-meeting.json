@@ -1,0 +1,31 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S003622/1",
+      "lead_applicant": "Jonathan Wardle",
+      "lead_organisation": "National Film and Television School",
+      "title": "StoryFutures Academy: Industry Centre of Excellence in Immersive Narrative",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003606/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003614/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Audience of the Future: Immersive Centre of Excellence, June 2018 Meeting",
+  "source": "Audience of the Future - Immersive Centre of Excellence June 2018 Meeting.xlsx",
+  "meeting_start": "2018-06",
+  "meeting_end": "2018-06"
+}

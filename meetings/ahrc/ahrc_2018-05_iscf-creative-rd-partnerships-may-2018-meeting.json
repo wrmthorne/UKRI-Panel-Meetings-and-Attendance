@@ -1,0 +1,150 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "22",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002936/1",
+      "lead_applicant": "Jon Dovey",
+      "lead_organisation": "University of the West of England",
+      "title": "Creative Industries Clusters Programme",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002855/1",
+      "lead_applicant": "Paul Moore",
+      "lead_organisation": "University of Ulster",
+      "title": "Future Screens NI",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002839/1",
+      "lead_applicant": "Damian Murphy",
+      "lead_organisation": "University of York",
+      "title": "Creative Media Labs: Innovations in Screen Storytelling in the Age of Interactivity and Immersion",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002782/1",
+      "lead_applicant": "Chris Speed",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Creative Informatics: Data Driven Innovation for the Creative Industries",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002871/1",
+      "lead_applicant": "Sean Taylor",
+      "lead_organisation": "University of Abertay Dundee",
+      "title": "InGAME: Innovation for Games and Media Enterprise",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002804/1",
+      "lead_applicant": "Graeme Evans",
+      "lead_organisation": "University of the Arts London",
+      "title": "The Business of Fashion, Textiles and Technology Collaborative R&D Partnership",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002863/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002898/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002766/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002758/1",
+      "lead_applicant": "James Bennett",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "StoryFutures: Gateway Cluster Partnership for Audiovisual Digital Creativity",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002790/1",
+      "lead_applicant": "Justin Lewis",
+      "lead_organisation": "Cardiff University",
+      "title": "Clwstwr Creadigol: Research and Development for a high performing creative cluster in Wales",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S002812/1",
+      "lead_applicant": "Stephen Russell",
+      "lead_organisation": "University of Leeds",
+      "title": "Future Fashion Factory - Digitally Enabled Design & Manufacture of Designer Products for Circular Economies",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002944/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00274X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002928/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00288X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00291X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002774/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002847/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002901/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002820/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002731/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "ISCF - Creative R&D Partnerships - May 2018 meeting",
+  "source": "Creative R and D Partnerships, May 2018 Meeting.xlsx",
+  "meeting_start": "2018-05",
+  "meeting_end": "2018-05"
+}

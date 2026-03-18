@@ -1,0 +1,60 @@
+{
+  "council": "NERC",
+  "meeting_location": "MRC, London",
+  "panel_secretary": "Dr Mieke de Wit",
+  "panellists": [
+    {
+      "name": "David Thomas",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Keith Bower",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Clare Embling",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Anja Engel",
+      "role": "Member",
+      "organisation": "GEOMAR"
+    },
+    {
+      "name": "Claire Hughes",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Ian Renfrew",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "David Schroeder",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Gunnar Spreen",
+      "role": "Member",
+      "organisation": "University of Bremen"
+    },
+    {
+      "name": "Michael Steinke",
+      "role": "Member",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Øystein Varpe UNIS",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "MOSAiC JAN18 MOSAiC – The International Arctic Drift Expedition",
+  "source": "NERC-funding-assessment-panel-members-2018/MOSAiC panel - January 2018.pdf",
+  "meeting_start": "2018-04-19",
+  "meeting_end": "2018-04-19"
+}

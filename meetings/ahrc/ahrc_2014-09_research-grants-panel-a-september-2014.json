@@ -1,0 +1,102 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "14",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M004910/1",
+      "lead_applicant": "Crispin Bates",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Becoming Coolies: Rethinking the Origins of the Indian Labour Diaspora, 1772-1920.",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M001938/1",
+      "lead_applicant": "Sachiko Kusukawa",
+      "lead_organisation": "University of Cambridge",
+      "title": "Making Visible: The visual and graphic practices of the early Royal Society",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M00208X/1",
+      "lead_applicant": "Beatrice Han-Pile",
+      "lead_organisation": "University of Essex",
+      "title": "The Ethics of Powerlessness: The Theological Virtues Today.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005534/1",
+      "lead_applicant": "Amanda Rees",
+      "lead_organisation": "University of York",
+      "title": "Unsettling scientific stories: expertise, narrative and future histories",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004198/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005232/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002357/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005178/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002713/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M003620/1",
+      "lead_applicant": "James Edward Kelly",
+      "title": "Monks in Motion: a prosopographical study of the English and Welsh Benedictines in exile, 1553-1800",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00502X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00418X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M000389/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003345/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel A September 2014",
+  "source": "AHRC Scheme Call Panel Research Grants Panel A September 2014.xlsx",
+  "meeting_start": "2014-09",
+  "meeting_end": "2014-09"
+}

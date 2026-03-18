@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "DeAnna Cardoza",
+  "panellists": [
+    {
+      "name": "Mark Brandon",
+      "role": "Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Sally Brown",
+      "role": "Member",
+      "organisation": "Environment Agency and visitor at University"
+    },
+    {
+      "name": "Denise Brown",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Matthieu Cartigny",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Ross Cuthbert",
+      "role": "Member",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Emma Ferranti",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Frederike Garbe",
+      "role": "Member",
+      "organisation": "Public Health Scotland"
+    },
+    {
+      "name": "Hilary Graham",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Helen Macintyre",
+      "role": "Member",
+      "organisation": "UK Health Security Agency and University of"
+    },
+    {
+      "name": "Iris Moeller",
+      "role": "Member",
+      "organisation": "Trinity College Dublin"
+    },
+    {
+      "name": "Raquel Nunes",
+      "role": "Member",
+      "organisation": "Warwick University"
+    },
+    {
+      "name": "Ros Rickaby Oxford",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Jamie Shutler",
+      "role": "Member",
+      "organisation": "Exeter University"
+    },
+    {
+      "name": "Alexander Thomas",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Ben Webber",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "John Woodward",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    }
+  ],
+  "meeting_name": "Highlight Topics MAR23",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-11102023-Highlight-Topics-MAR23-Moderating-Panel-closing-date-22-March.pdf",
+  "meeting_start": "2023-09-21",
+  "meeting_end": "2023-09-21"
+}

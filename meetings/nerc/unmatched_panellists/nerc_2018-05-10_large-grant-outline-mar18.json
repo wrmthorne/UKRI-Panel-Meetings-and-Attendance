@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Dr Mieke de Wit",
+  "panellists": [
+    {
+      "name": "Ric Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Philip Anderson",
+      "role": "Member",
+      "organisation": "Scottish Association For Marine Science"
+    },
+    {
+      "name": "Tim Barraclough",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Jonathan Chambers",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Mathew Evans",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Raja Ganeshram",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Davey Jones",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Julia Lee-Thorp",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Thomas Mock",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Richard Preziosi",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Zongbo Shi",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Des Thompson",
+      "role": "Member",
+      "organisation": "Scottish Natural Heritage"
+    },
+    {
+      "name": "Bart van Dongen The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Andrew Willmott",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "Large Grant Outline MAR18",
+  "source": "NERC-funding-assessment-panel-members-2018/Large Grants Outline Bids Panel - March 2018.pdf",
+  "meeting_start": "2018-05-10",
+  "meeting_end": "2018-05-10"
+}

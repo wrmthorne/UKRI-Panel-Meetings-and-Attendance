@@ -1,0 +1,57 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN279",
+  "meeting_name": "UK Energy Research Centre 2024 to 2029",
+  "meeting_convenor": "H Hunt",
+  "applications": [
+    {
+      "application_id": "APP18692",
+      "title": "UKERC Phase 5 2024 to 2029",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "11685142.21",
+      "award_id": "UKRI098",
+      "opportunity_number": "293",
+      "lead_applicant": "R Gross",
+      "link": "https://gtr.ukri.org/projects?ref=098",
+      "opportunity": "UK Energy Research Centre 2024 to 2029"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Meredith",
+      "role": "Chair",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "S Brown",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "J Cooper",
+      "role": "Panellist",
+      "organisation": "Unaffiliated"
+    },
+    {
+      "name": "N Ozkan",
+      "role": "Panellist",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "E Spearman",
+      "role": "Panellist",
+      "organisation": "BP (United Kingdom)"
+    },
+    {
+      "name": "K Whittle",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-03-27",
+  "meeting_end": "2024-03-27"
+}

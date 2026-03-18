@@ -1,0 +1,153 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "20",
+  "count_of_awards": "12",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P007899/1",
+      "lead_applicant": "Matthew Woodcock",
+      "lead_organisation": "University of East Anglia",
+      "title": "Accessing the Records of Early English Drama in Norwich, 1540-1642",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P006485/1",
+      "lead_applicant": "Alden Gregory",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "Portable Palaces: Royal Tents and Timber Lodgings 1509-1603",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P007554/1",
+      "lead_applicant": "Edith Hall",
+      "lead_organisation": "King's College London",
+      "title": "Studying Classical Civilisation in Britain: Recording the Past and Fostering the Future",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P005853/1",
+      "lead_applicant": "Justin Arthur Williams",
+      "lead_organisation": "University of Bristol",
+      "title": "Regional Rap in Post-devolution Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P00492X/1",
+      "lead_applicant": "Zoe Norridge",
+      "lead_organisation": "King's College London",
+      "title": "Stories from Rwanda: Academic, Creative, Applied",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P005322/1",
+      "lead_applicant": "Gitte Hansen",
+      "lead_organisation": "Newcastle University",
+      "title": "Gendering Murakami Haruki: Characters, Transmedial Productions and Contemporary Japan",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P005551/1",
+      "lead_applicant": "Nicholas Seager",
+      "lead_organisation": "Keele University",
+      "title": "The Correspondence of Daniel Defoe",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P00640X/1",
+      "lead_applicant": "Colin King",
+      "lead_organisation": "University of Sussex",
+      "title": "Hitting Them Where It Hurts: The history and development of Civil Recovery powers under the Proceeds of Crime Act (2002 - 2016).",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P007058/1",
+      "lead_applicant": "Rebecca Madgin",
+      "lead_organisation": "University of Glasgow",
+      "title": "Why Does the Past Matter? Emotional Attachments to the Historic Urban Environment",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P007937/1",
+      "lead_applicant": "Sam Duncan",
+      "lead_organisation": "University College London",
+      "title": "Reading Aloud in Britain Today (RABiT)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P007376/1",
+      "lead_applicant": "Nicolas Pillai",
+      "lead_organisation": "Birmingham City University",
+      "title": "Jazz on BBC-TV 1960-1969",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P007740/1",
+      "lead_applicant": "David Bretherton",
+      "lead_organisation": "University of Southampton",
+      "title": "Queer Music, Queer Theory, Queer Music Theory",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006515/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005659/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008828/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006310/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006973/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005705/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007104/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007198/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, December 2016 panel meeting",
+  "source": "1612-fellowships-meeting.xlsx",
+  "meeting_start": "2016-12",
+  "meeting_end": "2016-12"
+}

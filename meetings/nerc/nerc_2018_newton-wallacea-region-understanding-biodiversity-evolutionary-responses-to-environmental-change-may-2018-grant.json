@@ -1,0 +1,126 @@
+{
+  "council": "NERC",
+  "count_of_applications": "19",
+  "count_of_awards": "5",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S007059/1",
+      "rank": "6"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S006923/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S006990/1",
+      "rank": "6"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S007067/1",
+      "rank": "6"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S00680X/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S006958/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006826/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006982/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S007032/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S007016/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006834/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S007024/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006974/1",
+      "rank": "4"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006907/1",
+      "rank": "5"
+    },
+    {
+      "score": "64",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006966/1",
+      "rank": "14"
+    },
+    {
+      "score": "64",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S007008/1",
+      "rank": "14"
+    },
+    {
+      "score": "65",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S007040/1",
+      "rank": "14"
+    },
+    {
+      "score": "55",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006850/1",
+      "rank": "18"
+    },
+    {
+      "score": "45",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006885/1",
+      "rank": "19"
+    }
+  ],
+  "meeting_name": "Newton Wallacea region – Understanding biodiversity & evolutionary responses to environmental change May 2018 Grant",
+  "source": "Newton Wallacea region - May 2018.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

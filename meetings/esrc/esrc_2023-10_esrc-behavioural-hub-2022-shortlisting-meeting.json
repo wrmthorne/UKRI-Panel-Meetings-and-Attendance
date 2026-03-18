@@ -1,0 +1,30 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "ESRC Behavioural Hub 2022",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001044/1"
+    },
+    {
+      "opportunity": "ESRC Behavioural Hub 2022",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001192/1"
+    },
+    {
+      "opportunity": "ESRC Behavioural Hub 2022",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001311/1"
+    }
+  ],
+  "meeting_name": "ESRC Behavioural Hub 2022 Shortlisting Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-10",
+  "meeting_end": "2023-10"
+}

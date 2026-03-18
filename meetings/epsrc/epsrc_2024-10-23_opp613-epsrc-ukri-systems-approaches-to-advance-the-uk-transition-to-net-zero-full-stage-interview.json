@@ -1,0 +1,108 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN712",
+  "meeting_name": "OPP613: EPSRC UKRI systems approaches to advance the UK transition to net zero: Full Stage Interview",
+  "meeting_convenor": "V Blackstone",
+  "applications": [
+    {
+      "application_id": "APP47922",
+      "title": "Systems Approaches for Accelerating a Just Transition (JUST-Systems)",
+      "lead_organisation": "University of Aberdeen",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "4912331.47",
+      "award_id": "UKRI356",
+      "opportunity_number": "613",
+      "lead_applicant": "T Potts",
+      "link": "https://gtr.ukri.org/projects?ref=356",
+      "opportunity": "UKRI systems approaches to advance the UK’s transition to net zero: Full Stage"
+    },
+    {
+      "application_id": "APP46540",
+      "title": "People-Led Net Zero: accelerating our transition",
+      "lead_organisation": "University of Bath",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "4945829.94",
+      "award_id": "UKRI357",
+      "opportunity_number": "613",
+      "lead_applicant": "L Newnes",
+      "link": "https://gtr.ukri.org/projects?ref=357",
+      "opportunity": "UKRI systems approaches to advance the UK’s transition to net zero: Full Stage"
+    },
+    {
+      "application_id": "APP45718",
+      "title": "PACT - Production and Consumption Transformations",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "3297764.4",
+      "award_id": "UKRI1500",
+      "opportunity_number": "613",
+      "lead_applicant": "J Barrett",
+      "link": "https://gtr.ukri.org/projects?ref=1500",
+      "opportunity": "UKRI systems approaches to advance the UK’s transition to net zero: Full Stage"
+    },
+    {
+      "application_id": "APP51742",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "613",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "UKRI systems approaches to advance the UK’s transition to net zero: Full Stage"
+    },
+    {
+      "application_id": "APP49230",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "613",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "UKRI systems approaches to advance the UK’s transition to net zero: Full Stage"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Enzer",
+      "role": "Chair",
+      "organisation": "Mott Macdonald (United Kingdom)"
+    },
+    {
+      "name": "P Barbrook-Johnson",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "S Bhattacharyya",
+      "role": "Panellist",
+      "organisation": "De Montfort University"
+    },
+    {
+      "name": "F Charnley",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "F Polack",
+      "role": "Panellist",
+      "organisation": "University of Hull"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-10-23",
+  "meeting_end": "2024-10-23"
+}

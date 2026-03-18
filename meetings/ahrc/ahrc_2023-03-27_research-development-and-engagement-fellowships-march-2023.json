@@ -1,0 +1,263 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-923091631",
+  "meeting_name": "Research, Development and Engagement Fellowships March 2023",
+  "applications": [
+    {
+      "application_id": "AH/X010597/1",
+      "route": "Early Career",
+      "lead_applicant": "Dunja Fehimovic",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Newcastle University",
+      "title": "(De)colonial Ecologies in 21st-century insular Hispanic Caribbean film",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011895/1",
+      "route": "Early Career",
+      "lead_applicant": "Nivi Manchanda",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Imagining the Border Otherwise: Global engagements with solidarity, relationality and survival",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X012913/1",
+      "route": "Early Career",
+      "lead_applicant": "Panpan Yang",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "SOAS University of London",
+      "title": "Stroke by Stroke: Calligraphic Imagination in Contemporary Chinese Art and Emergent Media",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X012417/1",
+      "route": "Early Career",
+      "lead_applicant": "Kevin Waite",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Durham University",
+      "title": "Beyond Jim Crow: Black Freedom in the American West",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011666/1",
+      "route": "Standard",
+      "lead_applicant": "John Swinton",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Aberdeen",
+      "title": "'We Take Care of Our Own': A Theological Ethnographic Exploration of the Experience of Caregiving in the Context of Dementia Across Two Cultures",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011518/1",
+      "route": "Standard",
+      "lead_applicant": "Patricia Zakreski",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Exeter",
+      "title": "The Art of Fiction: Women's Writing and the Decorative Arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011488/1",
+      "route": "Standard",
+      "lead_applicant": "Henry Richard Parkes",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Nottingham",
+      "title": "Music in the Shadows: Staging Medieval Night Worship 800-1300",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X01133X/1",
+      "route": "Standard",
+      "lead_applicant": "Katharine Anne Murphy",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Exeter",
+      "title": "Reading Bodies: Narrating Illness in Spanish and European Literatures and Cultures (1870s to 1960s)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011631/1",
+      "route": "Early Career",
+      "lead_applicant": "Lone Sorensen",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Leeds",
+      "title": "Mediated climate change politics in the post-truth era: the epistemology and performance of contested digital truth claims",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010929/1",
+      "route": "Early Career",
+      "lead_applicant": "Charlie Peevers",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Glasgow",
+      "title": "Disarming International Law: forgotten pasts and future possibilities on a global front line",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011119/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X01102X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009513/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X013022/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011550/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011569/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011941/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011607/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011046/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011887/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012735/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Thomas Walters",
+      "organisation": "Institute of Cancer Research",
+      "role": "Chair"
+    },
+    {
+      "name": "Sara McDowell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Young Mi Kim",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Ben John Highmore",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "David Turner",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Mark Johnson",
+      "organisation": "Goldsmiths College",
+      "role": "Member"
+    },
+    {
+      "name": "pammi sinha",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Rachel Clare Kerr",
+      "organisation": "King's College London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-03-27",
+  "meeting_end": "2023-03-27"
+}

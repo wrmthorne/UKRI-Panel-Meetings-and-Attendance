@@ -1,0 +1,148 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-480205851",
+  "meeting_name": "Research Networking September 2019",
+  "applications": [
+    {
+      "application_id": "AH/T005637/1",
+      "route": "Standard",
+      "lead_applicant": "Magdalena Kubanyiova",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Leeds",
+      "title": "Ethics and Aesthetics of Encountering the Other: New Frameworks for Engaging with Difference",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004169/1",
+      "route": "Standard",
+      "lead_applicant": "Noah Chaim Millstone",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Birmingham",
+      "title": "Europe's Short Peace, 1595-1620",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005777/1",
+      "route": "Standard",
+      "lead_applicant": "Rosalind Brown-Grant",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Leeds",
+      "title": "The Joust as Performance: \"Pas d'armes\" and Late Medieval Chivalry",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005734/1",
+      "route": "Standard",
+      "lead_applicant": "Richard Toye",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Exeter",
+      "title": "Genres of Political Writing in Britain since 1900",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004177/1",
+      "route": "Standard",
+      "lead_applicant": "Ruth Young",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Leicester",
+      "title": "Sri Lanka Research Network. Archaeology and Heritage in the North West.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004622/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005890/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00570X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00505X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004851/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005653/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005696/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005785/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Aylin Orbasli",
+      "organisation": "Oxford Brookes University",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2019-09-14",
+  "meeting_end": "2019-09-14"
+}

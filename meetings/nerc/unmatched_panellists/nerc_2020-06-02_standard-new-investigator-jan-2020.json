@@ -1,0 +1,82 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom Virtual meeting",
+  "panel_secretary": "Rehemat Bhatia",
+  "panel_name": "Jan 20 Standard Grant Panel A",
+  "panellists": [
+    {
+      "name": "Mike Bentley",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Fin Stuart SUERC/",
+      "role": "Deputy Chair",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "John Bloomfield",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Jeffrey Peakall",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Gerald Roberts Birkbeck/",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Saskia Goes",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Jenni Barclay",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Juliet Biggs",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Graham Shields-Zhou",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Neil Glasser",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Tom Coulthard",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Conal MacNiocaill",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Brice Rea",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Sabine den Hartog",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    }
+  ],
+  "meeting_name": "Standard & New Investigator Jan 2020",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-StandardAndNewInvestigatorGrant-0120.pdf",
+  "meeting_start": "2020-06-02",
+  "meeting_end": "2020-06-03"
+}

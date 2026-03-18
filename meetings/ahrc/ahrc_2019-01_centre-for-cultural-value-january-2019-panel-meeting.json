@@ -1,0 +1,36 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "4",
+  "count_of_awards": "1",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011889/1",
+      "lead_applicant": "Ben Walmsley",
+      "lead_organisation": "University of Leeds",
+      "title": "Centre for Cultural Value",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011862/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011854/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011870/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Centre for Cultural Value, January 2019 panel meeting",
+  "source": "Centre for Cultural Value, January 2019 Meeting.xlsx",
+  "meeting_start": "2019-01",
+  "meeting_end": "2019-01"
+}

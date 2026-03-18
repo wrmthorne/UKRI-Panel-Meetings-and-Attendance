@@ -1,0 +1,90 @@
+{
+  "council": "NERC",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Jonathan Bull",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Madeleine Humphreys",
+      "role": "Deputy Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Anasuya Aruliah",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Heiko Balzter",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Ralf Halama",
+      "role": "Member",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "David Hodell",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Babbette Hoogakker",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Michael Kosch",
+      "role": "Member",
+      "organisation": "Lancaster University/South African National"
+    },
+    {
+      "name": "Space Agency",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Rickard",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Sebastian Rost",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Ulrich Salzmann",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Vincent Savolainen",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Louise Sime",
+      "role": "Member",
+      "organisation": "NERC British Antarctic Survey"
+    },
+    {
+      "name": "Martyn Tranter",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Anne Verhoef",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ],
+  "meeting_name": "Large Grant NOV20 Large Grants Moderating Panel for the 17th November 2020 closing date",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-LargeGrants-171120.pdf",
+  "meeting_start": "2021-05-17",
+  "meeting_end": "2021-05-18"
+}

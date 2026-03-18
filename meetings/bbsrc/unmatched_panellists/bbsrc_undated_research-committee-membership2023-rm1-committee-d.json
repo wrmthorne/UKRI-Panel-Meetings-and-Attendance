@@ -1,0 +1,113 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee D",
+  "panellists": [
+    {
+      "name": "Martin Cann",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Andrew Pitt",
+      "role": "Deputy Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Paolo Actis",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Rebecca Coll",
+      "role": "Member",
+      "organisation": "Queen’s University of Belfast"
+    },
+    {
+      "name": "Tessa Crompton",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Lisa Crossman",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Hai Deng",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Andrew Gates",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Robert Graham",
+      "role": "Member",
+      "organisation": "Queen’s University of Belfast"
+    },
+    {
+      "name": "Neil Kad",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Viktor Korolchuk",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Birgit Leitinger",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Jody Mason",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Helen Mott",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Anna Nicolaou",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "King’s College London Eamonn Reading",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Sonia Rocha",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "David Roper",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Patric Turowski",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Tuck Seng Wong",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Dongda Zhang",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    }
+  ],
+  "meeting_name": "Research Committee Membership2023 RM1 - Committee D",
+  "source": "membership/BBSRC-060224-ResearchCommitteeMembership2023-RM1.pdf"
+}

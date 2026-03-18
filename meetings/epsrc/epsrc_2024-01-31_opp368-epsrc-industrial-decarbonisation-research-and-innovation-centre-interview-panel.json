@@ -1,0 +1,52 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN206",
+  "meeting_name": "OPP368 EPSRC Industrial Decarbonisation Research and Innovation Centre Interview Panel",
+  "meeting_convenor": "K Hart",
+  "applications": [
+    {
+      "application_id": "APP23907",
+      "title": "Industrial Decarbonisation Research & Innovation Centre (IDRIC) 2024-2025",
+      "lead_organisation": "Heriot-Watt University",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "3024304.56",
+      "award_id": "EP/Z53125X/1",
+      "opportunity_number": "368",
+      "lead_applicant": "M Maroto-Valer",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ53125X%2F1",
+      "opportunity": "EPSRC Industrial Decarb Research & Innovation Centre additional funding"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Calder",
+      "role": "Chair",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "M Ferrari",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "R Irons",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "J Sadhukhan",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "M Williams",
+      "role": "Panellist",
+      "organisation": "Energy UK"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-01-31",
+  "meeting_end": "2024-01-31"
+}

@@ -1,0 +1,121 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Emma Morgan",
+  "panellists": [
+    {
+      "name": "Richard Bardgett",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Rob Bradburne Environment",
+      "role": "Member",
+      "organisation": "Agency"
+    },
+    {
+      "name": "Chris Cheffings Joint Nature",
+      "role": "Member",
+      "organisation": "Conservation Committee"
+    },
+    {
+      "name": "Alejandro Coca Castro Alan",
+      "role": "Member",
+      "organisation": "Turing Institute"
+    },
+    {
+      "name": "Chris Collins Natural Resources",
+      "role": "Member",
+      "organisation": "Wales"
+    },
+    {
+      "name": "Alice Eldridge",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Bridget Emmett",
+      "role": "Member",
+      "organisation": "UKCEH"
+    },
+    {
+      "name": "Paul Ewart",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Vera Fonseca Centre",
+      "role": "Member",
+      "organisation": "of Environment, Fisheries and Aquaculture Science"
+    },
+    {
+      "name": "Becky Heath",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Jon Helmore National Physical",
+      "role": "Member",
+      "organisation": "Laboratory"
+    },
+    {
+      "name": "Penny Johnes",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Simon Jude",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Barbara Kasprzyk-Hordern",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Gary Kass Natural",
+      "role": "Member",
+      "organisation": "England"
+    },
+    {
+      "name": "Julian Leyland",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Shaun Quegan",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Steven Reece",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Allison Schaap National Oceanographic",
+      "role": "Member",
+      "organisation": "Centre"
+    },
+    {
+      "name": "Marian Scott",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Gavin Shaddick",
+      "role": "Member",
+      "organisation": "Royal Holloway University, London"
+    },
+    {
+      "name": "Advaith Siddharthan The",
+      "role": "Member",
+      "organisation": "Open University"
+    }
+  ],
+  "meeting_name": "Innovation in Environmental Monitoring",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-111223-IEMPanelMembershipNov2023.pdf",
+  "meeting_start": "2023-12-06",
+  "meeting_end": "2023-12-07"
+}

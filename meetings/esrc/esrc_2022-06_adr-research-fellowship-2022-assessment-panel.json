@@ -1,0 +1,138 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "21",
+  "count_of_awards": "6",
+  "applications": [
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001001/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001249/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001184/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001141/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001222/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y001176/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001087/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001028/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001117/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y000862/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001133/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001168/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001206/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001265/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001273/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001281/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001338/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001230/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001079/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001109/1"
+    },
+    {
+      "opportunity": "ADR UK Research Fellowship 22",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y001125/1"
+    }
+  ],
+  "meeting_name": "ADR Research Fellowship 2022 Assessment Panel",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-06",
+  "meeting_end": "2022-06"
+}

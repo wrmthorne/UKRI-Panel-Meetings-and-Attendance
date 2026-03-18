@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Jessica Lucia",
+  "panellists": [
+    {
+      "name": "Colin Moffat Robert Gordon's",
+      "role": "Chair",
+      "organisation": "College"
+    },
+    {
+      "name": "Helen Baker",
+      "role": "Member",
+      "organisation": "JNCC (Joint Nature Conserv Committee)"
+    },
+    {
+      "name": "Dickon Howell Howell Marine",
+      "role": "Member",
+      "organisation": "Consulting"
+    },
+    {
+      "name": "Audrey Jones OWEAP",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Polly Tarrant",
+      "role": "Member",
+      "organisation": "NnG Offshore Wind"
+    },
+    {
+      "name": "Paul Tyler",
+      "role": "Member",
+      "organisation": "University of Southampton (Emeritus)"
+    },
+    {
+      "name": "Russell Wynn Wild New",
+      "role": "Member",
+      "organisation": "Forest CIC"
+    }
+  ],
+  "meeting_name": "ECOWind Outline Panel NOV21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-EcoWindOutlineNOV21-191021.pdf",
+  "meeting_start": "2022-01-17",
+  "meeting_end": "2022-01-17"
+}

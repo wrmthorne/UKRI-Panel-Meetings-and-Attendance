@@ -1,0 +1,52 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "6",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R014302/1",
+      "lead_applicant": "Adam Hardy",
+      "lead_organisation": "Cardiff University",
+      "title": "‘Tamil Temple Towns: Conservation and Contestation’",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R014272/1",
+      "lead_applicant": "Ian Magadera",
+      "lead_organisation": "University of Liverpool",
+      "title": "‘The Hugli River of Cultures Pilot Project, from Bandel to Barrackpore’",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R014183/1",
+      "lead_applicant": "Chika Udeaja",
+      "lead_organisation": "University of Salford",
+      "title": "‘IT Indian Heritage Platform: Enhancing Cultural Resilience in India by Applying Digital Technologies to the Indian Tangible and Intangible Heritage’",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013969/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013675/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013888/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "AHRC/ICHR Newton Fund 'Cultural Heritage and Rapid Urbanisation in India'",
+  "source": "AHRC-ICHR Cultural Heritage and Rapid Urbanisation in India, January 2018 Meeting.xlsx",
+  "meeting_start": "2018-01",
+  "meeting_end": "2018-01"
+}

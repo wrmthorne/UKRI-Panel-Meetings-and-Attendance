@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "MRC, London",
+  "panel_secretary": "Kay Heuser",
+  "panellists": [
+    {
+      "name": "Michèle Clarke",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Adebayo Adeloye",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Stuart Barr",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "John Carstensen",
+      "role": "Member",
+      "organisation": "DFID"
+    },
+    {
+      "name": "Katrina Charles",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Mark Naylor",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Karl Ritz",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Dominick Spracklen",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "David Thomas",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Isabel Vogel Isabel Vogel",
+      "role": "Member",
+      "organisation": "Ltd"
+    },
+    {
+      "name": "Nichola Badcock",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Frances Collingborn",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Liz Fellman",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Kate Hamer",
+      "role": "Member",
+      "organisation": "NERC"
+    }
+  ],
+  "meeting_name": "National Capability ODA Full Proposal Assessment Panel for the 11th Jan 2017 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2017/National Capability ODA - Full Proposal Assessment Panel - May 2017.pdf",
+  "meeting_start": "2017-05-08",
+  "meeting_end": "2017-05-08"
+}

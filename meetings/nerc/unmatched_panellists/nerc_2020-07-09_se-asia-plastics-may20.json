@@ -1,0 +1,61 @@
+{
+  "council": "NERC",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Kay Heuser",
+  "panellists": [
+    {
+      "name": "Stephen Hawkins",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Piran White",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Lota",
+      "role": "Member",
+      "organisation": "Alcantara-Creencia Western Philippines University"
+    },
+    {
+      "name": "Corina Ciocan",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Danielle Green Anglia Ruskin",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Mark Huxham Edinburgh Napier",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Duc Luong Nguyen* National",
+      "role": "Member",
+      "organisation": "University of Civil Engineering"
+    },
+    {
+      "name": "Kieran O'Driscoll",
+      "role": "Member",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Alex Rogers",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Costas Velis",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    }
+  ],
+  "meeting_name": "SE Asia Plastics MAY20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-SouthEastAsiaPlastics-190520.pdf",
+  "meeting_start": "2020-07-09",
+  "meeting_end": "2020-07-09"
+}

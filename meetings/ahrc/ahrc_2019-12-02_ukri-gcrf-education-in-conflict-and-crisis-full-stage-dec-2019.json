@@ -1,0 +1,118 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-451519902",
+  "meeting_name": "UKRI GCRF Education in Conflict and Crisis Full stage Dec 2019",
+  "applications": [
+    {
+      "application_id": "AH/T007842/1",
+      "route": "Standard",
+      "lead_applicant": "Leon Tikly",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Bristol",
+      "title": "Education, Justice and Memory Network (EdJAM)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007826/1",
+      "route": "Standard",
+      "lead_applicant": "Dina Jane Kiwan",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Birmingham",
+      "title": "GCRF Network Plus: Disability under Siege",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008121/1",
+      "route": "Standard",
+      "lead_applicant": "Parvati Raghuram",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The Open University",
+      "title": "Decolonising Peace Education In Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008075/1",
+      "route": "Standard",
+      "lead_applicant": "Kelsey Shanks",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Ulster",
+      "title": "The Political Economy of Education Research (PEER) Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008016/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008040/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00813X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008180/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008156/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Ayesha Siddiqi",
+      "organisation": "University of Cambridge",
+      "role": "Member"
+    },
+    {
+      "name": "Tejendra Jnawali Pherali",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-12-02",
+  "meeting_end": "2019-12-02"
+}

@@ -1,0 +1,37 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Julie Goulding / Oliver Knevitt",
+  "panel_name": "IRF OCT18 Sift Panel A",
+  "panellists": [
+    {
+      "name": "Dan Parsons",
+      "role": "Chair",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Eliza Calder",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "David Hodgson",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Stuart Robinson",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Sarah Sherlock",
+      "role": "Member",
+      "organisation": "Open University"
+    }
+  ],
+  "meeting_name": "Independent Research Fellowship Sift Panels for the 2nd Oct 2018 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2018/irf-sift-oct2018.pdf",
+  "meeting_start": "2019-01-29",
+  "meeting_end": "2019-01-29"
+}

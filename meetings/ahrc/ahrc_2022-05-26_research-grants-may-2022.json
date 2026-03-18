@@ -1,0 +1,228 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-820839043",
+  "meeting_name": "Research Grants - May 2022",
+  "applications": [
+    {
+      "application_id": "AH/W010534/1",
+      "route": "Standard",
+      "lead_applicant": "Stuart James Taberner",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Leeds",
+      "title": "Rethinking Holocaust Literature: Contexts, Canons, Circulations",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010186/1",
+      "route": "Standard",
+      "lead_applicant": "Jamie Savan",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Birmingham City University",
+      "title": "Aural Histories: Coventry 1451-1642",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010380/1",
+      "route": "Standard",
+      "lead_applicant": "Mary-Ann Constantine",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Wales Trinity Saint David",
+      "title": "Curious Travellers: Digital Editions of Thomas Pennant's Tours of Scotland and Wales",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W003287/1",
+      "route": "Standard",
+      "lead_applicant": "Vincent Lawrence Gaffney",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Bradford",
+      "title": "Taken at the Flood: ensuring sustainable heritage strategies for green energy development in the North Sea",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011549/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011328/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000494/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010828/1",
+      "route": "Early Career",
+      "lead_applicant": "Ignacio Aguilo",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "The University of Manchester",
+      "title": "Indigenous youth subcultures and new media in Latin America",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011263/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010259/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011093/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011085/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010666/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010283/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W01078X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010313/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011557/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000508/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Deborah Jayne Cartmell",
+      "organisation": "De Montfort University",
+      "role": "Chair"
+    },
+    {
+      "name": "Joan Fitzpatrick",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Arvind Thiruvallore Thattai",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Graham Saunders",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Hua Zhu",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Lars Waldorf",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Mohamed Gamal Abdelmonem",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-05-26",
+  "meeting_end": "2022-05-26"
+}

@@ -1,0 +1,52 @@
+{
+  "council": "NERC",
+  "count_of_applications": "8",
+  "count_of_awards": "3",
+  "year": "2014",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M017125/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M017028/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M017044/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M017109/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M017141/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M016730/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M016862/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M017060/1",
+      "rank": "8"
+    }
+  ],
+  "meeting_name": "Soil Security Consortium Grants Call – November 2014",
+  "source": "soil-consortiumgrants.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

@@ -1,0 +1,32 @@
+{
+  "council": "NERC",
+  "count_of_applications": "5",
+  "count_of_awards": "5",
+  "year": "2015",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N007425/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N007433/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N007514/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N007603/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N007611/1"
+    }
+  ],
+  "meeting_name": "2015 Newton : Using Critical Zone Science to Understand Sustaining the Ecosystem Service of Soil Water (CZO) NERC Lead",
+  "source": "czo-awards2015.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

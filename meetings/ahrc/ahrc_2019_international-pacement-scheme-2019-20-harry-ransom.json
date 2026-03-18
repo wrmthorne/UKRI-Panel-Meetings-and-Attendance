@@ -1,0 +1,102 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "13",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000414/1",
+      "lead_applicant": "Ronald Roberts",
+      "lead_organisation": "University of Liverpool",
+      "title": "(Ronald Roberts) Investigating \"JM Coetzee: Against Witness Literature?\"",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000813/1",
+      "lead_applicant": "Caroline Hamilton",
+      "lead_organisation": "University of Brighton",
+      "title": "(Caroline Hamilton) Dance costume and culture: Contextualising Les Ballets 1933",
+      "score": "5.9"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000856/1",
+      "lead_applicant": "Nerida Brand",
+      "lead_organisation": "University of Exeter",
+      "title": "(Nerida Brand) Conflicted voices: Mary E. Coleridge and the fin-de-siècle female aesthete",
+      "score": "5.8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000481/1",
+      "lead_applicant": "Gillian Moore",
+      "lead_organisation": "University of Cambridge",
+      "title": "(Gillian Moore) \"Advice, assistance and/or inspiration\": Contemporary U.S. writing and the art of counsel",
+      "score": "5.7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000198/1",
+      "lead_applicant": "Carl White",
+      "lead_organisation": "University of Leeds",
+      "title": "(Carl White) David Foster Wallace, Economic Subjectivity, and the Intensification of Neoliberal Capitalism",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000309/1",
+      "lead_applicant": "Hetty Saunders",
+      "lead_organisation": "University of Edinburgh",
+      "title": "(Hetty Saunders)  Examining the \"Mere Birds\" of T. H. White's Nature Writing Through His Manuscripts, Reading, Illustrations, and Photographs",
+      "score": "4.9"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000740/1",
+      "lead_applicant": "Joanne Hornsby",
+      "lead_organisation": "Kings College London",
+      "title": "(Joey Hornsby) The French Avant-Garde 1910-1950: Between Political and Libidinal Economy",
+      "score": "4.8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T000473/1",
+      "lead_applicant": "Patrick Armstrong",
+      "lead_organisation": "University of Cambridge",
+      "title": "(Patrick Armstrong) Exploring the Relations Between Modernism and Optical Technologies in the Archives",
+      "score": "4.7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T000430/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T000511/1",
+      "score": "3.9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T000457/1",
+      "score": "3.5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T000392/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T000767/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "International Pacement Scheme 2019-20 - Harry Ransom",
+  "source": "International Placement Scheme, Summer 2019 Meetings.xlsx",
+  "meeting_start": "2019",
+  "meeting_end": "2019"
+}

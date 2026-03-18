@@ -1,0 +1,61 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Philip",
+      "role": "Chair",
+      "organisation": "AshworthUniversity of Brighton"
+    },
+    {
+      "name": "Helaina Black The James",
+      "role": "Member",
+      "organisation": "Hutton Institute"
+    },
+    {
+      "name": "Rebecca Clark The National",
+      "role": "Member",
+      "organisation": "Trust"
+    },
+    {
+      "name": "Janet Fisher",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Laura Graham",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Jacquie McGlade",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Jouni Paavola",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Richard Stafford",
+      "role": "Member",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "Robert Kerry Turner",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Ruth Waters Natural",
+      "role": "Member",
+      "organisation": "England"
+    }
+  ],
+  "meeting_name": "Econ Biodiversity FEB22",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-210622-EconBioPanelMembership.pdf",
+  "meeting_start": "2022-06-21",
+  "meeting_end": "2022-06-21"
+}

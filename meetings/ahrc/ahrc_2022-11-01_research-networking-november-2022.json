@@ -1,0 +1,108 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-880312072",
+  "meeting_name": "Research Networking November 2022",
+  "applications": [
+    {
+      "application_id": "AH/X009106/1",
+      "route": "Standard",
+      "lead_applicant": "Mihaela Mihai",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Interdisciplinary Network on Environmental Emotions: Theory, Testimony, Politics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00760X/1",
+      "route": "Standard",
+      "lead_applicant": "Jane Desborough",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Science Museum Group",
+      "title": "Science through the keyhole: revealing scientific practices through workspaces",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009343/1",
+      "route": "Standard",
+      "lead_applicant": "Cangbai Wang",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Westminster",
+      "title": "Global Diasporic Chinese Museums Network Initiative",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X007871/1",
+      "route": "Standard",
+      "lead_applicant": "Abu Sadat Muhammad Sayem",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Digital Fashion Network (DFN)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006948/1",
+      "route": "Standard",
+      "lead_applicant": "Ben Nichols",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "The University of Manchester",
+      "title": "Beyond Radical: Queer Theory and the UK",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00662X/1",
+      "route": "Standard",
+      "lead_applicant": "Rosemary Golding",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "The Open University",
+      "title": "Psychiatry And The Arts In Nineteenth-Century Britain",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004805/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009211/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010740/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Wayne Michael Martin",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-11-01",
+  "meeting_end": "2022-11-01"
+}

@@ -1,0 +1,193 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-587715123",
+  "meeting_name": "Research, Development and Engagement Fellowships - January 2021",
+  "applications": [
+    {
+      "application_id": "AH/V010026/1",
+      "route": "Standard",
+      "lead_applicant": "Karen Patel",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Birmingham City University",
+      "title": "Supporting Diversity and Expertise Development in the Contemporary Craft Economy [Phase 2]",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00980X/1",
+      "route": "Early Career",
+      "lead_applicant": "Stephen Pihlaja",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Newman University",
+      "title": "Language and Religion in the Superdiverse City",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01000X/1",
+      "route": "Early Career",
+      "lead_applicant": "Emily Senior",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Birkbeck College",
+      "title": "Anecdotal Evidence: Science and Storytelling in the Global Eighteenth Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010921/1",
+      "route": "Early Career",
+      "lead_applicant": "James Greenhalgh",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Lincoln",
+      "title": "The Half Life of the Blitz: memory, urban space and civic identity in a provincial town, 1939 - present.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011073/1",
+      "route": "Early Career",
+      "lead_applicant": "Claire Childs",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of York",
+      "title": "Interactions in Grammatical Systems: North-South Dialect Variation in England",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010220/1",
+      "route": "Early Career",
+      "lead_applicant": "Rebecca Jarman",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Leeds",
+      "title": "Moving Mountains: Memory, Identity, and the Geological Imaginary after Landslide Disasters",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V009931/1",
+      "route": "Standard",
+      "lead_applicant": "Peter Howarth",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "The Festival as Form",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V009923/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009982/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009001/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010980/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009133/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009230/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011138/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "David Lambert",
+      "organisation": "University of Nottingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "James Thompson",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Alison Sarah Fell",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Grace Lees-Maffei",
+      "organisation": "University of Warwick",
+      "role": "Member"
+    },
+    {
+      "name": "Julia Gillen",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Thomas (Tom) William Stoneham",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "William James Marshall",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-01",
+  "meeting_end": "2021-01-01"
+}

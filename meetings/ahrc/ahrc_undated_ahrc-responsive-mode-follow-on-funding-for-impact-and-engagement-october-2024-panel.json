@@ -1,0 +1,106 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendanceTFSApplications/PanelSelectPage",
+  "meeting_name": "AHRC responsive mode: follow-on funding for impact and engagement October 2024 panel",
+  "applications": [
+    {
+      "application_id": "41371",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "49394",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "4"
+    },
+    {
+      "application_id": "47215",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "49752",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "49138",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "47563",
+      "title": "Petitioning, Citizenship, and Democratic Literacy",
+      "score": "8",
+      "outcome": "Successful",
+      "lead_applicant": "Henry James Miller",
+      "lead_organisation": "Northumbria University",
+      "rank": "1"
+    },
+    {
+      "application_id": "48701",
+      "title": "Re-imagining Resistance: Evidencing the impact of creative participatory research with young people affected by sexual violence",
+      "score": "8",
+      "outcome": "Successful",
+      "lead_applicant": "Kristine Langhoff",
+      "lead_organisation": "University of Sussex",
+      "rank": "2"
+    },
+    {
+      "application_id": "41662",
+      "title": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Nandini Das",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Dave O'Brien",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Birgit Schippers",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "JohanSiebers",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Robin Sloan",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

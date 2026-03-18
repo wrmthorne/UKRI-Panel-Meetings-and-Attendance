@@ -1,0 +1,330 @@
+{
+  "council": "NERC",
+  "count_of_applications": "40",
+  "count_of_awards": "14",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "9.0",
+      "outcome": "Successful",
+      "application_id": "NE/P006647/1",
+      "rank": "1"
+    },
+    {
+      "score": "8.5",
+      "outcome": "Successful",
+      "application_id": "NE/P006639/1",
+      "rank": "2"
+    },
+    {
+      "score": "8.5",
+      "outcome": "Successful",
+      "application_id": "NE/P006566/1",
+      "rank": "1"
+    },
+    {
+      "score": "8.1",
+      "outcome": "Successful",
+      "application_id": "NE/P006477/1",
+      "rank": "3"
+    },
+    {
+      "score": "8.0",
+      "outcome": "Successful",
+      "application_id": "NE/P005799/1",
+      "rank": "4"
+    },
+    {
+      "score": "8.0",
+      "outcome": "Successful",
+      "application_id": "NE/P005349/1",
+      "rank": "1"
+    },
+    {
+      "score": "8.0",
+      "outcome": "Successful",
+      "application_id": "NE/P005780/1",
+      "rank": "1"
+    },
+    {
+      "score": "7.5",
+      "outcome": "Successful",
+      "application_id": "NE/P006450/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7.5",
+      "application_id": "NE/P006728/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7.0",
+      "application_id": "NE/P006698/1",
+      "rank": "9"
+    },
+    {
+      "score": "7.0",
+      "outcome": "Successful",
+      "application_id": "NE/P006744/1",
+      "rank": "7"
+    },
+    {
+      "score": "7.0",
+      "outcome": "Successful",
+      "application_id": "NE/P005926/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7.0",
+      "application_id": "NE/P006191/1",
+      "rank": "2"
+    },
+    {
+      "score": "7.0",
+      "outcome": "Successful",
+      "application_id": "NE/P005756/1",
+      "rank": "1"
+    },
+    {
+      "score": "7.0",
+      "outcome": "Successful",
+      "application_id": "NE/P00668X/1",
+      "rank": "2"
+    },
+    {
+      "score": "6.5",
+      "outcome": "Successful",
+      "application_id": "NE/P006396/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6.5",
+      "application_id": "NE/P006590/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6.5",
+      "application_id": "NE/P005934/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6.5",
+      "application_id": "NE/P005861/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6.5",
+      "application_id": "NE/P006655/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6.0",
+      "application_id": "NE/P006132/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6.0",
+      "application_id": "NE/P006663/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5.0",
+      "application_id": "NE/P005950/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006124/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006264/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006671/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006825/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006051/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P00525X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P005438/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P005993/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P00606X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006094/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006248/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006272/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006361/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006523/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006701/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006388/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P006205/1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jennifer Barclay",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Lee Chapman",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Nafeesa Dajda Satellite Applications",
+      "role": "Member",
+      "organisation": "Catapult"
+    },
+    {
+      "name": "Susan Davies",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Gary Kass Natural",
+      "role": "Member",
+      "organisation": "England"
+    },
+    {
+      "name": "Claudia Lally Government Office",
+      "role": "Member",
+      "organisation": "for Science"
+    },
+    {
+      "name": "Colin Mackechnie",
+      "role": "Member",
+      "organisation": "Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "Paul McCloghrie Cabinet Office",
+      "role": "Member"
+    },
+    {
+      "name": "Ian Mell The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "John Rees",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Katherine Royse",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Peter Sammonds",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Suzanne Simmons",
+      "role": "Member",
+      "organisation": "CIRIA"
+    },
+    {
+      "name": "Claire Souch Private",
+      "role": "Member",
+      "organisation": "Address"
+    },
+    {
+      "name": "Selina Stead",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Zofia Stott",
+      "role": "Member",
+      "organisation": "National Centre for Earth Observation"
+    },
+    {
+      "name": "Charlie Stratford",
+      "role": "Member",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Joshua Vande Hey",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Nick Veck Satellite Applications",
+      "role": "Member",
+      "organisation": "Catapult"
+    },
+    {
+      "name": "Emma Visman",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Philip Warren",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Daniel Wicks Satellite Applications",
+      "role": "Member",
+      "organisation": "Catapult"
+    }
+  ],
+  "meeting_name": "KNOWLEDGE EXCHANGE FELLOWSHIPS March 2016",
+  "source": "KE Fellowships March 2016.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2017/Knowledge Exchange Fellows Panel - April 2017.pdf",
+  "meeting_start": "2017-06-13",
+  "meeting_end": "2017-06-13"
+}

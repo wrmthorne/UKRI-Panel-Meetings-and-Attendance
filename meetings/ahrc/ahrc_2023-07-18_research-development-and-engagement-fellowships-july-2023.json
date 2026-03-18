@@ -1,0 +1,318 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-984140034",
+  "meeting_name": "Research Development and Engagement Fellowships July 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y00146X/1",
+      "route": "Standard",
+      "lead_applicant": "Charles Frederick Burdett",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of London",
+      "title": "Uncovering the Afterlife of the Italian Empire",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003063/1",
+      "route": "Early Career",
+      "lead_applicant": "Armand Léon van Ommen",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Access Denied: Spirituality at the Intersections of Autism, Ethnic Minority, and Non-Speaking Autism",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001672/1",
+      "route": "Early Career",
+      "lead_applicant": "Ingrid Kristen Rembold",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The University of Manchester",
+      "title": "Royal Monasteries, monastic kings? Monasticism, gender and authority in the Carolingian world",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y004949/1",
+      "route": "Early Career",
+      "lead_applicant": "Amanda Stuart Fisher",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Royal Central Sch of Speech and Drama",
+      "title": "Credible Witnesses: Young People, Life Performance and Testimonial Injustice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y002997/1",
+      "route": "Standard",
+      "lead_applicant": "Burce Celik",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Loughborough University",
+      "title": "Coloniality and Communications: British Telecommunications in Mesopotamia in the early 20th Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003160/1",
+      "route": "Standard",
+      "lead_applicant": "Daniel James Whiting",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Southampton",
+      "title": "Sympathy in Harmony: Margaret Cavendish's Philosophy of Value",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003365/1",
+      "route": "Standard",
+      "lead_applicant": "Judith Jesch",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Nottingham",
+      "title": "Ragna's Islands: Creating a New Saga Narrative for Orkney",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003330/1",
+      "route": "Standard",
+      "lead_applicant": "Ann Maxine Light",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Sussex",
+      "title": "The Role of Immersive Embodied Participatory Techniques in Eco-Social Change",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003977/1",
+      "route": "Standard",
+      "lead_applicant": "Stefania Tufi",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Liverpool",
+      "title": "Borderscapes - The linguistic de/construction of borders as an everyday practice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y003020/1",
+      "route": "Standard",
+      "lead_applicant": "Tess Fitzpatrick",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "Swansea University",
+      "title": "Finding, sharing and losing words: understanding the mental lexicon",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001508/1",
+      "route": "Early Career",
+      "lead_applicant": "Dan Degerman",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of Bristol",
+      "title": "Beyond voice: Experiences, meanings, and the ethics of silence in mental disorder",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y004396/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003268/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004388/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001842/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00437X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002792/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004736/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004434/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002423/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00342X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00440X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003489/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y002199/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y003047/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004310/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Yvonne Tasker",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Cathy Batt",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "Charles Forsdick",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Gregor Duncan White",
+      "organisation": "Abertay University",
+      "role": "Member"
+    },
+    {
+      "name": "John H Gillespie",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Joseph Phelan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Sara Patricia Houston",
+      "organisation": "Roehampton University",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Atkinson",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Vinita Damodaran",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-07-18",
+  "meeting_end": "2023-07-18"
+}

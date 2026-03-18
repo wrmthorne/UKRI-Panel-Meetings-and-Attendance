@@ -1,0 +1,84 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "10",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006425/1",
+      "lead_applicant": "Mark Everist",
+      "lead_organisation": "University of Southampton",
+      "title": "Cantum Pulcriorem invenire - Thirteenth-Century Latin Poetry and Music: Workshop, Performance and Impact (CPI-III)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008665/1",
+      "lead_applicant": "Matthew Hilton",
+      "lead_organisation": "University of Birmingham",
+      "title": "Past, present and future: connecting communities with shared histories",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008754/1",
+      "lead_applicant": "Elizabeth Kenny",
+      "lead_organisation": "University of Southampton",
+      "title": "Markets for the Masque",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008789/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008576/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008762/1",
+      "lead_applicant": "Fiona Macintosh",
+      "lead_organisation": "University of Oxford",
+      "title": "'Interactive/Multimedia E-Books for the Performance Archive'",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009084/1",
+      "lead_applicant": "Duska Radosavljevic",
+      "lead_organisation": "University of Kent",
+      "title": "The Mums and Babies' Ensemble: Theatre-Making with The Early Years",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008207/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M00936X/1",
+      "lead_applicant": "Wendy Anderson",
+      "lead_organisation": "University of Glasgow",
+      "title": "Metaphor in the Curriculum",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008452/1",
+      "lead_applicant": "Nicola Thomas",
+      "lead_organisation": "University of Exeter",
+      "title": "Collaboration, mutuality and community: producing and consuming contemporary craft",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Follow on Fund for Impact & Engagement, October 2014",
+  "source": "Follow-on Funding for IE Q4 2014 Meetings (1).xlsx",
+  "meeting_start": "2014-10",
+  "meeting_end": "2014-10"
+}

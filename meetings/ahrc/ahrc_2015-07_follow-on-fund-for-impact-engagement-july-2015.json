@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "11",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N002865/1",
+      "lead_applicant": "Roberta Gilchrist",
+      "lead_organisation": "University of Reading",
+      "title": "Glastonbury Abbey: Archaeology, Legend and Public Engagement",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003934/1",
+      "lead_applicant": "Philip Murphy",
+      "lead_organisation": "University of London, Institute of Commonwealth Studies",
+      "title": "An Oral History of the Modern Commonwealth",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003411/1",
+      "lead_applicant": "Nikolaus Wachsmann",
+      "lead_organisation": "Birkbeck College",
+      "title": "The Nazi Concentration Camps, an Online Resource",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003519/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002962/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002814/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004515/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N001966/1",
+      "lead_applicant": "Paul Cooke",
+      "lead_organisation": "University of Leeds",
+      "title": "Digital Tools in the Service of Difficult Heritage: How Recent Research Can Benefit Museums and their Audiences",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006089/1",
+      "lead_applicant": "Peter Lamont",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Magical Thinking: the history and theory of magic",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004450/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006348/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow on Fund for Impact & Engagement, July 2015",
+  "source": "Follow-on Funding for Impact and Engagement Q3 2015 Meetings.xlsx",
+  "meeting_start": "2015-07",
+  "meeting_end": "2015-07"
+}

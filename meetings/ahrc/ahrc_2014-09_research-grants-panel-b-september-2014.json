@@ -1,0 +1,70 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "9",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M00368X/1",
+      "lead_applicant": "Alinka Elizabeth Greasley",
+      "lead_organisation": "University of Leeds",
+      "title": "Hearing aids for music: exploring the music listening behaviour of people with hearing impairments",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M003515/1",
+      "lead_applicant": "Justin Smith",
+      "lead_organisation": "University of Portsmouth",
+      "title": "Fifty Years of British Music Video, 1964-2014: Assessing innovation, industry, influence and impact.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M002861/1",
+      "lead_applicant": "Elaine Shemilt",
+      "lead_organisation": "University of Dundee",
+      "title": "European Women's video art in the 70s and 80s",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002071/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002683/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004104/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M000206/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M001423/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00158X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel B September 2014",
+  "source": "AHRC Scheme Call Panel Research Grants Panel B September 2014.xlsx",
+  "meeting_start": "2014-09",
+  "meeting_end": "2014-09"
+}

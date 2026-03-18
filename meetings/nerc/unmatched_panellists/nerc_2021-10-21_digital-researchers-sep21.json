@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom video conference",
+  "panel_secretary": "Tom Doyle",
+  "panellists": [
+    {
+      "name": "Andy Curtis Knowledge Transfer",
+      "role": "Chair",
+      "organisation": "Network"
+    },
+    {
+      "name": "Theo Damoulas",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Maria Fox",
+      "role": "Member",
+      "organisation": "British Antarctic Survey"
+    },
+    {
+      "name": "Tamar Loach Connected Places",
+      "role": "Member",
+      "organisation": "Catapult"
+    }
+  ],
+  "meeting_name": "Digital Researchers SEP21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-EmbeddedDigitalResearchers-2109121.pdf",
+  "meeting_start": "2021-10-21",
+  "meeting_end": "2021-10-21"
+}

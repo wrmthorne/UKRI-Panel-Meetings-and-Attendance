@@ -1,0 +1,472 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "75",
+  "count_of_awards": "28",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderating panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003211/1",
+      "lead_applicant": "Deborah Sutton",
+      "lead_organisation": "Lancaster University",
+      "title": "Urban Heritage and the Digital Humanities in India",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004471/1",
+      "lead_applicant": "Karen Wenell",
+      "lead_organisation": "University of Birmingham",
+      "title": "Women, Faith, and Humanitarian Interventions",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003815/1",
+      "lead_applicant": "Stephanie Wynne-Jones",
+      "lead_organisation": "University of York",
+      "title": "Co-production Networks for Community Heritage in Tanzania (CONCH)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003785/1",
+      "lead_applicant": "Isabella Rega",
+      "lead_organisation": "Bournemouth University",
+      "title": "E-voices: Redressing Marginality",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004277/1",
+      "lead_applicant": "Gobinda Gopal Chowdhury",
+      "lead_organisation": "Northumbria University",
+      "title": "NetDiploma: Network for Digital Public Library of Modern Africa",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004250/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003653/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004021/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004285/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003874/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003890/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00448X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003939/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003661/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004137/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004374/1",
+      "lead_applicant": "Lucia Sa",
+      "lead_organisation": "The University of Manchester",
+      "title": "Racism and anti-racism in Brazil: the case of indigenous peoples",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003920/1",
+      "lead_applicant": "David Wood",
+      "lead_organisation": "University of Sheffield",
+      "title": "A Level Playing Field? The Practice and Representation of Women's and Girls' Football in South America",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004455/1",
+      "lead_applicant": "Alison Buckler",
+      "lead_organisation": "Open University",
+      "title": "The iBali (story) Network: Democratising knowledge through creative storytelling with youth who are excluded from learning in urban African Schools",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004307/1",
+      "lead_applicant": "George Torrens",
+      "lead_organisation": "Loughborough University",
+      "title": "Expression of heritage and culture through inclusive arts and crafts design: empowering people with disability to contribute to their community in SA.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003882/1",
+      "lead_applicant": "Gareth Loudon",
+      "lead_organisation": "Cardiff Metropolitan University",
+      "title": "Improving healthcare support for rural communities in India",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00398X/1",
+      "lead_applicant": "Henrice Altink",
+      "lead_organisation": "University of York",
+      "title": "Risk and Resilience in the coastal Caribbean",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00420X/1",
+      "lead_applicant": "Profesor Andree Woodcock",
+      "lead_organisation": "Coventry University",
+      "title": "Barriers to Women's Mobility",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004331/1",
+      "lead_applicant": "Katherine Brown",
+      "lead_organisation": "University of Birmingham",
+      "title": "Humanities For Resilience",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004234/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004463/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004269/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003610/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004064/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003777/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00417X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003955/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003971/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004013/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00434X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004420/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003734/1",
+      "lead_applicant": "Cathy Turner",
+      "lead_organisation": "University of Exeter",
+      "title": "The Politics of Performance on the Urban Periphery in South India",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003866/1",
+      "lead_applicant": "Ayona Datta",
+      "lead_organisation": "King's College London",
+      "title": "Gendering the smart city: A subaltern curation network on Gender Based Violence (GBV) in India",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004242/1",
+      "lead_applicant": "Thea Pitman",
+      "lead_organisation": "University of Leeds",
+      "title": "Sumak Kawsay and the Sustainable Development Agenda: Critical Debates and Creative Responses from a Latin American Indigenous Perspective",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004218/1",
+      "lead_applicant": "Evelyn Arizpe",
+      "lead_organisation": "University of Glasgow",
+      "title": "Children's Literature in Critical Contexts of Displacement: Exploring how story and arts-based practices create 'safe spaces' for displaced children",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003947/1",
+      "lead_applicant": "Michael Buser",
+      "lead_organisation": "University of the West of England",
+      "title": "INVESTIGATING A ROLE FOR THE ARTS IN SUPPORTING RELATIONS OF CARE IN RAJASTHAN'S TRADITIONAL WATER INFRASTRUCTURES",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00367X/1",
+      "lead_applicant": "Charlotte Waelde",
+      "lead_organisation": "Coventry University",
+      "title": "The Roles of IP and Diversity in the Creative Industries",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003718/1",
+      "lead_applicant": "Johanna Stiebert",
+      "lead_organisation": "University of Leeds",
+      "title": "Resisting Gender-Based Violence and Injustice Through Activism with Biblical Texts and Images",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004366/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004005/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004293/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003742/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003904/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004358/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004412/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004110/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004099/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003858/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003637/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003831/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004528/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004323/1",
+      "lead_applicant": "Tony Crook",
+      "lead_organisation": "University of St Andrews",
+      "title": "Exploring Participatory Film-Making as a Development Method to address Gender Inequality in the Pacific",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004072/1",
+      "lead_applicant": "Sandip Hazareesingh",
+      "lead_organisation": "Open University",
+      "title": "Changing Farming Lives in South India, Past and Present",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004439/1",
+      "lead_applicant": "Louise Mullany",
+      "lead_organisation": "University of Nottingham",
+      "title": "Language, Gender and Leadership Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003572/1",
+      "lead_applicant": "Andrew Burton",
+      "lead_organisation": "Newcastle University",
+      "title": "Networking New Opportunities for Artists in East Africa",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003491/1",
+      "lead_applicant": "Cynthia Hamilton",
+      "lead_organisation": "Liverpool Hope University",
+      "title": "Articulating Women: Interrogating Intersectionality and Empowering Women Through Critical Engagements",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004129/1",
+      "lead_applicant": "Adrian Pitts",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Sustainable and Creative Village Research Network - SW China",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003769/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004102/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00286X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004188/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004919/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004226/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004315/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004161/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004390/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004145/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003645/1",
+      "lead_applicant": "Antonio Ioris",
+      "lead_organisation": "Cardiff University",
+      "title": "Agro-Cultural Frontiers and the Amazon: Contested Histories, New Alterities and Emerging Cultures",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004498/1",
+      "lead_applicant": "Violet Cuffy",
+      "lead_organisation": "University of Bedfordshire",
+      "title": "Dominica as a Centre of Excellence for the Preservation & Celebration of the Creole Culture through Language, the Arts and its indigenous Kalinagos",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003602/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004048/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Research Networking Highlight Notice for International Development, early July 2017 Moderation",
+  "source": "Research Networking, International Development Highlight summer 2017 moderation.xlsx",
+  "meeting_start": "2017-07",
+  "meeting_end": "2017-07"
+}

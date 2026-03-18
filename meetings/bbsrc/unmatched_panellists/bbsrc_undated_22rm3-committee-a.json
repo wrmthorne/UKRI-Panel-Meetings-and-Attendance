@@ -1,0 +1,128 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee A",
+  "panellists": [
+    {
+      "name": "Eileen Wall",
+      "role": "Chair",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Richard Barrett-Jolley",
+      "role": "Deputy Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Tom Matheson",
+      "role": "Deputy Chair",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Jason Berwick",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Mark Mooney",
+      "role": "Member",
+      "organisation": "Queen’s University of Belfast"
+    },
+    {
+      "name": "Shahriar Behboudi",
+      "role": "Member",
+      "organisation": "The Pirbright Institute"
+    },
+    {
+      "name": "David Murphy",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Julie Gibbs",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Simon Turner",
+      "role": "Member",
+      "organisation": "SRUC- Scotland’s Rural College"
+    },
+    {
+      "name": "Thomas Wilkinson",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Amanda Bretman",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Francesca Cacucci",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Ross Fitzgerald",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Jane Cleal",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Stephen Euston",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Dianne Ford",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Androniki Psifidi",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Camille Bonneaud",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Lynn Frewer",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Alan Walker",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Lucy Asher",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Joseph Bateman",
+      "role": "Member",
+      "organisation": "Kings College London"
+    },
+    {
+      "name": "Roxana Carare",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Darren Nesbeth",
+      "role": "Member",
+      "organisation": "University College London"
+    }
+  ],
+  "meeting_name": "22RM3 - Committee A",
+  "source": "membership/BBSRC-07062023-22RM3-Committee-Members.pdf"
+}

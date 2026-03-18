@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Kay Heuser",
+  "panellists": [
+    {
+      "name": "Jim",
+      "role": "Chair",
+      "organisation": "WharfeIndependent"
+    },
+    {
+      "name": "Nigel Watson",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Michelle Bloor",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Aimee Murray",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "David Werner",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Howard Brett Thames",
+      "role": "Member",
+      "organisation": "Water/UKWIR"
+    },
+    {
+      "name": "Sopan Patil",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "John Brewington The Rivers",
+      "role": "Member",
+      "organisation": "Trust"
+    },
+    {
+      "name": "Alistair Duguid",
+      "role": "Member",
+      "organisation": "SEPA"
+    }
+  ],
+  "meeting_name": "Freshwater JUL22 FRESHWATER QUALITY PANEL 2022",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-230922-FreshwaterQualityJUL22PanelMembership.pdf",
+  "meeting_start": "2022-09-21",
+  "meeting_end": "2022-09-21"
+}

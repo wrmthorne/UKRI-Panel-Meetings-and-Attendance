@@ -1,0 +1,52 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-660980819",
+  "meeting_name": "Covid-19 Assessment Spring 2021 - Panel 2",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Galina Miazhevich",
+      "organisation": "National Museum Wales",
+      "role": "Moderator"
+    },
+    {
+      "name": "Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Christopher Woodard",
+      "organisation": "National Oceanography Centre",
+      "role": "Moderator"
+    },
+    {
+      "name": "Einar Thorsen",
+      "organisation": "University of St Andrews",
+      "role": "Moderator"
+    },
+    {
+      "name": "Kate O Riordan",
+      "organisation": "University of Sussex",
+      "role": "Moderator"
+    },
+    {
+      "name": "Mia Perry",
+      "organisation": "University of Glasgow",
+      "role": "Moderator"
+    },
+    {
+      "name": "Michael A Crang",
+      "organisation": "De Montfort University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Peter Eric Hopkins",
+      "organisation": "Newcastle University",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2021-02-22",
+  "meeting_end": "2021-02-22"
+}

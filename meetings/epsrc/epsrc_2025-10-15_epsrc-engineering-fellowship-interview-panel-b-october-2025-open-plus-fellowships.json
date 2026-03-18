@@ -1,0 +1,80 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1463",
+  "meeting_name": "EPSRC Engineering Fellowship Interview Panel B October 2025 - Open Plus Fellowships",
+  "meeting_convenor": "M Zacharova",
+  "applications": [
+    {
+      "application_id": "APP58072",
+      "title": "Beyond Antibodies: Cell-Free Synthetic Evolution to Discover Antibody Biomimetics",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1995791.69",
+      "award_id": "UKRI3818",
+      "opportunity_number": "295",
+      "lead_applicant": "A Baker",
+      "link": "https://gtr.ukri.org/projects?ref=3818",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP51660",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP60046",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "L Marucci",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "K Coopman",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "K Dunn",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "R Le Feuvre",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "K Witte",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-10-15",
+  "meeting_end": "2025-10-15"
+}

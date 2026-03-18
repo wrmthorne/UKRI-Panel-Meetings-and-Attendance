@@ -1,0 +1,153 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee C",
+  "panellists": [
+    {
+      "name": "Helen Parkinson",
+      "role": "Chair",
+      "organisation": "EMBL-EBI"
+    },
+    {
+      "name": "Tracey Chapman",
+      "role": "Deputy Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "James McInerney",
+      "role": "Deputy Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Christoph Ballestrem",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Paulo Baptista Ribeiro",
+      "role": "Member",
+      "organisation": "Queen Mary, University of London"
+    },
+    {
+      "name": "Chris Bayliss",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Dany Beste",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Mark Bruce",
+      "role": "Member",
+      "organisation": "Oxford Nanopore Technologies"
+    },
+    {
+      "name": "Natalia Bulgakova",
+      "role": "Member",
+      "organisation": "Queen Mary, University of London"
+    },
+    {
+      "name": "Sara Buonomo",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Velia Cardin",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Colin Crump",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Stephanie Duguez",
+      "role": "Member",
+      "organisation": "University of Ulster"
+    },
+    {
+      "name": "Dianne Ford",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Jonathan Houseley",
+      "role": "Member",
+      "organisation": "Babraham Institute"
+    },
+    {
+      "name": "Andrew Paul Jackson",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Andriana Margariti",
+      "role": "Member",
+      "organisation": "Queen's University of Belfast"
+    },
+    {
+      "name": "Mathilda Mommersteeg",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Andrea Münsterberg",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Sari Pennings",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Andreas Prokop",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Neil Rodrigues",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Timothy Saunders",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Matthias Soller",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Sarah Storr",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Jennifer Tullet",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "David Westhead",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Martyn David Winn (Science and Technology Facilities",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Council)",
+      "role": "Member",
+      "organisation": ""
+    }
+  ],
+  "meeting_name": "Research Committee Membership2024RM1 - Committee C",
+  "source": "membership/BBSRC-191124-ResearchCommitteeMembership2024RM1.pdf"
+}

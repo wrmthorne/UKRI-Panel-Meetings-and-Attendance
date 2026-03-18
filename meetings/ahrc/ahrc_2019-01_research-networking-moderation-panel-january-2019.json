@@ -1,0 +1,125 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "17",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007520/1",
+      "lead_applicant": "Marco Bohr",
+      "lead_organisation": "Loughborough University",
+      "title": "VASDiV: Visual Activism and Sexual Diversity in Vietnam",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007059/1",
+      "lead_applicant": "Mary Harrod",
+      "lead_organisation": "University of Warwick",
+      "title": "Producing the Post-National Popular: The Expanding Imagination of Popular French Films and Television Series",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011013/1",
+      "lead_applicant": "Kimberley Brownlee",
+      "lead_organisation": "University of Warwick",
+      "title": "Social Human Rights",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010289/1",
+      "lead_applicant": "Charlotte Wildman",
+      "lead_organisation": "University of Manchester",
+      "title": "Challenging Domesticity in Britain, 1890-1990",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S011455/1",
+      "lead_applicant": "Bolanle Adebola",
+      "lead_organisation": "University of Reading",
+      "title": "Commercial Law Research Network Nigeria (CLRN_N)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007091/1",
+      "lead_applicant": "Naomi Creutzfeldt",
+      "lead_organisation": "University of Westminster",
+      "title": "Administrative Justice Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006710/1",
+      "lead_applicant": "Adrian Curtin",
+      "lead_organisation": "University of Exeter",
+      "title": "Representing 'Classical Music' in the Twenty-First Century",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S01148X/1",
+      "lead_applicant": "Marisa Wilson",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Living Histories of Sugar in Scotland and the West Indies: Transnationalisms, Performance and Co-creation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006214/1",
+      "lead_applicant": "Gesine Manuwald",
+      "lead_organisation": "University College London",
+      "title": "Baroque Latinity",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01103X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012028/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010866/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011110/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007156/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007695/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010718/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01084X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, January 2019",
+  "source": "Research Networking, January 2019 Moderation.xlsx",
+  "meeting_start": "2019-01",
+  "meeting_end": "2019-01"
+}

@@ -1,0 +1,40 @@
+{
+  "council": "NERC",
+  "meeting_location": "London, and by videoconference",
+  "panel_secretary": "Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Joanna Haigh",
+      "role": "Chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Michael Herzog",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Bernd",
+      "role": "Deputy Chair",
+      "organisation": "KärcherGerman Aerospace Center (DLR)/Ludwig\u0002Maximilians University Munich"
+    },
+    {
+      "name": "Céline Planche Universite Clermont Auvergne",
+      "role": "Member"
+    },
+    {
+      "name": "Yi Wang",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Manfred Wendisch Leipzig",
+      "role": "Member",
+      "organisation": "University"
+    }
+  ],
+  "meeting_name": "Clouds JUN19 Uncertainty in Climate Sensitivity due to Clouds",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-UncertaintyClimateSensitivityClouds-040619.pdf",
+  "meeting_start": "2019-10-23",
+  "meeting_end": "2019-10-23"
+}

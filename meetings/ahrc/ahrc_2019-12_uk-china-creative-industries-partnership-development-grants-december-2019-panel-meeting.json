@@ -1,0 +1,124 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "14",
+  "count_of_awards": "14",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001380/1",
+      "lead_applicant": "Martin Flintham",
+      "lead_organisation": "University of Nottingham",
+      "title": "Shaping the Connected Museum",
+      "score": "5.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001321/1",
+      "lead_applicant": "Haili Ma",
+      "lead_organisation": "University of Leeds",
+      "title": "Bridging the Gaps: mixed reality performance of Chinese Opera in Shanghai’s rural and urban heritage sites",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001283/1",
+      "lead_applicant": "Yang Jiang",
+      "lead_organisation": "Robert Gordon University",
+      "title": "From Augmented to Authentic, Weaving the Past into Future",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001305/1",
+      "lead_applicant": "Richard Koeck",
+      "lead_organisation": "University of Liverpool",
+      "title": "Shaun the Sheep in Shanghai: A Location-based, Mixed Reality Cinema Experience",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001399/1",
+      "lead_applicant": "Jonathan Sapsed",
+      "lead_organisation": "Newcastle University",
+      "title": "Stage Worlds: A UK - China Innovation Partnership",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001216/1",
+      "lead_applicant": "Xueni Pan",
+      "lead_organisation": "Goldsmiths College, University of London",
+      "title": "Immersive VR and Interactive Machine learning:  a London-Shanghai Collaboration in art, education, & AI",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001259/1",
+      "lead_applicant": "Nick Bryan-Kinns",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "AI for Music in the Creative Industries of China and the UK",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001151/1",
+      "lead_applicant": "Giovanna Puppin",
+      "lead_organisation": "University of Leicester",
+      "title": "CreAD: UK-China Partnership on Creative Advertising",
+      "score": "4.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001496/1",
+      "lead_applicant": "Hiu Man Chan",
+      "lead_organisation": "Cardiff University",
+      "title": "To Search for a Sustainable UK-China Film Collaboration Model: Unlocking Issues Around Film Distribution Mechanisms",
+      "score": "4.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001178/1",
+      "lead_applicant": "Ming Cheng",
+      "lead_organisation": "University of Edge Hill",
+      "title": "Supporting Young People to Become International Creative Talents: Educational Enterprise Collaborations between Shanghai and Liverpool",
+      "score": "4.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001348/1",
+      "lead_applicant": "Lamberto Coccioli",
+      "lead_organisation": "Birmingham City University",
+      "title": "Innovation in live performance: developing interactive technologies for opera and theatre productions",
+      "score": "4.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001356/1",
+      "lead_applicant": "Julian Stringer",
+      "lead_organisation": "University of Nottingham",
+      "title": "The UK-China Creative Challenge: Co-Designing a Hybrid 'Creature' as an Asset for Shanghai's Performing Arts and Screen Industries",
+      "score": "4.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001267/1",
+      "lead_applicant": "Andrew Lewis",
+      "lead_organisation": "Bangor University",
+      "title": "Spatial Audio in Virtual and Augmented Reality Technologies",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001313/1",
+      "lead_applicant": "Juan Cruz",
+      "lead_organisation": "Royal College of Art",
+      "title": "Art Fair Innovations (AFI)",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "UK-China Creative Industries Partnership Development Grants, December 2019 panel meeting",
+  "source": "UK-China Creative Industries Partnership Development Grants, December 2018 meeting.xlsx",
+  "meeting_start": "2019-12",
+  "meeting_end": "2019-12"
+}

@@ -1,0 +1,178 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-386125417",
+  "meeting_name": "Cultural Heritage in Jordan Nov 2018",
+  "applications": [
+    {
+      "application_id": "AH/S011722/1",
+      "route": "Standard",
+      "lead_applicant": "James Dakin Smithies",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "King's College London",
+      "title": "MaDiH: Mapping Digital Heritage in Jordan",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011595/1",
+      "route": "Standard",
+      "lead_applicant": "Bill Finlayson",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "Rewriting the Prehistory of Jordan",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011609/1",
+      "route": "Standard",
+      "lead_applicant": "Gehan Selim",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Leeds",
+      "title": "The Living Museum of Umm Qais: Sustainable preservation, analysis and virtual reconstruction of Gadara's ancient site and village",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011633/1",
+      "route": "Standard",
+      "lead_applicant": "Steven John Mithen",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Reading",
+      "title": "OUR PAST, OUR FUTURE, ALL TOGETHER IN FAYNAN",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011714/1",
+      "route": "Standard",
+      "lead_applicant": "Bruce Edward Routledge",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Liverpool",
+      "title": "Dhiban: Valuing Sites Through Valuable Stories",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011676/1",
+      "route": "Standard",
+      "lead_applicant": "Graham Philip",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Durham University",
+      "title": "A multi-isotope base map for Jordan: a tool for re-examining movement and community in the past",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011641/1",
+      "route": "Standard",
+      "lead_applicant": "Robin Gerald Skeates",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "Durham University",
+      "title": "Learning from Multicultural Amman: Engaging Jordan's Youth",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S01165X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011560/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011625/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011684/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011692/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011706/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011730/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011749/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Chair"
+    },
+    {
+      "name": "Colleen Morgan",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Aylin Orbasli",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-12-12",
+  "meeting_end": "2018-12-12"
+}

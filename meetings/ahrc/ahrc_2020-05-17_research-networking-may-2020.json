@@ -1,0 +1,128 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-557299593",
+  "meeting_name": "Research Networking - May 2020",
+  "applications": [
+    {
+      "application_id": "AH/V004034/1",
+      "route": "Standard",
+      "lead_applicant": "Stephen Hugh Harrison",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Glasgow",
+      "title": "The York-Dublin Axis Reconsidered - An Interdisciplinary Approach to Viking Towns",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001760/1",
+      "route": "Standard",
+      "lead_applicant": "Ian Cawood",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Stirling",
+      "title": "Corruption, the 'Common Good' and the emergence of the 'Public Service Ethos' in western Europe in the nineteenth century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001043/1",
+      "route": "Standard",
+      "lead_applicant": "Jonathan Richard Kasstan",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Westminster",
+      "title": "A Network for Rethinking Academic Research Ethics Frameworks and Processes in the Humanities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001655/1",
+      "route": "Standard",
+      "lead_applicant": "Piotr Woycicki",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Theatre, A.I. and 'ludic technologies'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T012927/1",
+      "route": "Standard",
+      "lead_applicant": "Thomas Robert Sutherland",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Lincoln",
+      "title": "Pause for Thought: Media Literacy in an Age of Incessant Change",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T012226/1",
+      "route": "Standard",
+      "lead_applicant": "Adrienne Evans",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "Coventry University",
+      "title": "Postdigital Intimacies and the Networked Public-Private",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V003216/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003259/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T011548/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012072/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000934/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Chair"
+    }
+  ],
+  "meeting_start": "2020-05-17",
+  "meeting_end": "2020-05-17"
+}

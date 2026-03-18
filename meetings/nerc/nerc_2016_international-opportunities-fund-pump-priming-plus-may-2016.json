@@ -1,0 +1,92 @@
+{
+  "council": "NERC",
+  "count_of_applications": "16",
+  "count_of_awards": "4",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008690/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008615/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008755/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P008526/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008585/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008623/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008666/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008674/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008658/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008771/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008747/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008593/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008577/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008763/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P00881X/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P008631/1",
+      "rank": "14"
+    }
+  ],
+  "meeting_name": "INTERNATIONAL OPPORTUNITIES FUND, PUMP PRIMING PLUS, MAY 2016",
+  "source": "IOF (Pump Priming Plus) May 2016.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

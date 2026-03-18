@@ -1,0 +1,101 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S00033X/1",
+      "lead_applicant": "Lewis Thomas Defrates",
+      "lead_organisation": "University of Cambridge",
+      "title": "Travelling Performers, Movement and the Exportation of Visions of the United States to GreatBritain, 1865-1914",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000747/1",
+      "lead_applicant": "Jaime Harrison",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "David Foster Wallace's \"The Pale King\" and the Computational Turn",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S00078X/1",
+      "lead_applicant": "Bethan Bide",
+      "lead_organisation": "University of York",
+      "title": "Investigating how film costumes communicated material experiences to cinema audiences between 1920-1960",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000224/1",
+      "lead_applicant": "Jennifer Buckley",
+      "lead_organisation": "University of York",
+      "title": "From Fact to Fictionality: Essay-Periodicals and Literary Novelty, 1700-1760",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000771/1",
+      "lead_applicant": "Catherine Fahy",
+      "lead_organisation": "University of York",
+      "title": "Music, Melancholia and Affective History in 'Watt' and Beckett's Early Fiction",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000593/1",
+      "lead_applicant": "Tim Craven",
+      "lead_organisation": "University  of Edinburgh",
+      "title": "The metaphorical representation of the mind and mental illness in the poetry of Anne Sexton and RobertLowell",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000895/1",
+      "lead_applicant": "Fiona Schroeder",
+      "lead_organisation": "University of Exeter",
+      "title": "The Final Frontier: Extraterrestrial New Worlds and Anglophone Adventure Fiction, 1865-1914",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000534/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00050X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000720/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000526/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000461/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000909/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000844/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000879/1"
+    }
+  ],
+  "meeting_name": "International Placement Scheme 2018 (Harry Ransom Centre)",
+  "source": "International Placement Scheme, Summer 2018 Meetings.xlsx",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

@@ -1,0 +1,96 @@
+{
+  "council": "NERC",
+  "count_of_applications": "14",
+  "count_of_awards": "6",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "5.5",
+      "outcome": "Successful",
+      "application_id": "NE/P010946/1",
+      "rank": "1"
+    },
+    {
+      "score": "5.45",
+      "outcome": "Successful",
+      "application_id": "NE/P011004/1",
+      "rank": "2"
+    },
+    {
+      "score": "5.45",
+      "outcome": "Successful",
+      "application_id": "NE/P010873/1",
+      "rank": "3"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/P010881/1",
+      "rank": "4"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/P010970/1",
+      "rank": "5"
+    },
+    {
+      "score": "4.75",
+      "outcome": "Successful",
+      "application_id": "NE/P010695/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.5",
+      "application_id": "NE/P010776/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.5",
+      "application_id": "NE/P009204/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.25",
+      "application_id": "NE/P010989/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.15",
+      "application_id": "NE/P010768/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/P010903/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.45",
+      "application_id": "NE/P010857/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.15",
+      "application_id": "NE/P010954/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/P010814/1",
+      "rank": "14"
+    }
+  ],
+  "meeting_name": "UK Aquaculture Initiative: Innovation call – September 2016 UK Aquaculture Initiative Innovation Projects Assessment Panel – 7 September 2016",
+  "source": "UK Aquaculture Initiative_Innovation call 2016_AWARDS.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

@@ -1,0 +1,104 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1041",
+  "meeting_name": "OPP778 - EPSRC 3D Nanoscale Metamaterials Hub for a Sustainable Future",
+  "meeting_convenor": "Z Cox",
+  "applications": [
+    {
+      "application_id": "APP58391",
+      "title": "EPSRC Hub for 3D Nanoscale Metamaterials to deliver a sustainable future (\"MetaHub\")",
+      "lead_organisation": "University of Exeter",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "10485800.86",
+      "award_id": "UKRI1255",
+      "opportunity_number": "778",
+      "lead_applicant": "A Hibbins",
+      "link": "https://gtr.ukri.org/projects?ref=1255",
+      "opportunity": "EPSRC 3D Nanoscale Metamaterials Hub for a Sustainable Future"
+    },
+    {
+      "application_id": "APP66875",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "778",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC 3D Nanoscale Metamaterials Hub for a Sustainable Future"
+    },
+    {
+      "application_id": "APP66305",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "778",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC 3D Nanoscale Metamaterials Hub for a Sustainable Future"
+    },
+    {
+      "application_id": "APP66738",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "778",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC 3D Nanoscale Metamaterials Hub for a Sustainable Future"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "A Khlobystov",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "N Balakrishnan",
+      "role": "Panellist",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "J Chen",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "D Gérard",
+      "role": "Panellist",
+      "organisation": "University of Technology of Troyes"
+    },
+    {
+      "name": "M Rahmani",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "N Rimmer",
+      "role": "Panellist",
+      "organisation": "Telegraph Materials Ltd"
+    },
+    {
+      "name": "B Robinson",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-03-05",
+  "meeting_end": "2025-03-05"
+}

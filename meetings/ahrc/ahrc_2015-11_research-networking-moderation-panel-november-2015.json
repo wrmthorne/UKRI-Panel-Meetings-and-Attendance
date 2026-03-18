@@ -1,0 +1,112 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "15",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator\n*Note 2. Application AH/N005880/1 was not funded whilst application AH/N004264/1 was, due to fit to the highlight notice \"Cross-Disciplinary Research Networks Exploring Emerging Areas of Cross-Council Enquiry Highlight Notice\".  Although AH/N005880/1 was ranked slightly higher than AH/N004264/1, AH/N005880/1 was judged to not fit within the scope of the highlight notice, whereas AH/N004264/1 was judged to have a good fit to the highlight.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006119/1",
+      "lead_applicant": "Jonathan Long",
+      "lead_organisation": "Leeds Beckett University",
+      "title": "Sport in the Arts: the Arts in Sport",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006178/1",
+      "lead_applicant": "Jane Winters",
+      "lead_organisation": "University of London",
+      "title": "Born-digital big data and methods for history and the humanities",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00597X/1",
+      "lead_applicant": "Andrea Mahala Liggins",
+      "lead_organisation": "University of Wales Trinity Saint David",
+      "title": "Cross-pollination: Re-valuing Pollinators through Arts and Science Collaboration",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004302/1",
+      "lead_applicant": "Nigel Colin Rigby",
+      "lead_organisation": "National Maritime Museum",
+      "title": "Joseph Banks: science, culture and the remaking of the Indo-Pacific world",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006380/1",
+      "lead_applicant": "Saskia Maria Hufnagel",
+      "lead_organisation": "Queen Mary, University of London",
+      "title": "Art, Crime and Criminals: Painting Fresh Pictures of Art Theft, Fraud and Plunder",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005767/1",
+      "lead_applicant": "Alexandra Jane Plows",
+      "lead_organisation": "Bangor University",
+      "title": "\" smART cities and waste: Developing an arts-led interdisciplinary network for waste management and treatment innovation\"",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006011/1",
+      "lead_applicant": "James Stazicker",
+      "lead_organisation": "University of Reading",
+      "title": "The action-based brain: a provocation to philosophy, robotics and the cognitive sciences",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006461/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004264/1",
+      "lead_applicant": "Katharine S. Willis",
+      "lead_organisation": "University of Plymouth",
+      "title": "Whose right to the (smart) city?*",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005880/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006135/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004590/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005759/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006054/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006127/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, November 2015",
+  "source": "Research Networking, November 2015 Meeting.xlsx",
+  "meeting_start": "2015-11",
+  "meeting_end": "2015-11"
+}

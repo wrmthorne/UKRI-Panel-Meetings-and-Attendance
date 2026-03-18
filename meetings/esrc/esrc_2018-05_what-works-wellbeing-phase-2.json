@@ -1,0 +1,36 @@
+{
+  "council": "ESRC",
+  "year": "2018",
+  "count_of_applications": "4",
+  "count_of_awards": "0",
+  "applications": [
+    {
+      "opportunity": "What Works Wellbeing - Phase 2",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S005927/1"
+    },
+    {
+      "opportunity": "What Works Wellbeing - Phase 2",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S005951/1"
+    },
+    {
+      "opportunity": "What Works Wellbeing - Phase 2",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00596X/1"
+    },
+    {
+      "opportunity": "What Works Wellbeing - Phase 2",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S005986/1"
+    }
+  ],
+  "meeting_name": "What Works Wellbeing Phase 2",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2018-05",
+  "meeting_end": "2018-05"
+}

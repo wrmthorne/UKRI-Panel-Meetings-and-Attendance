@@ -1,0 +1,182 @@
+{
+  "council": "MRC",
+  "count_of_applications": "34",
+  "count_of_awards": "14",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n \nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 26 out of 60 applications did not pass an initial shortlisting stage and were not considered further.",
+  "applications": [
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "APP12696"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP9523"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP14742"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14491"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP17178"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP11353"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP13906"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP13221"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP11711"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14891"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP12443"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP10633"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP13454"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP12939"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP7942"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP11782"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP17014"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP13144"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP12081"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP11869"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP7871"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP12552"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14148"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP8565"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP17179"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP10952"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP9225"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP8641"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP15068"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP16969"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14232"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP11144"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP16613"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP10884"
+    }
+  ],
+  "meeting_name": "Population Systems Medicine Board 20-21 March 2024",
+  "source": "Population-and-systems-medicine-board/MRC-280225-PopulationSystemsMedicineBoardFundingOutcomesMarch2024.xlsx",
+  "meeting_start": "2024-03-01",
+  "meeting_end": "2024-03-01"
+}

@@ -1,0 +1,51 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Nancy Iteeyaporn",
+  "panellists": [
+    {
+      "name": "John Methven",
+      "role": "Chair",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Brian Quinn",
+      "role": "Member",
+      "organisation": "University of the West of Scotland"
+    },
+    {
+      "name": "Andrew Clark",
+      "role": "Member",
+      "organisation": "University of Salford Manchester"
+    },
+    {
+      "name": "Anna Sobek Stockholm",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Davey Jones",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Anna Hogg",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Camilla",
+      "role": "Member",
+      "organisation": "Alexander-White Royal Society for Chemistry"
+    },
+    {
+      "name": "Jim Wharfe",
+      "role": "Member",
+      "organisation": "Independent"
+    }
+  ],
+  "meeting_name": "CDT Managing chemical risks in the environment 2020",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-CDT2020-FullProposal-050820.pdf",
+  "meeting_start": "2020-09-23",
+  "meeting_end": "2020-09-23"
+}

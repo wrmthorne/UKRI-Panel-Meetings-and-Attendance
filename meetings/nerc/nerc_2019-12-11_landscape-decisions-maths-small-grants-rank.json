@@ -1,0 +1,254 @@
+{
+  "council": "NERC",
+  "count_of_applications": "30",
+  "count_of_awards": "16",
+  "year": "2019",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/T004029/1",
+      "rank": "1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/T003936/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/T004010/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/T004134/1",
+      "rank": "4"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/T004185/1",
+      "rank": "5"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/T003952/1",
+      "rank": "6"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/T004002/1",
+      "rank": "6"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T00391X/1",
+      "rank": "7"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T004193/1",
+      "rank": "8"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T004053/1",
+      "rank": "9"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T00410X/1",
+      "rank": "10"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T004215/1",
+      "rank": "11"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T004177/1",
+      "rank": "12"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T004169/1",
+      "rank": "13"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T003960/1",
+      "rank": "14"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T004150/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T003995/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T00407X/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T004096/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T003928/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T004088/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T004207/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T004045/1",
+      "rank": "21"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T004142/1",
+      "rank": "22"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T004061/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T004118/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/T003901/1",
+      "rank": "25"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/T004037/1",
+      "rank": "26"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/T004126/1",
+      "rank": "26"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/T003987/1",
+      "rank": "28"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Liz Baggs",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Peter Ashwin",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Lindsay Banin",
+      "role": "Member",
+      "organisation": "Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "Pam Berry",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Julia Brettschneider",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Calum Brown",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Richard Chandler",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Anna Korre",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Vanessa Styles",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Jochen Voss",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "OBSERVER: Sibylle Schroll Programme Coordination Team – University",
+      "role": "Member"
+    },
+    {
+      "name": "OBSERVER: Steve Gibson",
+      "role": "Member",
+      "organisation": "Defra"
+    }
+  ],
+  "meeting_name": "Landscape Decisions Maths Small Grants Rank",
+  "source": "Landscape Decisions Maths Small - April 2019.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-LandscapeDecisionsMathsLargeGrants-100919.pdf",
+  "meeting_start": "2019-12-11",
+  "meeting_end": "2019-12-12"
+}

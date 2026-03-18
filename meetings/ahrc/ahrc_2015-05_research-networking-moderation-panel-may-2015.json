@@ -1,0 +1,82 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "12",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N000218/1",
+      "lead_applicant": "Gabor Thomas",
+      "lead_organisation": "University of Reading",
+      "title": "Monumentalising Kingship: Places of Royal Residence and the Making of Early Medieval British Kingdoms AD 500-800",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M011186/1",
+      "lead_applicant": "Andrew Renton Mein",
+      "lead_organisation": "University of Cambridge",
+      "title": "'The Book and the Sword': The Bible in the Experience and Legacy of the Great War",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M011364/1",
+      "lead_applicant": "Gerry Smyth",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Marginal Irish Modernisms",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008983/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001346/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001133/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011577/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009483/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011593/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001052/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N000110/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011569/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, May 2015",
+  "source": "Research Networking, May 2015 Meeting.xlsx",
+  "meeting_start": "2015-05",
+  "meeting_end": "2015-05"
+}

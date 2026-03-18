@@ -1,0 +1,403 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-393025022",
+  "meeting_name": "Research Grants - February 2019",
+  "applications": [
+    {
+      "application_id": "AH/S011064/1",
+      "route": "Standard",
+      "lead_applicant": "Mary Elizabeth Dalrymple",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Oxford",
+      "title": "Enggano in the Austronesian family: Historical and typological perspectives",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005285/1",
+      "route": "Standard",
+      "lead_applicant": "John Anthony Sloboda",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Guildhall School of Music and Drama",
+      "title": "Music for social impact: practitioners' contexts, work, and beliefs",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00811X/1",
+      "route": "Standard",
+      "lead_applicant": "Rachael Wiseman",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Liverpool",
+      "title": "PAGE: Perception, Action and the Genesis of Everyday Ethics. The Philosophy of Elizabeth Anscombe, Philippa Foot, Mary Midgley and Iris Murdoch",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006206/1",
+      "route": "Early Career",
+      "lead_applicant": "Nicola Walshe",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Anglia Ruskin University",
+      "title": "ECO-CAPABILITIES: Supporting Children's wellbeing through participatory art in nature",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007083/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Towsey",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Liverpool",
+      "title": "Libraries, Reading Communities and Cultural Formation in the Eighteenth-Century Atlantic",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011900/1",
+      "route": "Early Career",
+      "lead_applicant": "Patrycja Strycharczuk",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "The University of Manchester",
+      "title": "TarDiS: Targets and Dynamics in Speech",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007121/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Barker",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "The University of Manchester",
+      "title": "Unlocking the Mary Hamilton Papers",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004823/1",
+      "route": "Standard",
+      "lead_applicant": "Peter Wade",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "The University of Manchester",
+      "title": "Cultures of Anti-Racism in Latin America",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010157/1",
+      "route": "Standard",
+      "lead_applicant": "Fraser Sturt",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Southampton",
+      "title": "Islands of Stone: Neolithic Crannogs in the Outer Hebrides",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006494/1",
+      "route": "Standard",
+      "lead_applicant": "Jason Edwards",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of York",
+      "title": "Pantheons: Sculpture at St Paul's Cathedral",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011994/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006915/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S008128/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006990/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010459/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006729/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00713X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007113/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00615X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01151X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007946/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010831/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007636/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012265/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007857/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007725/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S006443/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00761X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005501/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007245/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007563/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010416/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010726/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010882/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Thomas Betteridge",
+      "organisation": "Brunel University London",
+      "role": "Chair"
+    },
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Bella Dicks",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Deborah Jayne Cartmell",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Guy Alexander Bingham",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Luciana Martins",
+      "organisation": "Birkbeck College",
+      "role": "Member"
+    },
+    {
+      "name": "Nathan Abrams",
+      "organisation": "Bangor University",
+      "role": "Member"
+    },
+    {
+      "name": "Peter William Edge",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Ruth Young",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-02-28",
+  "meeting_end": "2019-02-28"
+}

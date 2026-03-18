@@ -1,0 +1,189 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN753",
+  "meeting_name": "TERC Network Plus Interview Panel A",
+  "meeting_convenor": "M Calderon Munoz",
+  "applications": [
+    {
+      "application_id": "APP38421",
+      "title": "Failure Modes of Engineering (FeME): a network for future inclusivity, sustainability, and global impact",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1808135.28",
+      "award_id": "UKRI393",
+      "opportunity_number": "535",
+      "lead_applicant": "E Medina-Lopez",
+      "link": "https://gtr.ukri.org/projects?ref=393",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP43278",
+      "title": "4D Engineering of Healthcare Technologies (4D Health Tech)",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1317036.47",
+      "award_id": "UKRI395",
+      "opportunity_number": "535",
+      "lead_applicant": "S Cox",
+      "link": "https://gtr.ukri.org/projects?ref=395",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48043",
+      "title": "Better Water for All: Re-engineer water engineering for equitable and resilient access to high-quality water for future generations",
+      "lead_organisation": "University of Surrey",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "1359183.76",
+      "award_id": "UKRI398",
+      "opportunity_number": "535",
+      "lead_applicant": "B Guo",
+      "link": "https://gtr.ukri.org/projects?ref=398",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP42500",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "535",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP44063",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "535",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP45900",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "535",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP46342",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "535",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48294",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "535",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    },
+    {
+      "application_id": "APP48561",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "535",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC TERC Network Plus – Reimagining Engineering Approaches to Tomorrow’s Research Challenges"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "L Moura",
+      "role": "Chair",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "J Allwood",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "M Ball",
+      "role": "Panellist",
+      "organisation": "Thales (United Kingdom)"
+    },
+    {
+      "name": "V Diaz",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "S Dudley",
+      "role": "Panellist",
+      "organisation": "London South Bank University"
+    },
+    {
+      "name": "C Eckert",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "E Heidrich",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "F Lam",
+      "role": "Panellist",
+      "organisation": "ARUP"
+    },
+    {
+      "name": "M Mayfield",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "H Steel",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-10-07",
+  "meeting_end": "2024-10-07"
+}

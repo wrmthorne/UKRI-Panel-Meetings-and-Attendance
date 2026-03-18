@@ -1,0 +1,156 @@
+{
+  "council": "ESRC",
+  "year": "2024",
+  "count_of_applications": "7",
+  "count_of_awards": "7",
+  "panellists": [
+    {
+      "name": "Gordon Harold",
+      "organisation": "University of Cambridge",
+      "role": "Panel Chair"
+    },
+    {
+      "name": "Anthea Innes",
+      "organisation": "McMaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Katie Featherstone",
+      "organisation": "Univesity of West London",
+      "role": "Vice-Chair/Panellist"
+    },
+    {
+      "name": "Brooke Rogers",
+      "organisation": "Kings College London",
+      "role": "Member"
+    },
+    {
+      "name": "Clare Edge",
+      "organisation": "Salford University",
+      "role": "Member"
+    },
+    {
+      "name": "Kay de Vries",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Kerry Jones",
+      "organisation": "Open University",
+      "role": "Member"
+    },
+    {
+      "name": "Konstantinos Katsikopoulos",
+      "organisation": "Univesity of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "David Lewis",
+      "organisation": "University of Exeter",
+      "role": "Vice-Chair/Panellist"
+    },
+    {
+      "name": "Graeme Davis",
+      "organisation": "University of York",
+      "role": "Member"
+    },
+    {
+      "name": "Vikas Kumar",
+      "organisation": "Birmingham City University",
+      "role": "Member"
+    },
+    {
+      "name": "Niraj Kumar",
+      "organisation": "University of Essex",
+      "role": "Member"
+    },
+    {
+      "name": "Julian Clifton",
+      "organisation": "University of Lincoln",
+      "role": "Vice-Chair/Panellist"
+    },
+    {
+      "name": "Bernadette Snow",
+      "organisation": "Scottish Association For Marine Science",
+      "role": "Member"
+    },
+    {
+      "name": "Bernard Silverman",
+      "organisation": "Univesity of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Robert MacIntosh",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Emma Crewe",
+      "organisation": "SOAS",
+      "role": "Member"
+    },
+    {
+      "name": "Clara Crivellaro",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Helen Thornham",
+      "organisation": "University of Leads",
+      "role": "Member"
+    },
+    {
+      "name": "Natasha Richardson",
+      "organisation": "ESRC",
+      "role": "Panel Convenor"
+    }
+  ],
+  "applications": [
+    {
+      "opportunity": "Resilient UK Coastal Communities and Seas Network Plus",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z502868/1"
+    },
+    {
+      "opportunity": "Dementia Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502704/1"
+    },
+    {
+      "opportunity": "Dementia Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502790/1"
+    },
+    {
+      "opportunity": "Dementia Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502674/1"
+    },
+    {
+      "opportunity": "Dementia Network Plus",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502832/1"
+    },
+    {
+      "opportunity": "Behavioural Science for Security and Defence Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z502716/1"
+    },
+    {
+      "opportunity": "Polarities and Regions Network Plus",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503009/1"
+    }
+  ],
+  "meeting_name": "ESRC Network Plus",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2024-02",
+  "meeting_end": "2024-02"
+}

@@ -1,0 +1,203 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "30",
+  "count_of_awards": "10",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P013554/1",
+      "lead_applicant": "Kevin Walsh",
+      "lead_organisation": "University of York",
+      "title": "Protohistoric to Medieval pastoralism in the Western Alps: The origins and development of long-distance transhumance",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P013759/1",
+      "lead_applicant": "Alice Jane Taylor",
+      "lead_organisation": "King's College London",
+      "title": "The Community of the Realm in Scotland, 1249-1424: history, law and charters in a recreated kingdom",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P009085/1",
+      "lead_applicant": "Caroline Evans",
+      "lead_organisation": "University of the Arts London",
+      "title": "Exploding Fashion: Cutting, Constructing and Thinking Through Things",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P014879/1",
+      "lead_applicant": "James Kirby",
+      "lead_organisation": "University of Edinburgh",
+      "title": "From voicing to register: the evolution of a sound change in Southeast Asia",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P008941/1",
+      "lead_applicant": "Elizabeth Shepherd",
+      "lead_organisation": "University College London",
+      "title": "Navigating the public information rights ecology: a recordkeeping perspective on supporting information rights",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P014615/1",
+      "lead_applicant": "Paul Basu",
+      "lead_organisation": "School of Oriental & African Studies",
+      "title": "Museum affordances: activating West African ethnographic archives and collections through experimental museology",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005047/1",
+      "lead_applicant": "Andrew Chamberlain",
+      "lead_organisation": "The University of Manchester",
+      "title": "Appearance and Reality in Ancient Egyptian Votive Animal Mummies",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P013627/1",
+      "lead_applicant": "Greg Bankoff",
+      "lead_organisation": "University of Hull",
+      "title": "Local Governance and Community Resilience: How Internal Drainage Boards (IDBs) and Communities Managed Flooding in England",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P013880/1",
+      "lead_applicant": "Andrew Seaman",
+      "lead_organisation": "Canterbury Christ Church University",
+      "title": "Manifestations of Empire: Palaeoenvironmental Analysis and the End of Roman Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009697/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014844/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P013805/1",
+      "lead_applicant": "Steve Presence",
+      "lead_organisation": "University of the West of England",
+      "title": "Documentary UK: a study of the feature documentary film industry",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01383X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014135/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013929/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015115/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007171/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014399/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008623/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P012442/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014054/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009956/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009107/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01349X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013775/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013783/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014097/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014534/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014720/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014739/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, April 2017 Panel Meeting",
+  "source": "1704-research-grants-meeting.xlsx",
+  "meeting_start": "2017-04",
+  "meeting_end": "2017-04"
+}

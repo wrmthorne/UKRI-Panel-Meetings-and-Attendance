@@ -1,0 +1,76 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "11",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001931/1",
+      "lead_applicant": "Stephen Rippon",
+      "lead_organisation": "University of Exeter",
+      "title": "Exeter: A Place in Time",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001664/1",
+      "lead_applicant": "Duncan Garrow",
+      "lead_organisation": "University of Reading",
+      "title": "Grave goods: objects and death in later prehistoric Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001613/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00454X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001699/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003071/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002709/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002687/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002768/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003942/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004051/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants Panel C, September 2015 meeting",
+  "source": "Research Grants Panel C, September 2015 meeting.xlsx",
+  "meeting_start": "2015-09",
+  "meeting_end": "2015-09"
+}

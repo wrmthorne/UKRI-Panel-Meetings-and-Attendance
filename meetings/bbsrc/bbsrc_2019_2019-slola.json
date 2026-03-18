@@ -1,0 +1,438 @@
+{
+  "council": "BBSRC",
+  "year": "2019",
+  "count_of_applications": "4",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T000627/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T001984/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T002182/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T002212/1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Millar",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Ewan Birney",
+      "role": "Deputy Chair",
+      "organisation": "EMBL-EBI"
+    },
+    {
+      "name": "Mark Banfield",
+      "role": "Member",
+      "organisation": "John Innes Centre"
+    },
+    {
+      "name": "Rainer Breitling",
+      "role": "Member",
+      "organisation": "The University of"
+    },
+    {
+      "name": "Manchester",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Michelangelo Campanella",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Martin Cann",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "David Clayton",
+      "role": "Member",
+      "organisation": "Queen Mary’s College"
+    },
+    {
+      "name": "Anne Corcoran",
+      "role": "Member",
+      "organisation": "Babraham Institute"
+    },
+    {
+      "name": "Richard Emes",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Miriam Gifford",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Claire Grierson",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Matthew Hutchings",
+      "role": "Member",
+      "organisation": "John Innes Centre"
+    },
+    {
+      "name": "Mark Leake",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Carolyn Moores Birkbeck College",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Lars Muckli",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Grace Mulcahy",
+      "role": "Member",
+      "organisation": "University College Dublin"
+    },
+    {
+      "name": "John Speakman",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Andrea Streit King’s College London",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Krasimira Tsaneva\u0002AtanasovaUniversity of Exeter",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Eileen Wall",
+      "role": "Member",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Full stage (panel) – SLC-RM panel",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "The full stage of the 2019-20 sLoLa call was assessed by a bespoke panel comprising a",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "subset of outline stage SLC members and members of BBSRC’s Responsive Mode",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Research Committees and Pool of Experts.",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Andrew Millar",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Sohail Ali",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Thorsten Allers",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Dawn Arnold",
+      "role": "Member",
+      "organisation": "Harper Adams University"
+    },
+    {
+      "name": "Clair Baldock",
+      "role": "Member",
+      "organisation": "The University of"
+    },
+    {
+      "name": "Manchester",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Christopher Bayliss",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Alison Bentley National",
+      "role": "Member",
+      "organisation": "Institute of"
+    },
+    {
+      "name": "Agricultural Botany",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "James Brewer",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Anastasia Callaghan",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Yin Chen",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Sonia Correa-Muller Manchester Metropolitan",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "John Crawford",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Richard Emes",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Claire Eyers",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Robert Hancock",
+      "role": "Member",
+      "organisation": "The James Hutton Institute"
+    },
+    {
+      "name": "Lorna Harries",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Mathew Hegarty",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Giles Johnson",
+      "role": "Member",
+      "organisation": "The University of"
+    },
+    {
+      "name": "Manchester",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Andrzej Kierzek Certara UK",
+      "role": "Member",
+      "organisation": "ltd."
+    },
+    {
+      "name": "Jane Mellor",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Shabaz Mohammed Rosalind Franklin",
+      "role": "Member",
+      "organisation": "Institute"
+    },
+    {
+      "name": "Carolyn Moores Birckbeck College",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Tim Overton",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Matthew Paul",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Teuta Pilzota",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Andrew Pitt",
+      "role": "Member",
+      "organisation": "The University of"
+    },
+    {
+      "name": "Manchester",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Sonia Rocha",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Alexander Tonks",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Miguel Valvano Queen’s",
+      "role": "Member",
+      "organisation": "University Belfast"
+    },
+    {
+      "name": "Daniel Wall",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Mark Wass",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Martyn Winn",
+      "role": "Member",
+      "organisation": "STFC"
+    },
+    {
+      "name": "Gabriela de Silva Xavier",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Full stage (interviews) – Strategic LoLa Committee (SLC)",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Andrew Millar",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Rainer Breitling",
+      "role": "Member",
+      "organisation": "The University of"
+    },
+    {
+      "name": "Manchester",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Member",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Anastasia Callaghan",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Michelangelo Campanella",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Martin Cann",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Anne Corcoran",
+      "role": "Member",
+      "organisation": "Babraham Institute"
+    },
+    {
+      "name": "John Crawford",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Claire Eyers",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Lorna Harries",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Eileen Wall",
+      "role": "Member",
+      "organisation": "SRUC"
+    }
+  ],
+  "membership_source_files": [
+    "membership/2019-20_sLoLaPanelMembership.pdf"
+  ],
+  "meeting_name": "2019 SLOLA",
+  "source": "awarded_grants/BBSRC_2019_AwardedGrantsSLOLA.xlsx",
+  "meeting_start": "2019",
+  "meeting_end": "2019"
+}

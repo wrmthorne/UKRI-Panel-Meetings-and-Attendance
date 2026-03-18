@@ -1,0 +1,128 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-957881876",
+  "meeting_name": "Research Networking April 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y000897/1",
+      "route": "Standard",
+      "lead_applicant": "Catherine Armstrong",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Loughborough University",
+      "title": "Trans Archiving Network (TAN)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X013103/1",
+      "route": "Standard",
+      "lead_applicant": "Dave Beech",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of the Arts London",
+      "title": "Mapping Creative Labour in Contemporary Art",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001338/1",
+      "route": "Standard",
+      "lead_applicant": "Suman Gupta",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The Open University",
+      "title": "Methods for Modelling & Analysing Political Catchwords/phrases in Digital Environments",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X013146/1",
+      "route": "Standard",
+      "lead_applicant": "Giles Giles Birchley",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Bristol",
+      "title": "Children's Medical Tourism: Developing an inclusive base for international study",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y00132X/1",
+      "route": "Standard",
+      "lead_applicant": "James Muldoon",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Essex",
+      "title": "The Climate Crisis and Democratic Reform",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X01164X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00082X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001370/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012700/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X01195X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012840/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Maria Delgado",
+      "organisation": "Royal Central Sch of Speech and Drama",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2023-04-01",
+  "meeting_end": "2023-04-01"
+}

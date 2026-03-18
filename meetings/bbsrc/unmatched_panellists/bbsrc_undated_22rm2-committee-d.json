@@ -1,0 +1,148 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee D",
+  "panellists": [
+    {
+      "name": "Martin Cann",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Susan Rosser",
+      "role": "Deputy Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Andrew Pitt",
+      "role": "Deputy Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Alex Tonks",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Andrew Gates",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Anna Nicolaou",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Corinne Michelle Spickett",
+      "role": "Member",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Dany Beste",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Dongda Zhang",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Eamonn Reading",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Helen Mott",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "James Brewer",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Julie Welburn",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Mark Pfuhl",
+      "role": "Member",
+      "organisation": "King’s College London"
+    },
+    {
+      "name": "Neil Kad",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Paolo Actis",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Patrick Eyers",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Patrick Lewis",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Patrick Moynihan",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Paul Hoskisson",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Paul Race",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Philip Biggin",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Robert Graham",
+      "role": "Member",
+      "organisation": "Queen's University of Belfast"
+    },
+    {
+      "name": "Ruaidhri Carmody",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Stephanie Duguez",
+      "role": "Member",
+      "organisation": "Ulster University"
+    },
+    {
+      "name": "Steven Cobb",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Stuart Dowall",
+      "role": "Member",
+      "organisation": "Public Health England"
+    },
+    {
+      "name": "Tessa Crompton",
+      "role": "Member",
+      "organisation": "University College London"
+    }
+  ],
+  "meeting_name": "22RM2 - Committee D",
+  "source": "membership/BBSRC-07062023-22RM2-Committee-Members.pdf"
+}

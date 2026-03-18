@@ -1,0 +1,191 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN650",
+  "meeting_name": "EPSRC: ICT New Investigators Award Prioritisation Panel Sept 2024",
+  "meeting_convenor": "E Hims",
+  "applications": [
+    {
+      "application_id": "APP16056",
+      "title": "PriorPool: Intelligent Video Restoration and Enhancement via a Large Prior Database",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "355164.41",
+      "award_id": "UKRI241",
+      "opportunity_number": "136",
+      "lead_applicant": "N Anantrasirichai",
+      "link": "https://gtr.ukri.org/projects?ref=241",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP22844",
+      "title": "BRanchIng Game HeurisTics for Verification of Neural Networks (BRIGHT)",
+      "lead_organisation": "University of Kent",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "443770.68",
+      "award_id": "EP/Z536593/1",
+      "opportunity_number": "320",
+      "lead_applicant": "E Botoeva",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ536593%2F1",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24934",
+      "title": "Harnessing Synthetic Data Fidelity for Assured Perception of Autonomous Vehicles",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "407859.68",
+      "award_id": "EP/Z536568/1",
+      "opportunity_number": "320",
+      "lead_applicant": "X Zhao",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ536568%2F1",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24139",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP26893",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP30423",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33975",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Bloj",
+      "role": "Chair",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "G Aarts",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "X Chu",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "A Ellis",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "A French",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "E Kanjo",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "E Le Moignan",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "A Leonardis",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "I Mabbett",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "D McIlhatton",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Y Noori",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "J Pritchard",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "D Thakker",
+      "role": "Panellist",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "K Wong",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "C Zarges",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "F Zheng",
+      "role": "Panellist",
+      "organisation": "University of York"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-09-24",
+  "meeting_end": "2024-09-24"
+}

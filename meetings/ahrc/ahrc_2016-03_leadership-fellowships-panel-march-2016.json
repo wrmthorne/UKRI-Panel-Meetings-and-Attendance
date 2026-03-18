@@ -1,0 +1,130 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "17",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006631/1",
+      "lead_applicant": "Abigail Frances Floretta Green",
+      "lead_organisation": "University of Oxford",
+      "title": "Liberalism and the Jews: an international history",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N006623/1",
+      "lead_applicant": "Emily Michelson",
+      "lead_organisation": "University of St Andrews",
+      "title": "Imaginary Jews and Religious Minorities in Early Modern Rome",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N006879/1",
+      "lead_applicant": "Ben Spatz",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Judaica: An Embodied Laboratory for Song-Action",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N006224/1",
+      "lead_applicant": "Sorcha O'Brien",
+      "lead_organisation": "Kingston University",
+      "title": "The Electrification of the Rural Irish Home: Housewives, Electrical Products and Domesticity in the 1950s and 1960s",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N007204/1",
+      "lead_applicant": "Rowan Cerys Tomlinson",
+      "lead_organisation": "University of Bristol",
+      "title": "'Scholars, hacks, and gentlemen: the politics of authorship in Renaissance France'",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N005805/1",
+      "lead_applicant": "Broderick Chow",
+      "lead_organisation": "Brunel University London",
+      "title": "Dynamic Tensions: New Masculinities in the Performance of Fitness",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N007654/1",
+      "lead_applicant": "Gabriel Egan",
+      "lead_organisation": "De Montfort University",
+      "title": "Shakespeare's Early Editions: Computational Methods for Textual Studies",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006526/1",
+      "lead_applicant": "David Higgins",
+      "lead_organisation": "University of Leeds",
+      "title": "British Romantic Writing and Environmental Catastrophe",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007727/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005724/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007530/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008529/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006410/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007441/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007581/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008898/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008944/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellowships Panel - March 2016",
+  "source": "Fellowships, March 2016 Meeting.xlsx",
+  "meeting_start": "2016-03",
+  "meeting_end": "2016-03"
+}

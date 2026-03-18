@@ -1,0 +1,156 @@
+{
+  "council": "STFC",
+  "year": "2022",
+  "count_of_applications": "18",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X001792/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X001784/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X001776/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000281/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000249/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000184/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000362/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000354/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000346/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000206/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000370/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000133/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X00029X/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X00015X/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000257/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000214/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000230/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2022",
+      "application_id": "ST/X000168/1",
+      "rank": ""
+    }
+  ],
+  "meeting_name": "PE Nucleus Awards 2022",
+  "source": "Nucleus-awards/STFC-150223-RankingListForNucleusAwards2022.xlsx",
+  "meeting_start": "2022",
+  "meeting_end": "2022"
+}

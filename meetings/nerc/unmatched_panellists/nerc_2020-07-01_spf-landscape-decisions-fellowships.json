@@ -1,0 +1,51 @@
+{
+  "council": "NERC",
+  "meeting_location": "Via video conference",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Michèle Clarke",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Andrew Church",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Rosie Hails The National",
+      "role": "Member",
+      "organisation": "Trust"
+    },
+    {
+      "name": "Lindsey McEwen",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Adrian Newton",
+      "role": "Member",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "Michael Whelan",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Andrew Whitmore",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "George Revill",
+      "role": "Member",
+      "organisation": "Open University"
+    }
+  ],
+  "meeting_name": "SPF Landscape Decisions Fellowships",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-LandscapeDecisionsFellowships-260320.pdf",
+  "meeting_start": "2020-07-01",
+  "meeting_end": "2020-07-02"
+}

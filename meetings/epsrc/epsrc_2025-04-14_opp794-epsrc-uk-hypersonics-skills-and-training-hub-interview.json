@@ -1,0 +1,42 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1176",
+  "meeting_name": "OPP794: EPSRC UK Hypersonics Skills and Training Hub, Interview",
+  "meeting_convenor": "G Smith",
+  "applications": [
+    {
+      "application_id": "APP71345",
+      "title": "UK Hypersonics Skills and Training Hub",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "12999999",
+      "award_id": "UKRI2097",
+      "opportunity_number": "794",
+      "lead_applicant": "M McGilvray",
+      "link": "https://gtr.ukri.org/projects?ref=2097",
+      "opportunity": "UK Hypersonics Skills and Training Hub"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Noakes",
+      "role": "Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "J Jones",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "K Rigby",
+      "role": "Panellist",
+      "organisation": "THE KEITH RIGBY CONSULTANCY LIMITED"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-14",
+  "meeting_end": "2025-04-14"
+}

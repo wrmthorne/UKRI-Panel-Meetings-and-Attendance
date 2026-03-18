@@ -1,0 +1,110 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "13",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S006893/1",
+      "lead_applicant": "Scott Mc Laughlin",
+      "lead_organisation": "University of Leeds",
+      "title": "The Garden of Forking Paths: material-indeterminacy driving open-form composition for clarinets",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S006680/1",
+      "lead_applicant": "Jennifer Hendry",
+      "lead_organisation": "University of Leeds",
+      "title": "Everyday Challenges to the Rule of Law: The Case of Civil/Criminal Procedural Hybrids",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S007504/1",
+      "lead_applicant": "Jeremy Davies",
+      "lead_organisation": "University of Leeds",
+      "title": "Experiments in Land and Society, 1793-1833",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S010815/1",
+      "lead_applicant": "Laura Cull",
+      "lead_organisation": "University of Surrey",
+      "title": "Performance Philosophy & Animals: Towards a Radical Equality",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S00744X/1",
+      "lead_applicant": "Christopher Haworth",
+      "lead_organisation": "University of Birmingham",
+      "title": "Music and the internet: towards a digital sociology of music",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S011447/1",
+      "lead_applicant": "Richard Butler",
+      "lead_organisation": "University of Leicester",
+      "title": "Church, state, and the building of Ireland's south coast cities: Cork and Waterford, c. 1935-1965",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S006605/1",
+      "lead_applicant": "Deborah Toner",
+      "lead_organisation": "University of Leicester",
+      "title": "Alcohol, Race and Ethnicity: The United States, Mexico and the Wider World, 1845-1940",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S010750/1",
+      "lead_applicant": "Duska Radosavljevic",
+      "lead_organisation": "Royal Central School of Speech and Drama",
+      "title": "Aural/Oral Dramaturgies: Post-Verbatim, Amplified Storytelling and Gig Theatre in the Digital Age",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012281/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013091/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012052/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004777/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010424/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, March 2019 panel meeting",
+  "source": "Leadership Fellows Panel, March 2019 Meeting.xlsx",
+  "meeting_start": "2019-03",
+  "meeting_end": "2019-03"
+}

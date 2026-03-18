@@ -1,0 +1,96 @@
+{
+  "council": "ESRC",
+  "year": "2018",
+  "count_of_applications": "14",
+  "count_of_awards": "3",
+  "applications": [
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010416/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010483/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010475/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010424/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010432/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S01036X/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010513/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010386/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010394/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010459/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010378/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010491/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010343/1"
+    },
+    {
+      "opportunity": "ISCF Next Generation Services",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010300/1"
+    }
+  ],
+  "meeting_name": "ISCF Next Generation Services Panel Meeting 2018",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2018-11",
+  "meeting_end": "2018-11"
+}

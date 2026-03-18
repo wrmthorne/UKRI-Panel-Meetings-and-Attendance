@@ -1,0 +1,137 @@
+{
+  "council": "NERC",
+  "count_of_applications": "34",
+  "count_of_awards": "2",
+  "year": "2017",
+  "applications": [
+    {
+      "application_id": "NE/L002450/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002507/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002493/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002558/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002582/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002604/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002434/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002590/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002485/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002469/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002612/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002566/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002574/1",
+      "rank": "3"
+    },
+    {
+      "application_id": "NE/L002531/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/L002515/1",
+      "rank": "45"
+    },
+    {
+      "application_id": "NE/M00578X/1",
+      "rank": "10"
+    },
+    {
+      "application_id": "NE/M009009/1",
+      "rank": "7"
+    },
+    {
+      "application_id": "NE/N012070/1",
+      "rank": "7"
+    },
+    {
+      "application_id": "NE/P012345/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M009106/1",
+      "rank": "36"
+    },
+    {
+      "application_id": "NE/P009603/1"
+    },
+    {
+      "application_id": "NE/P009255/1"
+    },
+    {
+      "application_id": "NE/P009786/1"
+    },
+    {
+      "application_id": "NE/P00945X/1"
+    },
+    {
+      "application_id": "NE/P009875/1"
+    },
+    {
+      "application_id": "NE/P009417/1"
+    },
+    {
+      "application_id": "NE/P010105/1"
+    },
+    {
+      "application_id": "NE/P009379/1"
+    },
+    {
+      "application_id": "NE/P00931X/1"
+    },
+    {
+      "application_id": "NE/P008925/1"
+    },
+    {
+      "application_id": "NE/P009263/1"
+    },
+    {
+      "application_id": "NE/P009301/1"
+    },
+    {
+      "application_id": "NE/P009743/1"
+    },
+    {
+      "application_id": "NE/P010598/1",
+      "rank": "14"
+    }
+  ],
+  "meeting_name": "2017 NERC National Productivity Investment Fund (NPIF) DTP Studentship Allocation Outcomes",
+  "source": "NERC-061021-NPIFStudentshipAllocations-FundingOutcomes-May2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

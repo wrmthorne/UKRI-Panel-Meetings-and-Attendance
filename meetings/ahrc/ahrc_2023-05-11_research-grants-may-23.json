@@ -1,0 +1,338 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-942065623",
+  "meeting_name": "Research Grants - May 23",
+  "applications": [
+    {
+      "application_id": "AH/X011747/1",
+      "route": "Standard",
+      "lead_applicant": "Marcos Martinon-Torres",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Cambridge",
+      "title": "\"Small performances\": investigating the typographic punches of John Baskerville (1707-75) through heritage science and practice-based research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y000234/1",
+      "route": "Standard",
+      "lead_applicant": "Ellen Victoria Swift",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Kent",
+      "title": "Britain's Last Roman Hoards: Wealth, Power and Culture in the Fifth Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X012816/1",
+      "route": "Standard",
+      "lead_applicant": "Fiona Candlin",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Birkbeck College",
+      "title": "Museum closure in the UK 2000-2025",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011763/1",
+      "route": "Standard",
+      "lead_applicant": "Beth Johnson",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leeds",
+      "title": "What's on? Rethinking class in the television industry",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X012743/1",
+      "route": "Early Career",
+      "lead_applicant": "Katey Warran",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Edinburgh",
+      "title": "IMAGINED: Investigating Meaning-making and the cocreation of Guidelines for Evaluation IN participatory Arts for Dementia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X012808/1",
+      "route": "Standard",
+      "lead_applicant": "Maria Wyke",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University College London",
+      "title": "Museum of Dreams: Silent Antiquity Films in the BFI National Archive",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X013065/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011445/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012999/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009645/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010554/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011879/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00886X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X013081/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X01309X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012727/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000617/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011798/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000633/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X01178X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000536/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X01293X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X013049/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012751/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011305/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012786/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X012891/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000803/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jake Kaner",
+      "organisation": "University of Westminster",
+      "role": "Chair"
+    },
+    {
+      "name": "Huiwen Zhao",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Manuella Ruth Blackburn",
+      "organisation": "Keele University",
+      "role": "Member"
+    },
+    {
+      "name": "Qian Sun",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Gregory Toner",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Joanne Clarke",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Louise Miskell",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Tadmor",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Steve Goodhew",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-05-11",
+  "meeting_end": "2023-05-11"
+}

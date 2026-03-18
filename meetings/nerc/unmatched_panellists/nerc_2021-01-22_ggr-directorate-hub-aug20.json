@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom video conference",
+  "panel_secretary": "Dr Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Paul Manners",
+      "role": "Chair",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Allan Butler Environment",
+      "role": "Member",
+      "organisation": "Agency"
+    },
+    {
+      "name": "Elena Cantarello",
+      "role": "Member",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "Julie Doyle",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Ole Pedersen",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "GGR (Directorate Hub) AUG20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-GreenhouseGasRemovalDemonstrators-060820.pdf",
+  "meeting_start": "2021-01-22",
+  "meeting_end": "2021-01-22"
+}

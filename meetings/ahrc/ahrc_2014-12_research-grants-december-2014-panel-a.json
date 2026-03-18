@@ -1,0 +1,113 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "16",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005917/1",
+      "lead_applicant": "Jon Williamson",
+      "lead_organisation": "University of Kent",
+      "title": "Evaluating Evidence in Medicine",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008142/1",
+      "lead_applicant": "Stephen Legg",
+      "lead_organisation": "University of Nottingham",
+      "title": "Conferencing the International: a cultural and historical geography of the origins of internationalism (1919-1939)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M006565/1",
+      "lead_applicant": "Hannah Holtschneider",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Jewish Lives, Scottish Spaces: Jewish Migration to Scotland, 1880-1950",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M006719/1",
+      "lead_applicant": "Pat Thane",
+      "lead_organisation": "King's College London",
+      "title": "The First Fifty Years of the of the Child Poverty Action Group, 1965-2015",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M006646/1",
+      "lead_applicant": "Mervyn Conroy",
+      "lead_organisation": "University of Birmingham",
+      "title": "Phronesis and the Medical Community",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006743/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008126/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00581X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005836/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008487/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006794/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005860/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M007146/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006417/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006751/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008282/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants December 2014 Panel A",
+  "source": "ResearchGrantsPanelADec2014.xlsx",
+  "meeting_start": "2014-12",
+  "meeting_end": "2014-12"
+}

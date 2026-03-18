@@ -1,0 +1,65 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "8",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M010643/1",
+      "lead_applicant": "Stephen Pinfield",
+      "lead_organisation": "University of Sheffield",
+      "title": "Open-access mega-journals and the future of scholarly communication",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M011313/1",
+      "lead_applicant": "Peter Parsons",
+      "lead_organisation": "University of Oxford",
+      "title": "The Oxyrhynchus Papyri",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M01133X/1",
+      "lead_applicant": "Robert Parker",
+      "lead_organisation": "University of Oxford",
+      "title": "Lexicon of Greek Personal Names",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001079/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001680/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M010783/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001494/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011542/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel C, June 2015 meeting",
+  "source": "Research Grants Panel C, June 2015 meeting.xlsx",
+  "meeting_start": "2015-06",
+  "meeting_end": "2015-06"
+}

@@ -1,0 +1,84 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "10",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006019/1",
+      "lead_applicant": "Karen Rowlingson",
+      "lead_organisation": "University of Birmingham",
+      "title": "How do we ensure responsible lending and borrowing?",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P008712/1",
+      "lead_applicant": "Chris Kiefer",
+      "lead_organisation": "University of Sussex",
+      "title": "NETEM: Supporting Musical Ensembles with Synchronised Digital Scores",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008445/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008488/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P008682/1",
+      "lead_applicant": "Frances Weightman",
+      "lead_organisation": "University of Leeds",
+      "title": "Reading Chinese: engaging new audiences",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P008410/1",
+      "lead_applicant": "Laura Jeffery",
+      "lead_organisation": "University of Edinburgh",
+      "title": "CHAGOS: Cultural Heritage Across Generations",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P008526/1",
+      "lead_applicant": "Patricia Belford",
+      "lead_organisation": "University of Ulster",
+      "title": "Linen Lace Concrete - Back to Source to commercialise lab based findings from 'Woven Concrete'",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009255/1",
+      "lead_applicant": "Helen Johnston",
+      "lead_organisation": "University of Hull",
+      "title": "Our Criminal Past: Our Criminal Ancestors",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007430/1",
+      "lead_applicant": "Kate Allen",
+      "lead_organisation": "University of Reading",
+      "title": "Sensory Objects Enterprise - Co-Development and Start Up project",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007880/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow-on Funding for Impact and Engagement, October 2016 moderation",
+  "source": "Follow-on Funding for Impact and Engagement Q4 2016 Meetings.xlsx",
+  "meeting_start": "2016-10",
+  "meeting_end": "2016-10"
+}

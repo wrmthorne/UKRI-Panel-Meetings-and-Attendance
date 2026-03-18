@@ -1,0 +1,228 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-801351633",
+  "meeting_name": "Research, Development and Engagement Fellowships - July 2022",
+  "applications": [
+    {
+      "application_id": "AH/X002950/1",
+      "route": "Early Career",
+      "lead_applicant": "Svenja Bethke",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Leicester",
+      "title": "Between Diaspora and the 'Land of Israel': Jewish Dress, Migration and Belonging, 1880s-1948",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002934/1",
+      "route": "Standard",
+      "lead_applicant": "Adam Morton",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Newcastle University",
+      "title": "British Printed Images to 1700: Integrating Visual Sources into Historical Practice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004309/1",
+      "route": "Standard",
+      "lead_applicant": "Faye Louise Hammill",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Glasgow",
+      "title": "Ocean Modern: Liners and Literature",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011360/1",
+      "route": "Early Career",
+      "lead_applicant": "Rebecca Anne Hillman",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Exeter",
+      "title": "Performing Resistance: the role of theatre and performance in 21st-century workers' movements",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X003590/1",
+      "route": "Early Career",
+      "lead_applicant": "Isabel Galleymore",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Birmingham",
+      "title": "Cuteness In Contemporary Environmental Culture: Developing Ecopoetic Practice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000338/1",
+      "route": "Standard",
+      "lead_applicant": "Charlotte Elizabeth Wildman",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "The University of Manchester",
+      "title": "Reconsidering Crime in Urban Working-Class Homes and Family Life, 1918-1979",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011484/1",
+      "route": "Standard",
+      "lead_applicant": "Kate Greasley",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Oxford",
+      "title": "Sexual Consent in the Post-MeToo World: A Study in Philosophy and Law",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000591/1",
+      "route": "Standard",
+      "lead_applicant": "Abigail Louise Harrison Moore",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "University of Leeds",
+      "title": "Empowering Women; Co-producing Histories of Women and Energy in the Home.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011204/1",
+      "route": "Standard",
+      "lead_applicant": "Tracy Eileen Brain",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "Bath Spa University",
+      "title": "Pregnancy and the Novel: Representation and Concealment from Richardson to Hardy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010178/1",
+      "route": "Early Career",
+      "lead_applicant": "Emily Worthington",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "University of York",
+      "title": "Baermann's Body: Understanding Embodiment in Historically Informed Performance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X003809/1",
+      "route": "Early Career",
+      "lead_applicant": "Stephen Ely",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Ted Hughes's Expressionism: the Encyclopaedic Range and Maverick Utterance of England's Greatest Twentieth Century Poet",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000419/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000257/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003698/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002888/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002667/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003019/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Helen Freshwater",
+      "organisation": "Newcastle University",
+      "role": "Chair"
+    },
+    {
+      "name": "David Parsons",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Wendy Jayne McMahon",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Clarissa Jael Smith",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Colin Tyler",
+      "organisation": "University of Hull",
+      "role": "Member"
+    },
+    {
+      "name": "Grace Lees-Maffei",
+      "organisation": "University of Warwick",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Tadmor",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Sam Jacoby",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Thomas Maguire",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-07-01",
+  "meeting_end": "2022-07-01"
+}

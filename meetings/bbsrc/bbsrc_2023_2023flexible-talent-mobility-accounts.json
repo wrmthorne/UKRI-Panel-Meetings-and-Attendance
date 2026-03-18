@@ -1,0 +1,106 @@
+{
+  "council": "BBSRC",
+  "year": "2023",
+  "count_of_applications": "11",
+  "count_of_awards": "11",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "24086"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "19361"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "22566"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "20505"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "21828"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "23345"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "23465"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "22832"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "16413"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "24183"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "21402"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Roslyn Bill",
+      "role": "Chair",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "Peter Levison Pall Corporation",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Frank Sargent",
+      "role": "Deputy Chair",
+      "organisation": "University of Newcastle"
+    },
+    {
+      "name": "Nicola Stanley-Wall",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Jerry Roberts",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Stephen Marshall",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Clare Stevenson",
+      "role": "Member",
+      "organisation": "John Innes Centre"
+    },
+    {
+      "name": "Timothy Brown",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Claire Colenutt",
+      "role": "Member",
+      "organisation": "Pirbright Institute"
+    }
+  ],
+  "membership_source_files": [
+    "membership/BBSRC-130524-FlexibleTalentMobilityAccounts2023PanelMembership.pdf"
+  ],
+  "meeting_name": "2023Flexible Talent Mobility Accounts",
+  "source": "awarded_grants/BBSRC-170225-AwardedGrants2023FlexibleTalentMobilityAccounts.xlsx",
+  "meeting_start": "2023",
+  "meeting_end": "2023"
+}

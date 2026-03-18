@@ -1,0 +1,42 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "4",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013543/1",
+      "lead_applicant": "Nicola Shaughnessy",
+      "lead_organisation": "University of Kent",
+      "title": "Autism Re-Imagined: Creative Resources for Schools and Communities",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S00002X/1",
+      "lead_applicant": "Selina Todd",
+      "lead_organisation": "University of Oxford",
+      "title": "Housing, Culture and Women's Citizenship in Britain, c.1945 to the present",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013233/1",
+      "lead_applicant": "Laura King",
+      "lead_organisation": "University of Leeds",
+      "title": "The Role of Objects and Places in Remembrance Culture: Using research in an artistic collaboration",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000240/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Follow on Funding February 2018 panel",
+  "source": "Follow-on Funding for Impact and Engagement Q1 2018 Moderation.xlsx",
+  "meeting_start": "2018-02",
+  "meeting_end": "2018-02"
+}

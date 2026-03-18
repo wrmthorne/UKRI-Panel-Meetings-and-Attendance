@@ -1,0 +1,163 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "25",
+  "count_of_awards": "10",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R001766/1",
+      "lead_applicant": "Gordon Lynch",
+      "lead_organisation": "University of Kent",
+      "title": "British child migration schemes to Australia, 1947-1970: historical perspectives and public memory today",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R004978/1",
+      "lead_applicant": "Ana Margarida Dias Martins",
+      "lead_organisation": "University of Exeter",
+      "title": "Women of the Brown Atlantic: Real and Imaginary Passages in Portuguese 1711-2011",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R000174/1",
+      "lead_applicant": "Jennifer Elisabeth Altehenger",
+      "lead_organisation": "King's College London",
+      "title": "Socialist Industrial Design in Mao Era China and After",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R00384X/1",
+      "lead_applicant": "Toby Lincoln",
+      "lead_organisation": "University of Leicester",
+      "title": "Postwar Urban Reconstruction in China 1937 - 1958",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R005052/1",
+      "lead_applicant": "Steven Wilson",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Global Disease: Language(s) and the Literary Imagination",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R002584/1",
+      "lead_applicant": "Tanya Wyatt",
+      "lead_organisation": "Northumbria University",
+      "title": "Lessons Learned from the Implementation of and Compliance with the Convention on the International Trade in Endangered Species (CITES)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R001804/1",
+      "lead_applicant": "Eva Moreda Rodriguez",
+      "lead_organisation": "University of Glasgow",
+      "title": "Early Recording Cultures in Spain, 1880-1905: Towards a Transnational History",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R002452/1",
+      "lead_applicant": "Sophie Fuggle",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Postcards from the Bagne: Tourism in the shadow of France's overseas penal history",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R002568/1",
+      "lead_applicant": "Matthias Röhrig Assunção",
+      "lead_organisation": "University of Essex",
+      "title": "Contemporary Capoeira in Rio de Janeiro, 1948-1982",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R003513/1",
+      "lead_applicant": "Helen Dancer",
+      "lead_organisation": "University of Brighton",
+      "title": "Reimagining the Law of the Forest",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004080/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005141/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003548/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003408/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00241X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003262/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002592/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003688/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00255X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005230/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003343/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002312/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003432/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001510/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001774/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, September 2017 panel meeting",
+  "source": "1709-fellowships-meeting.xlsx",
+  "meeting_start": "2017-09",
+  "meeting_end": "2017-09"
+}

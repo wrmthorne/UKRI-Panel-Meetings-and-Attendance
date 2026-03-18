@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "count_of_applications": "16",
+  "count_of_awards": "13",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P01531X/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P01643X/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016472/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016502/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016383/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016391/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016405/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016421/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016480/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016340/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016499/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016510/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P016588/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P016308/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P016316/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P016324/1",
+      "rank": "6"
+    }
+  ],
+  "meeting_name": "APHH (Newton India) September 2016",
+  "source": "APHH (Newton India) September 2016.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

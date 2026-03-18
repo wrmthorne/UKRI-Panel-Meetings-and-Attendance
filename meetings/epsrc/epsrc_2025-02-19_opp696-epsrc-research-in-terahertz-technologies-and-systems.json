@@ -1,0 +1,287 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN908",
+  "meeting_name": "OPP696: EPSRC research in terahertz technologies and systems",
+  "meeting_convenor": "D Tresoldi",
+  "applications": [
+    {
+      "application_id": "APP57807",
+      "title": "Terahertz Wave Induced Spin Switching Technology (TWISST)",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1522964.75",
+      "award_id": "UKRI1237",
+      "opportunity_number": "696",
+      "lead_applicant": "D Graham",
+      "link": "https://gtr.ukri.org/projects?ref=1237",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP57181",
+      "title": "Integrated THz time-domain devices for real-time hyperspectral tomography",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1509209.43",
+      "award_id": "UKRI1236",
+      "opportunity_number": "696",
+      "lead_applicant": "M Johnston",
+      "link": "https://gtr.ukri.org/projects?ref=1236",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP55956",
+      "title": "Adaptive Terahertz Components for Advanced Integrated Systems",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1562531.85",
+      "award_id": "UKRI1235",
+      "opportunity_number": "696",
+      "lead_applicant": "J Lloyd-Hughes",
+      "link": "https://gtr.ukri.org/projects?ref=1235",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP55016",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP54821",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP54671",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP59599",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP58088",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP55692",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP54206",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP57234",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP54709",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP56119",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP59373",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP57619",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    },
+    {
+      "application_id": "APP54865",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "696",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC research in terahertz technologies and systems"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Parr",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "E Castro Camus",
+      "role": "Panellist",
+      "organisation": "Centro de Investigaciones en Optica"
+    },
+    {
+      "name": "S Hadjiloucas",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "S Haxha",
+      "role": "Panellist",
+      "organisation": "Royal Holloway, University of London"
+    },
+    {
+      "name": "M Matters-Kammerer",
+      "role": "Panellist",
+      "organisation": "Eindhoven University of Technology"
+    },
+    {
+      "name": "O Mitrofanov",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "M Nekovee",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "L Peters",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "s salous",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "M Watkinson",
+      "role": "Panellist",
+      "organisation": "Manchester Metropolitan University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-02-19",
+  "meeting_end": "2025-02-19"
+}

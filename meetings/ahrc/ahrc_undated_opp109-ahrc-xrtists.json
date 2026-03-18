@@ -1,0 +1,133 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendanceTFSApplications/PanelSelectPage",
+  "meeting_name": "OPP109: AHRC: XRtists",
+  "applications": [
+    {
+      "application_id": "4962",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "8698",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "9665",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "4"
+    },
+    {
+      "application_id": "7649",
+      "title": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "6284",
+      "title": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "6823",
+      "title": "XRtists: Artists Extending Realities",
+      "score": "8",
+      "outcome": "Successful",
+      "lead_applicant": "Verity McIntosh",
+      "lead_organisation": "University of the West of England",
+      "rank": "1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Paul Grainge",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Rebecca Gregory-Clarke",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "Alison Campbell",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Drew Hemment",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "KarlyGreen",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "LisaMatthews-Jones",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Liz Rosenthal",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Maddalena Crosti",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Matthew Malcolm",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "MorganPetrie",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Nigel McAlpine",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Owen Hopkin",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "PaulGlinkowski",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Robin Moore",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

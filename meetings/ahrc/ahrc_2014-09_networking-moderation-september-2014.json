@@ -1,0 +1,116 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "17",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008061/1",
+      "lead_applicant": "Aleksander Kolkowski",
+      "lead_organisation": "Science Museum Group",
+      "title": "Music, Noise and Silence: Building Engagement in the Culture of Science and Music",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005674/1",
+      "lead_applicant": "Eddie Jones",
+      "lead_organisation": "University of Exeter",
+      "title": "The English monastic experience, 15th - 21st centuries: Syon Abbey at 600",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006352/1",
+      "lead_applicant": "Esther Eidinow",
+      "lead_organisation": "University of Nottingham",
+      "title": "Cognitive Approaches to Ancient Religious Experience",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006883/1",
+      "lead_applicant": "Ulrika Maude",
+      "lead_organisation": "University of Bristol",
+      "title": "Modernism, Medicine and the Embodied Mind: Investigating Disorders of the Self",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008533/1",
+      "lead_applicant": "Emily Katharine Grabham",
+      "lead_organisation": "University of Kent",
+      "title": "Regulating Time: New Perspectives on Regulation, Law and Temporalities",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006379/1",
+      "lead_applicant": "Monica Degen",
+      "lead_organisation": "Brunel University London",
+      "title": "Sensory Cities: researching, representing and curating sensory-emotional landscapes of urban environments",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005739/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004252/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004783/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008002/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005313/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00399X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006557/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008053/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00807X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006301/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005879/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Networking Moderation September 2014",
+  "source": "Networking Moderation September 2014.xlsx",
+  "meeting_start": "2014-09",
+  "meeting_end": "2014-09"
+}

@@ -1,0 +1,221 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendanceTFSApplications/PanelSelectPage",
+  "meeting_name": "AHRC responsive mode: Standard Research Grant May 2024 panel",
+  "applications": [
+    {
+      "application_id": "18617",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "25195",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "18606",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "4"
+    },
+    {
+      "application_id": "17049",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "16036",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "21446",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "18618",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "18650",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "14729",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "21346",
+      "title": "Historic Houses, Global Crossroads: Revisioning Two Northern Ireland Historic Houses and Estates",
+      "score": "9",
+      "outcome": "Successful",
+      "lead_applicant": "Joy Porter",
+      "lead_organisation": "University of Birmingham",
+      "rank": "1"
+    },
+    {
+      "application_id": "19758",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "20250",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "18900",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "19831",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "18936",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "14181",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "20743",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    },
+    {
+      "application_id": "18655",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "10"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Unknown",
+      "organisation": "Unknown",
+      "role": ""
+    },
+    {
+      "name": "Melinda Haunton",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Rosa Freedman",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "Syed Towheed",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Gavin Miller",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "James Stark",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jon Pigott",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Olatunji Ogunyemi",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Raffaella Folli",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Yang Jiang",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

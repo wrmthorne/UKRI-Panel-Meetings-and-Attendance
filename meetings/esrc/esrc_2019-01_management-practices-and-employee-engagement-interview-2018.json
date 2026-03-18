@@ -1,0 +1,114 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "17",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S012796/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S012788/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S012729/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S012737/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S012648/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012702/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012818/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012834/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012664/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012680/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012672/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S01277X/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012850/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012656/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012699/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012761/1"
+    },
+    {
+      "opportunity": "MP-EE 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S012842/1"
+    }
+  ],
+  "meeting_name": "Management Practices and Employee Engagement Interview 2018",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-01",
+  "meeting_end": "2019-01"
+}

@@ -1,0 +1,179 @@
+{
+  "council": "NERC",
+  "count_of_applications": "34",
+  "count_of_awards": "10",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P014844/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P014909/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P014941/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P01495X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P014976/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P015050/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P014992/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P015093/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P015107/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P015042/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014852/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014933/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015174/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014925/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015131/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015018/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014887/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015158/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014917/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014895/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015166/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P01514X/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015085/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015077/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015069/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015034/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015026/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P01500X/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014860/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014968/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015123/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014984/1",
+      "rank": "30"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P014879/1",
+      "rank": "33"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P015115/1",
+      "rank": "34"
+    }
+  ],
+  "meeting_name": "Understanding the Pathways to and Impacts of a 1.5°C Rise in Global Temperature Lead Grant",
+  "source": "Understanding the Pathways to and Impacts of a 1.5C Rise in Global Temperature - outcomes.pdf"
+}

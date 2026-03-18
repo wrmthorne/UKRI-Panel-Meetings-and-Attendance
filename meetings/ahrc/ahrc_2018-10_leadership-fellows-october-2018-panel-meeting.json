@@ -1,0 +1,149 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "20",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S002634/1",
+      "lead_applicant": "Grace Huxford",
+      "lead_organisation": "University of Bristol",
+      "title": "British Military Bases in Germany: Living with the Cold War and its Legacies, 1945-2000",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S002545/1",
+      "lead_applicant": "Ruth Livesey",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Provincialism: Literature and the Cultural Politics of Middleness in Nineteenth Century Britain",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S00212X/1",
+      "lead_applicant": "Melanie Klinkner",
+      "lead_organisation": "Bournemouth University",
+      "title": "Protecting Mass Graves to advance Truth and Justice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R01454X/1",
+      "lead_applicant": "Anamik Saha",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Rethinking Diversity in Publishing: A Cultural Industries Perspective",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001972/1",
+      "lead_applicant": "Sophia Labadi",
+      "lead_organisation": "University of Kent",
+      "title": "Rethinking Heritage for Development: International Framework, Local Impacts",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S001247/1",
+      "lead_applicant": "Leanne Dawson",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Working-Class LGBTQ+ Representation in British Cinema",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S001883/1",
+      "lead_applicant": "Harriet Atkinson",
+      "lead_organisation": "University of Brighton",
+      "title": "\"The Materialisation of Persuasion\": Modernist Exhibitions in Britain for Propaganda and Resistance, 1933 to 1953",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S002464/1",
+      "lead_applicant": "Aditi Nafde",
+      "lead_organisation": "Newcastle University",
+      "title": "Manuscripts after Print c.1450-1550 (MaP): Producing and Reading Books during Technological Change",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S00193X/1",
+      "lead_applicant": "Joao Florencio",
+      "lead_organisation": "University of Exeter",
+      "title": "Masculinity and the Ethics of Porosity in 'Post-AIDS' Gay Porn",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003312/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002111/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002650/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001344/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002677/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001190/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001697/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001956/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002413/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003096/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004785/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, October 2018 panel meeting",
+  "source": "Leadership Fellows Panel, October 2018 Meeting.xlsx",
+  "meeting_start": "2018-10",
+  "meeting_end": "2018-10"
+}

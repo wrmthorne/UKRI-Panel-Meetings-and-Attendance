@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Laura Deeprose",
+  "panellists": [
+    {
+      "name": "Katie Wheat",
+      "role": "Chair",
+      "organisation": "Vitae"
+    },
+    {
+      "name": "Jennifer Anderson",
+      "role": "Member",
+      "organisation": "MRC"
+    },
+    {
+      "name": "Tracy Davies",
+      "role": "Member",
+      "organisation": "ESRC"
+    },
+    {
+      "name": "Rob Hardwick",
+      "role": "Member",
+      "organisation": "BBSRC"
+    },
+    {
+      "name": "Pauline Huet",
+      "role": "Member",
+      "organisation": "Mitacs"
+    },
+    {
+      "name": "Ian Stanton",
+      "role": "Member",
+      "organisation": "AHRC"
+    },
+    {
+      "name": "Katie Tearall",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Christina Turner",
+      "role": "Member",
+      "organisation": "EPSRC"
+    },
+    {
+      "name": "Maggie Wilson",
+      "role": "Member",
+      "organisation": "STFC"
+    }
+  ],
+  "meeting_name": "Globalink Research Placements DEC19",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-GlobalinkResearchPlacements-121219.pdf",
+  "meeting_start": "2020-01-28",
+  "meeting_end": "2020-01-29"
+}

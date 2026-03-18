@@ -1,0 +1,94 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN505",
+  "meeting_name": "OPP 139 EPSRC Mathematical Sciences Fellowship Interview Panel June 2024 - Open Fellowship",
+  "meeting_convenor": "E Foxell",
+  "applications": [
+    {
+      "application_id": "APP14429",
+      "title": "Higher-Order Stability Through the Regularity Lens",
+      "lead_organisation": "University of Cambridge",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1166286.08",
+      "award_id": "EP/Z53352X/1",
+      "opportunity_number": "139",
+      "lead_applicant": "J Wolf",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ53352X%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP7346",
+      "title": "A new theory of dimension interpolation",
+      "lead_organisation": "University of St Andrews",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "1487240.03",
+      "award_id": "EP/Z533440/1",
+      "opportunity_number": "139",
+      "lead_applicant": "J Fraser",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533440%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP12191",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "139",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP5559",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "139",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Currie",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "H Abban",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "E Hunsicker",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "D Loughran",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "B Straughan",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-06-24",
+  "meeting_end": "2024-06-24"
+}

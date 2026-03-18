@@ -1,0 +1,660 @@
+{
+  "council": "NERC",
+  "count_of_applications": "91",
+  "count_of_awards": "21",
+  "year": "2017",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R007489/1",
+      "rank": "1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R008183/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R007845/1",
+      "rank": "3"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008094/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007624/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008159/1",
+      "rank": "6"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007454/1",
+      "rank": "7"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007357/1",
+      "rank": "8"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008574/1",
+      "rank": "9"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008701/1",
+      "rank": "10"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008485/1",
+      "rank": "11"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007608/1",
+      "rank": "12"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007853/1",
+      "rank": "13"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007497/1",
+      "rank": "14"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007233/1",
+      "rank": "15"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008531/1",
+      "rank": "16"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008191/1",
+      "rank": "17"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007861/1",
+      "rank": "18"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007888/1",
+      "rank": "19"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R009724/1",
+      "rank": "20"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008140/1",
+      "rank": "21"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007578/1",
+      "rank": "22"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007780/1",
+      "rank": "23"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008493/1",
+      "rank": "24"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008019/1",
+      "rank": "25"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007217/1",
+      "rank": "26"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008078/1",
+      "rank": "27"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00840X/1",
+      "rank": "28"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007896/1",
+      "rank": "29"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007543/1",
+      "rank": "30"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008086/1",
+      "rank": "31"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007977/1",
+      "rank": "32"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008736/1",
+      "rank": "33"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00806X/1",
+      "rank": "34"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008302/1",
+      "rank": "35"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00823X/1",
+      "rank": "36"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008418/1",
+      "rank": "37"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007276/1",
+      "rank": "38"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008507/1",
+      "rank": "39"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00739X/1",
+      "rank": "40"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008760/1",
+      "rank": "41"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00787X/1",
+      "rank": "43"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007802/1",
+      "rank": "44"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R006717/1",
+      "rank": "45"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008566/1",
+      "rank": "46"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008728/1",
+      "rank": "47"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007926/1",
+      "rank": "48"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008000/1",
+      "rank": "49"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008647/1",
+      "rank": "50"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008752/1",
+      "rank": "51"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007616/1",
+      "rank": "52"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007705/1",
+      "rank": "53"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R006679/1",
+      "rank": "54"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00837X/1",
+      "rank": "55"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007985/1",
+      "rank": "56"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008442/1",
+      "rank": "57"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008221/1",
+      "rank": "58"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008744/1",
+      "rank": "59"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008477/1",
+      "rank": "60"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008027/1",
+      "rank": "61"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007950/1",
+      "rank": "62"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007055/1",
+      "rank": "63"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007918/1",
+      "rank": "64"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R006806/1",
+      "rank": "65"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008663/1",
+      "rank": "66"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008639/1",
+      "rank": "67"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008167/1",
+      "rank": "68"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008396/1",
+      "rank": "69"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011672/1",
+      "rank": "70"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R006644/1",
+      "rank": "71"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008132/1",
+      "rank": "72"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007284/1",
+      "rank": "73"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008310/1",
+      "rank": "74"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008280/1",
+      "rank": "75"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007225/1",
+      "rank": "76"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008523/1",
+      "rank": "77"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00868X/1",
+      "rank": "78"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007721/1",
+      "rank": "79"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00854X/1",
+      "rank": "80"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007748/1",
+      "rank": "81"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007691/1",
+      "rank": "82"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00725X/1",
+      "rank": "83"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007969/1",
+      "rank": "84"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007942/1",
+      "rank": "85"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008450/1",
+      "rank": "86"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007381/1",
+      "rank": "87"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007470/1",
+      "rank": "88"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008426/1",
+      "rank": "89"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007829/1",
+      "rank": "90"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008515/1",
+      "rank": "91"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008035/1",
+      "rank": "92"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ewan Hunter The",
+      "role": "Chair",
+      "organisation": "Centre for Environment, Fisheries"
+    },
+    {
+      "name": "Andrew",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Sweetman",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Isabella Capellini",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Zoe Davies",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Carlos Garcia de Leaniz",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Jason Hall-Spencer",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Jacqueline Hannam",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Peter",
+      "role": "Member",
+      "organisation": "(Partap) Hooda Kingston University"
+    },
+    {
+      "name": "Michael Larkin",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "David Lee",
+      "role": "Member",
+      "organisation": "University of South Wales"
+    },
+    {
+      "name": "Stephen Martin",
+      "role": "Member",
+      "organisation": "University of Salford"
+    },
+    {
+      "name": "Suzanne McGowan",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Anne Robertson",
+      "role": "Member",
+      "organisation": "University of Roehampton"
+    },
+    {
+      "name": "Ilik Saccheri",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Stephen Willis",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Emma Johnston",
+      "role": "Member",
+      "organisation": "(Senior Programme Manager, Panel Secretary)"
+    },
+    {
+      "name": "Vicki Durbridge",
+      "role": "Member",
+      "organisation": "(Senior Programme Manager, Research Careers)"
+    },
+    {
+      "name": "Aaron Hughes",
+      "role": "Member",
+      "organisation": "(Programme Manager, Research Careers)"
+    },
+    {
+      "name": "Eve Scaplehorn",
+      "role": "Member",
+      "organisation": "(Assistant Programme Manager, Research Careers)"
+    }
+  ],
+  "meeting_name": "Industrial CASE Studentship Competition - Panel A (Biological) 2017 Grant",
+  "source": "NERC-061021-IndustrialCASEStudentships-PanelABiological-FundingOutcomes-2017-1.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2017/Industrial CASE 2017 Meeting.pdf",
+  "meeting_start": "2017-10-03",
+  "meeting_end": "2017-10-04"
+}

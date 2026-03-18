@@ -1,0 +1,18 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "ESRC British Election Study",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S015671/1"
+    }
+  ],
+  "meeting_name": "ESRC British Election Study 2019 Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-03",
+  "meeting_end": "2019-03"
+}

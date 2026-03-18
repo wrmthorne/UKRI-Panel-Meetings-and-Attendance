@@ -1,0 +1,90 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "13",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005348/1",
+      "lead_applicant": "Paul Rodgers",
+      "lead_organisation": "Northumbria University",
+      "title": "Designing Innovative Interventions with People Living with Dementia",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005445/1",
+      "lead_applicant": "Lucy Kimbell",
+      "lead_organisation": "University of Brighton",
+      "title": "Co-designing an evaluation framework for design in the context of policy",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005399/1",
+      "lead_applicant": "Marco Aurisicchio",
+      "lead_organisation": "Imperial College London",
+      "title": "Design of Orthopaedic surgery Services (DOSE)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005364/1",
+      "lead_applicant": "Catherine Stones",
+      "lead_organisation": "University of Leeds",
+      "title": "Innovating Infographics in Public Health",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005453/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00547X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005380/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005402/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005410/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005283/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005372/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005461/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005305/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Design Research Fellowships, June 2014",
+  "source": "Design Research Fellowships June 2014.xlsx",
+  "meeting_start": "2014-06",
+  "meeting_end": "2014-06"
+}

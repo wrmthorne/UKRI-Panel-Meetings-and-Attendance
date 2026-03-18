@@ -1,0 +1,68 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-964144508",
+  "meeting_name": "DN Programme Coordinator Apr 23",
+  "applications": [
+    {
+      "application_id": "AH/Y001710/1",
+      "route": "Standard",
+      "lead_applicant": "Stephen James Thompson",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Institute of Development Studies",
+      "title": "Disability Inclusive Sustainable Global Development Networking awards Cohort Coordinator",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001737/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "2",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001753/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001729/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Nora Groce",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Laura Dean",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Member"
+    },
+    {
+      "name": "Emmanuel Tsekleves",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-04-19",
+  "meeting_end": "2023-04-19"
+}

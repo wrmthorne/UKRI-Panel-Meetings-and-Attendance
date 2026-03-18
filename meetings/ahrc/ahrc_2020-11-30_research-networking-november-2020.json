@@ -1,0 +1,168 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-631734957",
+  "meeting_name": "Research Networking -  November 2020",
+  "applications": [
+    {
+      "application_id": "AH/V008331/1",
+      "route": "Standard",
+      "lead_applicant": "Eva Moreda Rodriguez",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Glasgow",
+      "title": "Rethinking Early Recordings as Sources of Music and Performance History",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008390/1",
+      "route": "Standard",
+      "lead_applicant": "Aseem Inam",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Cardiff University",
+      "title": "\"Designing Publics\" Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006827/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Elias",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Connected curricula: 'decolonising', de-centring and diversifying historical education in the UK",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006649/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Hugill",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leicester",
+      "title": "Aural Diversity Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004115/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006703/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008854/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008293/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00817X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003798/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004433/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004883/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008153/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008161/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010689/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Nicola Kerrie Shaughnessy",
+      "organisation": "University of Kent",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2020-11-30",
+  "meeting_end": "2020-11-30"
+}

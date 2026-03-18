@@ -1,0 +1,186 @@
+{
+  "council": "NERC",
+  "count_of_applications": "29",
+  "count_of_awards": "10",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000348/1",
+      "rank": "1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000291/1",
+      "rank": "1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000224/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000135/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000194/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000240/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000100/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000127/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000143/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S000186/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S000305/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S000178/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S000232/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S000275/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S00033X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000313/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000283/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000321/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000356/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000372/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000151/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000070/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000089/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000119/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S00016X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000208/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000216/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S000267/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S000364/1",
+      "rank": "9"
+    }
+  ],
+  "meeting_name": "Emerging Risks of Chemicals in the Environment January 2018",
+  "source": "Emerging Risks of Chemicals in the Environment - January 2018.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

@@ -1,0 +1,48 @@
+{
+  "council": "NERC",
+  "count_of_applications": "6",
+  "count_of_awards": "1",
+  "year": "2019",
+  "applications": [
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/T002182/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T002123/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T00214X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T002174/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T002131/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/T002158/1",
+      "rank": "4"
+    }
+  ],
+  "meeting_name": "Landscape Decisions Programme Coordination Team Rank",
+  "source": "Landscape Decisions PCT - February 2019.pdf",
+  "meeting_start": "2019",
+  "meeting_end": "2019"
+}

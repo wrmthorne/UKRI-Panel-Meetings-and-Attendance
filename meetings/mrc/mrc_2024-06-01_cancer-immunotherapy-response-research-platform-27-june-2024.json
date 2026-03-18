@@ -1,0 +1,27 @@
+{
+  "council": "MRC",
+  "count_of_applications": "3",
+  "count_of_awards": "0",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP35786"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP38143"
+    },
+    {
+      "score": "9",
+      "outcome": "Unsuccessful",
+      "application_id": "APP36019"
+    }
+  ],
+  "meeting_name": "Cancer Immunotherapy Response Research Platform 27 June 2024",
+  "source": "Cancer-Immunotherapy-Response-Research-Platform/MRC-261124-CancerImmunotherapyResponseResearchPlatformFundingDecisionsJune2024.xlsx",
+  "meeting_start": "2024-06-01",
+  "meeting_end": "2024-06-01"
+}

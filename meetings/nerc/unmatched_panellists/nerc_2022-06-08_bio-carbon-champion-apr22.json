@@ -1,0 +1,26 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Jessica Surma",
+  "panellists": [
+    {
+      "name": "Hilary Kennedy",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "David Paterson",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Carol Robinson",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    }
+  ],
+  "meeting_name": "BIO Carbon Champion APR22",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-19072022-BIO-Carbon-Champion-Interview-Panel-closing-date-28-April-2022.pdf",
+  "meeting_start": "2022-06-08",
+  "meeting_end": "2022-06-08"
+}

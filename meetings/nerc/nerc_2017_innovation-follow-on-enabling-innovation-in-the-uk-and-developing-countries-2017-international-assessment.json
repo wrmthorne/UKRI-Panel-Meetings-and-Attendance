@@ -1,0 +1,187 @@
+{
+  "council": "NERC",
+  "count_of_applications": "35",
+  "count_of_awards": "18",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009619/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009309/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009465/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009406/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009325/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R007675/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009139/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009481/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009392/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009597/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009589/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009376/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009430/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009317/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009333/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009031/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009201/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009546/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009643/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009627/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009600/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009449/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009236/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009473/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R009244/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R00949X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009570/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009252/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009511/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009074/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009562/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009503/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009414/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009287/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R009422/1",
+      "rank": "15"
+    }
+  ],
+  "meeting_name": "Innovation Follow-On: Enabling innovation in the UK and developing countries 2017 - International Assessment",
+  "source": "NERC-061021-InnovationFollowOn-EnablingInnovationInUKAndDevelopingCountries-Sep2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

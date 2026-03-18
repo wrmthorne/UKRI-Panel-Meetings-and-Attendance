@@ -1,0 +1,96 @@
+{
+  "council": "NERC",
+  "count_of_applications": "14",
+  "count_of_awards": "8",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S013288/1",
+      "rank": "1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S013237/1",
+      "rank": "1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S013210/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S013318/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S013296/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S013334/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S01330X/1",
+      "rank": "6"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S013245/1",
+      "rank": "7"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S013253/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S013261/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S013202/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S013229/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S01327X/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S013326/1",
+      "rank": "9"
+    }
+  ],
+  "meeting_name": "Peruvian Glacial Retreat Rank",
+  "source": "Peruvian Glacial Retreat - August 2018.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

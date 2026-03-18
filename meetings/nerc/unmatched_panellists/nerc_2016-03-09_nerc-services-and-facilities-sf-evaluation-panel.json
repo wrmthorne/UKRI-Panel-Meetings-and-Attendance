@@ -1,0 +1,60 @@
+{
+  "council": "NERC",
+  "meeting_location": "Medical Research Council, 1 Kemble St, London WC2B 4AN",
+  "panel_secretary": "Fiona Goff",
+  "panellists": [
+    {
+      "name": "John Brodholt",
+      "role": "Chair",
+      "organisation": "University College London"
+    },
+    {
+      "name": "John Davey",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Liam Kelly",
+      "role": "Member",
+      "organisation": "Scottish Government"
+    },
+    {
+      "name": "Paul Monks",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Susan Morrell",
+      "role": "Member",
+      "organisation": "EPSRC"
+    },
+    {
+      "name": "NERC Nicki Badcock",
+      "role": "Member"
+    },
+    {
+      "name": "NERC Liz Fellman",
+      "role": "Member"
+    },
+    {
+      "name": "NERC Fiona Goff",
+      "role": "Member"
+    },
+    {
+      "name": "NERC Michelle Manning",
+      "role": "Member"
+    },
+    {
+      "name": "NERC Andy Parsons",
+      "role": "Member"
+    },
+    {
+      "name": "NERC Will Thomas",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "NERC Services and Facilities (S&F) Evaluation Panel",
+  "source": "NERC-funding-assessment-panel-members-2016/Meeting List Template - Evaluation Panel May 2016.pdf",
+  "meeting_start": "2016-03-09",
+  "meeting_end": "2016-03-10"
+}

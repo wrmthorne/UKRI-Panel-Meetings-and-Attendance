@@ -1,0 +1,65 @@
+{
+  "council": "MRC",
+  "count_of_applications": "11",
+  "count_of_awards": "0",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 7 out of 24 applications did not pass an initial triage stage and were not considered further.",
+  "applications": [
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4803"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4476"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4567"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4809"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4583"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4589"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4835"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4754"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4649"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP6081"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP4949"
+    }
+  ],
+  "meeting_name": "Better Methods Better Research 22-23 November 2023",
+  "source": "Better-methods-better-research-previously-known-as/MRC-040624-Better-Methods-Better-Research-22-to-23-November-2023.xlsx"
+}

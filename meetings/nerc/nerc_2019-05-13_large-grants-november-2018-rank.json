@@ -1,0 +1,272 @@
+{
+  "council": "NERC",
+  "count_of_applications": "32",
+  "count_of_awards": "11",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "NE/S015647/1",
+      "rank": "1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "NE/S015566/1",
+      "rank": "1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "NE/S015574/1",
+      "rank": "1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "NE/S015582/1",
+      "rank": "1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "NE/S015604/1",
+      "rank": "1"
+    },
+    {
+      "score": "10",
+      "outcome": "Successful",
+      "application_id": "NE/S015698/1",
+      "rank": "1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S015833/1",
+      "rank": "2"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S015744/1",
+      "rank": "2"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S015868/1",
+      "rank": "3"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S015752/1",
+      "rank": "3"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/S015779/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015795/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015590/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015612/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015639/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015655/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015728/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015736/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/S015817/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S015671/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S015876/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S015884/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S015760/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S015701/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S015809/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S015787/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S01585X/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S015620/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S015663/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S01568X/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S01571X/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S015825/1",
+      "rank": "9"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ric Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Mark Allen",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "John Bothwell",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Jonathan Bull",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Dylan Childs",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Manoj Joshi",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Simon Neill",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Alex Poulton",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Ilik Saccheri",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Zongbo Shi",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Hilary Weller",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Kirsten Wolff",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Philip Wookey",
+      "role": "Member",
+      "organisation": "University of Sterling"
+    }
+  ],
+  "meeting_name": "Large Grants November 2018 Rank",
+  "source": "Large Grants - November 2018.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-LargeGrantsOutline-120319.pdf",
+  "meeting_start": "2019-05-13",
+  "meeting_end": "2019-05-14"
+}

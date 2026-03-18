@@ -1,0 +1,107 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "16",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N004132/1",
+      "lead_applicant": "Harriet Hawkins",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Creating Earth Futures: Exploring GeoHumanities Approaches to Global Environmental Change",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N004485/1",
+      "lead_applicant": "Toby Oliver Ray Green",
+      "lead_organisation": "King's College London",
+      "title": "Money, Slavery and Political Change in Precolonial West Africa",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N004299/1",
+      "lead_applicant": "Sarah Waters",
+      "lead_organisation": "University of Leeds",
+      "title": "Suicide Voices: Neoliberal Globalisation and Workplace Trauma",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N005740/1",
+      "lead_applicant": "Margherita Laera",
+      "lead_organisation": "University of Kent",
+      "title": "Translation, Adaptation, Otherness: 'Foreignisation' in Theatre Practice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N003888/1",
+      "lead_applicant": "Henrik Schoenefeldt",
+      "lead_organisation": "University of Kent",
+      "title": "Restoring the Palace of Westminster's nineteenth century ventilation system - Between Sustainability and Heritage",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N005856/1",
+      "lead_applicant": "Justin Jones",
+      "lead_organisation": "University of Oxford",
+      "title": "The enduring jurist: qazis, courts and living shari'a in modern India",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006941/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005783/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003004/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003233/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004604/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004116/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006100/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004183/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004531/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006860/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows Panel - December 2015",
+  "source": "Fellowships, December 2015 Meeting.xlsx",
+  "meeting_start": "2015-12",
+  "meeting_end": "2015-12"
+}

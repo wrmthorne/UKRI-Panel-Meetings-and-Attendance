@@ -1,0 +1,358 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-975303532",
+  "meeting_name": "FoF Commercialisation June 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y005813/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Lavender",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Guildhall School of Music and Drama",
+      "title": "ARray - An augmented reality and pre-visualisation tool for the costume industry",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005546/1",
+      "route": "Standard",
+      "lead_applicant": "James Baker",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Southampton",
+      "title": "Critical Cataloguing for Digital Preservation: a research commercialisation follow-on project",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005643/1",
+      "route": "Standard",
+      "lead_applicant": "Scott Douglas Thurston",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Salford",
+      "title": "Arts for the Blues: CPD training on safe uses of the arts to support mental health and wellbeing",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005775/1",
+      "route": "Standard",
+      "lead_applicant": "Aaron Williamon",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Royal College of Music",
+      "title": "Royal College of Music Performance VR",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y00566X/1",
+      "route": "Standard",
+      "lead_applicant": "Richard Madgwick",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Cardiff University",
+      "title": "Multi-isotope analysis in archaeology: Commercialising advances in AHRC-funded research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005783/1",
+      "route": "Standard",
+      "lead_applicant": "William Edward Higbee",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Exeter",
+      "title": "eXe : establishing an innovative and inclusive digital film distribution label",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005759/1",
+      "route": "Standard",
+      "lead_applicant": "Carly Ameen",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Exeter",
+      "title": "SHArD Enterprise Services",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005651/1",
+      "route": "Standard",
+      "lead_applicant": "Kai Yang",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Southampton",
+      "title": "Design and Manufacturing of E-textiles for Wearable Healthcare",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005767/1",
+      "route": "Standard",
+      "lead_applicant": "Duncan Hay",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "University College London",
+      "title": "Memory Mapper: Exploring Commercial Models for Digital Spatial Humanities Research Infrastructure",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005600/1",
+      "route": "Standard",
+      "lead_applicant": "Daniele Daniele Rugo",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "Brunel University London",
+      "title": "Community-led storytelling for Corporate Social Responsibility campaigns: centering communities experiences and maximising impact.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005724/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005740/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005805/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00583X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005732/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005570/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005678/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005821/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00552X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005686/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005554/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005562/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005589/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005627/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005635/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005694/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005708/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005716/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005791/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005848/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Edward Hobson",
+      "organisation": "Design Council",
+      "role": "Chair"
+    },
+    {
+      "name": "Abigail Gilmore",
+      "organisation": "The University of Manchester",
+      "role": "Moderator"
+    },
+    {
+      "name": "Bolanle Adebola",
+      "organisation": "University of Reading",
+      "role": "Moderator"
+    },
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Moderator"
+    },
+    {
+      "name": "Charlotte Waelde",
+      "organisation": "Falmouth University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Giorgio Fazio",
+      "organisation": "Newcastle University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Jonathan Morris",
+      "organisation": "University of Warwick",
+      "role": "Moderator"
+    },
+    {
+      "name": "Mia Perry",
+      "organisation": "University of Glasgow",
+      "role": "Moderator"
+    },
+    {
+      "name": "Robin James Stuart Sloan",
+      "organisation": "Abertay University",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2023-06-15",
+  "meeting_end": "2023-06-15"
+}

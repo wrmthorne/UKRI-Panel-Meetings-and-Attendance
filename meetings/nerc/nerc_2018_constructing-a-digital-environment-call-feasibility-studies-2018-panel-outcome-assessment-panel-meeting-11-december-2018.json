@@ -1,0 +1,143 @@
+{
+  "council": "NERC",
+  "count_of_applications": "22",
+  "count_of_awards": "6",
+  "year": "2018",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/S016155/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/S016244/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/S016236/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/S016104/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/S016066/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/S016163/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/S016309/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016120/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016058/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016147/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016112/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016260/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016252/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S016279/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S016228/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S01618X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S016090/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S016074/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S016171/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "649",
+      "application_id": "NE/S016139/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "53",
+      "application_id": "NE/S016201/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "42",
+      "application_id": "NE/S01621X/1",
+      "rank": "13"
+    }
+  ],
+  "meeting_name": "Constructing a Digital Environment Call (Feasibility Studies) 2018 – Panel Outcome (Assessment Panel Meeting, 11 December 2018, London)",
+  "source": "Digital Environment Call 1 Panel Outcomes.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

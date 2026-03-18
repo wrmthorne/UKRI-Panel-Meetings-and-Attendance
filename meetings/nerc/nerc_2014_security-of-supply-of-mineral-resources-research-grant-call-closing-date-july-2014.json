@@ -1,0 +1,62 @@
+{
+  "council": "NERC",
+  "count_of_applications": "10",
+  "count_of_awards": "4",
+  "year": "2014",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M010848/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M011429/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M011488/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M011593/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M011437/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M011143/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M01178X/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M011178/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M01150X/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M011186/1",
+      "rank": "8"
+    }
+  ],
+  "meeting_name": "Security of Supply of Mineral Resources Research Grant call – closing date July 2014",
+  "source": "mineral-resources-outcomes.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

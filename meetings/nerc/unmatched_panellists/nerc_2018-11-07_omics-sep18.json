@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Held via Teleconference",
+  "panel_secretary": "Beth Taylor",
+  "panellists": [
+    {
+      "name": "Peter Kille - Chair",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Ioanna Katsiadaki",
+      "role": "Member",
+      "organisation": "Centre for Env Fisheries Aqua Sci CEFAS"
+    },
+    {
+      "name": "Danielle Ashton Environment",
+      "role": "Member",
+      "organisation": "Agency"
+    },
+    {
+      "name": "James Prosser",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Thomas Meagher",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Felix Forest Royal Botanic",
+      "role": "Member",
+      "organisation": "Gardens Kew"
+    }
+  ],
+  "meeting_name": "Omics SEP18",
+  "source": "NERC-funding-assessment-panel-members-2018/Panel Membership - OMICS SEP18 Assessment Panel.pdf",
+  "meeting_start": "2018-11-07",
+  "meeting_end": "2018-11-07"
+}

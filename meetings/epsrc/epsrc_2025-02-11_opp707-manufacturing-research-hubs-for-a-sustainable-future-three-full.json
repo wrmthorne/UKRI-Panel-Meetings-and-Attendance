@@ -1,0 +1,197 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN930",
+  "meeting_name": "OPP707 : Manufacturing Research Hubs for a Sustainable Future Three : Full ",
+  "meeting_convenor": "M Tarplee",
+  "applications": [
+    {
+      "application_id": "APP55750",
+      "title": "The Carbon-Loop Sustainable Biomanufacturing Hub",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "12084972.23",
+      "award_id": "UKRI1891",
+      "opportunity_number": "707",
+      "lead_applicant": "S Wallace",
+      "link": "https://gtr.ukri.org/projects?ref=1891",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP54870",
+      "title": "Co-AIMS: Research Hub on Collaborative AI for Manufacturing Sustainability",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "12073176.76",
+      "award_id": "UKRI1890",
+      "opportunity_number": "707",
+      "lead_applicant": "N Lohse",
+      "link": "https://gtr.ukri.org/projects?ref=1890",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP57015",
+      "title": "IGNITE - Indigenous Green-steel for Net-zero Innovation, Technology and Enterprise",
+      "lead_organisation": "Swansea University",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "12152915.72",
+      "award_id": "UKRI1893",
+      "opportunity_number": "707",
+      "lead_applicant": "C Pleydell Pearce",
+      "link": "https://gtr.ukri.org/projects?ref=1893",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP56583",
+      "title": "EPSRC Manufacturing Research Hub for a Sustainable Future in Engineering Plastics",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "12027933.86",
+      "award_id": "UKRI1892",
+      "opportunity_number": "707",
+      "lead_applicant": "T Peijs",
+      "link": "https://gtr.ukri.org/projects?ref=1892",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP55718",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP53612",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP53431",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP56457",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP57643",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP58037",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    },
+    {
+      "application_id": "APP54503",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "707",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Manufacturing research hubs for a sustainable future three: full stage"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Smowton",
+      "role": "Chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "J Schooling",
+      "role": "Deputy chair",
+      "organisation": "Anglia Ruskin University"
+    },
+    {
+      "name": "R Hardeman",
+      "role": "Panellist",
+      "organisation": "Independant"
+    },
+    {
+      "name": "E Lurie-Luke",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "H Makatsoris",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "I Reid",
+      "role": "Panellist",
+      "organisation": "Trace Element Associates Ltd"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-02-11",
+  "meeting_end": "2025-02-11"
+}

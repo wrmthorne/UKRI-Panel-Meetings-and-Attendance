@@ -1,0 +1,267 @@
+{
+  "council": "MRC",
+  "count_of_applications": "51",
+  "count_of_awards": "14",
+  "notes": "Please note this Panel scored based on the AHRC scoring system of 1 - 6\n\nProposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 4 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. It is not valid to make comparisons across different Board Panel meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024286/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Successful",
+      "application_id": "MR/R024278/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024243/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L016737/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024324/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Successful",
+      "application_id": "MR/R024405/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024332/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L016796/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024448/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Successful",
+      "application_id": "MR/R024502/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024340/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L016834/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024480/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Successful",
+      "application_id": "MR/R024723/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024375/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L017393/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024510/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Successful",
+      "application_id": "MR/R024731/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024391/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L017466/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024553/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024383/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024421/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/L017784/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024596/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024294/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R02443X/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024251/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024618/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024359/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024456/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024316/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "MR/R024693/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024413/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024529/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024367/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024537/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R02457X/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024499/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024545/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024588/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024561/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024642/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R02460X/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024707/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024766/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024626/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R02474X/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024634/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024650/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/R024685/1"
+    }
+  ],
+  "meeting_name": "GCRF - MRC/AHRC Global Public Health Call 13 December 2017",
+  "source": "Global-Challenges-Research-Fund-GCRF/MRC-AHRC-GCRFGlobalPublicHealthPartnershipAwards-13December2017.xlsx",
+  "meeting_start": "2017-12-13",
+  "meeting_end": "2017-12-13"
+}

@@ -1,0 +1,368 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-926038471",
+  "meeting_name": "ECR Fellowships in GLAM 30/03/2023",
+  "applications": [
+    {
+      "application_id": "AH/Y004299/1",
+      "route": "Standard",
+      "lead_applicant": "Aparajita Mukhopadhyay",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Royal Botanic Gardens Kew",
+      "title": "Mediating Imperial Science: Economic Botany and Agrarian Ecology in Colonial South Asia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005325/1",
+      "route": "Standard",
+      "lead_applicant": "Thupten Kelsang",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Reanimating Tibetan Heritage: Transforming collections, Empowering communities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005406/1",
+      "route": "Standard",
+      "lead_applicant": "Jennifer Rachel Morris",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "The British Museum",
+      "title": "Interpreting Borneo in Britain: Interrogating the colonial legacy of the Charles Hose collections in British museums",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005295/1",
+      "route": "Standard",
+      "lead_applicant": "Sophia Nicolov",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "The Natural History Museum",
+      "title": "Cetacean (Re)Sources: Reconnecting London's Natural History Museum cetacean specimens with the legacies of empire and whaling",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y002563/1",
+      "route": "Standard",
+      "lead_applicant": "Ann-Marie Foster",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "Imperial War Museums",
+      "title": "Accessible Pasts, Equitable Futures",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y004922/1",
+      "route": "Standard",
+      "lead_applicant": "Audrey Jaye Scardina",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "Historic Environment Scotland",
+      "title": "The Historic Environment as an agent of change in the climate emergency: a community-centred approach",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y00518X/1",
+      "route": "Standard",
+      "lead_applicant": "Marleen Boschen",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Royal Botanic Gardens Kew",
+      "title": "Future Ecologies of Art: Exploring Kew as a site for past, present and future artistic collaborations",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005228/1",
+      "route": "Standard",
+      "lead_applicant": "Sion Parkinson",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Royal Botanic Garden Edinburgh",
+      "title": "Fragrance in the Fungarium: Capturing Heritage Scents of Mushrooms and Mycological Art",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y005147/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005341/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005155/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005260/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00521X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005279/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005171/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004582/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005198/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005392/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005252/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005201/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005139/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005236/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004728/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005317/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004590/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005244/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y004337/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005309/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005287/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y005368/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jane Pavitt",
+      "organisation": "Zaha Hadid Foundation",
+      "role": "Chair"
+    },
+    {
+      "name": "Andrew Peter Seaman",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Anoush Simon",
+      "organisation": "Aberystwyth University",
+      "role": "Member"
+    },
+    {
+      "name": "Claire Wintle",
+      "organisation": "University of Brighton",
+      "role": "Member"
+    },
+    {
+      "name": "Helle Jorgensen",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Karen Patel",
+      "organisation": "City of Bristol College",
+      "role": "Member"
+    },
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "M. Satish Kumar",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Robert Harry Knifton",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Judy Burg",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "David Harvey",
+      "organisation": "Aarhus University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-09-18",
+  "meeting_end": "2023-09-18"
+}

@@ -1,0 +1,60 @@
+{
+  "council": "BBSRC",
+  "year": "2020",
+  "count_of_applications": "12",
+  "count_of_awards": "12",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018566/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018523/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018337/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018647/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V01840X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018930/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V01868X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018450/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018779/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018817/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018558/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/V018477/1"
+    }
+  ],
+  "meeting_name": "Awarded Research Grants Bioinformatics Biological Resources Fund2020",
+  "source": "awarded_grants/BBSRC-021224-AwardedResearchGrantsBioinformaticsBiologicalResourcesFund2020.xlsx",
+  "meeting_start": "2020",
+  "meeting_end": "2020"
+}

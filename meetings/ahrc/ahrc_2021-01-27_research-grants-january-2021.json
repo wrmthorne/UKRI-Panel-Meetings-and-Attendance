@@ -1,0 +1,333 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-593521231",
+  "meeting_name": "Research Grants - January 2021",
+  "applications": [
+    {
+      "application_id": "AH/V013033/1",
+      "route": "Standard",
+      "lead_applicant": "Geert De Wilde",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Revision of the Anglo-Norman Dictionary (Letters T-Z)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010123/1",
+      "route": "Standard",
+      "lead_applicant": "Philip Vincent Murphy",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of London",
+      "title": "The Windrush Scandal in a trans-national and Commonwealth context",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011111/1",
+      "route": "Standard",
+      "lead_applicant": "Alison May Lumsden",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Aberdeen",
+      "title": "The Edinburgh Edition of Walter Scott's Poetry: Engaging New Audiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004999/1",
+      "route": "Standard",
+      "lead_applicant": "Magnus Murray Marsden",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Sussex",
+      "title": "The Afterlives of Urban Muslim Asia: Alternative Imaginaries of Society and Polity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011251/1",
+      "route": "Standard",
+      "lead_applicant": "Sally Faulkner",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Exeter",
+      "title": "Invisibles e insumisas / Invisi'veis e insubmissas: Leading Women in Portuguese and Spanish Cinema and Television, 1970-1980",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V007149/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011197/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011227/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010182/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011014/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011065/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011464/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010158/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010077/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012681/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012846/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010948/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008919/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T01220X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T01265X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009990/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012754/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013181/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008226/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V007009/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01093X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006258/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011006/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Neil Forbes",
+      "organisation": "Falmouth University",
+      "role": "Chair"
+    },
+    {
+      "name": "Alex Goody",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Thomas Walters",
+      "organisation": "Institute of Cancer Research",
+      "role": "Member"
+    },
+    {
+      "name": "Brett Mills",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "James Marcel Hegarty",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Janet Ulph",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Mavluda Sattorova",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Noha Mellor",
+      "organisation": "University of Sharjah",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-27",
+  "meeting_end": "2021-01-27"
+}

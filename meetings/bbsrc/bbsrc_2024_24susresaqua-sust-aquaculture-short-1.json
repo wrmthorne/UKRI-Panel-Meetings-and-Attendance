@@ -1,0 +1,28 @@
+{
+  "council": "BBSRC",
+  "year": "2024",
+  "count_of_applications": "4",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "APP31792"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP40035"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP34799"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP33647"
+    }
+  ],
+  "meeting_name": "24SUSRESAQUA Sust Aquaculture short 1",
+  "source": "awarded_grants/BBSRC-160425-24SUSRESAQUA_SustAquaculture_awarded-grants-short-1.xlsx",
+  "meeting_start": "2024",
+  "meeting_end": "2024"
+}

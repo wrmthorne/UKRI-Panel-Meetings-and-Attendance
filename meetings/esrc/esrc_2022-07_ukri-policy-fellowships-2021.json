@@ -1,0 +1,588 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "96",
+  "count_of_awards": "22",
+  "applications": [
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W008548/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W008335/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W008122/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W008955/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W008696/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W008912/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008262/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W00822X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008718/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008513/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008467/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008998/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008939/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008114/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008815/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008440/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008831/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W009072/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W007940/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008726/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008734/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/W008416/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009099/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00867X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008211/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008572/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008378/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008424/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008165/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008823/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008300/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008289/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008351/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009064/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W007916/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009110/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008971/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008432/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008394/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008580/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00903X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W007975/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00819X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008750/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008769/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008297/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009080/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008610/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008505/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00853X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009005/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009013/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00898X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009048/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009056/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008777/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008173/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008157/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008149/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008254/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008246/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008661/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008521/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008459/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008483/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008491/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008408/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008386/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008629/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008556/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008564/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008599/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008327/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W009102/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008793/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008866/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008882/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008890/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008920/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008874/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00884X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008807/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008319/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008270/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008602/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008203/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008785/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008947/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008858/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008904/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008688/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008963/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008653/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008645/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00836X/1"
+    },
+    {
+      "opportunity": "ESRC Policy Fellowships",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008637/1"
+    }
+  ],
+  "meeting_name": "UKRI Policy Fellowships 2021",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-07",
+  "meeting_end": "2022-07"
+}

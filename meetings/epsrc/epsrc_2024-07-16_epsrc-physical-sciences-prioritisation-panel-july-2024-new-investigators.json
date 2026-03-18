@@ -1,0 +1,122 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN539",
+  "meeting_name": "EPSRC Physical Sciences Prioritisation Panel July 2024 - New Investigators",
+  "meeting_convenor": "A Kumar",
+  "applications": [
+    {
+      "application_id": "APP16100",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "136",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, May 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Reid",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "V Falko",
+      "role": "Deputy chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "D Arnold",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "J Barker",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Q Cai",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "S Cochrane",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "K Coleman",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "I Cullis",
+      "role": "Panellist",
+      "organisation": "Qinetiq (United Kingdom)"
+    },
+    {
+      "name": "D Diver",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "R Douthwaite",
+      "role": "Panellist",
+      "organisation": "University of York"
+    },
+    {
+      "name": "J Dunningham",
+      "role": "Panellist",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "M Jones",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "B Li",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "F Palombo",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "S Robson",
+      "role": "Panellist",
+      "organisation": "UK Research and Innovation"
+    },
+    {
+      "name": "S Sangtarash",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "R Seviour",
+      "role": "Panellist",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "P Topham",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "J Weinstein",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-16",
+  "meeting_end": "2024-07-16"
+}

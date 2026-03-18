@@ -1,0 +1,244 @@
+{
+  "council": "BBSRC",
+  "year": "2023",
+  "count_of_applications": "23",
+  "count_of_awards": "23",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "8322"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "9060"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "11677"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "12079"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "12189"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "12208"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "13103"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "13897"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "14966"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "15249"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "15528"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "15533"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "15782"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "15947"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "16304"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "16809"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "17315"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "17528"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "18674"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "18702"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "19080"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "19245"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "19273"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Richard Emes Nottingham Trent",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Lucia Marucci",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Gail McConnell",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Rachel Errington",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Steven Cobb",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Rasmus Petersen",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Franca Fraternali",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Smita Kurup",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Corinne Smith",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Thomas Krauss",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Paulo Prodohl",
+      "role": "Member",
+      "organisation": "Queens University Belfast"
+    },
+    {
+      "name": "Michael Pound",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Ian Simpson",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Robert Pal",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Emma Laing",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Martyn Winn",
+      "role": "Member",
+      "organisation": "STFC"
+    },
+    {
+      "name": "Sarah Bennett",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Alex Laude",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Munehiro Asally",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Andrew Filby",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Lewis MacKenzie",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Joanna Sadler",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Jack Rowbotham",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Matthew Cliff",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Jemima Burden",
+      "role": "Member",
+      "organisation": "UCL"
+    },
+    {
+      "name": "Jamie Twycross",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Ilias Kyriazakis",
+      "role": "Member",
+      "organisation": "Queens University Belfast"
+    }
+  ],
+  "membership_source_files": [
+    "membership/BBSRC-130524-TransformativeResearchTechnologies2023PanelMembership.pdf"
+  ],
+  "meeting_name": "2023 Transformative Research Technologies",
+  "source": "awarded_grants/BBSRC-190824-BBSRC-AwardedGrants2023-TransformativeResearchTechnologies.xlsx",
+  "meeting_start": "2023",
+  "meeting_end": "2023"
+}

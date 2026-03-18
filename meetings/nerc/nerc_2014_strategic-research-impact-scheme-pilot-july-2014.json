@@ -1,0 +1,60 @@
+{
+  "council": "NERC",
+  "count_of_applications": "8",
+  "count_of_awards": "3",
+  "year": "2014",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/M007766/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007731/1",
+      "rank": "2"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M00693X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/M007774/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/M007464/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/M00774X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/M007723/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/M007758/1",
+      "rank": "8"
+    }
+  ],
+  "meeting_name": "Strategic Research Impact Scheme – Pilot, July 2014",
+  "source": "sris.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

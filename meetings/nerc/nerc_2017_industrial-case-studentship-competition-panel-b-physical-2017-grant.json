@@ -1,0 +1,257 @@
+{
+  "council": "NERC",
+  "count_of_applications": "49",
+  "count_of_awards": "14",
+  "year": "2017",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R007527/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R008116/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R007772/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R007632/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/R008590/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007640/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007667/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007810/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007268/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007934/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R006687/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008469/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R007586/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/R008612/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00756X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007551/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007462/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007683/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007837/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008809/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00773X/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008345/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007764/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008787/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007365/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007713/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008108/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007519/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008124/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008272/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008604/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008388/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007659/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008213/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007535/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008361/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007349/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008434/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007306/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008655/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008051/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008175/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007292/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008205/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008337/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R007500/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008299/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008248/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R008264/1"
+    }
+  ],
+  "meeting_name": "Industrial CASE Studentship Competition - Panel B (Physical) 2017 Grant",
+  "source": "NERC-061021-IndustrialCASEStudentships-PanelBPhysical-FundingOutcomes-2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

@@ -1,0 +1,67 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1137",
+  "meeting_name": "OPP 297 - EPSRC Mathematical Sciences Prioritisation Panel Apr 2025 - Open Fellowships",
+  "meeting_convenor": "R Williams",
+  "applications": [
+    {
+      "application_id": "APP45353",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "297",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "E Crooks",
+      "role": "Chair",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "A Braun",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "A Brooke-Taylor",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "L Dembélé",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "L Dyson",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "A Johansen",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "J Potts",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "H Wilton",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-09",
+  "meeting_end": "2025-04-09"
+}

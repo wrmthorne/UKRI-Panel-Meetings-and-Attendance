@@ -1,0 +1,249 @@
+{
+  "council": "NERC",
+  "count_of_applications": "29",
+  "count_of_awards": "6",
+  "year": "2017",
+  "applications": [
+    {
+      "score": "1",
+      "outcome": "Successful",
+      "application_id": "NE/R016801/1"
+    },
+    {
+      "score": "1",
+      "outcome": "Successful",
+      "application_id": "NE/R01664X/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Successful",
+      "application_id": "NE/R016704/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Successful",
+      "application_id": "NE/R016739/1"
+    },
+    {
+      "score": "2",
+      "outcome": "Successful",
+      "application_id": "NE/R016712/1"
+    },
+    {
+      "score": "3",
+      "outcome": "Successful",
+      "application_id": "NE/R016860/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016909/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016895/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016852/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016879/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016828/1"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016720/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016844/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R01678X/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016690/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016658/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016631/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016836/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R01681X/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016623/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016666/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016674/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016771/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016755/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016747/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016763/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016798/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016682/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R016887/1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ric Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Peter Bechtold European",
+      "role": "Member",
+      "organisation": "Centre for Medium-Range"
+    },
+    {
+      "name": "Weather Forecasts",
+      "role": "Member"
+    },
+    {
+      "name": "Grant Bigg",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "John Bothwell",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Ian Brooks",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Bethan Davies Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Howard Griffiths",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Paul Halloran",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Babette Hoogakker",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Peter Langdon",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Colin Prentice",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Daniela Schmidt",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Andrew Singer",
+      "role": "Member",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "David Stevenson",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Mark Viney",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Susan Waldron",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Ian Willis",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "meeting_name": "LARGE GRANTS NOVEMBER 2017 OUTCOME",
+  "source": "Large Grants November 2017.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2017/Large Grants Moderating Panel - November 2017 (updated 27 Feb).pdf",
+  "meeting_start": "2018-03-14",
+  "meeting_end": "2018-03-15"
+}

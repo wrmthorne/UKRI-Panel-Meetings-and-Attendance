@@ -1,0 +1,65 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "8",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004671/1",
+      "lead_applicant": "Wendy Ayres-Bennett",
+      "lead_organisation": "University of Cambridge",
+      "title": "Multilingualism: Empowering Individuals, Transforming Societies (MEITS)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004701/1",
+      "lead_applicant": "Katrin Kohl",
+      "lead_organisation": "University of Oxford",
+      "title": "Creative Multilingualism",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004647/1",
+      "lead_applicant": "Stephen Hutchings",
+      "lead_organisation": "The University of Manchester",
+      "title": "Cross-Language Dynamics: Reshaping Community",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004655/1",
+      "lead_applicant": "Catherine Boyle",
+      "lead_organisation": "King's College London",
+      "title": "Language Acts and Worldmaking",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004639/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00471X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004620/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004698/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Open World Research Initiative (OWRI) moderation and interview panel Dec 2015",
+  "source": "Open World Research Initiative (OWRI) December 2015 meeting.xlsx",
+  "meeting_start": "2015-12",
+  "meeting_end": "2015-12"
+}

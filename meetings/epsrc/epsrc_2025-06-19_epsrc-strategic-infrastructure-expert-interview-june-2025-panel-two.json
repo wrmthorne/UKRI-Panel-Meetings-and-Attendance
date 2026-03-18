@@ -1,0 +1,109 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1217",
+  "meeting_name": "EPSRC Strategic Infrastructure Expert Interview June 2025 - Panel Two",
+  "meeting_convenor": "A Masood",
+  "applications": [
+    {
+      "application_id": "APP71586",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "905",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Feb 2025"
+    },
+    {
+      "application_id": "APP71602",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "905",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Feb 2025"
+    },
+    {
+      "application_id": "APP71697",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "905",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Feb 2025"
+    },
+    {
+      "application_id": "APP76947",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "905",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "Strategic infrastructure for engineering and physical sciences: Feb 2025"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Wells",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "K Deane",
+      "role": "Panellist",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "J Harrington",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "A Ilie",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "N Metje",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "A Pickford",
+      "role": "Panellist",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "K Sang",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "D Walker",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-06-19",
+  "meeting_end": "2025-06-19"
+}

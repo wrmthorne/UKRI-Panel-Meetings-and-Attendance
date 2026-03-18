@@ -1,0 +1,348 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-735118344",
+  "meeting_name": "Health Inequalities Main Call Nov 2021",
+  "applications": [
+    {
+      "application_id": "AH/W008033/1",
+      "route": "Standard",
+      "lead_applicant": "Catherine El Zerbi",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Newcastle University",
+      "title": "Rooted in nature: scaling up a programme of nature-based activities for a diverse group of young people in Middlesbrough",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000079/1",
+      "route": "Standard",
+      "lead_applicant": "Mahsa Honary",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Lancaster University",
+      "title": "Phoenix Takes Flight (PTF): exploring usability and scalability challenges with community-based health support via social prescribing.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007703/1",
+      "route": "Standard",
+      "lead_applicant": "Josephine Ross",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Dundee",
+      "title": "Art at the Start: Creative community intervention for perinatal and infant mental health",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000060/1",
+      "route": "Standard",
+      "lead_applicant": "Qian Sun",
+      "score": "4",
+      "rank": "2",
+      "lead_organisation": "Royal College of Art",
+      "title": "Connecting Roots: Co-creating a Green Social Prescribing Network in Walsall for Health and Wellbeing",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008041/1",
+      "route": "Standard",
+      "lead_applicant": "Sara Bradley",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of the Highlands and Islands",
+      "title": "Prescribe Heritage Highland: Scaling Up Non-Pharmaceutical Interventions in Remote and Rural Areas",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000044/1",
+      "route": "Standard",
+      "lead_applicant": "Clifford Patrick Stevenson",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Scaling Up Inspiring Ashfield: Extending Place-Based Social Prescribing Support Across Mid-Nottinghamshire",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007835/1",
+      "route": "Standard",
+      "lead_applicant": "Svenja Adolphs",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "University of Nottingham",
+      "title": "Wild Swimming and Blue Spaces: Mobilising interdisciplinary knowledge and partnerships to combat health inequalities at scale",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007991/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Gamsu",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "Leeds Beckett University",
+      "title": "Adapting, expanding and embedding community and culture into health ecosystems",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008009/1",
+      "route": "Standard",
+      "lead_applicant": "David Sheffield",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "University of Derby",
+      "title": "Social Prescribing For All (SP4ALL): Increasing diversity in cultural and natural social prescribing programmes through shared training.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007886/1",
+      "route": "Standard",
+      "lead_applicant": "Timothy Charles Darvill",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "Bournemouth University",
+      "title": "Scaling-up Human Henge: Using prehistoric cultural heritage sites to enhance mental health well-being in marginalized communities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007819/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Walshe",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "University College London",
+      "title": "Branching Out: Tackling mental health inequalities in schools with community artscapers",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007983/1",
+      "route": "Standard",
+      "lead_applicant": "Vicky Karkou",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "Edge Hill University",
+      "title": "Arts for the Blues: Towards integrating the use of the arts in healthcare and cultural settings to tackle depression and improve wellbeing in the NW",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00805X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007843/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007851/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007916/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007924/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007932/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007940/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007959/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007967/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007975/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008017/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008025/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008068/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008076/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008092/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008106/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008378/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00015X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Graham John Hart",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "Josie Gill",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Tim Brown",
+      "organisation": "Liverpool Hope University",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Elizabeth Pickett",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Lisa Anne-Marie Dikomitis",
+      "organisation": "University of Kent",
+      "role": "Member"
+    },
+    {
+      "name": "Mhairi Mackenzie",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Victoria Tischler",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-11-16",
+  "meeting_end": "2021-11-16"
+}

@@ -1,0 +1,773 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-766805639",
+  "meeting_name": "DFG 4 September 2022",
+  "applications": [
+    {
+      "application_id": "AH/X002241/1",
+      "route": "Standard",
+      "lead_applicant": "Frederic Leymarie",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Embodied Agents in Contemporary Visual Art: How Robotics and A.I. Could Influence Creativity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002365/1",
+      "route": "Standard",
+      "lead_applicant": "Martin Sticker",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Bristol",
+      "title": "Using people well, treating people badly: Towards a Kantian Realm of Ends and Means",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002381/1",
+      "route": "Standard",
+      "lead_applicant": "Richard Flower",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Exeter",
+      "title": "Connecting Late Antiquities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002438/1",
+      "route": "Standard",
+      "lead_applicant": "Nicholas Barrie Palfreyman",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Central Lancashire",
+      "title": "Cross-modal perspectives on grammaticalization: Aspect markers in creoles and sign languages",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001881/1",
+      "route": "Standard",
+      "lead_applicant": "Hilary Mary Carey",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Bristol",
+      "title": "Global Bible: British and German Bible Societies Translating Colonialism, 1800-1914.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002055/1",
+      "route": "Standard",
+      "lead_applicant": "Julia M H Smith",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "University of Oxford",
+      "title": "Crafting Documents, c. 500 - c. 800 CE",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002101/1",
+      "route": "Standard",
+      "lead_applicant": "Susannah Catherine Eckersley",
+      "score": "6",
+      "rank": "7",
+      "lead_organisation": "Newcastle University",
+      "title": "Cultural Dynamics: Museums and Democracy in Motion",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001601/1",
+      "route": "Standard",
+      "lead_applicant": "Alice Bell",
+      "score": "6",
+      "rank": "8",
+      "lead_organisation": "Sheffield Hallam University",
+      "title": "Reading Post-Postmodernist Fictions of the Digital: Narrative, Technology, and Cognition in the Twenty-First Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001660/1",
+      "route": "Standard",
+      "lead_applicant": "Catherine Hezser",
+      "score": "6",
+      "rank": "9",
+      "lead_organisation": "SOAS University of London",
+      "title": "Rabbinic Civil Law in the Context of Ancient Legal History: A Legal Compendium to the Bavot Tractates of the Talmud Yerushalmi",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002047/1",
+      "route": "Standard",
+      "lead_applicant": "Michaela Agnes Mahlberg",
+      "score": "6",
+      "rank": "10",
+      "lead_organisation": "University of Birmingham",
+      "title": "Reading concordances in the 21st century (RC21)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001717/1",
+      "route": "Standard",
+      "lead_applicant": "Roger John Matthews",
+      "score": "6",
+      "rank": "11",
+      "lead_organisation": "University of Reading",
+      "title": "States of Clay: Integrated Scientific Approaches to Clay Bureaucratic Objects from Early Mesopotamia, 3700-2700 BCE",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001725/1",
+      "route": "Standard",
+      "lead_applicant": "Roxani Krystalli",
+      "score": "6",
+      "rank": "12",
+      "lead_organisation": "University of St Andrews",
+      "title": "A Different Kind of War Story: Centering Love and Care in Peace and Conflict Studies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002217/1",
+      "route": "Standard",
+      "lead_applicant": "Philip Riris",
+      "score": "6",
+      "rank": "13",
+      "lead_organisation": "Bournemouth University",
+      "title": "Comparative Legacies of Human Land Use in the Brazilian Atlantic Forest",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002535/1",
+      "route": "Standard",
+      "lead_applicant": "Ben Sweeting",
+      "score": "6",
+      "rank": "14",
+      "lead_organisation": "University of Brighton",
+      "title": "Enacting Gregory Bateson's Ecological Aesthetics in Architecture and Design",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00189X/1",
+      "route": "Standard",
+      "lead_applicant": "David Higgins",
+      "score": "6",
+      "rank": "15",
+      "lead_organisation": "University of Leeds",
+      "title": "Just Futures? An Interdisciplinary Approach to Cultural Climate Models",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001504/1",
+      "route": "Standard",
+      "lead_applicant": "Robert Barnett",
+      "score": "6",
+      "rank": "16",
+      "lead_organisation": "SOAS University of London",
+      "title": "Divergent Discourses: Processes of Narrative Construction in Tibet, 1955-62",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002136/1",
+      "route": "Standard",
+      "lead_applicant": "Ophira Ophira Gamliel",
+      "score": "5",
+      "rank": "17",
+      "lead_organisation": "University of Glasgow",
+      "title": "Hindu-Muslim-Jewish Origin Legends in Circulation between the Malabar Coast and the Mediterranean, 1400s-1800s",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001873/1",
+      "route": "Standard",
+      "lead_applicant": "Bettina Bildhauer",
+      "score": "5",
+      "rank": "18",
+      "lead_organisation": "University of St Andrews",
+      "title": "The Seven Sages of Rome: editing and reappraising a forgotten premodern classic from global and gendered perspectives",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002276/1",
+      "route": "Standard",
+      "lead_applicant": "Jan-Peter Herbst",
+      "score": "5",
+      "rank": "19",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Songwriting Camps in the 21st Century (SC21)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001490/1",
+      "route": "Standard",
+      "lead_applicant": "Mary Fulbrook",
+      "score": "5",
+      "rank": "20",
+      "lead_organisation": "University College London",
+      "title": "Good Citizens, Terrible Times: Community, Courage and Compliance in and beyond the Holocaust",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001482/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002543/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001806/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002160/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001857/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001903/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002144/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00242X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002225/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "29",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002608/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "30",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002586/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "31",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001822/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "32",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002292/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "33",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001318/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "34",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002527/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "35",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001466/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "36",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001946/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "37",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00239X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "38",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002071/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "39",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002020/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "40",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002306/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "41",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002179/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "42",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002322/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "43",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002403/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "44",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002454/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "45",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002268/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "46",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002551/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "47",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001539/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "48",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00211X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "49",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001911/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "50",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001644/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "51",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002284/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "52",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002470/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "53",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001784/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "54",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001563/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "55",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002330/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "56",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00225X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "57",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001814/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001849/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002012/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002152/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002195/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002349/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002411/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002462/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002489/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002578/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002594/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002616/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Paul Andrew Readman",
+      "organisation": "King's College London",
+      "role": "Chair"
+    },
+    {
+      "name": "Jennifer Hendry",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Johannes (Jan) Maria Machielsen",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Lucy Cramp",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "M. Satish Kumar",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Petra Lange-Berndt",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Artemis Alexiadou",
+      "organisation": "Humboldt University Berlin",
+      "role": "Member"
+    },
+    {
+      "name": "Dana Arnold",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Emma Moore",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Nathan Abrams",
+      "organisation": "Bangor University",
+      "role": "Member"
+    },
+    {
+      "name": "Nicola McLelland",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Oscar Odena",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Sara Jones",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Thomas (Tom) William Stoneham",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-09-13",
+  "meeting_end": "2022-09-13"
+}

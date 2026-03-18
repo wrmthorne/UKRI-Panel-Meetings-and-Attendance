@@ -1,0 +1,168 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-688078462",
+  "meeting_name": "Research Networking - April 2021",
+  "applications": [
+    {
+      "application_id": "AH/V010107/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Doidge",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Brighton",
+      "title": "For the Love of the Game?: Football and Hate Crime",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008862/1",
+      "route": "Standard",
+      "lead_applicant": "Ken Wilder",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of the Arts London",
+      "title": "BEYOND THE VISUAL: NON-SIGHTED MODES OF BEHOLDING ART",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013319/1",
+      "route": "Standard",
+      "lead_applicant": "Muireann Maguire",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Exeter",
+      "title": "Salt Babies: Narrating Maternity in Russian and Comparative Literature",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013378/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Hammersley",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Newcastle University",
+      "title": "Experiencing Political Texts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V009850/1",
+      "route": "Standard",
+      "lead_applicant": "Carolina Rito",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Coventry University",
+      "title": "The Role of Visual Arts Organisations in the British Black Arts Movement in the Midlands",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011456/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006088/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009974/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008285/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013742/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01143X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V006460/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008218/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009303/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013092/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Aylin Orbasli",
+      "organisation": "Oxford Brookes University",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2021-04-20",
+  "meeting_end": "2021-04-20"
+}

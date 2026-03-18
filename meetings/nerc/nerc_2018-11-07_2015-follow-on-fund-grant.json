@@ -1,0 +1,99 @@
+{
+  "council": "NERC",
+  "count_of_applications": "18",
+  "count_of_awards": "5",
+  "year": "2015",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N017021/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N017838/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N017188/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N017218/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N017293/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017862/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017358/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N016947/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017048/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017145/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N01720X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017277/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017463/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017633/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017641/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017676/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017617/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/N017846/1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Innovation Follow",
+      "role": "Member",
+      "organisation": "on Fund Panel 2018"
+    }
+  ],
+  "meeting_name": "2015 Follow – on Fund Grant",
+  "source": "follow-on-fund-december-2015.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2018/Follow on Fund Panel Membership.pdf",
+  "meeting_start": "2018-11-07",
+  "meeting_end": "2018-11-07"
+}

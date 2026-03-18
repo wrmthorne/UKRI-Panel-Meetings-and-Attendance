@@ -1,0 +1,90 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "13",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/T001879/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T001852/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T001925/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T001933/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T001968/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001941/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T002018/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001976/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001984/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001828/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001992/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001917/1"
+    },
+    {
+      "opportunity": "DEGRP Follow on Fund",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T001895/1"
+    }
+  ],
+  "meeting_name": "DEGRP FOF",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-12",
+  "meeting_end": "2019-12"
+}

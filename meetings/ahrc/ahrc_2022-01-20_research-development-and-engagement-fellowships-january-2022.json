@@ -1,0 +1,248 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-724366314",
+  "meeting_name": "Research, Development and Engagement Fellowships - January 2022",
+  "applications": [
+    {
+      "application_id": "AH/W008610/1",
+      "route": "Early Career",
+      "lead_applicant": "Joanna Allan",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Northumbria University",
+      "title": "The Poetics of Diplomacy: Poetry, Creative Short Prose and Diplomatic Discussions in Western Sahara and the Saharawi Diaspora",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006006/1",
+      "route": "Early Career",
+      "lead_applicant": "Peter Richard Hill",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Northumbria University",
+      "title": "Reason and Religion in Ottoman Syria",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009544/1",
+      "route": "Early Career",
+      "lead_applicant": "Joseph Hone",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Newcastle University",
+      "title": "Book Forgery: History, Practice, and Detection",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010216/1",
+      "route": "Early Career",
+      "lead_applicant": "Joanna Tucker",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Glasgow",
+      "title": "Scribal autonomy in multi-scribe manuscripts: digital visualisations through the Chronicle of Melrose Abbey",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005999/1",
+      "route": "Standard",
+      "lead_applicant": "Elizabeth Jane Tomlin",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Glasgow",
+      "title": "Figurations of working-class subjects in UK theatre practice and policy.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005204/1",
+      "route": "Early Career",
+      "lead_applicant": "Sasha Engelmann",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Advancing Feminist and Creative Methods for Sensing Air and Atmosphere",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007355/1",
+      "route": "Standard",
+      "lead_applicant": "Aura Aura Satz",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Royal College of Art",
+      "title": "Preemptive Listening",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005859/1",
+      "route": "Early Career",
+      "lead_applicant": "Mehrbod Khanizadeh",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "SOAS University of London",
+      "title": "Translating the Avesta: The Avestan and Pahlavi Versions of the Hom Yasht",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005301/1",
+      "route": "Early Career",
+      "lead_applicant": "Linsey Jean Robb",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Northumbria University",
+      "title": "We say no!: British Conscientious Objection in the Second World War",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006219/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew Adams",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Brighton",
+      "title": "Pavlov and the kingdom of dogs: Storying experimental animal histories through arts-based research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009242/1",
+      "route": "Early Career",
+      "lead_applicant": "Jessica Noske-Turner",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "Loughborough University",
+      "title": "Un/Making CSC: A critical engagement with Communication for Social 'Changemaking'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006995/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008416/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00660X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00786X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010089/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009692/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007282/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007428/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "James Marcel Hegarty",
+      "organisation": "National Museum Wales",
+      "role": "Chair"
+    },
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Helen Freshwater",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Berthold Johannes Schoene",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Gabriel Egan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Jo Angouri",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Louise Miskell",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    },
+    {
+      "name": "Robert Vilain",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Soumyen Bandyopadhyay Bandyopadhyay",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-01-20",
+  "meeting_end": "2022-01-20"
+}

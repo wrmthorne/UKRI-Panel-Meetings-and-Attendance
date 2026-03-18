@@ -1,0 +1,86 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Kieran Holt",
+  "panellists": [
+    {
+      "name": "Brice Rea",
+      "role": "Chair",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Amanda Korstjens",
+      "role": "Member",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "Andrew Cundy",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Awadhesh Jha",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Bryan Spears",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "Daniel Read",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "David Johnson The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Dominick Spracklen",
+      "role": "Member",
+      "organisation": "University of Leeds, School of Earth and Environment"
+    },
+    {
+      "name": "Douglas Yu",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Ian Holman",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Jack Laverick",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Jacqueline Russell",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Janine Kavanagh",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Jens Zinke",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Joel Irish",
+      "role": "Member",
+      "organisation": "Liverpool John Moores University"
+    }
+  ],
+  "meeting_name": "NERC large grant outlines: March 2024",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-010724-NERC-large-grant-outline-assessment-panel-for-7-March-2024-closing-date.pdf",
+  "meeting_start": "2024-06-12",
+  "meeting_end": "2024-06-13"
+}

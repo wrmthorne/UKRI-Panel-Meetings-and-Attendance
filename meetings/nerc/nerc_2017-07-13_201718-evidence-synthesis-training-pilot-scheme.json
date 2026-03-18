@@ -1,0 +1,87 @@
+{
+  "council": "NERC",
+  "count_of_applications": "7",
+  "count_of_awards": "7",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "9.25",
+      "application_id": "NE/R005443/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8.25",
+      "application_id": "NE/R005451/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R005354/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7.5",
+      "application_id": "NE/R005508/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7.25",
+      "application_id": "NE/R005435/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6.75",
+      "application_id": "NE/R005478/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "2017",
+      "application_id": "NE/R005524/1",
+      "rank": "18"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Kathryn Monk Welsh",
+      "role": "Member",
+      "organisation": "Government"
+    },
+    {
+      "name": "Johannes Laube",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Richard Corfield",
+      "role": "Member",
+      "organisation": "BP"
+    },
+    {
+      "name": "Kathryn",
+      "role": "Member",
+      "organisation": "Tearall, Head of Skills and Careers"
+    },
+    {
+      "name": "David",
+      "role": "Member",
+      "organisation": "Roberts, Senior Programme Manager – Research Careers"
+    },
+    {
+      "name": "Aaron",
+      "role": "Member",
+      "organisation": "Hughes, Programme Manager – Research Careers"
+    }
+  ],
+  "meeting_name": "2017/18 Evidence Synthesis Training Pilot Scheme",
+  "source": "NERC-051021-EvidenceSynthesisTrainingPilotScheme-2017-18-FundingOutcomes.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2017/Evidence Synthesis - Panel list - June 2017.pdf",
+  "meeting_start": "2017-07-13",
+  "meeting_end": "2017-07-13"
+}

@@ -1,0 +1,101 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "12",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001575/1",
+      "lead_applicant": "Douglas Hedley",
+      "lead_organisation": "University of Cambridge",
+      "title": "The Cambridge Platonists at the Origins of Enlightenment: Texts, Debate, and Reception (1650-1730)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N003241/1",
+      "lead_applicant": "Nicky Marsh",
+      "lead_organisation": "University of Southampton",
+      "title": "The History of Financial Advice",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00213X/1",
+      "lead_applicant": "Sally Sheldon",
+      "lead_organisation": "University of Kent",
+      "title": "The Abortion Act (1967): a Biography",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N001877/1",
+      "lead_applicant": "Alex Silk",
+      "lead_organisation": "University of Birmingham",
+      "title": "Context-Sensitivity in Natural Language",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00177X/1",
+      "lead_applicant": "Adrian Gregory",
+      "lead_organisation": "University of Oxford",
+      "title": "The First World War and Global Religions",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001524/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N001451/1",
+      "lead_applicant": "Cheryl Lawther",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Voice, Agency and Blame: Victimhood and the Imagined Community in Northern Ireland.",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002229/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N003330/1",
+      "lead_applicant": "Rosemary Wall",
+      "lead_organisation": "University of Hull",
+      "title": "Crossing Boundaries: The History of First Aid in Britain and France, 1909-1989",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003179/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002008/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001672/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, Panel A,  September 2015 meeting",
+  "source": "Research Grants Panel A, September 2015 meeting.xlsx",
+  "meeting_start": "2015-09",
+  "meeting_end": "2015-09"
+}

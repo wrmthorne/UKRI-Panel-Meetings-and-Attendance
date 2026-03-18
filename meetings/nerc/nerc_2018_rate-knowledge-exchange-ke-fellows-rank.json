@@ -1,0 +1,30 @@
+{
+  "council": "NERC",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S006311/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S006168/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S006117/1",
+      "rank": "3"
+    }
+  ],
+  "meeting_name": "RATE Knowledge Exchange (KE) Fellows Rank",
+  "source": "RATE KE Fellows - April 2018.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

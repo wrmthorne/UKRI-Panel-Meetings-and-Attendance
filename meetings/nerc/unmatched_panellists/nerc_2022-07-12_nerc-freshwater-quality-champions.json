@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Kay Heuser",
+  "panellists": [
+    {
+      "name": "Mark",
+      "role": "Chair",
+      "organisation": "JamesUniversity of St Andrews"
+    },
+    {
+      "name": "Lorraine Maltby",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Nigel Watson",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Jim Wharfe Wharfe",
+      "role": "Member",
+      "organisation": "Independent Consulting"
+    }
+  ],
+  "meeting_name": "NERC Freshwater Quality Champions",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-080722-FreshwaterQualityChampPanelMembershipJune2022.pdf",
+  "meeting_start": "2022-07-12",
+  "meeting_end": "2022-07-12"
+}

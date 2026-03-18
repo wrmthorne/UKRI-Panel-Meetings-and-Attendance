@@ -1,0 +1,170 @@
+{
+  "council": "EPSRC",
+  "year": "2017",
+  "count_of_applications": "15",
+  "count_of_awards": "9",
+  "notes": "Six applications were unsuccessful in the November 2017 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "David Scanlon",
+      "organisation": "UCL",
+      "role": "Member"
+    },
+    {
+      "name": "Dieter Jaksch",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Christian Allen",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Ash Vadgama",
+      "organisation": "AWE",
+      "role": "Chair"
+    },
+    {
+      "name": "Krasimira Tsaneva-Atanasova",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Carla Molteni",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Bob Bingham",
+      "organisation": "STFC/Strathclyde",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "title": "SmartNanoTox HPC",
+      "outcome": "Successful",
+      "kaus_awarded": "53913.6",
+      "lead_applicant": "Nick Quirke",
+      "lead_organisation": "Imperial College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Novel risk-stratification biomarkers from HPC simulations in patients with inherited diseased conditions",
+      "outcome": "Successful",
+      "kaus_awarded": "81720",
+      "lead_applicant": "Alfonso Bueno-Orovio",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "High-Fidelity High-Lift Aircraft CFD Simulations",
+      "outcome": "Successful",
+      "kaus_awarded": "60825.6",
+      "lead_applicant": "Ian Bush",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Temperature-dependent optical properties of semiconductors (T-DOPS)",
+      "outcome": "Successful",
+      "kaus_awarded": "59040",
+      "lead_applicant": "Feliciano Giustino",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "R-matrix calculations for Electron Correlation in Attosecond Processes",
+      "outcome": "Successful",
+      "kaus_awarded": "59904",
+      "lead_applicant": "Andrew Brown",
+      "lead_organisation": "Queen's University Belfast"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Unveiling the origin of secondary motions in ducts at high Reynolds numbers",
+      "outcome": "Successful",
+      "kaus_awarded": "81561.6",
+      "lead_applicant": "Alfredo Pinelli",
+      "lead_organisation": "City, University of London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "FreeWave - Full-waveform inversion for offshore wind power",
+      "outcome": "Successful",
+      "kaus_awarded": "90000",
+      "lead_applicant": "Joanna Morgan",
+      "lead_organisation": "Imperial College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "CP2K-UK",
+      "outcome": "Successful",
+      "kaus_awarded": "1946.9",
+      "lead_applicant": "Iain Bethune",
+      "lead_organisation": "STFC (Hartree Centre)"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Hydrogen in metals - from fundamentals to the design of new steels (HemS)",
+      "outcome": "Successful",
+      "kaus_awarded": "24785.4",
+      "lead_applicant": "Alan Cocks",
+      "lead_organisation": "University of Oxford"
+    }
+  ],
+  "meeting_name": "ARCHER resource allocation panel - Nov 2017",
+  "source": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-Nov2017.xlsx",
+  "meeting_start": "2017-11",
+  "meeting_end": "2017-11"
+}

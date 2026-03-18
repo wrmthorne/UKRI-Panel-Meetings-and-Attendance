@@ -1,0 +1,118 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-450866911",
+  "meeting_name": "Research Networking May 2019",
+  "applications": [
+    {
+      "application_id": "AH/T001135/1",
+      "route": "Standard",
+      "lead_applicant": "Anthony Joseph Musson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "HENRY VIII ON TOUR: TUDOR PALACES AND ROYAL PROGRESSES",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T00231X/1",
+      "route": "Standard",
+      "lead_applicant": "G. Anthony Bruno",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "The London Post-Kantian Seminar",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001054/1",
+      "route": "Standard",
+      "lead_applicant": "Michael Wolters",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Birmingham City University",
+      "title": "Documenting music with non-sonic elements",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010963/1",
+      "route": "Standard",
+      "lead_applicant": "Louise Teresa Harvey",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leeds",
+      "title": "Communicating the Unsayable: Learning at the Intersection of Language and the Arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012079/1",
+      "route": "Standard",
+      "lead_applicant": "Bevan Sewell",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Nottingham",
+      "title": "The Promise and Peril of \"U.S. in the World\"",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012672/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001526/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001506/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002034/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S013253/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Frances Elizabeth Andrews",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-05-30",
+  "meeting_end": "2019-05-30"
+}

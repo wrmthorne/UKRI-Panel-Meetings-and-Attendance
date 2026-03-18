@@ -1,0 +1,223 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "34",
+  "count_of_awards": "10",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S011064/1",
+      "lead_applicant": "Mary Dalrymple",
+      "lead_organisation": "University of Oxford",
+      "title": "Enggano in the Austronesian family: Historical and typological perspectives",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S005285/1",
+      "lead_applicant": "John Sloboda",
+      "lead_organisation": "Guildhall School of Music and Drama",
+      "title": "Music for social impact: practitioners' contexts, work, and beliefs",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S00811X/1",
+      "lead_applicant": "Rachael Wiseman",
+      "lead_organisation": "University of Liverpool",
+      "title": "PAGE: Perception, Action and the Genesis of Everyday Ethics. The Philosophy of Elizabeth Anscombe, Philippa Foot, Mary Midgley and Iris Murdoch",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S006206/1",
+      "lead_applicant": "Nicola Walshe",
+      "lead_organisation": "Anglia Ruskin University",
+      "title": "ECO-CAPABILITIES: Supporting Children's wellbeing through participatory art in nature",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S007083/1",
+      "lead_applicant": "Mark Towsey",
+      "lead_organisation": "University of Liverpool",
+      "title": "Libraries, Reading Communities and Cultural Formation in the Eighteenth-Century Atlantic",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S011900/1",
+      "lead_applicant": "Patrycja Strycharczuk",
+      "lead_organisation": "The University of Manchester",
+      "title": "TarDiS: Targets and Dynamics in Speech",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S007121/1",
+      "lead_applicant": "Hannah Barker",
+      "lead_organisation": "The University of Manchester",
+      "title": "Unlocking the Mary Hamilton Papers",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S004823/1",
+      "lead_applicant": "Peter Wade",
+      "lead_organisation": "The University of Manchester",
+      "title": "Cultures of Anti-Racism in Latin America",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S010157/1",
+      "lead_applicant": "Fraser Sturt",
+      "lead_organisation": "University of Southampton",
+      "title": "Islands of Stone: Neolithic Crannogs in the Outer Hebrides",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S006494/1",
+      "lead_applicant": "Jason Edwards",
+      "lead_organisation": "University of York",
+      "title": "Pantheons: Sculpture at St Paul's Cathedral",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S011994/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006915/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S008128/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006990/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010459/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006729/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00713X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007113/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00615X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01151X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007946/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010831/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007636/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012265/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007857/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007725/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006443/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005501/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007245/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007563/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00761X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010416/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010726/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S010882/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, February 2019 Panel Meeting",
+  "source": "Research Grants Panel, February 2019 Meeting.xlsx",
+  "meeting_start": "2019-02",
+  "meeting_end": "2019-02"
+}

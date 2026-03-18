@@ -1,0 +1,113 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-744429581",
+  "meeting_name": "Follow on Fund - November 2021",
+  "applications": [
+    {
+      "application_id": "AH/W006898/1",
+      "route": "Standard",
+      "lead_applicant": "Barbara Ravelhofer",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Durham University",
+      "title": "Dragons: Music, Legends, Landscapes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W004844/1",
+      "route": "Standard",
+      "lead_applicant": "Dawn Knight",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Cardiff University",
+      "title": "FreeTxt: supporting bilingual free-text survey and questionnaire data analysis",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00576X/1",
+      "route": "Standard",
+      "lead_applicant": "Cathy Shrank",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Sheffield",
+      "title": "Penniless? Thomas Nashe and precarity in historical perspective",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005921/1",
+      "route": "Standard",
+      "lead_applicant": "Seth Mehl",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Sheffield",
+      "title": "Community-led impact for rural land rights in South Africa: A multilingual best practice handbook",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W004399/1",
+      "route": "Standard",
+      "lead_applicant": "Dale Timothy Townshend",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Experiencing Britain's Ruins: 'Revenants and Remains' at Five Northern English Religious Houses and Beyond",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005166/1",
+      "route": "Standard",
+      "lead_applicant": "Stefan Skrimshire",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Leeds",
+      "title": "Thinking, Feeling and Creating Through Extinction",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006146/1",
+      "route": "Standard",
+      "lead_applicant": "Rodney Harrison",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University College London",
+      "title": "Ghosts of Solid Air",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006030/1",
+      "route": "Standard",
+      "lead_applicant": "Giovanna Fassetta",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Glasgow",
+      "title": "Welcoming Languages: Including a Refugee Language in Scottish Education",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Mark Maltby",
+      "organisation": "University of St Andrews",
+      "role": "Chair"
+    },
+    {
+      "name": "Jon Henderson",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Anne Whitehead",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "John McAuliffe",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-11-10",
+  "meeting_end": "2021-11-10"
+}

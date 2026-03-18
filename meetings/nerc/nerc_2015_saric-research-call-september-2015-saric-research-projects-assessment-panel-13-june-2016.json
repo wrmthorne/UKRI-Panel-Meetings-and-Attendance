@@ -1,0 +1,84 @@
+{
+  "council": "NERC",
+  "count_of_applications": "12",
+  "count_of_awards": "3",
+  "year": "2015",
+  "applications": [
+    {
+      "score": "5.85",
+      "outcome": "Successful",
+      "application_id": "BB/P004539/1",
+      "rank": "1"
+    },
+    {
+      "score": "5.7",
+      "outcome": "Successful",
+      "application_id": "BB/P004628/1",
+      "rank": "2"
+    },
+    {
+      "score": "5.4",
+      "outcome": "Successful",
+      "application_id": "BB/P004555/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.4",
+      "application_id": "BB/P00458X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.25",
+      "application_id": "BB/P004547/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.2",
+      "application_id": "BB/P004415/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.1",
+      "application_id": "BB/P004598/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.8",
+      "application_id": "BB/P004504/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3.7",
+      "application_id": "BB/P004423/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "BB/P004601/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "BB/P004490/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "2.95",
+      "application_id": "BB/P004660/1",
+      "rank": "12"
+    }
+  ],
+  "meeting_name": "SARIC Research Call – September 2015 SARIC Research Projects Assessment Panel – 13 June 2016",
+  "source": "SARIC research grants - September 2015 call.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

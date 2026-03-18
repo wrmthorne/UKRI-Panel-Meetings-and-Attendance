@@ -1,0 +1,97 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN826",
+  "meeting_name": "EPSRC: ICT Network Prioritisation Panel Jan 2025",
+  "meeting_convenor": "S Russin",
+  "applications": [
+    {
+      "application_id": "APP27239",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "284",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "K Crockett",
+      "role": "Chair",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "R Abdur",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "R Bahsoon",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "E Boiten",
+      "role": "Panellist",
+      "organisation": "De Montfort University"
+    },
+    {
+      "name": "S Cairns",
+      "role": "Panellist",
+      "organisation": "Metasphere"
+    },
+    {
+      "name": "D Cleaver",
+      "role": "Panellist",
+      "organisation": "Sheffield Hallam University"
+    },
+    {
+      "name": "G Cosma",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "T Erlebach",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "H Haas",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "J Herrnsdorf",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "C Hwang See",
+      "role": "Panellist",
+      "organisation": "Edinburgh Napier University"
+    },
+    {
+      "name": "J Lloyd-Hughes",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "P Scarfe",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "D Stamate",
+      "role": "Panellist",
+      "organisation": "Goldsmiths University of London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-29",
+  "meeting_end": "2025-01-29"
+}

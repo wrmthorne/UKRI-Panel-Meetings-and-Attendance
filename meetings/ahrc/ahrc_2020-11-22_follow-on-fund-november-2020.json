@@ -1,0 +1,108 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-631400281",
+  "meeting_name": "Follow on Fund - November 2020",
+  "applications": [
+    {
+      "application_id": "AH/V006495/1",
+      "route": "Standard",
+      "lead_applicant": "Charlotta Hillerdal",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Nunalleq Culture and Archaeology Center Digital Museum",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008064/1",
+      "route": "Standard",
+      "lead_applicant": "Tim V Hitchcock",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Sussex",
+      "title": "Capturing the Past",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008609/1",
+      "route": "Standard",
+      "lead_applicant": "Karina Theresa Croucher",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Bradford",
+      "title": "Continuing Bonds: Dying to Talk - Young people creating Compassionate Communities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006592/1",
+      "route": "Standard",
+      "lead_applicant": "Arlene Holmes-Henderson",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "King's College London",
+      "title": "Improving Access to Classical Studies in Museums and Schools",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008277/1",
+      "route": "Standard",
+      "lead_applicant": "Katherine Anne Wilson",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Chester",
+      "title": "Mobility of Objects Across Boundaries 1000-1700 (MOB): Exhibiting, Handling and Teaching the Past through Everyday Objects.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V005154/1",
+      "route": "Standard",
+      "lead_applicant": "Thor Magnusson",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Sussex",
+      "title": "Innovating Sema: Community-building of Live Coding Language Design and Performance with Machine Learning",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001140/1",
+      "route": "Standard",
+      "lead_applicant": "Christine Ferguson",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Stirling",
+      "title": "The Media of Mediumship (TMM): Encountering the Material Culture of Modern Occultism in Britain's Science, Technology, and Magic Collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008374/1",
+      "route": "Standard",
+      "lead_applicant": "Catrin Huber",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Newcastle University",
+      "title": "Expanded Interiors Re-Staged - from Herculaneum and Pompeii to the North-East of England",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Chair"
+    },
+    {
+      "name": "Ina Berg",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "David Turner",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-11-22",
+  "meeting_end": "2020-11-22"
+}

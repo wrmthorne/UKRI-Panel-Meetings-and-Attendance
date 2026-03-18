@@ -1,0 +1,78 @@
+{
+  "council": "NERC",
+  "count_of_applications": "11",
+  "count_of_awards": "2",
+  "year": "2015",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/N019865/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N019369/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/N020014/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N019520/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N019598/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N020189/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N020081/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/N019679/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N020022/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N020170/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N020235/1",
+      "rank": "5"
+    }
+  ],
+  "meeting_name": "2015 Decommissioning",
+  "source": "decommissioning-2015-panel-outcome.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

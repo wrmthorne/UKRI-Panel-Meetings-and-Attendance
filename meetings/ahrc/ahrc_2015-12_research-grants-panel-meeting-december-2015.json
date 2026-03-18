@@ -1,0 +1,196 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "27",
+  "count_of_awards": "12",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N004663/1",
+      "lead_applicant": "Claire Holden",
+      "lead_organisation": "University of Oxford",
+      "title": "Transforming Nineteenth-Century Historically Informed Practice (Transforming C19 HIP)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N003926/1",
+      "lead_applicant": "Richard Phillips",
+      "lead_organisation": "University of Sheffield",
+      "title": "Storying Sexual Relationships: the Stories and Practices of Young British Pakistani Muslims",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N005775/1",
+      "lead_applicant": "Karen Wise",
+      "lead_organisation": "Guildhall School of Music and Drama",
+      "title": "Finding a voice: The art and science of unlocking the potential of adult non-singers",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N004000/1",
+      "lead_applicant": "Helen Beebee",
+      "lead_organisation": "The University of Manchester",
+      "title": "The Age of Metaphysical Revolution: David Lewis and His Place in the History of Analytic Philosophy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N004221/1",
+      "lead_applicant": "Stephen Gundle",
+      "lead_organisation": "University of Warwick",
+      "title": "PRODUCERS AND PRODUCTION PRACTICES IN THE HISTORY OF ITALIAN CINEMA 1949-75",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N004353/1",
+      "lead_applicant": "Nicola Pratt",
+      "lead_organisation": "University of Warwick",
+      "title": "Politics and Popular Culture in Egypt: Contested Narratives of the 25 January Revolution and its Aftermath",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N003764/1",
+      "lead_applicant": "Jon Anderson",
+      "lead_organisation": "Cardiff University",
+      "title": "A New Literary Geography: Establishing a Digital Literary Atlas of Wales and its Borderlands.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N003853/1",
+      "lead_applicant": "Roderick Main",
+      "lead_organisation": "University of Essex",
+      "title": "'One world': logical and ethical implications of holism",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N003721/1",
+      "lead_applicant": "Jane Hamlett",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Pets and Family Life in England and Wales, 1837-1939",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006720/1",
+      "lead_applicant": "David Rowland",
+      "lead_organisation": "Open University",
+      "title": "Listening and British cultures: listeners' responses to music in Britain, c. 1700-2018",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006097/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N004841/1",
+      "lead_applicant": "Stacey Pope",
+      "lead_organisation": "Durham University",
+      "title": "Female Sports Fandom in the North East:A Historical Study of Female Fandom & the Critical Intersections Between Sports Spectatorship and Participation",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004310/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004345/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005910/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005732/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005945/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N003713/1",
+      "lead_applicant": "Mariana Julieta Lopez",
+      "lead_organisation": "Anglia Ruskin University",
+      "title": "Enhanced Audio Description",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004256/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003969/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004035/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005694/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002199/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004027/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005678/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005791/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005899/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, panel meeting December 2015",
+  "source": "Research Grants Panel, December 2015 meeting.xlsx",
+  "meeting_start": "2015-12",
+  "meeting_end": "2015-12"
+}

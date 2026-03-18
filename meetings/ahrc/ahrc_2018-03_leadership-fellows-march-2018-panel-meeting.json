@@ -1,0 +1,146 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "21",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R00773X/1",
+      "lead_applicant": "Lise Jaillant",
+      "lead_organisation": "Loughborough University",
+      "title": "Survival of the Weakest: Preserving and Analysing Born-Digital Records to Understand How Small Poetry Publishers Survive in the Global Marketplace",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R010943/1",
+      "lead_applicant": "Katherine McDonald",
+      "lead_organisation": "University of Exeter",
+      "title": "Survival of the Weakest: Preserving and Analysing Born-Digital Records to Understand How Small Poetry Publishers Survive in the Global Marketplace",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R007780/1",
+      "lead_applicant": "Donna McCormack",
+      "lead_organisation": "University of Surrey",
+      "title": "Transplant Imaginaries: Haunted Times, Segregated Spaces and Embodied Ethics",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R013128/1",
+      "lead_applicant": "Chloe Ward",
+      "lead_organisation": "Queen Mary University, London",
+      "title": "From Protest to Propaganda: A History of Activist Art in Britain, 1845-1918",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R007616/1",
+      "lead_applicant": "Charlotte Gleghorn",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The Politics of Authorship in Latin American Indigenous Filmmaking",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R013691/1",
+      "lead_applicant": "Charlotte Hempel",
+      "lead_organisation": "University of Birmingham",
+      "title": "Ezra's Legacy and the Dead Sea Scrolls: Law and Narratives of Exclusion",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R007438/1",
+      "lead_applicant": "Nadine Muller",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "War Widows' Stories",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006873/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008361/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R010773/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014515/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006903/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014884/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008469/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006253/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013454/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013896/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012946/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013276/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013012/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008248/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, March 2018 panel meeting",
+  "source": "Leadership Fellows Panel, March 2018 Meeting.xlsx",
+  "meeting_start": "2018-03",
+  "meeting_end": "2018-03"
+}

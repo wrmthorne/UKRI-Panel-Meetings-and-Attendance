@@ -1,0 +1,218 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-838726567",
+  "meeting_name": "Research, Development and Engagement Fellowships - October 2022",
+  "applications": [
+    {
+      "application_id": "AH/X005526/1",
+      "route": "Standard",
+      "lead_applicant": "Sarah Atkinson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "King's College London",
+      "title": "Global Leadership of Women in Web 3 (GLoW3) (2020-2024)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006506/1",
+      "route": "Early Career",
+      "lead_applicant": "Lucas Nunes Vieira",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Bristol",
+      "title": "Critical language barriers: Understanding the role of online translation tools in high-stakes professional sectors",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005682/1",
+      "route": "Standard",
+      "lead_applicant": "Edward King",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Bristol",
+      "title": "Contesting Algorithmic Racism Through Digital Cultures In Brazil",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004570/1",
+      "route": "Early Career",
+      "lead_applicant": "Anastasia Chamberlen",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Warwick",
+      "title": "Captive Arts: Curating the curious symbiosis between the arts and imprisonment",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002942/1",
+      "route": "Early Career",
+      "lead_applicant": "Martyn Smith",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Sheffield",
+      "title": "Sound Recording, consumerism and national identity 1952-1997: towards a contemporary Japanese Soundscape.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006530/1",
+      "route": "Standard",
+      "lead_applicant": "Isabel Davis",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "The Natural History Museum",
+      "title": "(Mis)Conceptions: A Cultural History of Pregnancy Indeterminacy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X006522/1",
+      "route": "Early Career",
+      "lead_applicant": "Xavier Aure Calvet",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of the West of England",
+      "title": "An investigation of 3D technologies applied to historic textiles for improved understanding, conservation and engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004414/1",
+      "route": "Early Career",
+      "lead_applicant": "Shonagh Hill",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Generations and Feminist Temporalities in Contemporary Northern Irish Performance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X005712/1",
+      "route": "Early Career",
+      "lead_applicant": "Lori Watson",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The New Traditional School in Scotland, phase 1",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004899/1",
+      "route": "Early Career",
+      "lead_applicant": "Jeremy DeWaal",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Exeter",
+      "title": "Re-inventing Tradition: Rhenish Carnival and Cultures of Emotion over the Longue Durée",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00449X/1",
+      "route": "Standard",
+      "lead_applicant": "Adrian Howkins",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of Bristol",
+      "title": "Beautiful and Relatively Wild: Applied Environmental Histories of Britain's National Parks",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004384/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004481/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004511/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004732/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004848/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Chair"
+    },
+    {
+      "name": "David George Robb",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Karen Patel",
+      "organisation": "City of Bristol College",
+      "role": "Member"
+    },
+    {
+      "name": "Rachael Luck",
+      "organisation": "Norwich University of the Arts",
+      "role": "Member"
+    },
+    {
+      "name": "Henrice Altink",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Joseph Phelan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Noha Mellor",
+      "organisation": "University of Sharjah",
+      "role": "Member"
+    },
+    {
+      "name": "William James Marshall",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-09-28",
+  "meeting_end": "2022-09-28"
+}

@@ -1,0 +1,45 @@
+{
+  "council": "NERC",
+  "meeting_location": "London NERC attendees: Kirsten Dutton, Programme Manager, Innovation Team",
+  "panellists": [
+    {
+      "name": "Gwyn Griffiths Autonomous",
+      "role": "Chair",
+      "organisation": "Analytics"
+    },
+    {
+      "name": "Andrew Kingdon",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Tiina Roose",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Nick Veck Satellite Applications",
+      "role": "Member",
+      "organisation": "Catapult"
+    },
+    {
+      "name": "David Werner",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Iain Woodhouse",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Paul Young",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    }
+  ],
+  "meeting_name": "Digital Environment NOV18",
+  "source": "NERC-funding-assessment-panel-members-2018/Digital EnvironmentPanel for Web Publishing.pdf",
+  "meeting_start": "2018-12-11",
+  "meeting_end": "2018-12-11"
+}

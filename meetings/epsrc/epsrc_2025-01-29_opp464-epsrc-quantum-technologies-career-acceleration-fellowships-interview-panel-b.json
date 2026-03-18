@@ -1,0 +1,188 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN987",
+  "meeting_name": "OPP464: EPSRC Quantum Technologies Career Acceleration Fellowships Interview Panel B",
+  "meeting_convenor": "D Chan",
+  "applications": [
+    {
+      "application_id": "APP31718",
+      "title": "Top-down solid-state systems for quantum sensing using silicon, photonics, and robotics",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1246923.45",
+      "award_id": "UKRI1220",
+      "opportunity_number": "464",
+      "lead_applicant": "J Smith",
+      "link": "https://gtr.ukri.org/projects?ref=1220",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP32462",
+      "title": "Strongly interacting Rydberg exciton-polaritons (SIREP)",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1618107.07",
+      "award_id": "UKRI1222",
+      "opportunity_number": "464",
+      "lead_applicant": "L Gallagher",
+      "link": "https://gtr.ukri.org/projects?ref=1222",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37044",
+      "title": "Cold Molecular Ions and Quantum Technology",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "1356418.8",
+      "award_id": "UKRI1223",
+      "opportunity_number": "464",
+      "lead_applicant": "J Blackmore",
+      "link": "https://gtr.ukri.org/projects?ref=1223",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34215",
+      "title": "Fault-tolerance in the near-term: advancing methods for practical quantum error correction",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "1432223.97",
+      "award_id": "UKRI1224",
+      "opportunity_number": "464",
+      "lead_applicant": "J Roffe",
+      "link": "https://gtr.ukri.org/projects?ref=1224",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35730",
+      "title": "Quantum Error Suppression Toolkit (QuEST)",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "1756478.86",
+      "award_id": "UKRI1226",
+      "opportunity_number": "464",
+      "lead_applicant": "Z Cai",
+      "link": "https://gtr.ukri.org/projects?ref=1226",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34670",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP33021",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31113",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31301",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP30911",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "19",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "N Metje",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "I Aniceto",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "D Browne",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "K Coopman",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "J Cotter",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "J Pritchard",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "J Quintanilla",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-29",
+  "meeting_end": "2025-01-29"
+}

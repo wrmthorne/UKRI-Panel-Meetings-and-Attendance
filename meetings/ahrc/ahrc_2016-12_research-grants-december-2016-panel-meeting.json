@@ -1,0 +1,177 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "24",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P006574/1",
+      "lead_applicant": "Geert De Wilde",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Revision of the Anglo-Norman Dictionary (letters R & S)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P008690/1",
+      "lead_applicant": "Simon Rennie",
+      "lead_organisation": "University of Exeter",
+      "title": "The Poetry of the Lancashire Cotton Famine (1861-65)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P00914X/1",
+      "lead_applicant": "Fearghal McGarry",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "A global history of Irish Revolution, 1916-1923",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005888/1",
+      "lead_applicant": "Aaron Williamon",
+      "lead_organisation": "Royal College of Music",
+      "title": "HEARTS. The Health, Economic and Social impact of ARTS engagement: a Public Health Study",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P008887/1",
+      "lead_applicant": "Sofia Xenofontos",
+      "lead_organisation": "University of Glasgow",
+      "title": "The reception of Aristotle in Byzantium: the first critical edition of George Pachymeres' Commentary on Aristotle's Nicomachean Ethics",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005934/1",
+      "lead_applicant": "Martyn Evans",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Developing an Action Plan for the Strategic Use of Design in the UK",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005780/1",
+      "lead_applicant": "Bridgette Wessels",
+      "lead_organisation": "Newcastle University",
+      "title": "Beyond the Multiplex: Audiences for Specialised Film in English Regions",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P007546/1",
+      "lead_applicant": "Steven Mithen",
+      "lead_organisation": "University of Reading",
+      "title": "People and Birds in the Southern Levant: Ecological, Economic and Symbolic Relationships during the Early Neolithic",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P00704X/1",
+      "lead_applicant": "Philip Schwyzer",
+      "lead_organisation": "University of Exeter",
+      "title": "Inventor of Britain: The Complete Works of Humphrey Llwyd",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P007007/1",
+      "lead_applicant": "Catrin Huber",
+      "lead_organisation": "Newcastle University",
+      "title": "Expanded Interiors: Bringing contemporary site-specific fine-art practice to Roman houses at Herculaneum and Pompeii.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P007457/1",
+      "lead_applicant": "John Dupre",
+      "lead_organisation": "University of Exeter",
+      "title": "Representing Biology as Process",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009975/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P00847X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008399/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008534/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008836/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008607/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008771/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008933/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006833/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008437/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008658/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006663/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006620/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, December 2016 Panel Meeting",
+  "source": "1612-research-grants-meeting.xlsx",
+  "meeting_start": "2016-12",
+  "meeting_end": "2016-12"
+}

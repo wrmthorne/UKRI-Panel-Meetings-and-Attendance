@@ -1,0 +1,87 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "11",
+  "count_of_awards": "10",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012725/1",
+      "lead_organisation": "University of Nottingham",
+      "title": "Midlands4Cities Arts and Humanities Doctoral Training Partnership",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012415/1",
+      "lead_organisation": "Newcastle University",
+      "title": "Northern Bridge Consortium",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012679/1",
+      "lead_organisation": "University College London",
+      "title": "London Arts and Humanities Partnership (LAHP2)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012733/1",
+      "lead_organisation": "University of York",
+      "title": "White Rose College of the Arts and Humanities DTP2",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012717/1",
+      "lead_organisation": "University of Glasgow",
+      "title": "SGSAH DTP",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R01275X/1",
+      "lead_organisation": "Royal Holloway, University of London",
+      "title": "TECHNE2 AHRC Doctoral Training Partnership",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012709/1",
+      "lead_organisation": "University of Oxford",
+      "title": "Open-Oxford-Cambridge Doctoral Training Partnership",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012792/1",
+      "lead_organisation": "The University of Manchester",
+      "title": "North West Consortium Doctoral Training Partnership",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012776/1",
+      "lead_organisation": "University of Bristol",
+      "title": "South, West and Wales Doctoral Training Partnership 2 (SWW2)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R012806/1",
+      "lead_organisation": "University of Sussex",
+      "title": "Consortium for the Humanities and the Arts South East England (CHASE)",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012822/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Doctoral Training Partnerships 2, April 2018 Panel Meeting",
+  "source": "Doctoral Training Partnerships 2, April 2018 Meeting.xlsx",
+  "meeting_start": "2018-04",
+  "meeting_end": "2018-04"
+}

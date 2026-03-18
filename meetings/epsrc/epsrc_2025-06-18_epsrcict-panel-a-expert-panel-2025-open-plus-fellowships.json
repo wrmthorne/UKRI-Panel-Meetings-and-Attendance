@@ -1,0 +1,136 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1131",
+  "meeting_name": "EPSRC:ICT PANEL A, Expert Panel 2025 Open Plus Fellowships",
+  "meeting_convenor": "N South",
+  "applications": [
+    {
+      "application_id": "APP47554",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP62432",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Ventre",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "J Andreu-Perez",
+      "role": "Panellist",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "C Bentley",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "M Caminati",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "J Clark",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "H Kalutarage",
+      "role": "Panellist",
+      "organisation": "Robert Gordon University"
+    },
+    {
+      "name": "L Liu",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Z Luo",
+      "role": "Panellist",
+      "organisation": "Royal Holloway, University of London"
+    },
+    {
+      "name": "S Parsons",
+      "role": "Panellist",
+      "organisation": "University of Lincoln"
+    },
+    {
+      "name": "A Rajan",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "A Rauniyar",
+      "role": "Panellist",
+      "organisation": "SINTEF"
+    },
+    {
+      "name": "P Rebeschini",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "S Reeves",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "E Robinson",
+      "role": "Panellist",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "A Tsourdos",
+      "role": "Panellist",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "M Vallati",
+      "role": "Panellist",
+      "organisation": "University of Huddersfield"
+    },
+    {
+      "name": "T Watson",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "K Wong-Lin",
+      "role": "Panellist",
+      "organisation": "University of Ulster"
+    },
+    {
+      "name": "L Yang",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-06-18",
+  "meeting_end": "2025-06-18"
+}

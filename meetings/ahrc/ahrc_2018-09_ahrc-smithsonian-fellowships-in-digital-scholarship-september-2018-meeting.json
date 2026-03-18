@@ -1,0 +1,63 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "7",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006028/1",
+      "lead_applicant": "Emma Reisz",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Reframing the Networks and Visualities of Imperial War Photography: Felice Beato in Asia",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S005994/1",
+      "lead_applicant": "Caitlin Condell",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Design Impact, Archival  Discovery, and  Digital  Engagement: Expanding  the  Story  of  Modernist  E.  McKnight Kauffer",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006001/1",
+      "lead_applicant": "Emily Orr",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Design Impact, Archival Discovery, and Digital Engagement: Expanding the Story of Modernist E. McKnight Kauffer",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006044/1",
+      "lead_applicant": "Elspeth Haston",
+      "lead_organisation": "Royal Botanic Garden Edinburgh",
+      "title": "Designing a state-of-the-art taxonomic research workstation integrating digital and physical resources",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006036/1",
+      "lead_applicant": "Marie Foulston",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Videogames: Perspectives from the Museum",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005986/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005862/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "AHRC-Smithsonian Fellowships in Digital Scholarship, September 2018 meeting",
+  "source": "AHRC Smithsonian Fellowships in Digital Scholarship, September 2018 meeting.xlsx",
+  "meeting_start": "2018-09",
+  "meeting_end": "2018-09"
+}

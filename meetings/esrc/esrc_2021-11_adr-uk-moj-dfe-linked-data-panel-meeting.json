@@ -1,0 +1,126 @@
+{
+  "council": "ESRC",
+  "year": "2021",
+  "count_of_applications": "19",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/W002647/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W002345/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W002221/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W002620/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W002531/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002337/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002477/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002418/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00223X/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002329/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002167/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002205/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002213/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002590/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W00268X/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002698/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002604/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002558/1"
+    },
+    {
+      "opportunity": "ADR UK MoJ DfE Data 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W002442/1"
+    }
+  ],
+  "meeting_name": "ADR UK MoJ DfE Linked Data Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2021-11",
+  "meeting_end": "2021-11"
+}

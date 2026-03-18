@@ -1,0 +1,152 @@
+{
+  "council": "MRC",
+  "count_of_applications": "28",
+  "count_of_awards": "0",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 38 out of 66 applications did not pass an initial shortlisting stage and were not considered further.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP36276"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP40526"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP32102"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP32354"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP32790"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP38339"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP34840"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP33372"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41712"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP39126"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP39806"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP34378"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP41961"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP36549"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP36435"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP37464"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP40099"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP36583"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP37503"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP37057"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP32236"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP38673"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP40000"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP40021"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP40229"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41169"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP37997"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP39077"
+    }
+  ],
+  "meeting_name": "Infections and immunity Board 19-21 November 2024",
+  "source": "Infections-and-immunity-board/MRC-250225-TFSWebTransparencySpreadsheet-IIB-November-2024.xlsx",
+  "meeting_start": "2024-11-19",
+  "meeting_end": "2024-11-19"
+}

@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom Meeting",
+  "panel_secretary": "Jessica Surma",
+  "panellists": [
+    {
+      "name": "Ian Boyd St",
+      "role": "Chair",
+      "organisation": "Andrews"
+    },
+    {
+      "name": "John Shepherd",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Han Lindeboom NIOZ",
+      "role": "Member",
+      "organisation": "University of Wageningen"
+    },
+    {
+      "name": "Steven Degraer Royal Belgian",
+      "role": "Member",
+      "organisation": "Institute of Natural Sciences"
+    },
+    {
+      "name": "Emma Sheehan",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    }
+  ],
+  "meeting_name": "Influence of Man-made Structures in the Ecosystem (INSITE) Moderating Panel",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-INSITE-060520.pdf",
+  "meeting_start": "2020-03-11",
+  "meeting_end": "2020-03-11"
+}

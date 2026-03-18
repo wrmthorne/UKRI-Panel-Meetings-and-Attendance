@@ -1,0 +1,89 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1474",
+  "meeting_name": "OPP916: Programme Grant Full ICT Interview Panel October 2025",
+  "meeting_convenor": "D Brandao Farias",
+  "applications": [
+    {
+      "application_id": "APP73672",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "916",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Programme Grants - Full Applications - Spring 2025"
+    },
+    {
+      "application_id": "APP73987",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "916",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Programme Grants - Full Applications - Spring 2025"
+    },
+    {
+      "application_id": "APP78835",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "916",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Programme Grants - Full Applications - Spring 2025"
+    },
+    {
+      "application_id": "APP79417",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Pending",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "916",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Programme Grants - Full Applications - Spring 2025"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Cowling",
+      "role": "Chair",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "V Falko",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "S Salous",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "N Trigoni",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-10-14",
+  "meeting_end": "2025-10-14"
+}

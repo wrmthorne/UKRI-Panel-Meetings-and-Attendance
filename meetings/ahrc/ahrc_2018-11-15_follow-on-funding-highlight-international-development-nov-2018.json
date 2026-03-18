@@ -1,0 +1,393 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-368014432",
+  "meeting_name": "Follow-on Funding Highlight: International Development Nov 2018",
+  "applications": [
+    {
+      "application_id": "AH/S005757/1",
+      "route": "Standard",
+      "lead_applicant": "Siobhan Wills",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Ulster",
+      "title": "The Port-au-Prince-Rio Connection: 'Collateral Damage' by UN Troops in Haiti and Brazilian Troops in Rio",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005730/1",
+      "route": "Standard",
+      "lead_applicant": "Emma Crewe",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "SOAS University of London",
+      "title": "Reducing Inequalities in Public Engagement in Myanmar",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00582X/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Heritage",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Beyond exchange: raising the value, increasing flow and ensuring socio-economic impact of arts & cultural resources in peripheral territories (Brazil)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005927/1",
+      "route": "Standard",
+      "lead_applicant": "Michelle Maria Keown",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Navigating Futures: arts education as a route to youth empowerment and pedagogical innovation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005625/1",
+      "route": "Standard",
+      "lead_applicant": "Julie Cupples",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Visibilizing Afro cultural connections and geopolitical dynamics in Nicaragua, Colombia, San Andrés and Providencia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005579/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Cooke",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Leeds",
+      "title": "Supporting Vulnerable Children to become Youth Leaders in South Africa: Shaping the Future of the Isibindi Safe Park Model Nationally",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005951/1",
+      "route": "Standard",
+      "lead_applicant": "Adrian Anthony Evans",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Bradford",
+      "title": "Building Resilience Wellbeing and Cohesion in Displaced Societies Using Digital Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005684/1",
+      "route": "Standard",
+      "lead_applicant": "Emmanuel Tsekleves",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Lancaster University",
+      "title": "ProtoPolicyAsia: empowering local communities and Government in Malaysia in addressing social issues in ageing and disabilities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00579X/1",
+      "route": "Standard",
+      "lead_applicant": "Jennifer Barclay",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of East Anglia",
+      "title": "'Disaster passed'. Resilient Caribbean futures via shared knowledge of recent disasters.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005846/1",
+      "route": "Standard",
+      "lead_applicant": "Laura Jeffery",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Edinburgh",
+      "title": "MARAM: Mobilising Access to Rights for Artists in Morocco",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005919/1",
+      "route": "Standard",
+      "lead_applicant": "Shahaduz Zaman",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of Sussex",
+      "title": "Partnership to ensure the sustainability of a public health palliative care project in Bangladesh through community theater: A follow on project",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005900/1",
+      "route": "Standard",
+      "lead_applicant": "Goya Irene Wilson Vasquez",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "University of Bristol",
+      "title": "Creativity for Peace Festival: Creative Methodologies for Unearthing Hidden War Stories",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005765/1",
+      "route": "Standard",
+      "lead_applicant": "George Edward Torrens",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "Loughborough University",
+      "title": "Raising awareness of inclusive crafts: building capacity and self-sufficiency of communication within the Charity SAFOD and the Countries of SA.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005870/1",
+      "route": "Standard",
+      "lead_applicant": "Hazel Marsh",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "University of East Anglia",
+      "title": "The Art of Disaster Risk Reduction: an arts-based approach to strengthening community and institutional capacity in Colombia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005978/1",
+      "route": "Standard",
+      "lead_applicant": "Ananda Breed",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "University of Lincoln",
+      "title": "Ubwuzu: Shaping the Rwandan National Curriculum through Arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005897/1",
+      "route": "Standard",
+      "lead_applicant": "Benjamin James Parry",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "Bath Spa University",
+      "title": "Rethinking waste and the logics of disposability: Compound 13 Lab",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005773/1",
+      "route": "Standard",
+      "lead_applicant": "Gobinda Gopal Chowdhury",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "Northumbria University",
+      "title": "LeaPS: Learning from the Past to create a Sustainable society",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005889/1",
+      "route": "Standard",
+      "lead_applicant": "Madhu Krishnan",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "University of Bristol",
+      "title": "Creative Writing and Translation for Peace",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005641/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Clare Kerr",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "King's College London",
+      "title": "ART AND RECONCILIATION - OPEN CALLS AND THE LIVING MUSEUM: INNOVATION, RESEARCH AND THE HISTORY MUSEUM OF BOSNIA AND HERCEGOVINA",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005714/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Ashmore",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "University of Brighton",
+      "title": "Guernica Remakings, North with South: research into the practice of cross-cultural translation through making, impact and engagement.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007903/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Harrison",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "SOAS University of London",
+      "title": "Engaging Grassroots Perspectives on Health and Well Being in Northeast Thailand and Lao PDR",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005803/1",
+      "route": "Standard",
+      "lead_applicant": "Alex Ungprateeb Flynn",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "Durham University",
+      "title": "Activating the Arts for International Development: Community Education, Innovative Models and Transnational Networks",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005668/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Burton",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "Newcastle University",
+      "title": "New Engagements to enhance artists' livelihoods in East Africa: Art; Writing; Work",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005706/1",
+      "route": "Standard",
+      "lead_applicant": "Erik Knudsen",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "University of Central Lancashire",
+      "title": "StoryLab Skills Training For Democratised Film Industries",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005749/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Richard Gready",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "University of York",
+      "title": "Chittagong, Makerere, and York Application for Follow-on Funding",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00596X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005633/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005722/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005811/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005838/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005854/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005943/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007989/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007997/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Robert Bickers",
+      "organisation": "University of Bristol",
+      "role": "Chair"
+    },
+    {
+      "name": "Anna Bryson",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Lizelle Bisschoff",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Sandip Hazareesingh",
+      "organisation": "Norwich University of the Arts",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Ginger",
+      "organisation": "Northeastern University",
+      "role": "Member"
+    },
+    {
+      "name": "David Lambert",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "David Roger Cotterrell",
+      "organisation": "Canterbury Christ Church University",
+      "role": "Member"
+    },
+    {
+      "name": "Sarita Malik",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-11-15",
+  "meeting_end": "2018-11-15"
+}

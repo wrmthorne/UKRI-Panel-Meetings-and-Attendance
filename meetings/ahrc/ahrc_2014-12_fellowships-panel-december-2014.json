@@ -1,0 +1,148 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "19",
+  "count_of_awards": "10",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M00659X/1",
+      "lead_applicant": "Daniel Grimley",
+      "lead_organisation": "University of Oxford",
+      "title": "Delius, Modernism, and the Sound of Place",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005682/1",
+      "lead_applicant": "Catriona Kelly",
+      "lead_organisation": "University of Oxford",
+      "title": "The Soviet Cine-Underground: Lenfil'm (the Leningrad State Film Studio) and the Transformation of Late Soviet Culture, 1956-1991",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M006662/1",
+      "lead_applicant": "Rory Cormac",
+      "lead_organisation": "University of Nottingham",
+      "title": "Most Unusual Measures: British Approaches to Covert Activity, 1945-68",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005569/1",
+      "lead_applicant": "Helen Steward",
+      "lead_organisation": "University of Leeds",
+      "title": "Persons as Animals: Understanding the Animal Bases of Agency, Perceptual Knowledge and Thought",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M006530/1",
+      "lead_applicant": "Robert Stern",
+      "lead_organisation": "University of Sheffield",
+      "title": "The Ethical Demand: Loegstrup's Ethics and Its Implications",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M006468/1",
+      "lead_applicant": "Gleider Hernández",
+      "lead_organisation": "Durham University",
+      "title": "Constructing Authority in International Law",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M00600X/1",
+      "lead_applicant": "Dale Townshend",
+      "lead_organisation": "University of Stirling",
+      "title": "Writing Britain's Ruins, 1700--1850: The Architectural Imagination",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008274/1",
+      "lead_applicant": "Flora Samuel",
+      "lead_organisation": "University of Sheffield",
+      "title": "Evidencing and Communicating the Value of Architects",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M006654/1",
+      "lead_applicant": "Andrew John McStay",
+      "lead_organisation": "Bangor University",
+      "title": "Empathic Media: Theory-Building and Knowledge-Exchange with Industry, Regulators and NGOs",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M00662X/1",
+      "lead_applicant": "Andrew Dilley",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Commerce and the Commonwealth: Business Associations, Political Culture, and Governance, 1886-1975",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005828/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006638/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006476/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006433/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008134/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005593/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005755/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006573/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008355/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Fellowships Panel  - December 2014",
+  "source": "Fellowships Panel December 2014.xlsx",
+  "meeting_start": "2014-12",
+  "meeting_end": "2014-12"
+}

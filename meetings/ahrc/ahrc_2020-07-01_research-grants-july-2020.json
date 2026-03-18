@@ -1,0 +1,213 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-573982435",
+  "meeting_name": "Research Grants - July 2020",
+  "applications": [
+    {
+      "application_id": "AH/V004417/1",
+      "route": "Standard",
+      "lead_applicant": "William Pettigrew",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Lancaster University",
+      "title": "The Legacies of the British Slave Trade: The Structures and Significance of British Investment in the Transatlantic Slave Trade, c. 1550-1807",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013400/1",
+      "route": "Standard",
+      "lead_applicant": "Liba Taub",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Cambridge",
+      "title": "Tools of Knowledge: Modelling the Creative Communities of the Scientific Instrument Trade, 1550-1914",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V003313/1",
+      "route": "Standard",
+      "lead_applicant": "Anna May Whitelock",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "City, University of London",
+      "title": "The Visible Crown: Queen Elizabeth II and the Caribbean, 1952 to the present.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001175/1",
+      "route": "Standard",
+      "lead_applicant": "Louise Ainsley Jackson",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Gender Equalities at Work: an Interdisciplinary History of 50 Years of Legislation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004190/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T007834/1",
+      "route": "Early Career",
+      "lead_applicant": "Jim Donaghey",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Ulster",
+      "title": "Failed States and Creative Resistances: The Everyday Life of Punks in Belfast, Banda Aceh, Mitrovica and Soweto",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008709/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008792/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004980/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V005235/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004050/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V005316/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T013575/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V005464/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V004239/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T013508/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Martin Johnes",
+      "organisation": "Brunel University London",
+      "role": "Chair"
+    },
+    {
+      "name": "Adam Stock",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Elizabeth Anne New",
+      "organisation": "Aberystwyth University",
+      "role": "Member"
+    },
+    {
+      "name": "Kerri Louise Andrews",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Robert Harry Knifton",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Agnes Gulyas",
+      "organisation": "Canterbury Christ Church University",
+      "role": "Member"
+    },
+    {
+      "name": "Fiona Anne Hackney",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Matthew Smith",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-07-01",
+  "meeting_end": "2020-07-01"
+}

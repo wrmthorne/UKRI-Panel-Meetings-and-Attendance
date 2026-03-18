@@ -1,0 +1,95 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "14",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R006482/1",
+      "lead_applicant": "Ian Gregory",
+      "lead_organisation": "Lancaster University",
+      "title": "Space and Narrative in the Digital Humanities: A Research Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R006881/1",
+      "lead_applicant": "Bob Giddings",
+      "lead_organisation": "Northumbria University",
+      "title": "Future of the City Centre",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005249/1",
+      "lead_applicant": "Richard Bourke",
+      "lead_organisation": "University of Cambridge",
+      "title": "History in the Humanities and Social Sciences",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R007586/1",
+      "lead_applicant": "Nicola Watson",
+      "lead_organisation": "Open University",
+      "title": "Dreaming Romantic Europe",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006733/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00563X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005168/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007691/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006466/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006393/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006318/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005524/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007128/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006946/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, September 2017",
+  "source": "Research Networking, September 2017 Moderation.xlsx",
+  "meeting_start": "2017-09",
+  "meeting_end": "2017-09"
+}

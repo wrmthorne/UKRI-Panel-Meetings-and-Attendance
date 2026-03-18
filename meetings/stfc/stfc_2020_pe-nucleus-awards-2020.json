@@ -1,0 +1,82 @@
+{
+  "council": "STFC",
+  "year": "2020",
+  "count_of_applications": "10",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/V000470/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/V000608/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/V000616/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005742/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005777/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005696/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005750/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005718/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005734/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE Nucleus Awards 2020",
+      "year": "2020",
+      "application_id": "ST/T005807/1",
+      "rank": "10"
+    }
+  ],
+  "meeting_name": "PE Nucleus Awards 2020",
+  "source": "Public-engagement-PE-legacy-nucleus-and-SPARK-awar/STFC-251021-PENucleusAwards-2020-RankingList.xlsx",
+  "meeting_start": "2020",
+  "meeting_end": "2020"
+}

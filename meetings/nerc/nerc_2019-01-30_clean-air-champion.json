@@ -1,0 +1,79 @@
+{
+  "council": "NERC",
+  "count_of_applications": "4",
+  "count_of_awards": "1",
+  "year": "2019",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/T002069/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/T002107/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/T002093/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/T002077/1",
+      "rank": "4"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jim Longhurst",
+      "role": "Chair",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Richard Ball",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "David Carruthers Cambridge Environmental",
+      "role": "Member",
+      "organisation": "Research"
+    },
+    {
+      "name": "Susan Gathercole",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Neil Pearce",
+      "role": "Member",
+      "organisation": "London School of Hygiene and Tropical"
+    },
+    {
+      "name": "Claire Reeves",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Dudley Shallcross",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Roland Wolf",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    }
+  ],
+  "meeting_name": "Clean Air Champion",
+  "source": "Clean Air Champion - February 2019.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-CleanAir-Wave1-170119.pdf",
+  "meeting_start": "2019-01-30",
+  "meeting_end": "2019-01-30"
+}

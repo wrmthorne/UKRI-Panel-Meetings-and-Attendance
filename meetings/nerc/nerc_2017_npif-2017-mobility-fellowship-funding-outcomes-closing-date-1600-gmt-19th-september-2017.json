@@ -1,0 +1,42 @@
+{
+  "council": "NERC",
+  "count_of_applications": "5",
+  "count_of_awards": "5",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R013276/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/R013128/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R013411/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "score": "6",
+      "application_id": "NE/R013012/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "score": "5",
+      "application_id": "NE/R013225/1",
+      "rank": "5"
+    }
+  ],
+  "meeting_name": "NPIF 2017 Mobility Fellowship funding outcomes Closing Date: 16:00 GMT 19th September 2017",
+  "source": "NERC-061021-NPIF2017MobilityFellowships-FundingOutcomes.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

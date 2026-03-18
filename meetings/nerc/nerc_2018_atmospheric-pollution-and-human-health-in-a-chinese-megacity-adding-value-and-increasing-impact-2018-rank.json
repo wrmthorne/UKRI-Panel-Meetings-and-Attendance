@@ -1,0 +1,42 @@
+{
+  "council": "NERC",
+  "count_of_applications": "6",
+  "count_of_awards": "4",
+  "year": "2018",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S006680/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S006699/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S006729/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S006648/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006702/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006737/1",
+      "rank": "6"
+    }
+  ],
+  "meeting_name": "Atmospheric Pollution and Human Health in a Chinese Megacity: adding value and increasing impact 2018 Rank",
+  "source": "Atmospheric Pollution and Human Health in a Chinese Megacity - adding value and increasing impact - April 2018.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

@@ -1,0 +1,142 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "21",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R003246/1",
+      "lead_applicant": "Alannah Tomkins",
+      "lead_organisation": "Keele University",
+      "title": "Small bills and petty finance: co-creating the history of the Old Poor Law",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R001251/1",
+      "lead_applicant": "David Parker",
+      "lead_organisation": "University of Birmingham",
+      "title": "CODEX ZACYNTHIUS",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R00014X/1",
+      "lead_applicant": "Paul Crawford",
+      "lead_organisation": "University of Nottingham",
+      "title": "Florence Nightingale Comes Home for 2020:an historico-literary analysis of her family life",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R000123/1",
+      "lead_applicant": "Clare Saunders",
+      "lead_organisation": "University of Exeter",
+      "title": "Designing a Sensibility for Sustainable Clothing (S4S)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P015093/1",
+      "lead_applicant": "Murray Pittock",
+      "lead_organisation": "University of Glasgow",
+      "title": "The Edinburgh Works of Allan Ramsay",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001383/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000034/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00160X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001693/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001553/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001502/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P013724/1",
+      "lead_applicant": "Fay Hield",
+      "lead_organisation": "University of Sheffield",
+      "title": "Modern Fairies and Loathly Ladies",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014984/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014968/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001901/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001707/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015158/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015123/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001669/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001537/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001618/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, late June 2017 Panel Meeting",
+  "source": "1706-late-research-grants-meeting.xlsx",
+  "meeting_start": "2017-06",
+  "meeting_end": "2017-06"
+}

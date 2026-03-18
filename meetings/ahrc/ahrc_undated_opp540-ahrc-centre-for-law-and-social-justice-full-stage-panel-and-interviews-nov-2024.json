@@ -1,0 +1,70 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendanceTFSApplications/PanelSelectPage",
+  "meeting_name": "OPP540: AHRC Centre for Law and Social Justice Full Stage Panel and Interviews Nov 2024",
+  "applications": [
+    {
+      "application_id": "40765",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "38617",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "39522",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "4"
+    },
+    {
+      "application_id": "38818",
+      "title": "The Centre for People's Justice",
+      "score": "9",
+      "outcome": "Successful",
+      "lead_applicant": "Helen Stalford",
+      "lead_organisation": "University of Liverpool",
+      "rank": "1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Zoe Trodd",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "AmbreenaManji",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "Simon Green",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Sophie Otiende",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Wendy Mcmahon",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "14",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S005498/1",
+      "lead_applicant": "Rory Naismith",
+      "lead_organisation": "King's College London",
+      "title": "Foundations of Gold and Silver",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S005692/1",
+      "lead_applicant": "Mariza Dima",
+      "lead_organisation": "Brunel University London",
+      "title": "A framework for designing Mixed Reality situated learning experiences in cultural heritage sites using AR glasses",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S00310X/1",
+      "lead_applicant": "Louise Miskell",
+      "lead_organisation": "Swansea University",
+      "title": "The Social Worlds of Steel. Re-thinking Industrial History and Heritage",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S003711/1",
+      "lead_applicant": "Philip Shaw",
+      "lead_organisation": "University of Leicester",
+      "title": "Wordsworth 2020",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S005226/1",
+      "lead_applicant": "Emily Thomas",
+      "lead_organisation": "Durham University",
+      "title": "Inventing Time: Past, Present, and Future in British Metaphysics 1878-1938",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S006281/1",
+      "lead_applicant": "Sinead O'Sullivan",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Crafting knowledge in the early medieval West: Glosses, learning and culture, circa 800-1050",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S004750/1",
+      "lead_applicant": "Catherine Spencer",
+      "lead_organisation": "University of St Andrews",
+      "title": "Green Unpleasant Land: Art, Abstraction and the Politics of Location",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S004874/1",
+      "lead_applicant": "Hedi Viterbo",
+      "lead_organisation": "University of Essex",
+      "title": "Rethinking Child Law and Policy",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00565X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003703/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00355X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005080/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00629X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003029/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, Dec 2018 panel meeting",
+  "source": "Leadership Fellows Panel, December 2018 Meeting.xlsx",
+  "meeting_start": "2018-12",
+  "meeting_end": "2018-12"
+}

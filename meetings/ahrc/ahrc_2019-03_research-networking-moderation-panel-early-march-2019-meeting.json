@@ -1,0 +1,115 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "15",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006664/1",
+      "lead_applicant": "Gareth White",
+      "lead_organisation": "Royal Central Sch of Speech and Drama",
+      "title": "Playing with intimacy & intensity: an interdisciplinary network for participatory performance practice.",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S004963/1",
+      "lead_applicant": "Cristian Tileaga",
+      "lead_organisation": "Loughborough University",
+      "title": "New challenges for post-communist remembrance cultures: Interdisciplinary perspectives in transitional justice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006338/1",
+      "lead_applicant": "Daniel Whiting",
+      "lead_organisation": "University of Southampton",
+      "title": "Higher-Order Evidence in Epistemology, Ethics, and Aesthetics",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S004831/1",
+      "lead_applicant": "Rachel Willie",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Soundscapes in the Early Modern World",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006397/1",
+      "lead_applicant": "Rebecca Fraser",
+      "lead_organisation": "University of East Anglia",
+      "title": "Black Female Intellectuals in Historical and Contemporary Context",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007229/1",
+      "lead_applicant": "Jean Stubbs",
+      "lead_organisation": "University of London",
+      "title": "Commodity Frontiers and Environmental Change in a Challenged Coastal Region of Cuba",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S003738/1",
+      "lead_applicant": "Connal Parsley",
+      "lead_organisation": "University of Kent",
+      "title": "Law and the Human",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006354/1",
+      "lead_applicant": "Jonathan Hicks",
+      "lead_organisation": "Newcastle University",
+      "title": "Mapping Music History",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S004165/1",
+      "lead_applicant": "Janet Wilson",
+      "lead_organisation": "University of Northampton",
+      "title": "Diaspora Screen Media Network: Charting Global Imaginaries",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006559/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005374/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00601X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006079/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006265/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005439/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, early March 2019 Meeting",
+  "source": "Research Networking, early March Moderation.xlsx",
+  "meeting_start": "2019-03",
+  "meeting_end": "2019-03"
+}

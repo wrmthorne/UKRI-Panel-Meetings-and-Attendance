@@ -1,0 +1,51 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Felcy Fernandes",
+  "panellists": [
+    {
+      "name": "Madeleine Humphreys",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Adrian Hartley",
+      "role": "Deputy Chair",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Gaye Bayrakci",
+      "role": "Member",
+      "organisation": "National Oceanography Centre,"
+    },
+    {
+      "name": "Philip Benson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Simon Blockley Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Marcelo Galdos",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Linda Kirstein",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Sandhya Patidar",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    }
+  ],
+  "meeting_name": "NERC Independent Research Fellowship 2023",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-110424-Independent-Research-Fellowship-Interview-Panels-for-the-8-November-2023-closing-date.pdf",
+  "meeting_start": "2024-04-16",
+  "meeting_end": "2024-04-17"
+}

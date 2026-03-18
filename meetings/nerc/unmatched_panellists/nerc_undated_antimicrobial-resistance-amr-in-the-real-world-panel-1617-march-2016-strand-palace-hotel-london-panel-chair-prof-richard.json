@@ -1,0 +1,85 @@
+{
+  "council": "NERC",
+  "panellists": [
+    {
+      "name": "Panel Chair:",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Smith",
+      "role": "Member",
+      "organisation": "London School of Hygiene and Tropical Medicine"
+    },
+    {
+      "name": "Panel Members:",
+      "role": "Member"
+    },
+    {
+      "name": "Roger Pickup",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Chris van der Gast",
+      "role": "Member",
+      "organisation": "Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "Lorraine Maltby The",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "John Wallace Rowett Institute",
+      "role": "Member",
+      "organisation": "of Nutrition and Health"
+    },
+    {
+      "name": "James Leigh The",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Julian Ketley",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Timothy Walsh",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Brian Jones",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Nick Thomson Sanger",
+      "role": "Member",
+      "organisation": "Institute"
+    },
+    {
+      "name": "David Aanensen",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Alison Prendiville",
+      "role": "Member",
+      "organisation": "Centre for Competitive Creative Design (C4D)"
+    },
+    {
+      "name": "Henry Buller",
+      "role": "Member",
+      "organisation": "Exeter University"
+    },
+    {
+      "name": "Nick Voulvoulis",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    }
+  ],
+  "meeting_name": "Antimicrobial Resistance (AMR) in the Real World Panel 16/17 March 2016 Strand Palace Hotel, London Panel Chair: Prof Richard Smith London School of Hygiene and Tropical Medicine",
+  "source": "NERC-funding-assessment-panel-members-2015/amr-panel-march2016.pdf"
+}

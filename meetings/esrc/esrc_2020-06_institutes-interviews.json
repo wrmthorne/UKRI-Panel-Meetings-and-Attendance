@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2020",
+  "count_of_applications": "2",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "ESRC Institutes",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/T014334/1"
+    },
+    {
+      "opportunity": "ESRC Institutes",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T014431/1"
+    }
+  ],
+  "meeting_name": "Institutes Interviews",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2020-06",
+  "meeting_end": "2020-06"
+}

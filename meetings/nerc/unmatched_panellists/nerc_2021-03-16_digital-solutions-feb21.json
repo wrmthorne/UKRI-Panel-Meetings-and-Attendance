@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom video conference",
+  "panel_secretary": "Matthew Chisholm",
+  "panellists": [
+    {
+      "name": "Iain Williams Natural Environment",
+      "role": "Chair",
+      "organisation": "Research Council"
+    },
+    {
+      "name": "Jon Blower Institute",
+      "role": "Member",
+      "organisation": "for Environmental Analytics"
+    },
+    {
+      "name": "Emma Gordon Administrative Data",
+      "role": "Member",
+      "organisation": "Research UK"
+    },
+    {
+      "name": "Stephen",
+      "role": "Member",
+      "organisation": "Mobbs"
+    },
+    {
+      "name": "Victoria Moody",
+      "role": "Member",
+      "organisation": "Jisc"
+    }
+  ],
+  "meeting_name": "Digital Solutions FEB21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-DigitalSolutions-180221.pdf",
+  "meeting_start": "2021-03-16",
+  "meeting_end": "2021-03-16"
+}

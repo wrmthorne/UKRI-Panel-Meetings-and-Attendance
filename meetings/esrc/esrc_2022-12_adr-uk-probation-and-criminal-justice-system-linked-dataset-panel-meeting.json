@@ -1,0 +1,36 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "4",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "ADR UK Criminal Justice 2022",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X003450/1"
+    },
+    {
+      "opportunity": "ADR UK Criminal Justice 2022",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X003566/1"
+    },
+    {
+      "opportunity": "ADR UK Criminal Justice 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X003558/1"
+    },
+    {
+      "opportunity": "ADR UK Criminal Justice 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X00354X/1"
+    }
+  ],
+  "meeting_name": "ADR UK  Probation and Criminal Justice System linked dataset Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-12",
+  "meeting_end": "2022-12"
+}

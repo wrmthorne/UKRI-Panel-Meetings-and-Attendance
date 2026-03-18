@@ -1,0 +1,170 @@
+{
+  "council": "NERC",
+  "count_of_applications": "17",
+  "count_of_awards": "5",
+  "year": "2018",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S015949/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S016015/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S015965/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S016031/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S015914/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S01604X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S01599X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S016007/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015973/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015892/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015841/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015558/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015906/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015922/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015981/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S016023/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S015957/1",
+      "rank": "17"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Pullin",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Margaret Bates",
+      "role": "Member",
+      "organisation": "University of Northampton"
+    },
+    {
+      "name": "Christopher Collins",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Janet Dwyer",
+      "role": "Member",
+      "organisation": "University of Gloucestershire"
+    },
+    {
+      "name": "Geoff Frampton",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Adam Hejnowicz",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Andy Jordan",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Liam Kelly",
+      "role": "Member",
+      "organisation": "Scottish Government"
+    },
+    {
+      "name": "Chris",
+      "role": "Member",
+      "organisation": "McOwen UNEP-WCMC"
+    },
+    {
+      "name": "Gillian Petrokofsky",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Jim Poole Natural Resources Wales /",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Ben Shaw",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Andrew Stott",
+      "role": "Member",
+      "organisation": "DEFRA"
+    },
+    {
+      "name": "Nick Voulvoulis",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    }
+  ],
+  "meeting_name": "Environmental Evidence for the Future Initiative November 2018",
+  "source": "Environmental Evidence for the Future November 2018.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2018/EEF NOV18 Panel Membership.pdf",
+  "meeting_start": "2018-12-05",
+  "meeting_end": "2018-12-05"
+}

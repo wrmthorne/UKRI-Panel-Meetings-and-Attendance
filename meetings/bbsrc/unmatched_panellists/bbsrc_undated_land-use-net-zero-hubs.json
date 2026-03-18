@@ -1,0 +1,52 @@
+{
+  "council": "BBSRC",
+  "panellists": [
+    {
+      "name": "Gideon Henderson",
+      "role": "Chair",
+      "organisation": "Defra/University of Oxford"
+    },
+    {
+      "name": "Jan Verhagen",
+      "role": "Deputy Chair",
+      "organisation": "Wageningen University and Research"
+    },
+    {
+      "name": "Romina Rodela Sodertorn",
+      "role": "Member",
+      "organisation": "University Stockholm"
+    },
+    {
+      "name": "Konstantinos Chalvatzis",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Karen Rial-Lovera Nottingham Trent",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Guy Thallon",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Daniel Kindred Anglo American",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Ed Atkins",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Matt Bell Hartpury",
+      "role": "Member",
+      "organisation": "University"
+    }
+  ],
+  "meeting_name": "Land Use Net Zero Hubs",
+  "source": "membership/BBSRC-13032024-BBSRC-Land-Use-Net-Zero-Hubs-panel-membership.pdf"
+}

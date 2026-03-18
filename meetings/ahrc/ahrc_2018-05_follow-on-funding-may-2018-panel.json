@@ -1,0 +1,53 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "5",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000054/1",
+      "lead_applicant": "Adam Dinham",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Reimagining Religion and Belief: equipping public authorities for engagement with the real religious landscape",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013497/1",
+      "lead_applicant": "Rob Ellis",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Animating Heritage and Stigma",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S001603/1",
+      "lead_applicant": "James Daybell",
+      "lead_organisation": "University of Plymouth",
+      "title": "Gendered Interpretations at the Victoria & Albert Museum and the Vasa Museum",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013837/1",
+      "lead_applicant": "Sue Walker",
+      "lead_organisation": "University of Reading",
+      "title": "Transforming science for young people: Marie Neurath and Isotype books for children",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S000763/1",
+      "lead_applicant": "Mervyn Conroy",
+      "lead_organisation": "University of Birmingham",
+      "title": "Phronesis and the Medical Community: Follow on Impact and Engagement",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Follow on Funding May 2018 panel",
+  "source": "Follow-on Funding for Impact and Engagement Q2 2018 Moderation.xlsx",
+  "meeting_start": "2018-05",
+  "meeting_end": "2018-05"
+}

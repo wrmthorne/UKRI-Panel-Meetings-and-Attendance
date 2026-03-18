@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Daniel Knight",
+  "panellists": [
+    {
+      "name": "Antony Morris",
+      "role": "Chair",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "William Austin",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Andrew McCaig",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Joanna Morgan",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "David Thornalley",
+      "role": "Member",
+      "organisation": "University College London"
+    }
+  ],
+  "meeting_name": "UK IODP (SSI) DEC21 UK IODP Site Survey Investigations",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-UKIODP-SiteSurveyInvestigations011221.pdf",
+  "meeting_start": "2022-02-01",
+  "meeting_end": "2022-02-03"
+}

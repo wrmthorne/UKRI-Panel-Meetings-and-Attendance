@@ -1,0 +1,116 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "14",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\n*Please note that the application AH/P007139/1 was exceptionally funded due to its strong strategic fit to the Highlight Notice - UN International Decade for People of African Descent in the Research Networking Scheme.\n*Please note that the application AH/P007074/1 was exceptionally funded due to its strong strategic fit to the Highlight Notice - UN International Decade for People of African Descent in the Research Networking Scheme",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007163/1",
+      "lead_applicant": "Suzanne Scafe",
+      "lead_organisation": "London South Bank University",
+      "title": "African-Caribbean Women's Mobility and Self-Fashioning in Post-Diaspora Contexts.",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007066/1",
+      "lead_applicant": "Zoe Trodd",
+      "lead_organisation": "University of Nottingham",
+      "title": "Black Lives Matter: Usable Pasts and International Futures",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007368/1",
+      "lead_applicant": "Huw Lewis",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Language Revitalization and Socio-cultural Transformation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007031/1",
+      "lead_applicant": "Shawn Sobers",
+      "lead_organisation": "University of the West of England",
+      "title": "Ethiopian Echoes on the British Landscape",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006868/1",
+      "lead_applicant": "Julie McLeod",
+      "lead_organisation": "Northumbria University",
+      "title": "Record DNA: Reconceptualising the life of digital records as the future evidence base",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007910/1",
+      "lead_applicant": "David Grant",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Objects with Objectives: a puppetry in applied drama research network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006930/1",
+      "lead_applicant": "Madhu Krishnan",
+      "lead_organisation": "University of Bristol",
+      "title": "Small Magazines, Literary Networks and Self-Fashioning in Africa and its Diasporas",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P008429/1",
+      "lead_applicant": "Alice Eldridge",
+      "lead_organisation": "University of Sussex",
+      "title": "Humanising Algorithmic Listening",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006884/1",
+      "lead_applicant": "Julie Cupples",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Afro-Latin (in)visibility and the UN Decade: Cultural politics in motion in Nicaragua, Colombia and the UK",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008631/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005152/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007139/1",
+      "lead_applicant": "Andrew Warnes",
+      "lead_organisation": "University of Leeds",
+      "title": "The Diasporic Everyday: Labour, Creativity, Survival",
+      "score": "4*"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007074/1",
+      "lead_applicant": "Nicola Frith",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Reparations for Slavery: From Theory to Praxis",
+      "score": "4*"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008763/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, October 2016",
+  "source": "Research Networking, October 2016 Moderation.xlsx",
+  "meeting_start": "2016-10",
+  "meeting_end": "2016-10"
+}

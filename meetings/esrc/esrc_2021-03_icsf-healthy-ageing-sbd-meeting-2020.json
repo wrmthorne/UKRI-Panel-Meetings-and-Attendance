@@ -1,0 +1,96 @@
+{
+  "council": "ESRC",
+  "year": "2021",
+  "count_of_applications": "14",
+  "count_of_awards": "7",
+  "applications": [
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/V016059/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/V016148/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/V016113/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/V016172/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/V016016/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/V016075/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/V016156/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V016164/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V016121/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V01613X/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V016083/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V016180/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V016091/1"
+    },
+    {
+      "opportunity": "ICSF Healthy Ageing SBD 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V016105/1"
+    }
+  ],
+  "meeting_name": "ICSF Healthy Ageing SBD Meeting 2020",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2021-03",
+  "meeting_end": "2021-03"
+}

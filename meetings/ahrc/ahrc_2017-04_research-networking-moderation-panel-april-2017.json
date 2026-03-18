@@ -1,0 +1,87 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "13",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002703/1",
+      "lead_applicant": "Hyo Yoon Kang",
+      "lead_organisation": "University of Kent",
+      "title": "The Legal Materiality Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001847/1",
+      "lead_applicant": "James Clarke",
+      "lead_organisation": "University of York",
+      "title": "Reason, Right, and Revolution: Practical Philosophy between Kant and Hegel.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002681/1",
+      "lead_applicant": "Graciela Iglesias Rogers",
+      "lead_organisation": "University of Winchester",
+      "title": "THE HISPANIC-ANGLOSPHERE: TRANSNATIONAL NETWORKS AND GLOBAL COMMUNITIES (18TH - 20TH CENTURIES)",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015050/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001650/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001855/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00224X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014526/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001928/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014933/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002231/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001359/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014607/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, April 2017",
+  "source": "1704-research-networking-moderation.xlsx",
+  "meeting_start": "2017-04",
+  "meeting_end": "2017-04"
+}

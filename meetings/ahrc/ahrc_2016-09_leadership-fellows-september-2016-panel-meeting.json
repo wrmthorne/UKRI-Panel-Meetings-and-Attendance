@@ -1,0 +1,116 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "17",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N008952/1",
+      "lead_applicant": "Matt Brennan",
+      "lead_organisation": "University of Edinburgh",
+      "title": "New Directions in Music and Sustainability Research",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P004954/1",
+      "lead_applicant": "Ankhi Mukherjee",
+      "lead_organisation": "University of Oxford",
+      "title": "\"The Psychic Life of the Poor\": A City Unseen in Mumbai, London, and New York",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N010078/1",
+      "lead_applicant": "Lauren Rea",
+      "lead_organisation": "University of Sheffield",
+      "title": "The Billiken Magazine Centenary Project: Children's Literature and Childhood in Argentina 1919-2019",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P003818/1",
+      "lead_applicant": "Matthew Bevis",
+      "lead_organisation": "University of Oxford",
+      "title": "Knowing Edward Lear",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N009770/1",
+      "lead_applicant": "Joshua Hordern",
+      "lead_organisation": "University of Oxford",
+      "title": "Compassion in Healthcare: Practical Policy for Civic Life",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P003893/1",
+      "lead_applicant": "Samantha Walton",
+      "lead_organisation": "Bath Spa University",
+      "title": "Cultures of Nature and Wellbeing: Connecting Health and the Environment through Literature",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P004571/1",
+      "lead_applicant": "Myles Lavan",
+      "lead_organisation": "University of St Andrews",
+      "title": "A probabilistic approach to uncertainty in pre-modern history",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004482/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P000584/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003486/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005098/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004555/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004881/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004202/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005349/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005411/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004334/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, September 2016 panel meeting",
+  "source": "Fellowships, September 2016 Meeting.xlsx",
+  "meeting_start": "2016-09",
+  "meeting_end": "2016-09"
+}

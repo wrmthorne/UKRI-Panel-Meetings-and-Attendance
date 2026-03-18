@@ -1,0 +1,197 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN060",
+  "meeting_name": "EPSRC RI Living Labs Sustainability Panel November 2023",
+  "meeting_convenor": "S Gilligan",
+  "applications": [
+    {
+      "application_id": "APP16943",
+      "title": "Goldilocks convergence tools and best practices for numerical approximations in Density Functional Theory calculations",
+      "lead_organisation": "Science and Technology Facilities Council",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "378232.84",
+      "award_id": "EP/Z530657/1",
+      "opportunity_number": "165",
+      "lead_applicant": "A Elena",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ530657%2F1",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP8062",
+      "title": "Increasing sustainability at the EPR NRF",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "340570.37",
+      "award_id": "EP/Z530670/1",
+      "opportunity_number": "165",
+      "lead_applicant": "E McInnes",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ530670%2F1",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP14317",
+      "title": "Immersion cooling and heat storage",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "1276418.05",
+      "award_id": "EP/Z530682/1",
+      "opportunity_number": "165",
+      "lead_applicant": "A Basden",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ530682%2F1",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP8270",
+      "title": "The Kelvin Living Lab: Towards Net Zero High-Performance Computing",
+      "lead_organisation": "Queen's University Belfast",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "541724.41",
+      "award_id": "EP/Z531054/1",
+      "opportunity_number": "165",
+      "lead_applicant": "H Vandierendonck",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ531054%2F1",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP10914",
+      "title": "Malleability in resource allocation for improved system efficiency in high-performance computing",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "163412.28",
+      "award_id": "EP/Y53061X/1",
+      "opportunity_number": "165",
+      "lead_applicant": "M Parsons",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FY53061X%2F1",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP10853",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "165",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP8156",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "165",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP8189",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "165",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP8884",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "165",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP17459",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "165",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    },
+    {
+      "application_id": "APP9069",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "165",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Living labs to improve the environmental sustainability of research infrastructure"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "K Vere",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "S Asif",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "R Choudhary",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "B Johnston",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "P King",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "W Vanderbauwhede",
+      "role": "Panellist",
+      "organisation": ""
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2023-11-29",
+  "meeting_end": "2023-11-29"
+}

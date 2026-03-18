@@ -1,0 +1,27 @@
+{
+  "council": "MRC",
+  "count_of_applications": "3",
+  "count_of_awards": "3",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/S022880/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S02249X/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S022708/1"
+    }
+  ],
+  "meeting_name": "MRC NIH Partnering Awards in Neurodegeneration Research Round 3 2018  -  23 April 2018",
+  "source": "MRC-NIH-awards-in-neurodegeneration/MRC-111021-MIHParterningAwardsNeurodeenerationResearchRound3-FundingOutcomes-April2018.xlsx",
+  "meeting_start": "2018-04-01",
+  "meeting_end": "2018-04-01"
+}

@@ -1,0 +1,126 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "16",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\n* Please note that Application AH/P006086/1 was exceptionally funded due to it's strong strategic fit to the Highlight Notice - International Development in the Research Networking Scheme\n* Please note that Application AH/P005977/1 was exceptionally funded due to it's strong strategic fit to the Highlight Notice - International Development in the Research Networking Scheme\n* Please note that Application AH/P006078/1 was exceptionally funded due to it's strong strategic fit to the Highlight Notice - International Development in the Research Networking Scheme\n* Please note that Application AH/P007015/1 was exceptionally funded due to it's strong strategic fit to the Highlight Notice - UN International Decade for People of African Descent in the Research Networking Scheme\n* Please note that Application AH/P006957/1 was exceptionally funded due to it's strong strategic fit to the Highlight Notice - UN International Decade for People of African Descent in the Research Networking Scheme",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006914/1",
+      "lead_applicant": "Donna Cherry Leonardi",
+      "lead_organisation": "Durham University",
+      "title": "New explorations into South Sudanese museum collections in Europe",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007260/1",
+      "lead_applicant": "Celia Donert",
+      "lead_organisation": "University of Liverpool",
+      "title": "Legacies of the Roma Genocide in Europe since 1945",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006558/1",
+      "lead_applicant": "Ben Walmsley",
+      "lead_organisation": "University of Leeds",
+      "title": "International Network for Audience Research in the Performing Arts (iNARPA)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005950/1",
+      "lead_applicant": "Roberta Comunian",
+      "lead_organisation": "King's College London",
+      "title": "Understanding And Supporting Creative Economies In Africa: Education, Networks And Policy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006175/1",
+      "lead_applicant": "Sabine Lee",
+      "lead_organisation": "University of Birmingham",
+      "title": "Peace babies' - the unintended consequences of United Nations peacekeeping",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007406/1",
+      "lead_applicant": "Antony Rowland",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Metamodernism",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007309/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006086/1",
+      "lead_applicant": "Steve Cinderby",
+      "lead_organisation": "University of York",
+      "title": "International Development in the Research Networking Scheme - Creative Methodological Innovations for Inclusive Sustainable Transport Planning (CMIIST)",
+      "score": "4*"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005977/1",
+      "lead_applicant": "Alison Ribeiro de Menezes",
+      "lead_organisation": "University of Warwick",
+      "title": "Chilean Refugees and the World University Service",
+      "score": "4*"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006078/1",
+      "lead_applicant": "Paul Gready",
+      "lead_organisation": "University of York",
+      "title": "Creative Activism: Art and Development Alternatives",
+      "score": "4*"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007015/1",
+      "lead_applicant": "Femi Amao",
+      "lead_organisation": "University of Sussex",
+      "title": "'African Union Law': Creativity in Norm Generation to Solve African Problems",
+      "score": "4*"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006957/1",
+      "lead_applicant": "Kehinde Andrews",
+      "lead_organisation": "Birmingham City University",
+      "title": "Blackness in Britain: Beyond the Black Atlantic",
+      "score": "4*"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005985/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007090/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006272/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007082/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, September 2016",
+  "source": "Research Networking, September 2016 Moderation.xlsx",
+  "meeting_start": "2016-09",
+  "meeting_end": "2016-09"
+}

@@ -1,0 +1,80 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "11",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008363/1",
+      "lead_applicant": "Lucia Nagib",
+      "lead_organisation": "University of Reading",
+      "title": "AHRC-FAPESP MoU - Towards an Intermedial History of Brazilian Cinema: Exploring Intermediality as a Historiographic Method",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008444/1",
+      "lead_applicant": "Philip Thomas",
+      "lead_organisation": "University of Huddersfield",
+      "title": "John Cage and the 'Concert for piano and orchestra'",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M00886X/1",
+      "lead_applicant": "Frances Lennard",
+      "lead_organisation": "University of Glasgow",
+      "title": "Situating Pacific barkcloth production in time and place",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008479/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009025/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008932/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009378/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008320/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008800/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009041/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009106/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel B, March 2015 meeting",
+  "source": "Research Grants Panel B, March 2015 meeting.xlsx",
+  "meeting_start": "2015-03",
+  "meeting_end": "2015-03"
+}

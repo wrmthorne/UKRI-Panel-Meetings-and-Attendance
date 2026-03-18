@@ -1,0 +1,82 @@
+{
+  "council": "ESRC",
+  "panellists": [
+    {
+      "name": "Kathy Rastle",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Chair"
+    },
+    {
+      "name": "Chiaki Beis",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Sophie Martin",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Kathryn Oliver",
+      "organisation": "London School of Hygene and Tropical Medicine",
+      "role": "Member"
+    },
+    {
+      "name": "Bridgette Wessels",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Mario Weick",
+      "organisation": "Durham University",
+      "role": "Member"
+    },
+    {
+      "name": "Darren Smith",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "John Mohan",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Olga Biosca",
+      "organisation": "Glasgow Caledonian University",
+      "role": "Member"
+    },
+    {
+      "name": "Monder Ram",
+      "organisation": "Aston University",
+      "role": "Member"
+    },
+    {
+      "name": "Sally Thomas",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Anita Charlesworth",
+      "organisation": "Health Foundation",
+      "role": "Member"
+    },
+    {
+      "name": "Ceri Davies",
+      "organisation": "NatCen",
+      "role": "Member"
+    },
+    {
+      "name": "Lizzy Hawkins",
+      "organisation": "Department for Levelling up, Housing and Communities",
+      "role": "Member"
+    },
+    {
+      "name": "Naomi Leite",
+      "organisation": "SOAS University of London",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "Centre in Community Participation and Connectedness Full Stage Assessment Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx"
+}

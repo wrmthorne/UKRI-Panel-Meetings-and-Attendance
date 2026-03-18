@@ -1,0 +1,54 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009921/1",
+      "lead_applicant": "Jennie Henley",
+      "lead_organisation": "Royal College of Music",
+      "title": "Music and Social Intervention Network - Excellence, inclusion and intervention in music: navigating contexts and building sustainable working practice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P007228/1",
+      "lead_applicant": "Susanne Tietze",
+      "lead_organisation": "Keele University",
+      "title": "Translation and Interpretation Work in Multilingual Business Communities: Roles, Perspectives, Agency",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006361/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008909/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009131/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008925/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006922/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, November 2016",
+  "source": "Research Networking, November 2016 Moderation.xlsx",
+  "meeting_start": "2016-11",
+  "meeting_end": "2016-11"
+}

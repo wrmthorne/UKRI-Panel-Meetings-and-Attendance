@@ -1,0 +1,57 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "7",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M004430/1",
+      "lead_applicant": "Kevin Bales",
+      "lead_organisation": "University of Hull",
+      "title": "The Antislavery Usable Past",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M004376/1",
+      "lead_applicant": "Rodney Harrison",
+      "lead_organisation": "University College London",
+      "title": "Assembling Alternative Futures for Heritage",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M004457/1",
+      "lead_applicant": "Stephen Muir",
+      "lead_organisation": "University of Leeds",
+      "title": "Performing the Jewish Archive",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004511/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004465/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004554/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M004422/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Care For the Future Large Grants Full Proposals - June 2014",
+  "source": "Care For the Future Large Grants Full Proposals June 2014.xlsx",
+  "meeting_start": "2014-06",
+  "meeting_end": "2014-06"
+}

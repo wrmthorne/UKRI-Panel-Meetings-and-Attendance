@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-778232934",
+  "meeting_name": "Research Networking March 2022",
+  "applications": [
+    {
+      "application_id": "AH/W010429/1",
+      "route": "Standard",
+      "lead_applicant": "Victoria Kinsella",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Birmingham City University",
+      "title": "REQUESTED RESUBMISSION Music and Disability: Deconstructing the barriers to full participation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W01047X/1",
+      "route": "Standard",
+      "lead_applicant": "Clare Virginia Hemmings",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "London School of Economics & Pol Sci",
+      "title": "Transnational 'Anti-Gender' Movements and Resistance: Narratives and Interventions",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009315/1",
+      "route": "Standard",
+      "lead_applicant": "Nicolette Milota Makovicky",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Oxford",
+      "title": "Gender Wars: East and South",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010348/1",
+      "route": "Standard",
+      "lead_applicant": "Miranda Matthews",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Ecologies in Practice: Participatory arts methods for engaging young people in climate research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010992/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009706/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010305/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jane Pavitt",
+      "organisation": "Zaha Hadid Foundation",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-03-01",
+  "meeting_end": "2022-03-01"
+}

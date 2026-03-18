@@ -1,0 +1,678 @@
+{
+  "council": "ESRC",
+  "year": "2024",
+  "count_of_applications": "59",
+  "count_of_awards": "59",
+  "panellists": [
+    {
+      "name": "Abigail Powell",
+      "organisation": "University of Lincoln",
+      "role": "Member"
+    },
+    {
+      "name": "Alison Kington",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Angharad Beckett",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Anita Dockley",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Anna Dickson",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Anne Barlow",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Athina Vlachantoni",
+      "organisation": "University of Southampton",
+      "role": "Chair"
+    },
+    {
+      "name": "Cristian Vaccari",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Emma Judge",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Gareth Gaskell",
+      "organisation": "University of York",
+      "role": "Member"
+    },
+    {
+      "name": "Gavin Brookes",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Geraint Ellis",
+      "organisation": "Queen's University Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Giles Pavey",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Giulia Cuccato",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Hanna Zagefka",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Heather Flowe",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Huw Morris",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "James Fletcher",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Jamie Pearce",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Jessica Horst",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Jingchen Zhao",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "John Downey",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "John Galilee",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Julia Carroll",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Jun Du",
+      "organisation": "Aston University",
+      "role": "Member"
+    },
+    {
+      "name": "Kahryn Hughes",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Katherine Watson",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Kevin Paterson",
+      "organisation": "University of Leicester",
+      "role": "Member"
+    },
+    {
+      "name": "Kevin Schurer",
+      "organisation": "University of Cambridge",
+      "role": "Chair"
+    },
+    {
+      "name": "Kevin Morrell",
+      "organisation": "Cranfield University",
+      "role": "Member"
+    },
+    {
+      "name": "Kirstein Rummery",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    },
+    {
+      "name": "Kitty Stewart",
+      "organisation": "London School of Economics",
+      "role": "Member"
+    },
+    {
+      "name": "Laura Dominguez",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Lena Dominelli",
+      "organisation": "University of Stirling",
+      "role": "Member"
+    },
+    {
+      "name": "Louise Phillips",
+      "organisation": "University of Aberdeen",
+      "role": "Member"
+    },
+    {
+      "name": "Manuel Souto Otero",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Green",
+      "organisation": "University of Liverpool",
+      "role": "Member"
+    },
+    {
+      "name": "Mary Zhang",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Melanie Jones",
+      "organisation": "Cardiff University",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Ben-Gad",
+      "organisation": "City, University of London",
+      "role": "Member"
+    },
+    {
+      "name": "Mike Crang",
+      "organisation": "Durham University",
+      "role": "Member"
+    },
+    {
+      "name": "Mike Daly",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Oliver James",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Pam Miller",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Pardip Bans",
+      "organisation": "Advisor Member",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Mizen",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Peggy Froerer",
+      "organisation": "Brunel University",
+      "role": "Member"
+    },
+    {
+      "name": "Qunshan Zhao",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Rowe",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Bracking",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Shireen Kanji",
+      "organisation": "Brunel University",
+      "role": "Member"
+    },
+    {
+      "name": "Simonetta Longhi",
+      "organisation": "University of Reading",
+      "role": "Member"
+    },
+    {
+      "name": "Stefan Bouzarovski",
+      "organisation": "University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Stefan Wolff",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Stefania Vicari",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Susan Harkness",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Svenja Adolphs",
+      "organisation": "University of Nottingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Tommaso Ciarli",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Victoria Simms",
+      "organisation": "Ulster University",
+      "role": "Member"
+    },
+    {
+      "name": "Audrey Sharp",
+      "organisation": "ESRC",
+      "role": "Convenor (Panel A)"
+    },
+    {
+      "name": "Chiaki Beis",
+      "organisation": "ESRC",
+      "role": "Convenor (Panel B)"
+    },
+    {
+      "name": "Luke Moody",
+      "organisation": "ESRC",
+      "role": "Convenor (Panel C)"
+    }
+  ],
+  "applications": [
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503654/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503721/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503794/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503824/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503939/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503861/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503733/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503575/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503617/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503964/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503691/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503745/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503666/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504087/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503629/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50368X/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503757/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503708/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503812/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50371X/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503836/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503459/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503642/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503678/1"
+    },
+    {
+      "opportunity": "OPP145: ESRC responsive mode: research grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503630/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503447/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z504300/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503411/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503538/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503423/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503563/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503368/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503551/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503514/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503435/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50337X/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503587/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503526/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503381/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503460/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503472/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504051/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503484/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50340X/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503496/1"
+    },
+    {
+      "opportunity": "OPP146: ESRC responsive mode: new investigator grants round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503502/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503393/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z503265/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503332/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503344/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503319/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503307/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503290/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503320/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503277/1"
+    },
+    {
+      "opportunity": "OPP147: ESRC responsive mode: secondary data analysis round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503356/1"
+    },
+    {
+      "opportunity": "OPP148: ESRC responsive mode: working with Brazilian researchers round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503599/1"
+    },
+    {
+      "opportunity": "OPP148: ESRC responsive mode: working with Brazilian researchers round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504725/1"
+    },
+    {
+      "opportunity": "OPP150: ESRC responsive mode: UKRI-SBE lead agency opportunity round one",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z503605/1"
+    }
+  ],
+  "meeting_name": "Grant Assessment Panel - Round 1",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2024-08",
+  "meeting_end": "2024-08"
+}

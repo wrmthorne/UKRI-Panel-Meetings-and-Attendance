@@ -1,0 +1,280 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1570",
+  "meeting_name": "EPSRC: Physical Sciences Prioritisation Panel November 2025 - New Investigator Award",
+  "meeting_convenor": "S Lee",
+  "applications": [
+    {
+      "application_id": "APP33600",
+      "title": "RamVis: Spatial RAMan spectroscopy enhanced with sub-cellular VISualization contrast to monitor disease-specific localized native biosignatures",
+      "lead_organisation": "University of Portsmouth",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "571181.7",
+      "award_id": "UKRI3840",
+      "opportunity_number": "320",
+      "lead_applicant": "P Dey",
+      "link": "https://gtr.ukri.org/projects?ref=3840",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP71177",
+      "title": "Molecular Alloys for C-H Functionalisation",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "657811.45",
+      "award_id": "UKRI3753",
+      "opportunity_number": "320",
+      "lead_applicant": "J Boronski",
+      "link": "https://gtr.ukri.org/projects?ref=3753",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP34994",
+      "title": "Gallium nanodroplets enabled liquid artificial enzymes (NanoGaLEs)",
+      "lead_organisation": "University of Southampton",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "533433.64",
+      "award_id": "UKRI3748",
+      "opportunity_number": "320",
+      "lead_applicant": "C Zhang",
+      "link": "https://gtr.ukri.org/projects?ref=3748",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP47850",
+      "title": "High-Precision Modelling of X-ray Spectroscopies for the Nuclear Fuel Cycle",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "518922.67",
+      "award_id": "UKRI3750",
+      "opportunity_number": "320",
+      "lead_applicant": "M Oakley",
+      "link": "https://gtr.ukri.org/projects?ref=3750",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP44509",
+      "title": "Kirigami-reconfigurable electromagnetic metamaterials at microwave frequencies",
+      "lead_organisation": "University of Exeter",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "493535.2",
+      "award_id": "UKRI3749",
+      "opportunity_number": "320",
+      "lead_applicant": "A Powell",
+      "link": "https://gtr.ukri.org/projects?ref=3749",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP53754",
+      "title": "Realising Molecular Upconversion Luminescence via [d-f] Hybrids",
+      "lead_organisation": "University of Southampton",
+      "outcome": "Successful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "526532.4",
+      "award_id": "UKRI3752",
+      "opportunity_number": "320",
+      "lead_applicant": "R Knighton",
+      "link": "https://gtr.ukri.org/projects?ref=3752",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23394",
+      "title": "HemiIndigo ‘Smart’ Chemotherapeutic Anionophores (HI-Scans)",
+      "lead_organisation": "University of Southampton",
+      "outcome": "Successful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "553306.52",
+      "award_id": "UKRI3839",
+      "opportunity_number": "320",
+      "lead_applicant": "G Williams",
+      "link": "https://gtr.ukri.org/projects?ref=3839",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP52265",
+      "title": "Active Quantum Matter: Novel Quantum Phases (Aqua Nova)",
+      "lead_organisation": "Coventry University",
+      "outcome": "Successful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "450902.05",
+      "award_id": "UKRI3751",
+      "opportunity_number": "320",
+      "lead_applicant": "S Wald",
+      "link": "https://gtr.ukri.org/projects?ref=3751",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP41504",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24090",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP42600",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP27401",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP54725",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Thomas",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "O Guy",
+      "role": "Deputy chair",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "J Blakesley",
+      "role": "Panellist",
+      "organisation": "National Physical Laboratory"
+    },
+    {
+      "name": "T Bristow",
+      "role": "Panellist",
+      "organisation": "AstraZeneca"
+    },
+    {
+      "name": "D Diver",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "D Ho",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "F Meng",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "D Murphy",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "A O'Donoghue",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "W Poon",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "J Ruostekoski",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "A Slater",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "N Telling",
+      "role": "Panellist",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "G Teobaldi",
+      "role": "Panellist",
+      "organisation": "Science and Technology Facilities Council"
+    },
+    {
+      "name": "P Topham",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "G Wagner",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "A Zair",
+      "role": "Panellist",
+      "organisation": "King's College London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-11-05",
+  "meeting_end": "2025-11-05"
+}

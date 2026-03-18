@@ -1,0 +1,102 @@
+{
+  "council": "NERC",
+  "meeting_location": "Malaysia",
+  "panel_secretary": "Daniel Knight",
+  "panellists": [
+    {
+      "name": "Bruce Malamud",
+      "role": "Chair",
+      "organisation": "Kings College London"
+    },
+    {
+      "name": "Christopher Holt",
+      "role": "Member",
+      "organisation": "University of Northampton"
+    },
+    {
+      "name": "Laurence Smith SOAS",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Julian Thompson",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Gregory Sambrook Smith",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dominic Reeve",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Chad Staddon",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Alexandre Gagnon",
+      "role": "Member",
+      "organisation": "University of the West of Scotland"
+    },
+    {
+      "name": "Assoc Sombat Chuenchooklin Naresuan University",
+      "role": "Member"
+    },
+    {
+      "name": "Mazlan Hashim Universiti Teknologi Malaysia",
+      "role": "Member"
+    },
+    {
+      "name": "Assoc Kriengsak Srisuk Khon Kaen University",
+      "role": "Member"
+    },
+    {
+      "name": "Asst Preeyaphorn Kosa Suranaree",
+      "role": "Member",
+      "organisation": "University of Technology"
+    },
+    {
+      "name": "Assoc Ngo Duc Thanh",
+      "role": "Member",
+      "organisation": "University of Science and Technology of"
+    },
+    {
+      "name": "Assoc Nguyen Van Lap Ho Chi Minh City Institute of Resources",
+      "role": "Member"
+    },
+    {
+      "name": "Renato Solidum",
+      "role": "Member",
+      "organisation": "DOST"
+    },
+    {
+      "name": "Alan Pineda East Asia",
+      "role": "Member",
+      "organisation": "Solutions Technology"
+    },
+    {
+      "name": "Paolo Tarolli",
+      "role": "Member",
+      "organisation": "University of Padova"
+    },
+    {
+      "name": "Abdul Haris Universitas",
+      "role": "Member",
+      "organisation": "Indonesia"
+    },
+    {
+      "name": "Aris Marfai Universitas Gadjah",
+      "role": "Member",
+      "organisation": "Mada"
+    }
+  ],
+  "meeting_name": "SE Asia Hazards (Newton) FEB18",
+  "source": "NERC-funding-assessment-panel-members-2018/SE Asia Panel Meeting List.pdf",
+  "meeting_start": "2018-07-12",
+  "meeting_end": "2018-07-12"
+}

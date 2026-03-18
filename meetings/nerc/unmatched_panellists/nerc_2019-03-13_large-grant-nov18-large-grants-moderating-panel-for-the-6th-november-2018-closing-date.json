@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Ric Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Chris Brierley",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "James Bull",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Luciana Esteves",
+      "role": "Member",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "Howard Griffiths",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Matthew Heard",
+      "role": "Member",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Janet Hooke",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Simon Mudd",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Christian Pfrang",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Jonathan Reid",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Jacqueline Russell",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Vincent Savolainen",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Louise Sime",
+      "role": "Member",
+      "organisation": "NERC British Antarctic Survey"
+    },
+    {
+      "name": "Mikhail Zubkov",
+      "role": "Member",
+      "organisation": "Scottish Association for Marine Science"
+    }
+  ],
+  "meeting_name": "Large Grant NOV18 Large Grants Moderating Panel for the 6th November 2018 closing date",
+  "source": "NERC-funding-assessment-panel-members-2018/Panel Membership - Large Grants NOV18.pdf",
+  "meeting_start": "2019-03-13",
+  "meeting_end": "2019-03-14"
+}

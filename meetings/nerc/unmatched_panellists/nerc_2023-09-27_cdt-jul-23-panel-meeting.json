@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Sarah Rabbetts",
+  "panellists": [
+    {
+      "name": "Hayley Fowler",
+      "role": "Chair",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Jennie Gilbert",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Mark Ireland",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Jennifer McKinley Queen's",
+      "role": "Member",
+      "organisation": "University of Belfast"
+    },
+    {
+      "name": "Julian Menuge",
+      "role": "Member",
+      "organisation": "University College Dublin"
+    },
+    {
+      "name": "Graeme Nicoll Halliburton",
+      "role": "Member",
+      "organisation": "Landmark"
+    },
+    {
+      "name": "Mark Tibbett",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ],
+  "meeting_name": "CDT JUL 23 Panel Meeting",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-041023-Panel-Meeting-List-CDT-Panel-Meeting-JUL23.pdf",
+  "meeting_start": "2023-09-27",
+  "meeting_end": "2023-09-27"
+}

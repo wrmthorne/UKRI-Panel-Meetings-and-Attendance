@@ -1,0 +1,603 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-641851142",
+  "meeting_name": "Ireland Digital Humanities Research Grants June 2021",
+  "applications": [
+    {
+      "application_id": "AH/W001624/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Doidge",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Brighton",
+      "title": "Tackling Online Hate in Football (TOHIF)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001942/1",
+      "route": "Standard",
+      "lead_applicant": "Seren Griffiths",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "'Project Radiocarbon' - Big Data, integrated cross-national heritage histories",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001667/1",
+      "route": "Standard",
+      "lead_applicant": "Sharon Webb",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Sussex",
+      "title": "Full Stack Feminism in Digital Humanities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001810/1",
+      "route": "Standard",
+      "lead_applicant": "Hilary Robinson",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Loughborough University",
+      "title": "Feminist Art Making Histories.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001985/1",
+      "route": "Standard",
+      "lead_applicant": "Katherine Stuart Forsyth",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Glasgow",
+      "title": "Harnessing digital technologies to transform understanding of ogham writing, from the 4th century to the 21st. Short title: OG(H)AM",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001934/1",
+      "route": "Standard",
+      "lead_applicant": "William Emerson Lamb",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Decoding Hidden Heritages in Gaelic Traditional Narrative with Text-Mining and Phylogenetics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001608/1",
+      "route": "Standard",
+      "lead_applicant": "Dawn Knight",
+      "score": "6",
+      "rank": "7",
+      "lead_organisation": "Cardiff University",
+      "title": "Interactional variation online: harnessing emerging technologies in the digital humanities to analyse online discourse in different workplace contexts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001802/1",
+      "route": "Standard",
+      "lead_applicant": "Keith Lilley",
+      "score": "6",
+      "rank": "8",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "OS200: Digitally Re-Mapping Ireland's Ordnance Survey Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002035/1",
+      "route": "Standard",
+      "lead_applicant": "Samantha Vanderslott",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Oxford",
+      "title": "Typhoid, Cockles, and Terrorism: The turbulent history of Anglo-Irish typhoid control in revolutionary Dublin",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001756/1",
+      "route": "Standard",
+      "lead_applicant": "Keith Mark Johnston",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of East Anglia",
+      "title": "The Invisible Women - Developing a Feminist Approach to Film Archive Metadata and Cataloguing",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001489/1",
+      "route": "Standard",
+      "lead_applicant": "Michael Pidd",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of Sheffield",
+      "title": "C21 Editions: Editing and Publishing in the Digital Age",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00156X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001829/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002094/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001705/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00190X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001632/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001659/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001950/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002027/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001640/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001691/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002124/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001616/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002000/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001403/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001926/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001683/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001845/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "29",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002051/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "30",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001969/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "31",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001799/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "32",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002019/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "33",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001837/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "34",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002108/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "35",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001551/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "36",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001748/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "37",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001268/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "38",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001713/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "39",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00206X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001446/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001519/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001527/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001578/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001594/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001675/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001764/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001780/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001853/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001888/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001896/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001918/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001993/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002086/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002116/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002132/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Melissa Mhairi Terras",
+      "organisation": "University of Edinburgh",
+      "role": "Chair"
+    },
+    {
+      "name": "Francesca Sobande",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Joseph Yannielli",
+      "organisation": "Ravensbourne University London",
+      "role": "Member"
+    },
+    {
+      "name": "David Beavan",
+      "organisation": "The Alan Turing Institute",
+      "role": "Member"
+    },
+    {
+      "name": "Gabriella Giannachi",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Julianne Nyhan",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-06-15",
+  "meeting_end": "2021-06-15"
+}

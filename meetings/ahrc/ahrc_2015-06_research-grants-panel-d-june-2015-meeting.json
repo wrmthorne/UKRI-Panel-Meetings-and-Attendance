@@ -1,0 +1,103 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "14",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M011054/1",
+      "lead_applicant": "Richard Dance",
+      "lead_organisation": "University of Cambridge",
+      "title": "The Gersum Project: the Scandinavian Influence on English Vocabulary",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M010708/1",
+      "lead_applicant": "Irina Nikolaeva",
+      "lead_organisation": "School of Oriental & African Studies",
+      "title": "Prominent possessors",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M010007/1",
+      "lead_applicant": "Mona Baker",
+      "lead_organisation": "The University of Manchester",
+      "title": "Genealogies of Knowledge: The Evolution and Contestation of Concepts across Time and Space",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M011275/1",
+      "lead_applicant": "Richard Bramwell",
+      "lead_organisation": "Kingston University",
+      "title": "Performing hip-hop Englishness: The performance of alternative British identities through rap",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N001184/1",
+      "lead_applicant": "Kirsty Hooper",
+      "lead_organisation": "University of Warwick",
+      "title": "Imperial Entanglements: Transoceanic Basque Networks in British and Spanish Colonialism and their Legacy",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001621/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M010988/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M01066X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011429/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001249/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011011/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001281/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001397/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009467/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel D, June 2015 meeting",
+  "source": "Research Grants Panel D, June 2015 meeting.xlsx",
+  "meeting_start": "2015-06",
+  "meeting_end": "2015-06"
+}

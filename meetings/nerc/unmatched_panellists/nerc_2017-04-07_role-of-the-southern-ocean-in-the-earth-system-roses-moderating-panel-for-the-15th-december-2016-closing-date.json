@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Medical Research Council, London",
+  "panel_secretary": "Dr Lisa Hole",
+  "panellists": [
+    {
+      "name": "Mark Brandon The",
+      "role": "Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "David Thomas",
+      "role": "Member",
+      "organisation": "University of Bangor"
+    },
+    {
+      "name": "Neil Banas",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Frank Dehairs Free",
+      "role": "Member",
+      "organisation": "University, Brussels"
+    },
+    {
+      "name": "Bernard",
+      "role": "Member",
+      "organisation": "Quéguiner Aix-Marseille University, France"
+    }
+  ],
+  "meeting_name": "Role of the Southern Ocean in the Earth System (RoSES) Moderating Panel for the 15th December 2016 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2016/RoSES Moderating Panel.pdf",
+  "meeting_start": "2017-04-07",
+  "meeting_end": "2017-04-07"
+}

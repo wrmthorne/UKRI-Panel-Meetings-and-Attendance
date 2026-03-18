@@ -1,0 +1,164 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "23",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/L014912/1",
+      "lead_applicant": "Mark Knights",
+      "lead_organisation": "University of Warwick",
+      "title": "Corruption in Britain c.1550-1850",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/L014815/1",
+      "lead_applicant": "Robert Bud",
+      "lead_organisation": "Science Museum Group",
+      "title": "Science in the public sphere: Understanding the meanings of \"applied science\" in the era of war, industrial research and modernism, 1900-1939",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/L015536/1",
+      "lead_applicant": "Wendy Webster",
+      "lead_organisation": "University of Huddersfield",
+      "title": "Mixing It: Diversity in Second World War Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/L015064/1",
+      "lead_applicant": "Stefano Evangelista",
+      "lead_organisation": "University of Oxford",
+      "title": "The Love of Strangers: Literary Cosmopolitanism in the English Fin de Siècle",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/L015013/1",
+      "lead_applicant": "Jennifer Susan Spinks",
+      "lead_organisation": "The University of Manchester",
+      "title": "Magic, Diabolism, and Global Religion in European Print Culture, 1500-1700",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/L014874/1",
+      "lead_applicant": "Michael Cullinane",
+      "lead_organisation": "Northumbria University",
+      "title": "Memorial Communities and Presidential Legacy: Remembering Theodore Roosevelt",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M001822/1",
+      "lead_applicant": "Rhiannon Daniels",
+      "lead_organisation": "University of Bristol",
+      "title": "The Renaissance 'Decameron'",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00175X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/L014939/1",
+      "lead_applicant": "Jonathan Saha",
+      "lead_organisation": "University of Bristol",
+      "title": "An Animal History of Colonial Burma",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L011581/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/L014882/1",
+      "lead_applicant": "Richard Flower",
+      "lead_organisation": "University of Exeter",
+      "title": "Cataloguing Damnation: The Birth of Scientific Heresiology in Late Antiquity",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015749/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M001725/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015625/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L014165/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015692/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L014173/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015110/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015072/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015404/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M001873/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L014866/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/L015307/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Fellowships Panel  - June 2014",
+  "source": "Fellowships Panel June 2014.xlsx",
+  "meeting_start": "2014-06",
+  "meeting_end": "2014-06"
+}

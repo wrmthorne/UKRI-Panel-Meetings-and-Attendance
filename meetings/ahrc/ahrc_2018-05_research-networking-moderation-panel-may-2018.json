@@ -1,0 +1,61 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "9",
+  "count_of_awards": "1",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S001301/1",
+      "lead_applicant": "Egle Rindzeviciute",
+      "lead_organisation": "Kingston University",
+      "title": "Nuclear Cultural Heritage: From Knowledge to Practice",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014558/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000984/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002138/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001913/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000550/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001115/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002723/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002162/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, May 2018",
+  "source": "Research Networking, May 2018 Moderation.xlsx",
+  "meeting_start": "2018-05",
+  "meeting_end": "2018-05"
+}

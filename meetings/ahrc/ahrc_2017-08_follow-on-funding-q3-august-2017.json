@@ -1,0 +1,42 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "4",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005621/1",
+      "lead_applicant": "Oliver Craig",
+      "lead_organisation": "University of York",
+      "title": "Consuming Prehistory: feeding Stonehenge follow-on-fund",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004900/1",
+      "lead_applicant": "Victoria Tischler",
+      "lead_organisation": "The University of West London",
+      "title": "The Imagination Café",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R005125/1",
+      "lead_applicant": "Mark Everist",
+      "lead_organisation": "University of Southampton",
+      "title": "'JUPITER: Mozart in the 19th-Century Drawing Room'",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006814/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Follow-on Funding Q3 - August 2017",
+  "source": "Follow-on Funding for Impact and Engagement Q3 2017 Meetings.xlsx",
+  "meeting_start": "2017-08",
+  "meeting_end": "2017-08"
+}

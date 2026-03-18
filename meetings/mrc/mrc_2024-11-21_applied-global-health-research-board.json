@@ -1,0 +1,147 @@
+{
+  "council": "MRC",
+  "count_of_applications": "27",
+  "count_of_awards": "6",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nPlease note: In order to search for awarded applications in Gateway to Research, please use the award number only (for example, for UKRI079 search only 79) and ensure only the 'Project reference' search field is selected.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "UKRI685"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "UKRI676"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41890"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41903"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41894"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "APP50257"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "UKRI680"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41958"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41984"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41916"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "APP50314"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "UKRI681"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP43616"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP42037"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41926"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "UKRI683"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP42117"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41931"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "UKRI684"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP42211"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP42933"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP41915"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP42889"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP42480"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP43017"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP43088"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP47957"
+    }
+  ],
+  "meeting_name": "Applied Global Health Research Board",
+  "source": "Applied-global-health-research-board/MRC-110425-AppliedGlobalHealthResearchBoard-FundingDecisions-20-to-21-Nov2024.xlsx",
+  "meeting_start": "2024-11-21",
+  "meeting_end": "2024-11-21"
+}

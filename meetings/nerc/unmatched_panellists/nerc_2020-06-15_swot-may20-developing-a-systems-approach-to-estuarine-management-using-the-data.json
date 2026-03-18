@@ -1,0 +1,44 @@
+{
+  "council": "NERC",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Tom Doyle",
+  "panellists": [
+    {
+      "name": "John Remedios",
+      "role": "Chair",
+      "organisation": "University of Leicester/National"
+    },
+    {
+      "name": "Matthew Piggott",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Graham Quartly",
+      "role": "Member",
+      "organisation": "Plymouth Marine Laboratory"
+    },
+    {
+      "name": "Funding Partner",
+      "role": "Member",
+      "organisation": "Attendees:"
+    },
+    {
+      "name": "NERC Tom Doyle",
+      "role": "Member"
+    },
+    {
+      "name": "Simon",
+      "role": "Member",
+      "organisation": "Gardner, NERC"
+    },
+    {
+      "name": "UK Space Agency Bertie Archer",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "SWOT MAY20 Developing a systems approach to estuarine management using the data",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-SurfaceWaterOceanTopographySatelliteCalibration-060520.pdf",
+  "meeting_start": "2020-06-15",
+  "meeting_end": "2020-06-15"
+}

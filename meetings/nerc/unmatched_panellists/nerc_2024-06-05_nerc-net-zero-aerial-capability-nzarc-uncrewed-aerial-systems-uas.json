@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote – Via Zoom",
+  "panel_secretary": "Rachel Lamb/Magdalena Basiewicz",
+  "panellists": [
+    {
+      "name": "Gary Cutts Innovate",
+      "role": "Chair",
+      "organisation": "UK"
+    },
+    {
+      "name": "Paul Green National Physical",
+      "role": "Member",
+      "organisation": "Laboratory"
+    },
+    {
+      "name": "Michelle Hamilton",
+      "role": "Member",
+      "organisation": "RAL Space"
+    },
+    {
+      "name": "Peter Kohler",
+      "role": "Member",
+      "organisation": "Centre for Environment, Fisheries and Aquaculture Science"
+    },
+    {
+      "name": "Susan Stevens",
+      "role": "Member",
+      "organisation": "Scottish Environment Protection Agency"
+    }
+  ],
+  "meeting_name": "NERC Net Zero Aerial Capability (NZArC): Uncrewed Aerial Systems (UAS)",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-02072024-NERC-Net-Zero-Aerial-Capability-NZArC-assessment-panel-closing-date-16-April-2024.pdf",
+  "meeting_start": "2024-06-05",
+  "meeting_end": "2024-06-05"
+}

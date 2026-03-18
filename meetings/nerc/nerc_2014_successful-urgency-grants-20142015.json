@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "count_of_applications": "7",
+  "count_of_awards": "7",
+  "year": "2014",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M005879/1",
+      "rank": "2014"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M00788X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M007898/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M017427/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M017478/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M017486/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M021130/1"
+    }
+  ],
+  "meeting_name": "Successful Urgency Grants 2014/2015",
+  "source": "urgency.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

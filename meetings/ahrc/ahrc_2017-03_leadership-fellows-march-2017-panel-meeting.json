@@ -1,0 +1,170 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "23",
+  "count_of_awards": "13",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P009220/1",
+      "lead_applicant": "Adrian Bingham",
+      "lead_organisation": "University of Sheffield",
+      "title": "Everyday Politics, Ordinary Lives: Democratic Engagement in Britain, 1918-1992",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P007279/1",
+      "lead_applicant": "Hannah Burrows",
+      "lead_organisation": "University of Aberdeen",
+      "title": "What Am I? Riddles, Riddling Language and World View in Old Norse Poetry",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P011683/1",
+      "lead_applicant": "Geoffrey Baker",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Music in Medellin: Citizenship, Social Development, and Urban Renewal",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P013597/1",
+      "lead_applicant": "Jerome de Groot",
+      "lead_organisation": "The University of Manchester",
+      "title": "Double Helix History: DNA and understanding of the past",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P009263/1",
+      "lead_applicant": "Anna Whicher",
+      "lead_organisation": "Cardiff Metropolitan University",
+      "title": "[HN] People Powering Policy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P009727/1",
+      "lead_applicant": "Emily Pringle",
+      "lead_organisation": "Tate",
+      "title": "Rethinking Research in the Art Museum",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P008852/1",
+      "lead_applicant": "Celia Donert",
+      "lead_organisation": "University of Liverpool",
+      "title": "How Women's Rights Became Human Rights: Gender, Socialism and Postsocialism in Global History, 1917-2017",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P008984/1",
+      "lead_applicant": "Susan Ashley",
+      "lead_organisation": "Northumbria University",
+      "title": "(Multi)Cultural Heritage: New Perspectives on Public Culture, Identity and Citizenship",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P009735/1",
+      "lead_applicant": "Alison Wiggins",
+      "lead_organisation": "University of Glasgow",
+      "title": "Archives and Writing Lives",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P009352/1",
+      "lead_applicant": "Kerry Wilson",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Instrumental Values: Professional ethics in collaborative cultural work",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P007619/1",
+      "lead_applicant": "Tom Walker",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Chronic illness and the moral obligations of healthcare professionals",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P009034/1",
+      "lead_applicant": "Siobhan Talbott",
+      "lead_organisation": "Keele University",
+      "title": "Business News in the Atlantic World, 1620-1763",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P013384/1",
+      "lead_applicant": "Jacob Norris",
+      "lead_organisation": "University of Sussex",
+      "title": "Global Bethlehem, 1860-1930",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P010741/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013414/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009387/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P00878X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014496/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014909/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013562/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009824/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009468/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P00864X/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, March 2017 panel meeting",
+  "source": "1703-fellowships-meeting.xlsx",
+  "meeting_start": "2017-03",
+  "meeting_end": "2017-03"
+}

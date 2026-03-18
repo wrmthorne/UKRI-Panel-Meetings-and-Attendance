@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Nicky Lewis",
+  "panellists": [
+    {
+      "name": "Colin Moffat",
+      "role": "Chair",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Luca Borger",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Matt Frost",
+      "role": "Member",
+      "organisation": "Plymouth Marine Laboratory"
+    },
+    {
+      "name": "Bob Furness",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Nathan Merchant",
+      "role": "Member",
+      "organisation": "CEFAS"
+    },
+    {
+      "name": "Simon Neill",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Lise Ruffino Joint Nature",
+      "role": "Member",
+      "organisation": "Conservation Committee (JNCC)"
+    },
+    {
+      "name": "Kevin Scott St Abbs",
+      "role": "Member",
+      "organisation": "Marine Station"
+    },
+    {
+      "name": "Ben Swallow",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Kimberley Lloyd",
+      "role": "Member",
+      "organisation": "(Observer) Howell Marine Consulting"
+    },
+    {
+      "name": "Sarah Wren",
+      "role": "Member",
+      "organisation": "(Observer) Crown Estate (United Kingdom)"
+    }
+  ],
+  "meeting_name": "NERC Ecological effects of floating offshore wind",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-030924-Panel-Meeting-List-for-Web-EcoFlow-Sep24.pdf",
+  "meeting_start": "2024-09-09",
+  "meeting_end": "2024-09-10"
+}

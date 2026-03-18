@@ -1,0 +1,96 @@
+{
+  "council": "NERC",
+  "meeting_location": "Via video conference",
+  "panel_secretary": "Kay Heuser",
+  "panellists": [
+    {
+      "name": "Michèle Clarke",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Chris Arnold",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Angeliki Balayannis",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Rose Cairns",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Matthew Cotton",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Alex Ford",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Jose Jimenez",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Andrew Johnson",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Odette Paramor",
+      "role": "Member",
+      "organisation": "University of Nottingham, Ningbo China"
+    },
+    {
+      "name": "Ben Parry Bath Spa",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Wouter Poortinga",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Lynda Rodwell",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Michael Shaver The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Karen Thorpe Fera",
+      "role": "Member",
+      "organisation": "Science"
+    },
+    {
+      "name": "Simon Turner",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Diego Vasquez-Brust",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "David Wilson",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    }
+  ],
+  "meeting_name": "GCRF Plastics MAR20 UKRI - GCRF Reducing the Impacts of Plastic Waste in Developing Countries",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-UKRI-GCRF-ReducingImpactsPlasticWasteDevelopingCountries-170320.pdf",
+  "meeting_start": "2020-05-20",
+  "meeting_end": "2020-05-21"
+}

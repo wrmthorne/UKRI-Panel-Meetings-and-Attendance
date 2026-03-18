@@ -1,0 +1,30 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "UKRI Innovation Caucus 2022",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X010759/1"
+    },
+    {
+      "opportunity": "UKRI Innovation Caucus 2022",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X010783/1"
+    },
+    {
+      "opportunity": "UKRI Innovation Caucus 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X010767/1"
+    }
+  ],
+  "meeting_name": "ESRC Innovation Caucus 2022 Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-03",
+  "meeting_end": "2023-03"
+}

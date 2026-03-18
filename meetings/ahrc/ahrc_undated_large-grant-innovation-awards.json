@@ -1,0 +1,57 @@
+{
+  "council": "AHRC",
+  "count_of_applications": "6",
+  "count_of_awards": "6",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00900X/1",
+      "lead_applicant": "Charles Burdett",
+      "lead_organisation": "University of Bristol",
+      "title": "Transnationalizing Modern Languages: Global Challenges",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009018/1",
+      "lead_applicant": "Naomi Sykes",
+      "lead_organisation": "University of Nottingham",
+      "title": "Going Places: Empowering Women, Enhancing Heritage and Increasing Chicken Production in Ethiopia",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009433/1",
+      "lead_applicant": "Angela Creese",
+      "lead_organisation": "University of Birmingham",
+      "title": "Overcoming Barriers to University Education in South Africa",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009786/1",
+      "lead_applicant": "Alison Phipps",
+      "lead_organisation": "University of Glasgow",
+      "title": "Idioms of Distress, Resilience and Well-Being: Enhancing understanding about mental health in multilingual contexts",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00945X/1",
+      "lead_applicant": "Randolph Donahue",
+      "lead_organisation": "University of Bradford",
+      "title": "Augmenting Jordanian Heritage",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009158/1",
+      "lead_applicant": "Rodney Harrison",
+      "lead_organisation": "University College London",
+      "title": "Restricted Access Pilot Project: Interdisciplinary perspectives on clean energy production and landscape conservation in North Patagonia",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Large Grant Innovation Awards",
+  "source": "Panel outcomes GCRF Large Grants August.xlsx"
+}

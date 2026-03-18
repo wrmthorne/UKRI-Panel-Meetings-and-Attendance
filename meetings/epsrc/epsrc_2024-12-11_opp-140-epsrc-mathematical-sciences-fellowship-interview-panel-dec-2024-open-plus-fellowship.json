@@ -1,0 +1,52 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN863",
+  "meeting_name": "OPP 140  - EPSRC Mathematical Sciences Fellowship Interview Panel Dec 2024 - Open Plus Fellowship",
+  "meeting_convenor": "E Foxell",
+  "applications": [
+    {
+      "application_id": "APP9057",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "140",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Roberts",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "F Burstall",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "S Chhita",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "C Dunning",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "R Hoyle",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-12-11",
+  "meeting_end": "2024-12-11"
+}

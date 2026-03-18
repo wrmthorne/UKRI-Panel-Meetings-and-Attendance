@@ -1,0 +1,69 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "10",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R006563/1",
+      "lead_applicant": "Gabrielle Ivinson",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Creative Margins: Building capacity to widen participation in arts spaces and practices",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004889/1",
+      "lead_applicant": "Joanne Garde-Hansen",
+      "lead_organisation": "University of Warwick",
+      "title": "Afterlives of Protest: The Protest Memory Research Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003696/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005338/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R05699/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006717/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006385/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006296/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005753/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005486/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, August 2017",
+  "source": "Research Networking, August 2017 Moderation.xlsx",
+  "meeting_start": "2017-08",
+  "meeting_end": "2017-08"
+}

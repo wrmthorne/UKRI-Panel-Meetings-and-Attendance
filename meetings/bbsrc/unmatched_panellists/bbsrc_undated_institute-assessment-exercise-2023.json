@@ -1,0 +1,67 @@
+{
+  "council": "BBSRC",
+  "panellists": [
+    {
+      "name": "Simon Morley",
+      "role": "Chair",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Candy Rowe",
+      "role": "Chair",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Jürg Bähler",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Kathryn Ball",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Holger Bierhoff Leibniz",
+      "role": "Member",
+      "organisation": "institute on ageing, Friedrich-Schiller Universitat Jena"
+    },
+    {
+      "name": "Maria Florian",
+      "role": "Member",
+      "organisation": "Institut d'Investigació Biomédica de Bellvitge (IDIBELL)"
+    },
+    {
+      "name": "Malcolm Jackson",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Robert Kelsh",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Helen Maddock",
+      "role": "Member",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Paolo Vineis",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Tina Woods Collider Health",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Raheela Khan",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    }
+  ],
+  "meeting_name": "Institute Assessment Exercise 2023",
+  "source": "membership/BBSRC-13032024-BBSRC-Institute-Assessment-Exercise-2023-panel-membership.pdf"
+}

@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Clive Potter",
+      "role": "Chair",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Julie Urquhart",
+      "role": "Chair",
+      "organisation": "University of Gloucestershire"
+    },
+    {
+      "name": "Richard Buggs Royal Botanic",
+      "role": "Member",
+      "organisation": "Gardens Kew/Queen Mary"
+    },
+    {
+      "name": "David Higgins",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Hazel Jackson The Woodland",
+      "role": "Member",
+      "organisation": "Trust"
+    },
+    {
+      "name": "Gary Kass Natural",
+      "role": "Member",
+      "organisation": "England"
+    },
+    {
+      "name": "Colin Mackechnie",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "Maria Nijnik The James",
+      "role": "Member",
+      "organisation": "Hutton Institute"
+    },
+    {
+      "name": "Amy Proctor",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "Treescapes (KE) MAY23",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-02082023-Future-of-UK-Treescapes-Assessment-Panel-closing-date-25-May-2023.pdf",
+  "meeting_start": "2023-07-19",
+  "meeting_end": "2023-07-19"
+}

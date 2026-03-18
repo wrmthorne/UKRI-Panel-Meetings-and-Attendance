@@ -1,0 +1,333 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-724358294",
+  "meeting_name": "Research Grants - January 2022",
+  "applications": [
+    {
+      "application_id": "AH/W005980/1",
+      "route": "Standard",
+      "lead_applicant": "Alex Frediani",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "International Institute for Env and Dev",
+      "title": "Civic Media for Housing Rights: Lessons from struggles against evictions in São Paulo and Lagos",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005824/1",
+      "route": "Standard",
+      "lead_applicant": "Toby Butler",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "An Oral History of the Environmental Movement in the UK, 1970 - 2020",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005220/1",
+      "route": "Standard",
+      "lead_applicant": "Guyda Armstrong",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "The University of Manchester",
+      "title": "Envisioning Dante, c. 1472-c. 1630: Seeing and Reading the Early Printed Page",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007010/1",
+      "route": "Standard",
+      "lead_applicant": "Michelle Maria Keown",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Remediating Stevenson: Decolonising Robert Louis Stevenson's Pacific Fiction through Graphic Adaptation, Arts Education and Community Engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007193/1",
+      "route": "Early Career",
+      "lead_applicant": "Edwin David Rose",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Cambridge",
+      "title": "Natural History in the Age of Revolutions, 1776-1848",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006189/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006154/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006162/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005239/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00545X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006332/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006626/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006073/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007258/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006170/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005379/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006367/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005786/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005832/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006561/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00626X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006316/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005344/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007185/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005905/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006456/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005433/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006596/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Chair"
+    },
+    {
+      "name": "Galina Miazhevich",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "James Thompson",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Qian Sun",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Cormac Newark",
+      "organisation": "Guildhall School of Music and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Melanie Josefine Klinkner",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Owen Evans",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Steve Love",
+      "organisation": "Glasgow School of Art",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-01-27",
+  "meeting_end": "2022-01-27"
+}

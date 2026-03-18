@@ -1,0 +1,26 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom videoconference",
+  "panel_secretary": "Jessica Pollitt",
+  "panellists": [
+    {
+      "name": "Sophie Hodgson Natural Environment",
+      "role": "Chair",
+      "organisation": "Research Council"
+    },
+    {
+      "name": "Adrian Baker Defence Science",
+      "role": "Member",
+      "organisation": "and Technology Laboratory"
+    },
+    {
+      "name": "Sarah Turner Natural Environment",
+      "role": "Member",
+      "organisation": "Research Council"
+    }
+  ],
+  "meeting_name": "NCS R1 ext SEP20 National Capability Science Multi-Centre Awards 1-year extension",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-NationalCapabilityScienceMulticentre-Round1Extension-030920.pdf",
+  "meeting_start": "2020-11-04",
+  "meeting_end": "2020-11-04"
+}

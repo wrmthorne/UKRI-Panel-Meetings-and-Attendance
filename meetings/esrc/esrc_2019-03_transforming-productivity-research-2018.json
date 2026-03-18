@@ -1,0 +1,36 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "4",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "Research Resources (invitation",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S015124/1"
+    },
+    {
+      "opportunity": "Research Resources (invitation",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015094/1"
+    },
+    {
+      "opportunity": "Research Resources (invitation",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015108/1"
+    },
+    {
+      "opportunity": "Research Resources (invitation",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015167/1"
+    }
+  ],
+  "meeting_name": "Transforming Productivity Research 2018",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-03",
+  "meeting_end": "2019-03"
+}

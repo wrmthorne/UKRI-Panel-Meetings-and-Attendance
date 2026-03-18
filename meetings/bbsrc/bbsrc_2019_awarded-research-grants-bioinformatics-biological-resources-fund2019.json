@@ -1,0 +1,68 @@
+{
+  "council": "BBSRC",
+  "year": "2019",
+  "count_of_applications": "14",
+  "count_of_awards": "14",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T018542/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T018518/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T01959X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019778/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019468/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019409/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019379/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019557/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019670/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T018496/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019700/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019484/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019492/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/T019808/1"
+    }
+  ],
+  "meeting_name": "Awarded Research Grants Bioinformatics Biological Resources Fund2019",
+  "source": "awarded_grants/BBSRC-021224-AwardedResearchGrantsBioinformaticsBiologicalResourcesFund2019.xlsx",
+  "meeting_start": "2019",
+  "meeting_end": "2019"
+}

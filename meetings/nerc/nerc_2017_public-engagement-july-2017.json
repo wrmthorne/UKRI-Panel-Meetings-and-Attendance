@@ -1,0 +1,152 @@
+{
+  "council": "NERC",
+  "count_of_applications": "28",
+  "count_of_awards": "6",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R012067/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R011974/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R01177X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R01180X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R011931/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R011729/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012032/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011818/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011656/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011745/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012121/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011710/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012016/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012008/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012024/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011982/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012075/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012040/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011842/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011753/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011990/1",
+      "rank": "21"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011826/1",
+      "rank": "22"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011893/1",
+      "rank": "23"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011575/1",
+      "rank": "24"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011796/1",
+      "rank": "25"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011699/1",
+      "rank": "26"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R011680/1",
+      "rank": "27"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R012091/1",
+      "rank": "28"
+    }
+  ],
+  "meeting_name": "PUBLIC ENGAGEMENT JULY 2017",
+  "source": "NERC-061021-PublicEngagement-FundingOutcomes-July2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

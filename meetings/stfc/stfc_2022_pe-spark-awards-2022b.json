@@ -1,0 +1,110 @@
+{
+  "council": "STFC",
+  "year": "2022",
+  "count_of_applications": "14",
+  "count_of_awards": "8",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005690/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005828/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005844/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005801/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005585/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005712/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005720/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005836/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005852/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X00578X/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005755/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005860/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X00581X/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022B",
+      "year": "2022",
+      "application_id": "ST/X005739/1",
+      "rank": "14"
+    }
+  ],
+  "meeting_name": "PE SPARK Awards 2022B",
+  "source": "Public-engagement-PE-legacy-nucleus-and-SPARK-awar/STFC-150223-RankingListForSparks2022B.xlsx",
+  "meeting_start": "2022",
+  "meeting_end": "2022"
+}

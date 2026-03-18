@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Jessica Surma",
+  "panellists": [
+    {
+      "name": "Melanie Leng",
+      "role": "Chair",
+      "organisation": "British Geological Survey/University of"
+    },
+    {
+      "name": "Chris Fogwill",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Johann Klages Alfred Wegener",
+      "role": "Member",
+      "organisation": "Institute"
+    },
+    {
+      "name": "Helene Seroussi Dartmouth",
+      "role": "Member",
+      "organisation": "College"
+    }
+  ],
+  "meeting_name": "SWAIS 2C MAY22 SWAIS 2C Assessment Panel for the 26th May 2022 closing date",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-140722-SWAIS2CAssessment-PanelClosingDate26May2022.pdf",
+  "meeting_start": "2022-07-12",
+  "meeting_end": "2022-07-12"
+}

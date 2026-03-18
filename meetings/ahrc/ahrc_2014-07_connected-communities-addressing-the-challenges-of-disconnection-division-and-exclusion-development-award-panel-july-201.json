@@ -1,0 +1,50 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "5",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M00595X/1",
+      "lead_applicant": "Vanessa Burholt",
+      "lead_organisation": "Swansea University",
+      "title": "Where we are not: the contribution of disconnection, division and exclusion to imaginative (im)mobility",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006050/1",
+      "lead_applicant": "Martin Levinson",
+      "lead_organisation": "University of Exeter",
+      "title": "Alternative Futures: Disability and Community",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006093/1",
+      "lead_applicant": "Graham Jeffery",
+      "lead_organisation": "University of the West of Scotland",
+      "title": "Challenging Elites: rethinking disconnection and recovering urban space",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006069/1",
+      "lead_applicant": "Sarita Malik",
+      "lead_organisation": "Brunel University",
+      "title": "Creative Interruptions: grassroots culture, state structures and disconnection as a space for 'radical openness'",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005984/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Connected Communities: Addressing the Challenges of Disconnection, Division and Exclusion - Development Award Panel - July 2014",
+  "source": "Connected Communities Addressing the Challenges of Disconnection Division and Exclusion - Development Award Panel - July 2014.xlsx",
+  "meeting_start": "2014-07",
+  "meeting_end": "2014-07"
+}

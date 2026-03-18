@@ -1,0 +1,82 @@
+{
+  "council": "NERC",
+  "meeting_location": "BEIS Conference Centre, 1 Victoria Street,",
+  "panel_secretary": "Daniel Knight, NERC",
+  "panellists": [
+    {
+      "name": "Phil Ashworth",
+      "role": "Chair",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Stephen",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Darby",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Alan Werritty",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Ian Holman",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Lynne Frostick",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Julian Thompson",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "NERC Michelle Truman",
+      "role": "Member"
+    },
+    {
+      "name": "NERC Ruth Kelman",
+      "role": "Member"
+    },
+    {
+      "name": "Environment Agency Lydia Burgess-Gamble",
+      "role": "Member"
+    },
+    {
+      "name": "Stacy Sharman",
+      "role": "Member",
+      "organisation": "DEFRA"
+    },
+    {
+      "name": "Natural Resources Wales Victoria Greest",
+      "role": "Member"
+    },
+    {
+      "name": "The National Trust Stewart Clarke",
+      "role": "Member"
+    },
+    {
+      "name": "ARUP David Hetherington",
+      "role": "Member"
+    },
+    {
+      "name": "SEPA Heather Forbes",
+      "role": "Member"
+    },
+    {
+      "name": "ARUP Kate Canning",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "Understanding the Effectiveness of Natural Flood Management Moderating Panel for the 23rd May 2017 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2017/natural-flood-management-may2017.pdf",
+  "meeting_start": "2017-09-14",
+  "meeting_end": "2017-09-14"
+}

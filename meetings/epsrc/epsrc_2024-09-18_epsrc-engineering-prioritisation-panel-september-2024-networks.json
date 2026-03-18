@@ -1,0 +1,25 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN645",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel September 2024 – Networks",
+  "meeting_convenor": "A Rao",
+  "applications": [
+    {
+      "application_id": "APP15467",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "142",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC network grant, May 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-09-18",
+  "meeting_end": "2024-09-18"
+}

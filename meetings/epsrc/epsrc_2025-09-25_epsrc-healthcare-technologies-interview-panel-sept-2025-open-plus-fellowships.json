@@ -1,0 +1,66 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1438",
+  "meeting_name": "EPSRC Healthcare Technologies Interview Panel Sept 2025 - Open Plus Fellowships",
+  "meeting_convenor": "K Reading",
+  "applications": [
+    {
+      "application_id": "APP60517",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    },
+    {
+      "application_id": "APP61020",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "295",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "J Girkin",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "S Dogramadzi",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "T Lambrou",
+      "role": "Panellist",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "A Nogaret",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "A Taylor",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-09-25",
+  "meeting_end": "2025-09-25"
+}

@@ -1,0 +1,158 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-554082661",
+  "meeting_name": "Research Networking - April 2020",
+  "applications": [
+    {
+      "application_id": "AH/T009241/1",
+      "route": "Standard",
+      "lead_applicant": "Scott Hames",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Stirling",
+      "title": "Scottish Magazines Network: New Research Directions and Partnerships",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V000993/1",
+      "route": "Standard",
+      "lead_applicant": "Michael White",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of York",
+      "title": "Barbara Hepworth: Material Practice in Post-War British Sculpture",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001876/1",
+      "route": "Standard",
+      "lead_applicant": "Louisa Minkin",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of the Arts London",
+      "title": "Concepts Have Teeth, And Teeth That Bite Through Time: digital imaging and Blackfoot material culture in UK museums.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013540/1",
+      "route": "Standard",
+      "lead_applicant": "Aoife Monks",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Boucicault 2020: Circuits of Skill and Entrepreneurialism in Theatre Practice Now.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T010940/1",
+      "route": "Standard",
+      "lead_applicant": "Daniel Whistler",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "The Philosophical Life of Plants",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013591/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T013311/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012153/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000942/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T013435/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T01346X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012056/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012099/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012404/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Yvonne Tasker",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    }
+  ],
+  "meeting_start": "2020-04-17",
+  "meeting_end": "2020-04-17"
+}

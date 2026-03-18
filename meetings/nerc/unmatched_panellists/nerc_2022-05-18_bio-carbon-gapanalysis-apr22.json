@@ -1,0 +1,26 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Jessica Surma",
+  "panellists": [
+    {
+      "name": "Hilary Kennedy",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Eric Achterberg GEOMAR Helmholtz",
+      "role": "Member",
+      "organisation": "Centre for Ocean Research"
+    },
+    {
+      "name": "Judith Hauck Alfred Wegener",
+      "role": "Member",
+      "organisation": "Institute"
+    }
+  ],
+  "meeting_name": "BIO Carbon (GapAnalysis) APR22",
+  "source": "NERC-funding-assessment-panel-members-2022/MRC-31052022-BIO-Carbon-GapAnalysis-APR22-Assessment-Panel-closing-date-28-April-2022.pdf",
+  "meeting_start": "2022-05-18",
+  "meeting_end": "2022-05-18"
+}

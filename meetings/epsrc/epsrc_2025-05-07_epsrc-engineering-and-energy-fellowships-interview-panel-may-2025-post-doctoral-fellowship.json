@@ -1,0 +1,52 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1123",
+  "meeting_name": "EPSRC Engineering and Energy Fellowships Interview Panel May 2025 - Post Doctoral Fellowship",
+  "meeting_convenor": "M Calderon Munoz",
+  "applications": [
+    {
+      "application_id": "APP27180",
+      "title": "Luminescent Solar Microreactors for Photocatalysis (LSMR4PhotoCat)",
+      "lead_organisation": "University of Cambridge",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "429354.08",
+      "award_id": "UKRI2028",
+      "opportunity_number": "296",
+      "lead_applicant": "T Lawson",
+      "link": "https://gtr.ukri.org/projects?ref=2028",
+      "opportunity": "EPSRC post doctoral fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Shollock",
+      "role": "Chair",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "B Lennox",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "H Liu",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "H Long",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "I Stephens",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-05-07",
+  "meeting_end": "2025-05-07"
+}

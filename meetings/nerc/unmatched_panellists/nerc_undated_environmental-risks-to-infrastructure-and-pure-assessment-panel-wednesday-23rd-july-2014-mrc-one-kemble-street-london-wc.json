@@ -1,0 +1,32 @@
+{
+  "council": "NERC",
+  "panel_secretary": "Katie Hart, NERC Observers: Robyn Thomas, NERC Vera Hazelwood, Smith Institute",
+  "panellists": [
+    {
+      "name": "BGS John Rees",
+      "role": "Chair"
+    },
+    {
+      "name": "Lee",
+      "role": "Member",
+      "organisation": "Chapman, Birmingham University"
+    },
+    {
+      "name": "Jeremy",
+      "role": "Member",
+      "organisation": "Watson, UCL, Willis"
+    },
+    {
+      "name": "Robert",
+      "role": "Member",
+      "organisation": "Leese, Smith Institute"
+    },
+    {
+      "name": "Andy",
+      "role": "Member",
+      "organisation": "Tan, Environment Agency"
+    }
+  ],
+  "meeting_name": "Environmental Risks to Infrastructure and PURE Assessment Panel Wednesday 23rd July 2014 MRC, One Kemble Street, London, WC2B 4AN Chair: John Rees, BGS Dr Lee Chapman, Birmingham University Professor Jeremy Watson, UCL, Willis Dr Robert Leese, Smith Institute Dr Andy Tan, Environment Agency",
+  "source": "NERC-funding-assessment-panel-members-2014/2014environ-risks-and-pure-panel.pdf"
+}

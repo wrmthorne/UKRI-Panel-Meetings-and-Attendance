@@ -1,0 +1,20 @@
+{
+  "council": "MRC",
+  "count_of_applications": "2",
+  "count_of_awards": "0",
+  "notes": "APP11004, APP13921, APP14175 deferred for consideration at the next funding meeting. \n\nApplications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 42 applications did not pass an initial shortlisting stage and were not considered further. Of the 15 applications that did pass the initial shortslisting stage, 2 applications were withdrawn by the applicants prior to the meeting.",
+  "applications": [
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP10877"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP12275"
+    }
+  ],
+  "meeting_name": "Clinical Research Training Fellowship 6-7 March 2024",
+  "source": "Clinical-research-training-fellowship/MRC-16012025-Clinical-Research-Training-Fellowship-6-7-March-2024.xlsx"
+}

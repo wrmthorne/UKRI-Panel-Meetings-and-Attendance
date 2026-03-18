@@ -1,0 +1,30 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "ESRC Data Infrastructure",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Y007700/1"
+    },
+    {
+      "opportunity": "ESRC Data Infrastructure",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y007719/1"
+    },
+    {
+      "opportunity": "ESRC Data Infrastructure",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y007727/1"
+    }
+  ],
+  "meeting_name": "Coverage review panel",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-10",
+  "meeting_end": "2023-10"
+}

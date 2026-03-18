@@ -1,0 +1,358 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-801351593",
+  "meeting_name": "Research Grants - July 2022",
+  "applications": [
+    {
+      "application_id": "AH/X000540/1",
+      "route": "Standard",
+      "lead_applicant": "Anthony Joseph Musson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "Henry VIII on Tour: Landscape, Communities and Performance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W011298/1",
+      "route": "Standard",
+      "lead_applicant": "Marie-Andree Jacob",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Leeds",
+      "title": "Making it to the Registers: Documenting Migrant Carers' Experiences of Registration and Fitness to Practise",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001393/1",
+      "route": "Standard",
+      "lead_applicant": "Stephen Gundle",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Warwick",
+      "title": "WOMEN IN ITALIAN FILM PRODUCTION: INDUSTRIAL HISTORIES AND GENDERED LABOUR, 1945-85",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00077X/1",
+      "route": "Standard",
+      "lead_applicant": "Noam Leshem",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Durham University",
+      "title": "Occupation Debris: Participatory Practices and Decolonisation of Archaeology in Palestine-Israel",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X003639/1",
+      "route": "Standard",
+      "lead_applicant": "Gregory Toner",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "A Chronology of the Medieval Irish Lexicon",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001520/1",
+      "route": "Standard",
+      "lead_applicant": "Sumita Mukherjee",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "University of Bristol",
+      "title": "Remaking Britain: South Asian Connections and Networks, 1830s to the present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001342/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001865/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000486/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002861/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010755/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001695/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001253/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00290X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000222/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000885/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000583/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000621/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001571/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X002896/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001350/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000273/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010739/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000362/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010593/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001288/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000532/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00029X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W011026/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001385/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alison Sarah Fell",
+      "organisation": "Bournemouth University",
+      "role": "Chair"
+    },
+    {
+      "name": "Felicia Chan",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Kerri Louise Andrews",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "M. Satish Kumar",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Spicer",
+      "organisation": "Oxford Brookes University",
+      "role": "Member"
+    },
+    {
+      "name": "Joanne Clarke",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Matthew Festenstein",
+      "organisation": "Liverpool John Moores University",
+      "role": "Member"
+    },
+    {
+      "name": "Neville Morley",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    },
+    {
+      "name": "Wendy Anderson",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-07-14",
+  "meeting_end": "2022-07-14"
+}

@@ -1,0 +1,270 @@
+{
+  "council": "NERC",
+  "count_of_applications": "43",
+  "count_of_awards": "13",
+  "year": "2015",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/N017404/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/N017498/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/N017587/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/N017374/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/N016955/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/N017927/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/N017560/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/N017773/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N017730/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N017307/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N017714/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N016971/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N017447/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N016882/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N017102/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N017137/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N01717X/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N01734X/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N017269/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N01703X/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017331/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017242/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017439/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017749/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017765/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017579/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017870/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017226/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N017153/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N01782X/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N017110/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N017390/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N017803/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N017692/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N017455/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N017684/1",
+      "rank": "31"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/N017811/1",
+      "rank": "36"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "3",
+      "application_id": "NE/N016920/1",
+      "rank": "36"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "2",
+      "application_id": "NE/N01748X/1",
+      "rank": "38"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "2",
+      "application_id": "NE/N017129/1",
+      "rank": "38"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "1",
+      "application_id": "NE/N017668/1",
+      "rank": "40"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "0",
+      "application_id": "NE/N017897/1",
+      "rank": "41"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "0",
+      "application_id": "NE/N017528/1",
+      "rank": "41"
+    }
+  ],
+  "meeting_name": "2015 Green Infrastructure Innovation Projects Call",
+  "source": "Green-Infrastructure-Projects-Call.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

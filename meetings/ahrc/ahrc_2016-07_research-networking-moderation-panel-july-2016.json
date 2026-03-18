@@ -1,0 +1,112 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "15",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\n* Please note that Application AH/P006191/1 was exceptionally funded due to it's strong strategic fit to both the Highlight Notice - International Development in the Research Networking Scheme and the AHRC Design Priority Area",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00539X/1",
+      "lead_applicant": "Zoe Skoulding",
+      "lead_organisation": "Bangor University",
+      "title": "Poetry in Expanded Translation",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005713/1",
+      "lead_applicant": "Joanna Callaghan",
+      "lead_organisation": "University of Sussex",
+      "title": "Filmmaking Research Network",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006248/1",
+      "lead_applicant": "Jelke Boesten",
+      "lead_organisation": "King's College London",
+      "title": "Debating, Performing & Curating Symbolic Reparations and Transformative Gender Justice in post conflict Societies.",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005128/1",
+      "lead_applicant": "Victoria Durrer",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Brokering Intercultural Exchange: Interrogating the Role of Arts and Cultural Management",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006183/1",
+      "lead_applicant": "Mike Robinson",
+      "lead_organisation": "University of Birmingham",
+      "title": "World Heritage FOR Sustainable Development",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005942/1",
+      "lead_applicant": "Mark Hedges",
+      "lead_organisation": "King's College London",
+      "title": "(Digital) archives, memory and reconstruction in post-Genocide Rwanda",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006205/1",
+      "lead_applicant": "Philip Murphy",
+      "lead_organisation": "University of London",
+      "title": "Digital records as evidence to underpin global development goals.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006450/1",
+      "lead_applicant": "Robert Colenutt",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "New Towns Heritage Research Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004962/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006191/1",
+      "lead_applicant": "Mark Evans",
+      "lead_organisation": "Loughborough University",
+      "title": "Design futures - Exploring internationally comparative product design methods to meet material need, facilitate entrepreneurship and create emplo",
+      "score": "4*"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004458/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004822/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009703/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004784/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006353/1"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, July 2016",
+  "source": "Research Networking, July 2016 Moderation.xlsx",
+  "meeting_start": "2016-07",
+  "meeting_end": "2016-07"
+}

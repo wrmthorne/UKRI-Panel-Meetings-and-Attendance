@@ -1,0 +1,173 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-434583331",
+  "meeting_name": "Cultural Heritage, Migration and the Indian Diaspora July 2019",
+  "applications": [
+    {
+      "application_id": "AH/T004940/1",
+      "route": "Standard",
+      "lead_applicant": "Robin Coningham",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Durham University",
+      "title": "HOLY LANDS: SCOPING THE NEXUS BETWEEN HERITAGE, PILGRIMAGE AND DIASPORA IN INDIA",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004959/1",
+      "route": "Standard",
+      "lead_applicant": "Raminder Kaur",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Sussex",
+      "title": "Gender and Intersectionality on India and its Diaspora's (GRID) Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004819/1",
+      "route": "Standard",
+      "lead_applicant": "Jerri Daboo",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Exeter",
+      "title": "Cultural Heritage Transformations of Weddings and Marriage among Women in the Tamil and Parsi diaspora communities in India and the UK",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005009/1",
+      "route": "Standard",
+      "lead_applicant": "Michele Louise Clarke",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Nottingham",
+      "title": "Digital urbanism & diasporas: walking the cultural heritage of Calcutta's riverfront",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005084/1",
+      "route": "Standard",
+      "lead_applicant": "Jane Collins",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of the Arts London",
+      "title": "Cultural Heritage and Representation: (Mis)readings between India and the Indian Diaspora",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005041/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004843/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004894/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004916/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004924/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004932/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "0",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004967/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005025/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005033/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Rajinder Dudrah",
+      "organisation": "City of Bristol College",
+      "role": "Chair"
+    },
+    {
+      "name": "Nandini Das",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Seán McLoughlin",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Vinita Damodaran",
+      "organisation": "University of Sussex",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-07-23",
+  "meeting_end": "2019-07-23"
+}

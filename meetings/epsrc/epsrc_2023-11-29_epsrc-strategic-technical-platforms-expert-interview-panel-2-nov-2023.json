@@ -1,0 +1,155 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN053",
+  "meeting_name": "EPSRC Strategic Technical Platforms Expert Interview Panel 2 Nov 2023",
+  "meeting_convenor": "A Chapman",
+  "applications": [
+    {
+      "application_id": "APP17096",
+      "title": "X-CITED: X-disciplinary Challenges from Industry for Technical Expert Development",
+      "lead_organisation": "University of Bath",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "UKRI056",
+      "opportunity_number": "215",
+      "lead_applicant": "A Lubben",
+      "link": "https://gtr.ukri.org/projects?ref=056",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP15481",
+      "title": "Delivering Knowledge, Skills and Opportunities to RTPs Nationally Leveraging the UK Technology Specialist Network (TSN)",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "UKRI058",
+      "opportunity_number": "215",
+      "lead_applicant": "I Hancox",
+      "link": "https://gtr.ukri.org/projects?ref=058",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP15809",
+      "title": "Technical Platform for Innovation and Knowledge Exchange (T-PIKE)",
+      "lead_organisation": "University of Essex",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "UKRI059",
+      "opportunity_number": "215",
+      "lead_applicant": "E Codling",
+      "link": "https://gtr.ukri.org/projects?ref=059",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13170",
+      "title": "Development of a national facility and technical training hub for ‘Biomolecule Engineering’",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "1330536.48",
+      "award_id": "UKRI055",
+      "opportunity_number": "215",
+      "lead_applicant": "D Heyes",
+      "link": "https://gtr.ukri.org/projects?ref=055",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13860",
+      "title": "RTP-Led National Technical Platform for Materials Innovation",
+      "lead_organisation": "University of Manchester",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "1416712.81",
+      "award_id": "UKRI057",
+      "opportunity_number": "215",
+      "lead_applicant": "D Horner",
+      "link": "https://gtr.ukri.org/projects?ref=057",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP12054",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "215",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP12674",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "215",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    },
+    {
+      "application_id": "APP13435",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "215",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Strategic Technical Platforms – Full Proposals"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "D Payne",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "N Anthony",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "N Chue Hong",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "S Day",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "T Martin",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "S Whittaker",
+      "role": "Panellist",
+      "organisation": ""
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2023-11-29",
+  "meeting_end": "2023-11-29"
+}

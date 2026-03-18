@@ -1,0 +1,383 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-854197568",
+  "meeting_name": "Research Grants - October 2022",
+  "applications": [
+    {
+      "application_id": "AH/X004643/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Thompson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "The Sensational Museum: The Practice and Provision of Trans-Sensory Collecting and Communicating",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004929/1",
+      "route": "Standard",
+      "lead_applicant": "Roberta Gilchrist",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Reading",
+      "title": "The Medieval Ritual Landscape: Archaeology, Material Culture and Lived Religion",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001326/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew Bennett",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Bournemouth University",
+      "title": "Peopling of the Tularosa Playa during the Last Glacial Maximum",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004880/1",
+      "route": "Standard",
+      "lead_applicant": "Melanie Jane Bell",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Leeds",
+      "title": "Film Costumes in Action: Design, Production and Performance Cultures in British Film, 1965-2015",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004562/1",
+      "route": "Standard",
+      "lead_applicant": "Almut Hintze",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "SOAS University of London",
+      "title": "Beyond Discovery: Religion, economics and administration in Sasanian Iran through new clay bullae from Taxt-e Solayman",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004449/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "6",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00368X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005445/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00466X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004406/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004694/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004996/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004287/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00452X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004619/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004465/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005364/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003906/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004678/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004651/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004538/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005151/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00483X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00435X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004015/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004392/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00547X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X005399/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004228/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "29",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X004376/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "30",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001512/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "31",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X003035/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alan Jeffreys",
+      "organisation": "National Army Museum",
+      "role": "Moderator"
+    },
+    {
+      "name": "Arman Sarvarian",
+      "organisation": "University of Surrey",
+      "role": "Moderator"
+    },
+    {
+      "name": "Opinderjit Kaur Takhar",
+      "organisation": "Heriot-Watt University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Prakash Shah",
+      "organisation": "Liverpool Hope University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Carol Tully",
+      "organisation": "Bangor University",
+      "role": "Moderator"
+    },
+    {
+      "name": "David Murphy",
+      "organisation": "University of Strathclyde",
+      "role": "Moderator"
+    },
+    {
+      "name": "Lucia Nagib",
+      "organisation": "University of Reading",
+      "role": "Moderator"
+    },
+    {
+      "name": "Maire Ni Fhlathuin",
+      "organisation": "National Oceanography Centre",
+      "role": "Moderator"
+    },
+    {
+      "name": "pammi sinha",
+      "organisation": "University of Leeds",
+      "role": "Moderator"
+    },
+    {
+      "name": "Thomas Maguire",
+      "organisation": "University of Ulster",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-10-19",
+  "meeting_end": "2022-10-19"
+}

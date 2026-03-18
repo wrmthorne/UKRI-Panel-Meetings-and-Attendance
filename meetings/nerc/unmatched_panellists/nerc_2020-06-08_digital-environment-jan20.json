@@ -1,0 +1,86 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Kirsten Dutton",
+  "panellists": [
+    {
+      "name": "Nick Veck Satellite Applications",
+      "role": "Chair",
+      "organisation": "Catapult"
+    },
+    {
+      "name": "Samantha Adams",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Peter Atkinson",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Andrew Binley",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Francis Danson",
+      "role": "Member",
+      "organisation": "University of Salford"
+    },
+    {
+      "name": "Daniel Donoghue",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Helen Glaves",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Mordechai Haklay",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Andrew Hudson-Smith",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Julian Leyland",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Eloise Ann Marais",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Anil Mandeo",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Sanjay Sharma",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Anne Verhoef",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Leanne Wake",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    }
+  ],
+  "meeting_name": "Digital Environment JAN20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-DigitalEnvironmentDemonstrators-300120.pdf",
+  "meeting_start": "2020-06-08",
+  "meeting_end": "2020-06-09"
+}

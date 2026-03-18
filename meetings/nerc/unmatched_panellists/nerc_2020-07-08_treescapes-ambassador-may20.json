@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Videoconference",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Rob MacKenzie",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Margaret Charleroy",
+      "role": "Member",
+      "organisation": "AHRC"
+    },
+    {
+      "name": "Simon Kerley",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Kate Lonsdale",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Susie Stevenson",
+      "role": "Member",
+      "organisation": "ESRC"
+    }
+  ],
+  "meeting_name": "Treescapes (ambassador) MAY20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-FutureOfUKTreescapes-Ambassador-210520.pdf",
+  "meeting_start": "2020-07-08",
+  "meeting_end": "2020-07-09"
+}

@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom Virtual Panel",
+  "panel_secretary": "Dr Jennifer Morris",
+  "panellists": [
+    {
+      "name": "Melanie Leng",
+      "role": "Chair",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Carlo Barbante Institute",
+      "role": "Member",
+      "organisation": "of Polar Sciences - CNR, Venice"
+    },
+    {
+      "name": "Brent Christner",
+      "role": "Member",
+      "organisation": "University of Florida"
+    },
+    {
+      "name": "Kathy Licht Indiana",
+      "role": "Member",
+      "organisation": "University-Purdue University Indianapolis"
+    },
+    {
+      "name": "Sara",
+      "role": "Member",
+      "organisation": "Sjöling Södertörn University"
+    },
+    {
+      "name": "Michael Weber",
+      "role": "Member",
+      "organisation": "University of Bonn"
+    }
+  ],
+  "meeting_name": "Drilling Subglacial Lake CECs in Antarctica",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-DrillingSubglacialLakeAntarctica-070520.pdf",
+  "meeting_start": "2020-09-17",
+  "meeting_end": "2020-09-17"
+}

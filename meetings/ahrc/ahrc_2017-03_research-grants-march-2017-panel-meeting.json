@@ -1,0 +1,160 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "23",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P009972/1",
+      "lead_applicant": "Laura Brooks",
+      "lead_organisation": "University of Southampton",
+      "title": "Music, Home and Heritage: Sounding the Domestic in Georgian Britain",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P009883/1",
+      "lead_applicant": "Maiken Umbach",
+      "lead_organisation": "University of Nottingham",
+      "title": "Photography as Political Practice in National Socialism",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P008585/1",
+      "lead_applicant": "Helen Carolyn Graham",
+      "lead_organisation": "University of Leeds",
+      "title": "Bradford's National Museum: Methods for re-founding 'inter/national' museums translocally",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P014038/1",
+      "lead_applicant": "Ross Parry",
+      "lead_organisation": "University of Leicester",
+      "title": "'One by One': building the digital literacies of UK museums",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P008704/1",
+      "lead_applicant": "Ellen Swift",
+      "lead_organisation": "University of Kent",
+      "title": "Roman and Late Antique Artefacts from Egypt: Understanding Society and Culture",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P00895X/1",
+      "lead_applicant": "Sally Bushell",
+      "lead_organisation": "Lancaster University",
+      "title": "Creating a Chronotopic Ground for the Mapping of Literary Texts: Innovative Data Visualisation and Spatial Interpretation in the Digital Medium",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008666/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P008739/1",
+      "lead_applicant": "Klaus Richter",
+      "lead_organisation": "University of Birmingham",
+      "title": "Hinterlands and Hypertrophies: Assessments of the Viability of Empires and Nation-States in Central and Eastern Europe, 1900 - 1930s",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P010342/1",
+      "lead_applicant": "Maggie Inchley",
+      "lead_organisation": "Queen Mary, University of London",
+      "title": "The Verbatim Formula: Creative Practice for Young People in Twenty-first Century UK Care",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P010717/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P00671X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009271/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009115/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P010369/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007996/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008542/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009344/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013732/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008860/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009298/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013643/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01397X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009093/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, March 2017 Panel Meeting",
+  "source": "1703-research-grants-meeting.xlsx",
+  "meeting_start": "2017-03",
+  "meeting_end": "2017-03"
+}

@@ -1,0 +1,141 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "20",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R013780/1",
+      "lead_applicant": "William Tattersdill",
+      "lead_organisation": "University of Birmingham",
+      "title": "Narrativising Dinosaurs: Science and Popular Culture from 1850 to the Present",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S001034/1",
+      "lead_applicant": "Zachary Blas",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Bio-Exempt: Art in the Age of Digital, Networked Surveillance",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R012954/1",
+      "lead_applicant": "Gillian Jein",
+      "lead_organisation": "Newcastle University",
+      "title": "Inventing Greater Paris: Visual Culture, Regeneration and the Right to the Global City",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S000127/1",
+      "lead_applicant": "William Pooley",
+      "lead_organisation": "University of Bristol",
+      "title": "Creative Histories of Witchcraft, France 1790-1940",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R014876/1",
+      "lead_applicant": "Ruth Glynn",
+      "lead_organisation": "University of Bristol",
+      "title": "Naples and the Nation: Image, Media and Culture in the Second Republic",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R014639/1",
+      "lead_applicant": "Michelle Henning",
+      "lead_organisation": "The University of West London",
+      "title": "Aesthetics, Industry and Innovation in Twentieth Century Photography: The Ilford Archive",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S001905/1",
+      "lead_applicant": "Lisa Stead",
+      "lead_organisation": "University of Exeter",
+      "title": "Reframing Vivien Leigh: stardom, archives and access",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000666/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001069/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014671/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013810/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001352/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013489/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R01387X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008493/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000739/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014833/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001174/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014485/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013950/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, June 2018 panel meeting",
+  "source": "Leadership Fellows Panel, June 2018 Meeting.xlsx",
+  "meeting_start": "2018-06",
+  "meeting_end": "2018-06"
+}

@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendanceTFSApplications/PanelSelectPage",
+  "meeting_name": "OPP548: AHRC: Support knowledge exchange for European Humanities research",
+  "applications": [
+    {
+      "application_id": "45814",
+      "title": "Knowledge Exchange for Slow Hope (KESH)",
+      "score": "",
+      "outcome": "Successful",
+      "lead_applicant": "Jenny Wustenberg",
+      "lead_organisation": "Nottingham Trent University",
+      "rank": ""
+    },
+    {
+      "application_id": "48084",
+      "title": "",
+      "score": "",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "45947",
+      "title": "",
+      "score": "",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "47364",
+      "title": "",
+      "score": "",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "45350",
+      "title": "",
+      "score": "",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    },
+    {
+      "application_id": "48144",
+      "title": "",
+      "score": "",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": ""
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jaideep Gupte",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Malwina Gebalska",
+      "organisation": "Unknown",
+      "role": "Deputy_Chair"
+    },
+    {
+      "name": "Christa Engel",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "DanielCarey",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

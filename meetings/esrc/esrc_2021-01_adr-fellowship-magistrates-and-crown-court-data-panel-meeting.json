@@ -1,0 +1,84 @@
+{
+  "council": "ESRC",
+  "year": "2021",
+  "count_of_applications": "12",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/V015656/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015575/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015613/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/V015583/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015524/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015567/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015532/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015516/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015591/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V01563X/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015648/1"
+    },
+    {
+      "opportunity": "ADR Mags and Crown 2020",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/V015478/1"
+    }
+  ],
+  "meeting_name": "ADR Fellowship Magistrates and Crown Court Data Panel Meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2021-01",
+  "meeting_end": "2021-01"
+}

@@ -1,0 +1,103 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee A",
+  "panellists": [
+    {
+      "name": "Eileen Wall",
+      "role": "Chair",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Richard Barrett-Jolley",
+      "role": "Deputy Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Tom Matheson",
+      "role": "Deputy Chair",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Lucy Asher",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Mick Bailey",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "David Bechtold",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Damer Blake",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Natalie Hempel de Ibarra",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Emma Hodson-Tole (Manchester Metropolitan",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Donald Jones",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Andrew Lin",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Matthew Parker",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Colin Selman",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Karen Spencer",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Rachael Tarlinton",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Jessica Teeling",
+      "role": "Member",
+      "organisation": "Queen’s University Belfast"
+    },
+    {
+      "name": "Dylan Thompson",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Vladyslav Vyazovskiy",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Thomas Wilkinson",
+      "role": "Member",
+      "organisation": "Swansae University"
+    }
+  ],
+  "meeting_name": "Research Committee Membership2023 RM1 - Committee A",
+  "source": "membership/BBSRC-060224-ResearchCommitteeMembership2023-RM1.pdf"
+}

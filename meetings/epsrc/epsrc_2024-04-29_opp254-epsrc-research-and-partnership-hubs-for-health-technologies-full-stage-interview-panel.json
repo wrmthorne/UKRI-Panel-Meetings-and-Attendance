@@ -1,0 +1,164 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN274",
+  "meeting_name": "OPP254 EPSRC Research and Partnership Hubs for Health Technologies (full stage): Interview Panel",
+  "meeting_convenor": "L Cadman",
+  "applications": [
+    {
+      "application_id": "APP18952",
+      "title": "National Hub for Advanced Long-acting Therapeutics (HALo)",
+      "lead_organisation": "University of Liverpool",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "10898424.39",
+      "award_id": "UKRI144",
+      "opportunity_number": "254",
+      "lead_applicant": "S Rannard",
+      "link": "https://gtr.ukri.org/projects?ref=144",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP16931",
+      "title": "Optical and Acoustic imaging for Surgical and Interventional Sciences (OASIS)",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "10887436.15",
+      "award_id": "UKRI145",
+      "opportunity_number": "254",
+      "lead_applicant": "D Stoyanov",
+      "link": "https://gtr.ukri.org/projects?ref=145",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP18065",
+      "title": "EPSRC Research and Partnership Hub in Microscale Science and Technology to Accelerate Therapeutic Innovation (MicroTex)",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "10884131.61",
+      "award_id": "UKRI143",
+      "opportunity_number": "254",
+      "lead_applicant": "I Underwood",
+      "link": "https://gtr.ukri.org/projects?ref=143",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP18790",
+      "title": "MAINSTREAM: EPSRC research and partnership hub for health technologies in Manufacturing Stem Cells",
+      "lead_organisation": "University of Glasgow",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "10823591.22",
+      "award_id": "UKRI141",
+      "opportunity_number": "254",
+      "lead_applicant": "M Dalby",
+      "link": "https://gtr.ukri.org/projects?ref=141",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP18076",
+      "title": "The VIVO Hub for Enhanced Independent Living",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "10863312.52",
+      "award_id": "UKRI142",
+      "opportunity_number": "254",
+      "lead_applicant": "J Rossiter",
+      "link": "https://gtr.ukri.org/projects?ref=142",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP17154",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "254",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP17129",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "254",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP19296",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "254",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    },
+    {
+      "application_id": "APP17676",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "254",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Research and partnership hubs for health technologies: full stage"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "J Girkin",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "H Bevan",
+      "role": "Panellist",
+      "organisation": "UtterBerry"
+    },
+    {
+      "name": "R Bibb",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "C Lee",
+      "role": "Panellist",
+      "organisation": "Royal College of Surgeons in Ireland"
+    },
+    {
+      "name": "G Lushai",
+      "role": "Panellist",
+      "organisation": "Life Sciences Healthcare Ltd"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-04-29",
+  "meeting_end": "2024-04-29"
+}

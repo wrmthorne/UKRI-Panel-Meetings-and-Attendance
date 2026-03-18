@@ -1,0 +1,419 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1063",
+  "meeting_name": "EPSRC: ICT Prioritisation Panel April 2025 Standard Mode and WWOS ",
+  "meeting_convenor": "M Crabbe-Mann",
+  "applications": [
+    {
+      "application_id": "APP25978",
+      "title": "Zeros, Algorithms, and Correlation for Graph Polynomials",
+      "lead_organisation": "Queen Mary University of London",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "459612.2",
+      "award_id": "UKRI2771",
+      "opportunity_number": "299",
+      "lead_applicant": "V Patel",
+      "link": "https://gtr.ukri.org/projects?ref=2771",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP52060",
+      "title": "Types for Incorrectness",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "489931.71",
+      "award_id": "UKRI2770",
+      "opportunity_number": "299",
+      "lead_applicant": "S Ramsay",
+      "link": "https://gtr.ukri.org/projects?ref=2770",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP35830",
+      "title": "Optical Darboux Transformer for Nonlinear Signal Processing",
+      "lead_organisation": "Aston University",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "756264.8",
+      "award_id": "UKRI2767",
+      "opportunity_number": "299",
+      "lead_applicant": "A Perego",
+      "link": "https://gtr.ukri.org/projects?ref=2767",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP33250",
+      "title": "ENG/ECCS-EPSRC Advanced interband cascade lasers with innovative quantum well active regions grown on Si substrates",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "847541.37",
+      "award_id": "UKRI2772",
+      "opportunity_number": "280",
+      "lead_applicant": "H Liu",
+      "link": "https://gtr.ukri.org/projects?ref=2772",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP50208",
+      "title": "Electrically driven maser-based quantum amplifiers for compact and ultra-low-noise detection of microwaves",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "1298950.65",
+      "award_id": "UKRI2769",
+      "opportunity_number": "299",
+      "lead_applicant": "M Oxborrow",
+      "link": "https://gtr.ukri.org/projects?ref=2769",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP29000",
+      "title": "NSF/IIS-EPSRC: Longitudinal, Multilingual, and Multi-format Investigation and Detection of LLM-Generated Disinformation",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "580207.91",
+      "award_id": "UKRI3352",
+      "opportunity_number": "280",
+      "lead_applicant": "K Bontcheva",
+      "link": "https://gtr.ukri.org/projects?ref=3352",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP49673",
+      "title": "Basis Reduction for Structured Lattices With Applications to Post-Quantum Cryptography",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "1006486.28",
+      "award_id": "UKRI2768",
+      "opportunity_number": "299",
+      "lead_applicant": "C Ling",
+      "link": "https://gtr.ukri.org/projects?ref=2768",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP32300",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP51254",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP47156",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP40329",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP32562",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "13",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23003",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "14",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP26164",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "15",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP44033",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP42517",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "17",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP24800",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "18",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP45004",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "19",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23001",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "20",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP51377",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "21",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP48133",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "22",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP34033",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "23",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP46141",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "24",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP40509",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "25",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "299",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC standard research grant, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "I Mitrovic",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "R Degl'Innocenti",
+      "role": "Deputy chair",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "S Brewster",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "A Burrows",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "P Fearnhead",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "R Gorbachev",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "A Gyorgy",
+      "role": "Panellist",
+      "organisation": "DeepMind (United Kingdom)"
+    },
+    {
+      "name": "R Kalawsky",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "H Meng",
+      "role": "Panellist",
+      "organisation": "Brunel University London"
+    },
+    {
+      "name": "M Pereyra",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "S Salous",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "S Schockaert",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "S Wilson",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "T Zhiyuan",
+      "role": "Panellist",
+      "organisation": "Edinburgh Napier University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-08",
+  "meeting_end": "2025-04-08"
+}

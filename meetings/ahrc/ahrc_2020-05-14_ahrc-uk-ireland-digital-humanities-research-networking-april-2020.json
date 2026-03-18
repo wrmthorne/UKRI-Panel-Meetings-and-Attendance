@@ -1,0 +1,323 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-512892422",
+  "meeting_name": "AHRC UK-Ireland Digital Humanities Research Networking April 2020",
+  "applications": [
+    {
+      "application_id": "AH/V00199X/1",
+      "route": "Standard",
+      "lead_applicant": "Caroline Ann Bassett",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Cambridge",
+      "title": "Intersections: Feminism, Technology and Digital Humanities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002163/1",
+      "route": "Standard",
+      "lead_applicant": "Jane Winters",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of London",
+      "title": "UK-EI Digital Humanities Association: a network for research capacity enhancement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00235X/1",
+      "route": "Standard",
+      "lead_applicant": "Gregory Toner",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Developing a Digital Framework for the Medieval Gaelic World",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002341/1",
+      "route": "Standard",
+      "lead_applicant": "Lise Jaillant",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Loughborough University",
+      "title": "AURA (Archives in the UK/ Republic of Ireland & AI): Bringing together Digital Humanists, Computer Scientists & stakeholders to unlock cultural assets",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002333/1",
+      "route": "Standard",
+      "lead_applicant": "Sophie Chessum",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "The National Trust",
+      "title": "3D CRAFT: Digitally recrafting lost interiors in Britain and Ireland",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002260/1",
+      "route": "Standard",
+      "lead_applicant": "Lorna Hughes",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Glasgow",
+      "title": "IIIF for Research (IIIF4R) Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002066/1",
+      "route": "Standard",
+      "lead_applicant": "Shane O'Sullivan",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "Kingston University",
+      "title": "Make Film History - Opening up the Archives to Young Filmmakers",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002406/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Stephen Wilson",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Bradford",
+      "title": "Communicating Hidden Archaeological Monuments and Heritage Landscapes to Different Audiences through Advanced Digital Technologies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002287/1",
+      "route": "Standard",
+      "lead_applicant": "Rosalind Ballaster",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Oxford",
+      "title": "Digital Edgeworth Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002376/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Mackillop",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Glasgow",
+      "title": "Comparing and Combining Early Modern Irish and Scottish Land Records: New Transkribus and Natural Language Processing Approaches",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002279/1",
+      "route": "Standard",
+      "lead_applicant": "Ruth Elizabeth Gibson",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "Coventry University",
+      "title": "Experience together: a live visceral sense of dance performance across the internet",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002201/1",
+      "route": "Standard",
+      "lead_applicant": "Ine Jacobs",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "University of Oxford",
+      "title": "Premodern Digital Cultural Heritage: Networking Open-Access Image Repositories of Ancient and Medieval Content",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002228/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00204X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00218X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002392/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00221X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002414/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002104/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002449/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002236/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002244/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002252/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002295/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002309/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002325/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002368/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "1",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002384/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002465/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Paul Richard Dryburgh",
+      "organisation": "The National Archives",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Spencer Ell",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Alice Bell",
+      "organisation": "Canterbury Christ Church University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-05-14",
+  "meeting_end": "2020-05-14"
+}

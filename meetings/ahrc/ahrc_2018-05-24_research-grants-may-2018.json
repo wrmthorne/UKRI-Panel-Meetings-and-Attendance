@@ -1,0 +1,303 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-344019921",
+  "meeting_name": "Research Grants - May 2018",
+  "applications": [
+    {
+      "application_id": "AH/R014752/1",
+      "route": "Standard",
+      "lead_applicant": "David Lennard Clough",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Chester",
+      "title": "Christian Ethics of Farmed Animal Welfare",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R014817/1",
+      "route": "Standard",
+      "lead_applicant": "Howard Hotson",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Oxford",
+      "title": "Networking Archives: Assembling and analysing a meta-archive of correspondence, 1509-1714",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S000542/1",
+      "route": "Standard",
+      "lead_applicant": "Josie McLellan",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Bristol",
+      "title": "Single Parent Action Network: a participatory history",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001158/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Kerrie Shaughnessy",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Kent",
+      "title": "Playing A/Part: investigating the experiences of autistic girls through drama, interactive media and participatory arts.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001387/1",
+      "route": "Standard",
+      "lead_applicant": "Reina Lewis",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of the Arts London",
+      "title": "Modest Fashion in UK Women's Working Life",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S000569/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R013004/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S000062/1",
+      "route": "Early Career",
+      "lead_applicant": "Adrian Grant",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "University of Ulster",
+      "title": "Divided Pasts - Design Futures",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R013802/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00145X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014922/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014795/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014698/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S000151/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S000259/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014728/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S000399/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001379/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S000038/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001166/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001255/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001263/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001468/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001492/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "David Goldie",
+      "organisation": "University of Strathclyde",
+      "role": "Chair"
+    },
+    {
+      "name": "Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Member"
+    },
+    {
+      "name": "Casey Strine",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Pierse",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Bennett Zon",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Julia Gillen",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Maltby",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Michelle Maria Keown",
+      "organisation": "University of Edinburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Alexander Gunn",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-05-24",
+  "meeting_end": "2018-05-24"
+}

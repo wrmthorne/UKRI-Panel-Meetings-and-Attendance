@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Nicola Lewis",
+  "panellists": [
+    {
+      "name": "Hilary Kennedy",
+      "role": "Chair",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Catarina Guerreiro Marine",
+      "role": "Member",
+      "organisation": "and Environmental Sciences Centre (MARE)"
+    },
+    {
+      "name": "Lionel Guidi",
+      "role": "Member",
+      "organisation": "CNRS"
+    },
+    {
+      "name": "Wolfgang Koeve GEOMAR Helmholtz",
+      "role": "Member",
+      "organisation": "Centre for Ocean Research"
+    },
+    {
+      "name": "Griet Neukermans Ghent",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Pablo Serret",
+      "role": "Member",
+      "organisation": "University of Vigo"
+    },
+    {
+      "name": "Anya Waite Dalhousie",
+      "role": "Member",
+      "organisation": "University"
+    }
+  ],
+  "meeting_name": "BIO Carbon JUN23 BIO Carbon Assessment Panel for the 13th June 2023 closing date",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-18072023-BIO-Carbon-Assessment-Panel-closing-date-13-June-2023.pdf",
+  "meeting_start": "2023-07-27",
+  "meeting_end": "2023-07-27"
+}

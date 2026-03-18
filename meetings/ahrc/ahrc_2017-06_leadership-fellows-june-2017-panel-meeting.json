@@ -1,0 +1,164 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "24",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R00143X/1",
+      "lead_applicant": "Galina Miazhevich",
+      "lead_organisation": "University of Leicester",
+      "title": "'A Quiet Revolution?' Discursive Representations of Non-Heteronormative Sexuality",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P014070/1",
+      "lead_applicant": "Nicholas Jones",
+      "lead_organisation": "University of Birmingham",
+      "title": "Higher-order Metaphysics",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P014577/1",
+      "lead_applicant": "Timothy Daniel Haines",
+      "lead_organisation": "University of Bristol",
+      "title": "Broken Ground: Earthquakes, Colonialism and Nationalism in South Asia, c. 1900-1960",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P01495X/1",
+      "lead_applicant": "Levi Roach",
+      "lead_organisation": "University of Exeter",
+      "title": "Forging Memory: Falsified Documents and Institutional History in Europe, c. 970-1020",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P008720/1",
+      "lead_applicant": "Emile Chabal",
+      "lead_organisation": "University of Edinburgh",
+      "title": "An intellectual biography of Eric Hobsbawm",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P014089/1",
+      "lead_applicant": "Christopher Lucas",
+      "lead_organisation": "School of Oriental & African Studies",
+      "title": "Arabic and contact-induced language change",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P009026/1",
+      "lead_applicant": "David Sergeant",
+      "lead_organisation": "University of Plymouth",
+      "title": "Imagining Alternatives: Utopia, Community and the Novel, 1880-2015",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P006582/1",
+      "lead_applicant": "David James Gill",
+      "lead_organisation": "University of Nottingham",
+      "title": "Unpaid Debts: Rethinking the Causes and Consequences of Sovereign Default",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P014828/1",
+      "lead_applicant": "Saskia Warren",
+      "lead_organisation": "The University of Manchester",
+      "title": "Geographies of Muslim Women and the UK Cultural and Creative Economy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P014941/1",
+      "lead_applicant": "Andrew Wood",
+      "lead_organisation": "Durham University",
+      "title": "Social relations and everyday life in England, 1500-1640",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R001480/1",
+      "lead_applicant": "Katherine Ebury",
+      "lead_organisation": "University of Sheffield",
+      "title": "'Literature, Psychoanalysis and the Death Penalty, 1900-1950'",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000107/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013546/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014836/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000956/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014003/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014321/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015107/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013767/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014437/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002495/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002576/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014801/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001456/1"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, June 2017 panel meeting",
+  "source": "1706-fellowships-meeting.xlsx",
+  "meeting_start": "2017-06",
+  "meeting_end": "2017-06"
+}

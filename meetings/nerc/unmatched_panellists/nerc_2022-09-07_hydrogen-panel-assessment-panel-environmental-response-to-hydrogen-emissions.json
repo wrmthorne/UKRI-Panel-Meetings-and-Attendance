@@ -1,0 +1,50 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom Conference Call",
+  "panel_secretary": "Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Hugh Coe",
+      "role": "Chair",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Philip Holden The",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "David Lee",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Ali Nabavi",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Euan Nisbet Royal Holloway",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Sheila Samsatli",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Kevin Wyche",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Assessment Panel: Environmental response to hydrogen emissions for the 16 June 2022 Closing Date",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "(Hydrogen Panel) Assessment Panel: Environmental response to hydrogen emissions",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-200922-EnvironmentalResponseHydrogenEmissionsAssessmentPanelJune2022.pdf",
+  "meeting_start": "2022-09-07",
+  "meeting_end": "2022-09-07"
+}

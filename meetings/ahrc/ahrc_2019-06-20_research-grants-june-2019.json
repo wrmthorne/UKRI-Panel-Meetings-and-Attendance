@@ -1,0 +1,433 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-425601982",
+  "meeting_name": "Research Grants - June 2019",
+  "applications": [
+    {
+      "application_id": "AH/T000619/1",
+      "route": "Early Career",
+      "lead_applicant": "Humera Iqbal",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University College London",
+      "title": "Partition of Identity: An exploration of Belonging in Bengalis in Pakistan, 1971- 2021",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000066/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew Ratcliffe",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of York",
+      "title": "Grief: A Study of Human Emotional Experience",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001003/1",
+      "route": "Standard",
+      "lead_applicant": "Penelope Mary Allison",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Leicester",
+      "title": "Arch-I-Scan: Automated recording and machine learning for collating Roman ceramic tablewares and investigating eating and drinking practices",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S013202/1",
+      "route": "Early Career",
+      "lead_applicant": "Megan Cavell",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Birmingham",
+      "title": "Group Identity and the Early Medieval Riddle Tradition",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000082/1",
+      "route": "Standard",
+      "lead_applicant": "Inge Maria Daniels",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Oxford",
+      "title": "Disobedient Buildings",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012508/1",
+      "route": "Standard",
+      "lead_applicant": "Stephen Antony Cushion",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Cardiff University",
+      "title": "Countering disinformation: enhancing journalistic legitimacy in public service media",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000015/1",
+      "route": "Standard",
+      "lead_applicant": "Christopher Anderson",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Leeds",
+      "title": "Generic Visuals in the News: the role of stock photos and simple data visualizations in assembling publics",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000104/1",
+      "route": "Standard",
+      "lead_applicant": "Sam Turner",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Newcastle University",
+      "title": "TerraSAgE: Terraces as Sustainable Agricultural Environments",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000996/1",
+      "route": "Early Career",
+      "lead_applicant": "Julian John Brigstocke",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Cardiff University",
+      "title": "Transforming Atmospheric Authority: Experimental Embodiments in the Favelas of Rio de Janeiro",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000295/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000279/1",
+      "route": "Early Career",
+      "lead_applicant": "Emily Underwood-Lee",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of South Wales",
+      "title": "Performance and the Maternal",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T000910/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01182X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001011/1",
+      "route": "Early Career",
+      "lead_applicant": "Marie Thompson",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "University of Lincoln",
+      "title": "Tinnitus, Auditory Knowledge and the Arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007431/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S013229/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000090/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000961/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00004X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001534/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S013210/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011188/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000929/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00018X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001585/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012222/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01036X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012958/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S013148/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "29",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000112/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "30",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001488/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "31",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01280X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010475/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011552/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012036/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000384/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001798/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Barbara Lucy Kelly",
+      "organisation": "University of Leeds",
+      "role": "Chair"
+    },
+    {
+      "name": "Amanda Bayley",
+      "organisation": "Bath Spa University",
+      "role": "Member"
+    },
+    {
+      "name": "Cormac Newark",
+      "organisation": "Guildhall School of Music and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Edward Welch",
+      "organisation": "Imperial War Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Janet Ulph",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Joanne Clarke",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Matthew Reason",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Weller",
+      "organisation": "Regent's Park College",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Wright",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Mark Bolton",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-06-20",
+  "meeting_end": "2019-06-20"
+}

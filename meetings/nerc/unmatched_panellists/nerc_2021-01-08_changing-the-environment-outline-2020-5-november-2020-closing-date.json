@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Philippa Kennard",
+  "panellists": [
+    {
+      "name": "Iain Williams",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Paul Boyle",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Rob Bradburne",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Andrew Clark Royal Academy",
+      "role": "Member",
+      "organisation": "of Engineering"
+    },
+    {
+      "name": "James Davey",
+      "role": "Member",
+      "organisation": "BEIS"
+    },
+    {
+      "name": "Mark Fletcher",
+      "role": "Member",
+      "organisation": "ARUP"
+    },
+    {
+      "name": "Steven Hill",
+      "role": "Member",
+      "organisation": "RE (UKRI)"
+    },
+    {
+      "name": "Julia King House",
+      "role": "Member",
+      "organisation": "of Lords (Climate Change"
+    },
+    {
+      "name": "Ece Ozdemiroglu Economics",
+      "role": "Member",
+      "organisation": "for the Environment"
+    },
+    {
+      "name": "Eirini Saratsi Reading",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Doug Wilson Environment",
+      "role": "Member",
+      "organisation": "Agency"
+    }
+  ],
+  "meeting_name": "Changing the Environment Outline 2020 5 November 2020 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-ChangingTheEnvironmentOutline-051120.pdf",
+  "meeting_start": "2021-01-08",
+  "meeting_end": "2021-01-08"
+}

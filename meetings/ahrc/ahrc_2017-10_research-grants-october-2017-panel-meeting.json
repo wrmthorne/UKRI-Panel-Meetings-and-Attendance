@@ -1,0 +1,189 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "28",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R006512/1",
+      "lead_applicant": "Guy Austin",
+      "lead_organisation": "Newcastle University",
+      "title": "Screening Violence:A Transnational Study of Post-Conflict Imaginaries",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R004994/1",
+      "lead_applicant": "Rachel Holmes",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Odd: feeling different in the world of education",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R007306/1",
+      "lead_applicant": "Christine Chinkin",
+      "lead_organisation": "London School of Economics & Pol Science",
+      "title": "A feminist international law of peace and security",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R005591/1",
+      "lead_applicant": "Caitriona Noonan",
+      "lead_organisation": "Cardiff University",
+      "title": "Screen Agencies as Cultural Intermediaries:Negotiating and Shaping Cultural Policy for the Film and TV Industries within Selected Small Nations",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R00515X/1",
+      "lead_applicant": "Peter Jackson",
+      "lead_organisation": "University of Glasgow",
+      "title": "The Weight of the Past in Franco-British Relations",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R005206/1",
+      "lead_applicant": "Elaine Shemilt",
+      "lead_organisation": "University of Dundee",
+      "title": "Richard Demarco, the Italian Connection | Exchanges between Scotland and Italy through Richard Demarco in the European context",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R005540/1",
+      "lead_applicant": "Marina Chumakina",
+      "lead_organisation": "University of Surrey",
+      "title": "External agreement",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R006326/1",
+      "lead_applicant": "Daniela Treveri Gennari",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "European Cinema Audiences: Entangled Histories and Shared Memories",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R00644X/1",
+      "lead_applicant": "John Steel",
+      "lead_organisation": "University of Sheffield",
+      "title": "Defining Freedom of the Press: A Cross national examination of press ethics and regulation in ten European countries",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005095/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006628/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005680/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005516/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005044/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005419/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006261/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004943/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00630X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006423/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002932/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00370X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003564/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005737/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006369/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005303/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003580/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005060/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006644/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, October 2017 Panel meeting",
+  "source": "Research Grants Panel, October 2017 Meeting.xlsx",
+  "meeting_start": "2017-10",
+  "meeting_end": "2017-10"
+}

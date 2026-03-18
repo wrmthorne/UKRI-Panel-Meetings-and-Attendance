@@ -1,0 +1,36 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "4",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "LPIPs Hub 2023",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Y000544/1"
+    },
+    {
+      "opportunity": "LPIPs Hub 2023",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y000315/1"
+    },
+    {
+      "opportunity": "LPIPs Hub 2023",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y000617/1"
+    },
+    {
+      "opportunity": "LPIPs Hub 2023",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y000269/1"
+    }
+  ],
+  "meeting_name": "LPIPs Hub 2023",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-09",
+  "meeting_end": "2023-09"
+}

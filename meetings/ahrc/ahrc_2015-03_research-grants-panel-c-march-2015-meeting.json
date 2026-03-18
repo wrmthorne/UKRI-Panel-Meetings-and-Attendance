@@ -1,0 +1,50 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "5",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008908/1",
+      "lead_applicant": "Alexandra Bayliss",
+      "lead_organisation": "University of Stirling",
+      "title": "NSF/SBE-RCUK: Radiocarbon Dating and Chronological Modelling of Neolithic Çatalhöyük East",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008568/1",
+      "lead_applicant": "Steven Paul Ashby",
+      "lead_organisation": "University of York",
+      "title": "MELTING POT: Food and Identity in the Age of the Vikings",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008894/1",
+      "lead_applicant": "David Robinson",
+      "lead_organisation": "University of Central Lancashire",
+      "title": "Unravelling the Gordian Knot: Integrating Advanced Portable Technologies into the Analysis of Rock-Art Superimposition",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009386/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008967/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel C, March 2015 meeting",
+  "source": "Research Grants Panel C, March 2015 meeting.xlsx",
+  "meeting_start": "2015-03",
+  "meeting_end": "2015-03"
+}

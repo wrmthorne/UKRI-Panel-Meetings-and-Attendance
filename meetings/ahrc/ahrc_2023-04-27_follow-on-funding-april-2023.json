@@ -1,0 +1,143 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-972995041",
+  "meeting_name": "Follow on Funding April 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y001192/1",
+      "route": "Standard",
+      "lead_applicant": "Sarah Jackson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Voice Notes: Creativity, Technology and Exile in Nottingham and Slemani UNESCO Cities of Literature",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y001389/1",
+      "route": "Standard",
+      "lead_applicant": "Elaine Hobby",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Loughborough University",
+      "title": "Canterbury's Aphra Behn",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X013111/1",
+      "route": "Standard",
+      "lead_applicant": "Barry Godfrey",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Liverpool",
+      "title": "Truth-telling, film-making, and skill-building in a far northwest Australian community",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011682/1",
+      "route": "Standard",
+      "lead_applicant": "Churnjeet Mahn",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Strathclyde",
+      "title": "'White Thinking' and the failed promise of diversity in Scottish heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y000595/1",
+      "route": "Standard",
+      "lead_applicant": "Charlotte Baker",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Lancaster University",
+      "title": "Alternative Explanations for Disability: Inspiring patient-centered care among healthcare practitioners through the arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011623/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001761/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y001265/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011909/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X01312X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y00096X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Caroline Cornish",
+      "organisation": "Royal Botanic Gardens Kew",
+      "role": "Moderator"
+    },
+    {
+      "name": "Syed Shafquat Towheed",
+      "organisation": "Norwich University of the Arts",
+      "role": "Moderator"
+    },
+    {
+      "name": "Lorna Hughes",
+      "organisation": "University of Glasgow",
+      "role": "Moderator"
+    },
+    {
+      "name": "Xiaosong Yang",
+      "organisation": "University of St Andrews",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2023-04-27",
+  "meeting_end": "2023-04-27"
+}

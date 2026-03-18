@@ -1,0 +1,38 @@
+{
+  "council": "NERC",
+  "panel_secretary": "Maria Kirrane Chair: Professor Jonathan Bamber, University of Bristol",
+  "panellists": [
+    {
+      "name": "Jonathan Bamber",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Bill Austin",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Melanie Leng",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "John Maclennan",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Nicholas Rogers",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Jeroen van Hunen",
+      "role": "Member",
+      "organisation": "University of Durham"
+    }
+  ],
+  "meeting_name": "Independent Research Fellowship Sift Panels for the October 2015 Closing Date Sift meetings will be held during February 2016 at Polaris House, Swindon Panel A – 1st February 2016",
+  "source": "NERC-funding-assessment-panel-members-2015/irf-siftpanels.pdf"
+}

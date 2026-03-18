@@ -1,0 +1,79 @@
+{
+  "council": "BBSRC",
+  "panellists": [
+    {
+      "name": "Amanda Wooding",
+      "role": "Chair",
+      "organisation": "Cambridge Enterprise"
+    },
+    {
+      "name": "Catherine Breslin",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Hugo Campos",
+      "role": "Member",
+      "organisation": "International Potato Centre"
+    },
+    {
+      "name": "Neil Dixon",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Olena Doran",
+      "role": "Member",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "Julian Gough MRC",
+      "role": "Member",
+      "organisation": "Laboratory of Molecular Biology"
+    },
+    {
+      "name": "John Heap",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Geraint Lewis",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Hassan Mahmudul",
+      "role": "Member",
+      "organisation": "Future Planet Capital"
+    },
+    {
+      "name": "Mandy Nevel Agriculture and Horticulture Development Board",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Eric Ober National",
+      "role": "Member",
+      "organisation": "Institute of Agricultural Botany (NIAB)"
+    },
+    {
+      "name": "Sian Ringrose AquaBioTech",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Liliya Serazetdinova",
+      "role": "Member",
+      "organisation": "Earlham Institute"
+    },
+    {
+      "name": "Jo Slater-Jefferies",
+      "role": "Member",
+      "organisation": " University of Southampton, National Biofilms Innovation Centre"
+    }
+  ],
+  "meeting_name": "Follow On Fund Round2 2023",
+  "source": "membership/BBSRC-130524-BBSRCFollowOnFundRound2-2023PanelMembership.pdf",
+  "meeting_start": "2024-03-13",
+  "meeting_end": "2024-03-13"
+}

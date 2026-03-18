@@ -1,0 +1,117 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "16",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R008868/1",
+      "lead_applicant": "Henry James Miller",
+      "lead_organisation": "Durham University",
+      "title": "Petitions and Petitioning from the Medieval Period to the Present",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013160/1",
+      "lead_applicant": "John Child",
+      "lead_organisation": "University of Sussex",
+      "title": "Criminal Law Reform Now Network",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R007497/1",
+      "lead_applicant": "Emma Shercliff",
+      "lead_organisation": "Arts University Bournemouth",
+      "title": "Stitching Together",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R008329/1",
+      "lead_applicant": "Kate Ince",
+      "lead_organisation": "University of Birmingham",
+      "title": "Serge Daney and queer cinephilia",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013063/1",
+      "lead_applicant": "Alison Sheridan",
+      "lead_organisation": "National Museums of Scotland",
+      "title": "Gold in Britain's auriferous regions, 2450-800 BC: towards a coherent Research Framework and Strategy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R013144/1",
+      "lead_applicant": "Ricki O'Rawe",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Women, Religion, and Culture in Spain and Spanish America (1900-2000)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00868X/1",
+      "lead_applicant": "Maria Fusco",
+      "lead_organisation": "Northumbria University",
+      "title": "De-localising Dialect",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R01289X/1",
+      "lead_applicant": "Anna Marie Roos",
+      "lead_organisation": "University of Lincoln",
+      "title": "Collective Wisdom: Collecting in the Early Modern Academy",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008752/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008582/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012784/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012016/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008892/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R01325X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012091/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008140/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, February 2018",
+  "source": "Research Networking, February 2018 Moderation.xlsx",
+  "meeting_start": "2018-02",
+  "meeting_end": "2018-02"
+}

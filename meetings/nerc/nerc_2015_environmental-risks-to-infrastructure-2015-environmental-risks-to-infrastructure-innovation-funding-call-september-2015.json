@@ -1,0 +1,147 @@
+{
+  "council": "NERC",
+  "count_of_applications": "24",
+  "count_of_awards": "15",
+  "year": "2015",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/N012909/1",
+      "rank": "1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/N012992/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/N01295X/1",
+      "rank": "3"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/N013026/1",
+      "rank": "4"
+    },
+    {
+      "score": "5",
+      "outcome": "Successful",
+      "application_id": "NE/N012933/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N012798/1",
+      "rank": "6"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N013018/1",
+      "rank": "7"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N013042/1",
+      "rank": "8"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N012852/1",
+      "rank": "9"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N012941/1",
+      "rank": "10"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N013034/1",
+      "rank": "11"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N01300X/1",
+      "rank": "12"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/N012917/1",
+      "rank": "13"
+    },
+    {
+      "score": "14",
+      "outcome": "Successful",
+      "application_id": "NE/N012984/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "NE/N013050/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N012976/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N012801/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "18",
+      "application_id": "NE/N012879/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "19",
+      "application_id": "NE/N012895/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "20",
+      "application_id": "NE/N012763/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "21",
+      "application_id": "NE/N012828/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "application_id": "NE/N012968/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "application_id": "NE/N012887/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "24",
+      "application_id": "NE/N012925/1"
+    }
+  ],
+  "meeting_name": "Environmental Risks to Infrastructure 2015 Environmental Risks to Infrastructure Innovation funding call September 2015",
+  "source": "eriip-awards-sep15.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

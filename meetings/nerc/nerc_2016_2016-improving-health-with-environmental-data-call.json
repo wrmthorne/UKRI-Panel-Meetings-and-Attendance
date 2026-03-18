@@ -1,0 +1,102 @@
+{
+  "council": "NERC",
+  "count_of_applications": "22",
+  "count_of_awards": "8",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P011012/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010806/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010830/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010911/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010849/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010997/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010687/1",
+      "rank": "2016"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/P010660/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010865/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P01092X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010741/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010792/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011047/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010733/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010784/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011039/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P01125X/1",
+      "rank": "2016"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P011020/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P009395/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P01075X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010822/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/P010962/1"
+    }
+  ],
+  "meeting_name": "2016 Improving Health with Environmental Data Call",
+  "source": "IHwED-Call.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

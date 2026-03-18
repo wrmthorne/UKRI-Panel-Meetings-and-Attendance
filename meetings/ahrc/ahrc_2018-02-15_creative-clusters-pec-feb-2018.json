@@ -1,0 +1,27 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-308333049",
+  "meeting_name": "Creative Clusters PEC - Feb 2018",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Leandro Valiati",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Phil Jones",
+      "organisation": "Wired Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Geoffrey Crossick",
+      "organisation": "University of London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-02-15",
+  "meeting_end": "2018-02-15"
+}

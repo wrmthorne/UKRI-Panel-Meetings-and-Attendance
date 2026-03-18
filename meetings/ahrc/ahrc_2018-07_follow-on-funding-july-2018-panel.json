@@ -1,0 +1,89 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "11",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S00680X/1",
+      "lead_applicant": "Andrew McRae",
+      "lead_organisation": "University of Exeter",
+      "title": "The Places of Poetry:a community arts project",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S001808/1",
+      "lead_applicant": "Alison Findlay",
+      "lead_organisation": "Lancaster University",
+      "title": "Dramatising Penshurst: \"Love's Victory\" and the Sidneys",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006370/1",
+      "lead_applicant": "Hiroki Shin",
+      "lead_organisation": "Science Museum Group",
+      "title": "Communicating Material Cultures of Energy: Five Challenges for Energy Communication",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002707/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002421/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S005196/1",
+      "lead_applicant": "Karina Croucher",
+      "lead_organisation": "University of Bradford",
+      "title": "Continuing Bonds: Creative Dissemination",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/s005153/1",
+      "lead_applicant": "Michael Punt",
+      "lead_organisation": "University of Plymouth",
+      "title": "Technology, Exchange and Flow Writing Workshops at the Kochi-Muziris Biennale",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S003819/1",
+      "lead_applicant": "Leon Cruickshank",
+      "lead_organisation": "Lancaster University",
+      "title": "Scaling Up Leapfrog: improving a million conversations",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S003126/1",
+      "lead_applicant": "Laura Brooks",
+      "lead_organisation": "University of Southampton",
+      "title": "Songs of Home & Distant Isles: Musical Soundscapes of Australia and Britain, 1787-1860",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003223/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004890/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow on Funding July 2018 panel",
+  "source": "Follow-on Funding for Impact and Engagement Q3 2018 Moderation.xlsx",
+  "meeting_start": "2018-07",
+  "meeting_end": "2018-07"
+}

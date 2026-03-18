@@ -1,0 +1,112 @@
+{
+  "council": "NERC",
+  "count_of_applications": "13",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "9",
+      "application_id": "NE/N013123/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/N013735/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N013743/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N013727/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/N013840/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/N013697/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/N013662/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N013344/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N013751/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/N015827/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N013883/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N013255/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/N013336/1",
+      "rank": "2"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Irina Sandu European",
+      "role": "Chair",
+      "organisation": "Centre for Medium-Range"
+    },
+    {
+      "name": "Weather Forecasts",
+      "role": "Member",
+      "organisation": "(ECMWF)"
+    },
+    {
+      "name": "Mitch Moncrieff",
+      "role": "Member",
+      "organisation": "National Centre for Atmospheric Research"
+    },
+    {
+      "name": "Samson Hagos",
+      "role": "Member",
+      "organisation": "Pacific Northwest National Laboratory"
+    }
+  ],
+  "meeting_name": "Atmospheric Convection",
+  "source": "Atmospheric Convection.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-AtmosphericConvection-170419.pdf",
+  "meeting_start": "2019-07-10",
+  "meeting_end": "2019-07-10"
+}

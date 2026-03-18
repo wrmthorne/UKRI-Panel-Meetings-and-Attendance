@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote - Via Zoom",
+  "panel_secretary": "Sarah Rabbetts",
+  "panellists": [
+    {
+      "name": "Judith Smith",
+      "role": "Chair",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Lisa Emberson",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Lorraine Maltby",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Charles Masembe Makerere",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Daniel Masiga International Centre",
+      "role": "Member",
+      "organisation": "of Insect Physiology"
+    },
+    {
+      "name": "Muhammad Munir",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Barbara Tschirren",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    }
+  ],
+  "meeting_name": "(Home - environmental solutions to zoonoses CDT 2022 assessment panel (CDT",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-09112022-Panel-Meeting-List-Template-CDT-SEP22.pdf",
+  "meeting_start": "2022-11-02",
+  "meeting_end": "2022-11-03"
+}

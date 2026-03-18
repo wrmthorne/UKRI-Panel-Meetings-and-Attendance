@@ -1,0 +1,128 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-610473741",
+  "meeting_name": "Research Networking - September 2020",
+  "applications": [
+    {
+      "application_id": "AH/V008234/1",
+      "route": "Standard",
+      "lead_applicant": "Ricarda Vidal",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "King's College London",
+      "title": "Experiential Translation: Meaning-Making, Engagement and Agency across Media in a Multimodal World",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006630/1",
+      "route": "Standard",
+      "lead_applicant": "Gregory Paul Tate",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of St Andrews",
+      "title": "Victorian Literary Languages",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008080/1",
+      "route": "Standard",
+      "lead_applicant": "Maj-Britt Mosegaard Hansen",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The University of Manchester",
+      "title": "The Role of Pragmatics in Cyclic Language Change",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006134/1",
+      "route": "Standard",
+      "lead_applicant": "Graeme Were",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Bristol",
+      "title": "The Rise of Private Museums and Heritage in East and Southeast Asia: Understanding Memory and Transformation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001787/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Field",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Sussex",
+      "title": "Not Only Dressed but Dressing: Clothing, Childhood, Creativity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008749/1",
+      "route": "Standard",
+      "lead_applicant": "Alexander Douglas",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of St Andrews",
+      "title": "The Future of Work and Income",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004603/1",
+      "route": "Standard",
+      "lead_applicant": "Ranka Primorac",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Southampton",
+      "title": "The Textual Worlds of South-Eastern Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004565/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V00428X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008803/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008978/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2020-09-27",
+  "meeting_end": "2020-09-27"
+}

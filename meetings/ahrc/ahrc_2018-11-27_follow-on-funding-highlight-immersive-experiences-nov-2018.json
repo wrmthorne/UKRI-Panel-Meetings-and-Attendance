@@ -1,0 +1,243 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-388735344",
+  "meeting_name": "Follow-on Funding Highlight Immersive Experiences Nov 2018",
+  "applications": [
+    {
+      "application_id": "AH/S010653/1",
+      "route": "Standard",
+      "lead_applicant": "James Cook",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Hearing History: Bringing to life the sounds of the past through Virtual Reality",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010599/1",
+      "route": "Standard",
+      "lead_applicant": "Joanna Kate Robinson",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Nottingham",
+      "title": "Making accessibility accessible: maximising the impact of the integrated immersive inclusiveness project",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010548/1",
+      "route": "Standard",
+      "lead_applicant": "Steve Love",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "Studio 39: A Virtual Reality Learning Environment",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010610/1",
+      "route": "Standard",
+      "lead_applicant": "Kirk Woolford",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Surrey",
+      "title": "vRSP Follow-on",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010521/1",
+      "route": "Standard",
+      "lead_applicant": "Mary Agnes Krell",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Sussex",
+      "title": "Digital Ghost Hunt - Impact and Engagement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010505/1",
+      "route": "Standard",
+      "lead_applicant": "Franziska Schroeder",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "VRIMM: VR Inclusive Music Making, Northern Ireland",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010572/1",
+      "route": "Standard",
+      "lead_applicant": "Helena Daffern",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of York",
+      "title": "Sing from your Seat: community singing in the great outdoors in VR as a beneficial intervention for the elderly",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010661/1",
+      "route": "Standard",
+      "lead_applicant": "Tom William Schofield",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Newcastle University",
+      "title": "Embedding Magic: AR in outreach",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010483/1",
+      "route": "Standard",
+      "lead_applicant": "Gareth Beale",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of Glasgow",
+      "title": "Digital Creativity for Regional Museums: Immersive Experiences Smart Commissioning Toolkit",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S01053X/1",
+      "route": "Standard",
+      "lead_applicant": "Tanya Krzywinska",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "Falmouth University",
+      "title": "The Augmented Telegrapher: Creating and capturing the value of an Integrated approach to immersive experiences in a small museum context.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010580/1",
+      "route": "Standard",
+      "lead_applicant": "Dawn Marie Hadley",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of York",
+      "title": "Heritage-led urban regeneration: a scalable model for community engagement using immersive technologies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010637/1",
+      "route": "Standard",
+      "lead_applicant": "Atau Tanaka",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Immersive Pipeline 2: Out of the lab and into the wild",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010556/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010688/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010564/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010602/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010432/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01067X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010629/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010645/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010696/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Michael Wilson",
+      "organisation": "Loughborough University",
+      "role": "Chair"
+    },
+    {
+      "name": "Caroline Ann Bassett",
+      "organisation": "University of Cambridge",
+      "role": "Member"
+    },
+    {
+      "name": "Leon Cruickshank",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Robin James Stuart Sloan",
+      "organisation": "Abertay University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-11-27",
+  "meeting_end": "2018-11-27"
+}

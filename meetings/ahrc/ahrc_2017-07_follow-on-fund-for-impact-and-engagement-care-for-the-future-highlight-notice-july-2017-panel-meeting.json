@@ -1,0 +1,73 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "9",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004595/1",
+      "lead_applicant": "Georgina Endfield",
+      "lead_organisation": "University of Liverpool",
+      "title": "Weathering the storm: TEMPEST and engagement with the national weather memory",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004544/1",
+      "lead_applicant": "Pollyanna Ruiz",
+      "lead_organisation": "University of Sussex",
+      "title": "You Can Make History: Extending and developing youth engagement in cultural heritage.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003807/1",
+      "lead_applicant": "Emma-Jayne Abbots",
+      "lead_organisation": "University of Wales Trinity Saint David",
+      "title": "Food Stories: Fostering Cross-Cultural Dialogue through Food",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004536/1",
+      "lead_applicant": "Philippa Ryan",
+      "lead_organisation": "The British Museum",
+      "title": "Learning from the past: Nubian traditional knowledge and agricultural resilience, crop choices and endangered cultural heritage",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004706/1",
+      "lead_applicant": "Bob Sturm",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Engaging three user communities with applications and outcomes of computational music creativity",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004625/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004838/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003793/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003912/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow-on Fund for Impact and Engagement: Care for the Future Highlight Notice, July 2017 panel meeting",
+  "source": "1707-follow-on-funding-care-for-the-future.xlsx",
+  "meeting_start": "2017-07",
+  "meeting_end": "2017-07"
+}

@@ -1,0 +1,89 @@
+{
+  "council": "NERC",
+  "count_of_applications": "9",
+  "count_of_awards": "9",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009167/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009094/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009108/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009116/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009124/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009132/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009140/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009159/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S009175/1",
+      "rank": "1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Colin Mackechnie",
+      "role": "Chair",
+      "organisation": "NERC Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "David Hopkins",
+      "role": "Member",
+      "organisation": "Scotland’s Rural College (SRUC)"
+    },
+    {
+      "name": "Yonglong Lu Research",
+      "role": "Member",
+      "organisation": "Centre for Eco-Environmental"
+    },
+    {
+      "name": "Anne Verhoef",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ],
+  "meeting_name": "CZO (Newton China) June 2018",
+  "source": "CZO (Newton China) June 2018.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2018/CZO Phase 2 Panel Membership - June 2018.pdf",
+  "meeting_start": "2018-09-11",
+  "meeting_end": "2018-09-11"
+}

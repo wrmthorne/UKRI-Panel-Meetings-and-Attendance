@@ -1,0 +1,104 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN674",
+  "meeting_name": "EPSRC Physical Sciences Open Fellowships Interview Panel - September 2024",
+  "meeting_convenor": "J Dennis",
+  "applications": [
+    {
+      "application_id": "APP16237",
+      "title": "A New Iron Age of Catalysis for Sustainable Organic Synthesis",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2091409.65",
+      "award_id": "EP/Z535278/1",
+      "opportunity_number": "139",
+      "lead_applicant": "M Neidig",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ535278%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP14834",
+      "title": "SolOLED: TADF Dendrimers for Highly Efficient Solution-Processed OLEDs",
+      "lead_organisation": "University of St Andrews",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "2354678.31",
+      "award_id": "EP/Z535291/1",
+      "opportunity_number": "139",
+      "lead_applicant": "E Zysman-Colman",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ535291%2F1",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP13475",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "139",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowship May 2023"
+    },
+    {
+      "application_id": "APP17836",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "139",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC open fellowship May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Eberlein",
+      "role": "Chair",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "N Greenham",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "M Mamlouk",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "M Mazzera",
+      "role": "Panellist",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "R Melen",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "V Ting",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "C Trager-Cowan",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-09-24",
+  "meeting_end": "2024-09-24"
+}

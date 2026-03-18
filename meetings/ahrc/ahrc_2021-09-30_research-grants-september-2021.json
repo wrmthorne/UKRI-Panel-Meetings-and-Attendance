@@ -1,0 +1,328 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-678611073",
+  "meeting_name": "Research Grants - September 2021",
+  "applications": [
+    {
+      "application_id": "AH/W003104/1",
+      "route": "Standard",
+      "lead_applicant": "James Thompson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "The University of Manchester",
+      "title": "Care Aesthetics Research Exploration (CARE)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W003198/1",
+      "route": "Standard",
+      "lead_applicant": "Sam Jacoby",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Royal College of Art",
+      "title": "Housing Standardisation: The Architecture of Regulations and Design Standards",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W003112/1",
+      "route": "Standard",
+      "lead_applicant": "Gordon Alexander Lynch",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Kent",
+      "title": "Abuse in religious settings: organisational cultures, public policy and survivors' experiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002809/1",
+      "route": "Standard",
+      "lead_applicant": "Suzanne Elizabeth Beech",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Ulster",
+      "title": "Bordered Youth: Analysing Citizenship and Identities in Post-Brexit Northern Ireland",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002671/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002981/1",
+      "route": "Early Career",
+      "lead_applicant": "Anna Ross",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Warwick",
+      "title": "Imperial Afterlives: Life in the Wake of the German Empire, 1918-34",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002159/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W003139/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00299X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001500/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000296/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002949/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001241/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002442/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002965/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000563/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00285X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000547/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002639/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00044X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002892/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W003317/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W003023/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002485/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002698/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002914/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W003309/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ben John Highmore",
+      "organisation": "University of Sussex",
+      "role": "Moderator"
+    },
+    {
+      "name": "Elaine Hobby",
+      "organisation": "Loughborough University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Gurchathen Singh Sanghera",
+      "organisation": "University of Worcester",
+      "role": "Moderator"
+    },
+    {
+      "name": "Helena Frances Gaunt",
+      "organisation": "University of South Wales",
+      "role": "Moderator"
+    },
+    {
+      "name": "Jake Kaner",
+      "organisation": "University of Westminster",
+      "role": "Moderator"
+    },
+    {
+      "name": "Joanne Clarke",
+      "organisation": "York St John University",
+      "role": "Moderator"
+    },
+    {
+      "name": "Mark Nesbitt",
+      "organisation": "Royal Botanic Gardens Kew",
+      "role": "Moderator"
+    },
+    {
+      "name": "Peter Darron Jackson",
+      "organisation": "University of Glasgow",
+      "role": "Moderator"
+    },
+    {
+      "name": "Victoria Margaret Hunter",
+      "organisation": "Bath Spa University",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2021-09-30",
+  "meeting_end": "2021-09-30"
+}

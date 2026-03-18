@@ -1,0 +1,37 @@
+{
+  "council": "MRC",
+  "count_of_applications": "5",
+  "count_of_awards": "2",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 10 out of 15 applications did not pass an initial shortlisting stage and were not considered further.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP39712"
+    },
+    {
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "application_id": "APP43880"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP38993"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP42050"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP46041"
+    }
+  ],
+  "meeting_name": "Develop Guidance for Better Research Methods 20 November 2024",
+  "source": "Develop-guidance-for-better-research-methods/MRC-160125-DevelopGuidanceForBetterResearchMethods-20Nov2024.xlsx",
+  "meeting_start": "2024-11-20",
+  "meeting_end": "2024-11-20"
+}

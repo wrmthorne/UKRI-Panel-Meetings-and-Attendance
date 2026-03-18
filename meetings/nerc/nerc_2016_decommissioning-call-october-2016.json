@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "count_of_applications": "9",
+  "count_of_awards": "4",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/P016553/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/P016561/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/P016464/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/P016537/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P016545/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P016529/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P016596/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P01657X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4",
+      "application_id": "NE/P016448/1",
+      "rank": "4"
+    }
+  ],
+  "meeting_name": "Decommissioning Call – October 2016",
+  "source": "Decommissioning Call - panel outcome.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

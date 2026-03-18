@@ -1,0 +1,108 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee A",
+  "panellists": [
+    {
+      "name": "Richard Barrett-Jolley",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Emma Hodson-Tole",
+      "role": "Deputy Chair",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Thomas Matheson",
+      "role": "Deputy Chair",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Clare Bennett",
+      "role": "Member",
+      "organisation": "Univeristy College London"
+    },
+    {
+      "name": "Natalie Connor-Robson",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Stuart Dowall",
+      "role": "Member",
+      "organisation": "Public Health England"
+    },
+    {
+      "name": "Rebecca Dumbell",
+      "role": "Member",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "Marina Ezcurra",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Elisa Galliano",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Stuart Gray",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Matthew Grubb",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Sarah Hill",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Mark Mooney",
+      "role": "Member",
+      "organisation": "Queen's University of Belfast"
+    },
+    {
+      "name": "Matthew Parker",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Hugh Piggins",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Jaswinder Sethi",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Dylan Thompson",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Sonja Vermeren",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Vladyslav Vyazovskiy",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Thomas Wilkinson",
+      "role": "Member",
+      "organisation": "Swansea University"
+    }
+  ],
+  "meeting_name": "Research Committee Membership2024RM1 - Committee A",
+  "source": "membership/BBSRC-191124-ResearchCommitteeMembership2024RM1.pdf"
+}

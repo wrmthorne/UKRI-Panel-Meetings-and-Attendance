@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Gareth Townsend",
+  "panellists": [
+    {
+      "name": "Iain Williamson",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Daniela Delneri",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Louise Johnson",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "David Lunt",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Richard Nichols Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    }
+  ],
+  "meeting_name": "NC S&F Commissioning FEB20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-NationalCapabilityScientificSupportAndFacilities-EnvironmentalOmicsFacility-060220.pdf",
+  "meeting_start": "2020-02-27",
+  "meeting_end": "2020-02-27"
+}

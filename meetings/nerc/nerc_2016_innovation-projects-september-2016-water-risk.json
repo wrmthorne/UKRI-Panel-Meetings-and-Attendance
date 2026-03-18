@@ -1,0 +1,168 @@
+{
+  "council": "NERC",
+  "count_of_applications": "26",
+  "count_of_awards": "10",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "17",
+      "outcome": "Successful",
+      "application_id": "NE/P016952/1",
+      "rank": "1"
+    },
+    {
+      "score": "15",
+      "outcome": "Successful",
+      "application_id": "NE/P017002/1",
+      "rank": "2"
+    },
+    {
+      "score": "14",
+      "outcome": "Successful",
+      "application_id": "NE/P016812/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/P016898/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/P016936/1",
+      "rank": "5"
+    },
+    {
+      "score": "17",
+      "outcome": "Successful",
+      "application_id": "NE/P016677/1",
+      "rank": "1"
+    },
+    {
+      "score": "16",
+      "outcome": "Successful",
+      "application_id": "NE/P016332/1",
+      "rank": "2"
+    },
+    {
+      "score": "16",
+      "outcome": "Successful",
+      "application_id": "NE/P016731/1",
+      "rank": "2"
+    },
+    {
+      "score": "16",
+      "outcome": "Successful",
+      "application_id": "NE/P016766/1",
+      "rank": "4"
+    },
+    {
+      "score": "15",
+      "outcome": "Successful",
+      "application_id": "NE/P016804/1",
+      "rank": "5"
+    },
+    {
+      "score": "15",
+      "outcome": "Successful",
+      "application_id": "NE/P016944/1",
+      "rank": "6"
+    },
+    {
+      "score": "15",
+      "outcome": "Successful",
+      "application_id": "NE/P016820/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/P016995/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/P016901/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/P016685/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/P016855/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "13",
+      "application_id": "NE/P01674X/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "13",
+      "application_id": "NE/P016790/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/P016871/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/P016960/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/P016987/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/P01688X/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "NE/P016723/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "10",
+      "application_id": "NE/P016669/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "10",
+      "application_id": "NE/P016979/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/P016650/1",
+      "rank": "21"
+    }
+  ],
+  "meeting_name": "Innovation Projects September 2016 (Water Risk)",
+  "source": "Innovation Projects - September 2016.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

@@ -1,0 +1,318 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-774981904",
+  "meeting_name": "Research Grants - April 2022",
+  "applications": [
+    {
+      "application_id": "AH/W009552/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Haydn Bevan",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University College London",
+      "title": "Qin Imperial Iron, Tomb M1 and the First Emperor's Mausoleum: Character, Context and Consequence",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009951/1",
+      "route": "Standard",
+      "lead_applicant": "Mark John White",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Durham University",
+      "title": "Digital Technologies, Acheulean Handaxes and the Social Landscapes of the Lower Palaeolithic",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010054/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Steven Corthorn",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Conservatism and Unionism in the UK, 1968-1997",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009803/1",
+      "route": "Standard",
+      "lead_applicant": "Hilary Mary Carey",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Bristol",
+      "title": "Mariners: Religion, race and empire in British ports, 1801-1914",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W010151/1",
+      "route": "Standard",
+      "lead_applicant": "Arkotong Longkumer",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Decolonising the Museum: Digital Repatriation of the Gaidinliu Collection from the UK to India (DiMuse)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008114/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009293/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007266/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008637/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W01016X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010267/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007894/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007495/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010941/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010062/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010607/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005085/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008335/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009668/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010011/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007177/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009641/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009714/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W009366/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010275/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W010704/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alice Entwistle",
+      "organisation": "University of South Wales",
+      "role": "Chair"
+    },
+    {
+      "name": "Joanne Louise Buckberry",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "Laura Sophie Basell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Hewitt",
+      "organisation": "Private Address",
+      "role": "Member"
+    },
+    {
+      "name": "Sara McDowell",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Cormac Newark",
+      "organisation": "Guildhall School of Music and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Gurchathen Singh Sanghera",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Jonathan Duncan Oldfield",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Katy Jenkins",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-04-26",
+  "meeting_end": "2022-04-26"
+}

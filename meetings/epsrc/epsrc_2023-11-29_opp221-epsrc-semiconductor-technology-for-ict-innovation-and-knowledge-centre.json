@@ -1,0 +1,155 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN080",
+  "meeting_name": "OPP221: EPSRC Semiconductor technology for ICT innovation and knowledge centre",
+  "meeting_convenor": "A Seweryn",
+  "applications": [
+    {
+      "application_id": "APP13301",
+      "title": "CORNERSTONE Photonics Innovation Centre (C-PIC)",
+      "lead_organisation": "University of Southampton",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "11782397.31",
+      "award_id": "EP/Z531066/1",
+      "opportunity_number": "221",
+      "lead_applicant": "G Reed",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ531066%2F1",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP12755",
+      "title": "Transforming Net Zero with Ultrawide Bandgap Semiconductor Device Technology (REWIRE)",
+      "lead_organisation": "University of Bristol",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "11748844.5",
+      "award_id": "EP/Z531091/1",
+      "opportunity_number": "221",
+      "lead_applicant": "M Kuball",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ531091%2F1",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP11786",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "221",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP11821",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "221",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP13503",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "221",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP14302",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "221",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP16882",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "221",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    },
+    {
+      "application_id": "APP13138",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "221",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Semiconductor technology for ICT innovation and knowledge centre"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "G Parr",
+      "role": "Chair",
+      "organisation": ""
+    },
+    {
+      "name": "R Hardeman",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "M Hinton",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "P Parbrook",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "Ö Simsek",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "R Webb",
+      "role": "Panellist",
+      "organisation": ""
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2023-11-29",
+  "meeting_end": "2023-11-29"
+}

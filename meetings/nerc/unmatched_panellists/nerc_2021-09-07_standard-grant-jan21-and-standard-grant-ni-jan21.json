@@ -1,0 +1,71 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Bryony Pound",
+  "panel_name": "Jan21 Standard Grant & NI Panel A",
+  "panellists": [
+    {
+      "name": "Mark Hodson",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Finlay",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Kathryn Goodenough",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Margaret Hartley The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Conall MacNiocaill",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Christian Maerz",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Thomas Mitchell",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Kirsty Penkman",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Jamie Pringle",
+      "role": "Member",
+      "organisation": "Keele University"
+    },
+    {
+      "name": "Gerald Roberts Birkbeck",
+      "role": "Member",
+      "organisation": "College"
+    },
+    {
+      "name": "Ann Rowan",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Katrien Van Landeghem",
+      "role": "Member",
+      "organisation": "Bangor University"
+    }
+  ],
+  "meeting_name": "Standard Grant JAN21 and Standard Grant - NI JAN21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-02052023-Standard-and-New-Investigator-grant-panels-closing-date-9-February-2021.pdf",
+  "meeting_start": "2021-09-07",
+  "meeting_end": "2021-09-08"
+}

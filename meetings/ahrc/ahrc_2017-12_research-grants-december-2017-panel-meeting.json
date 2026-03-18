@@ -1,0 +1,191 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "30",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R006768/1",
+      "lead_applicant": "Sandy Black",
+      "lead_organisation": "University of the Arts London",
+      "title": "Rethinking Fashion Design Entrepreneurship: Fostering Sustainable Practices",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R006849/1",
+      "lead_applicant": "Bryce Lease",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Staging Difficult Pasts: Of Narratives, Objects and Public Memory",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R006687/1",
+      "lead_applicant": "Kirstie Blair",
+      "lead_organisation": "University of Strathclyde",
+      "title": "Piston, Pen & Press: Literary Cultures in the Industrial Workplace from the Factory Acts to the First World War",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R006989/1",
+      "lead_applicant": "Peter Gatrell",
+      "lead_organisation": "The University of Manchester",
+      "title": "Reckoning with refugeedom, 1919-75: refugee voices in modern history",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R005559/1",
+      "lead_applicant": "Joshua Oppenheimer",
+      "lead_organisation": "University of Westminster",
+      "title": "Documentary of the Imagination: Development and Comparison of a Self-Staging Nonfiction Methodology Across Cultures.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R007012/1",
+      "lead_applicant": "Rachel Garfield",
+      "lead_organisation": "University of Reading",
+      "title": "The Legacies of Stephen Dwoskin's Personal Cinema",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R007500/1",
+      "lead_applicant": "Claire Alexander",
+      "lead_organisation": "The University of Manchester",
+      "title": "Beyond Banglatown: continuity, change and new urban economies in Brick Lane",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006962/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007276/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005265/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007004/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006865/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007187/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006695/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008116/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005575/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006555/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005583/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006709/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007675/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007578/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007489/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007241/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00689X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006792/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006679/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006342/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005702/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002762/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006822/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, December 2017 Panel Meeting",
+  "source": "Research Grants Panel, December 2017 Meeting.xlsx",
+  "meeting_start": "2017-12",
+  "meeting_end": "2017-12"
+}

@@ -1,0 +1,56 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M002055/1",
+      "lead_applicant": "Jessica Pearson",
+      "lead_organisation": "University of Liverpool",
+      "title": "Building large communities: Multi isotope investigations of human mobility and diet in the earliest large villages",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005259/1",
+      "lead_applicant": "A G Brown",
+      "lead_organisation": "University of Southampton",
+      "title": "Celtic Connections and Crannogs: A new Study of Lake Settlements Across the Irish Sea",
+      "score": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005143/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00340X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005518/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003965/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00404X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel C September 2014",
+  "source": "AHRC Scheme Call Panel Research Grants Panel C September 2014.xlsx",
+  "meeting_start": "2014-09",
+  "meeting_end": "2014-09"
+}

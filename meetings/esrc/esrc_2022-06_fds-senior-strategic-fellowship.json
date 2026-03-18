@@ -1,0 +1,30 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "FDS Senior Fellowship",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X001288/1"
+    },
+    {
+      "opportunity": "FDS Senior Fellowship",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X001105/1"
+    },
+    {
+      "opportunity": "FDS Senior Fellowship",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X001172/1"
+    }
+  ],
+  "meeting_name": "FDS Senior Strategic Fellowship",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-06",
+  "meeting_end": "2022-06"
+}

@@ -1,0 +1,136 @@
+{
+  "council": "EPSRC",
+  "year": "2018",
+  "count_of_applications": "12",
+  "count_of_awards": "10",
+  "notes": "Two applications were unsuccessful in the November 2018 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "Jamieson Christie",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Keith Bennett",
+      "organisation": "Warwick University",
+      "role": "Member"
+    },
+    {
+      "name": "Jos Martin",
+      "organisation": "Mathworks",
+      "role": "Member"
+    },
+    {
+      "name": "Krasimira Tsaneva-Atanasova",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Nilanjan Chakraborty",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "title": "Molecular kinetics for ligand binding",
+      "outcome": "Successful",
+      "kaus_awarded": "27648",
+      "lead_applicant": "Edina Rosta",
+      "lead_organisation": "King's College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Scaling scientific simulations through optimisation of distributed communication",
+      "outcome": "Successful",
+      "kaus_awarded": "11188.4",
+      "lead_applicant": "Paul Richmond",
+      "lead_organisation": "Sheffield Univesity"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Two-Dimensional Materials for Charge Carrier Extraction in Perovskite Solar Cells. (2D-PSC)",
+      "outcome": "Successful",
+      "kaus_awarded": "60000",
+      "lead_applicant": "Feliciano Giustino",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Simulations of flame blow-off in a gas turbine model combustor",
+      "outcome": "Successful",
+      "kaus_awarded": "49248",
+      "lead_applicant": "Nedunchezhian Swaminathan",
+      "lead_organisation": "University of Cambridge"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "High-level Abstractions for Performance, Portability and Continuity of Scientific Software on Exascale Computing Systems",
+      "outcome": "Successful",
+      "kaus_awarded": "15685.2",
+      "lead_applicant": "Gihan Mudalige",
+      "lead_organisation": "Warwick University"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Understanding the Mechanism of Ion conduction In sodium channels",
+      "outcome": "Successful",
+      "kaus_awarded": "39813.1",
+      "lead_applicant": "Carmen Domene",
+      "lead_organisation": "Bath University"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Heat transfer impairment in fuel assemblies of Advanced Gas-cooled Reactors",
+      "outcome": "Successful",
+      "kaus_awarded": "44236.8",
+      "lead_applicant": "Charles Moulinec",
+      "lead_organisation": "Daresbury Laboratories"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Fast solvers for structure-preserving discretisations of the stationary incompressible Navier-Stokes equations",
+      "outcome": "Successful",
+      "kaus_awarded": "50457.6",
+      "lead_applicant": "Lawrence Mitchell",
+      "lead_organisation": "Durham University"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Parallel in time integration of the kinematic dynamo",
+      "outcome": "Successful",
+      "kaus_awarded": "11145.6",
+      "lead_applicant": "Christopher Davies",
+      "lead_organisation": "Leeds University"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Carbides for Future Fission Environments (CAFFE)",
+      "outcome": "Successful",
+      "kaus_awarded": "45072",
+      "lead_applicant": "Ian Farnan",
+      "lead_organisation": "Imperial College London"
+    }
+  ],
+  "meeting_name": "ARCHER resource allocation panel - Nov 2018",
+  "source": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-Nov2018.xlsx",
+  "meeting_start": "2018-11",
+  "meeting_end": "2018-11"
+}

@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Jurys Inn, Swindon",
+  "panel_secretary": "Lucy Hopewell (not attending)",
+  "panellists": [
+    {
+      "name": "Simon Kerley",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Kirsty Dougal",
+      "role": "Member",
+      "organisation": "BBSRC"
+    },
+    {
+      "name": "Gary Grubb",
+      "role": "Member",
+      "organisation": "AHRC"
+    },
+    {
+      "name": "Matthew Lodge",
+      "role": "Member",
+      "organisation": "EPSRC"
+    },
+    {
+      "name": "Philip Purnell",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Victoria Robinson",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Claire Spooner",
+      "role": "Member",
+      "organisation": "ESRC"
+    },
+    {
+      "name": "Jennifer Wickens",
+      "role": "Member",
+      "organisation": "(Acting Panel Secretary) NERC"
+    },
+    {
+      "name": "Weihao Zhong",
+      "role": "Member",
+      "organisation": "NERC"
+    }
+  ],
+  "meeting_name": "Landscape Decisions FEB19",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-LandscapeDecisionsProgrammeCoordinationTeam-190219.pdf",
+  "meeting_start": "2019-03-14",
+  "meeting_end": "2019-03-14"
+}

@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Jennifer Morris",
+  "panellists": [
+    {
+      "name": "Jonathan Bull",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Kathryn Goodenough",
+      "role": "Deputy Chair",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Anasuya Aruliah",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Tiffany Barry",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Ian Bastow",
+      "role": "Member",
+      "organisation": "Imperial College of London"
+    },
+    {
+      "name": "Martin Brazeau",
+      "role": "Member",
+      "organisation": "Imperial College of London"
+    },
+    {
+      "name": "David Coomes",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Fay Couceiro",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Raffaella Guida",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "Jason Harvey",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Natalie Hicks",
+      "role": "Member",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Sopan Patil",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Tim Reston",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Jennifer Rowntree",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Daniel Whiter",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Corwin Wright",
+      "role": "Member",
+      "organisation": "University of Bath"
+    }
+  ],
+  "meeting_name": "(Large Grant NOV22) Large Grants NOV22 Interview Panel",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-070223-LargeGrantsIterviewPanelClosingDate22Nov2022.pdf",
+  "meeting_start": "2023-03-15",
+  "meeting_end": "2023-03-16"
+}

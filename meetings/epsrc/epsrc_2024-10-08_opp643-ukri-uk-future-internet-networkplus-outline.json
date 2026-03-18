@@ -1,0 +1,80 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN632",
+  "meeting_name": "OPP643: UKRI UK Future Internet NetworkPlus: outline",
+  "meeting_convenor": "S Bala",
+  "applications": [
+    {
+      "application_id": "APP53068",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "643",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "UKRI UK Future Internet NetworkPlus: outline"
+    },
+    {
+      "application_id": "APP52877",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "643",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "UKRI UK Future Internet NetworkPlus: outline"
+    },
+    {
+      "application_id": "APP54691",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "643",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "UKRI UK Future Internet NetworkPlus: outline"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "B Koleva",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "J Davidson",
+      "role": "Panellist",
+      "organisation": "University of East London"
+    },
+    {
+      "name": "P O'Brien",
+      "role": "Panellist",
+      "organisation": "BT Research"
+    },
+    {
+      "name": "M Rajarajan",
+      "role": "Panellist",
+      "organisation": "City, University of London"
+    },
+    {
+      "name": "L Smith",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-10-08",
+  "meeting_end": "2024-10-08"
+}

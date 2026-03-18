@@ -1,0 +1,72 @@
+{
+  "council": "NERC",
+  "panellists": [
+    {
+      "name": "Penny Johnes",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Peter Burt",
+      "role": "Member",
+      "organisation": "University of Greenwich"
+    },
+    {
+      "name": "Tony Cass",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Virginia Foot",
+      "role": "Member",
+      "organisation": "Dstl"
+    },
+    {
+      "name": "Paul Hunter",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Christopher",
+      "role": "Member",
+      "organisation": "van der Gast CEH"
+    },
+    {
+      "name": "Jim",
+      "role": "Member",
+      "organisation": "Wharfe Freelance"
+    },
+    {
+      "name": "David Alexander",
+      "role": "Member",
+      "organisation": "FSA"
+    },
+    {
+      "name": "Victor Aguilera",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Adrian Baker",
+      "role": "Member",
+      "organisation": "Dstl"
+    },
+    {
+      "name": "Lizzie Garratt",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Alisdair Wotherspoon",
+      "role": "Member",
+      "organisation": "FSA"
+    },
+    {
+      "name": "Ghada Zoubiane",
+      "role": "Member",
+      "organisation": "MRC"
+    }
+  ],
+  "meeting_name": "Environmental Microbiology and Human Health: Outline Bid Assessment",
+  "source": "NERC-funding-assessment-panel-members-2014/2014emhh-panel.pdf"
+}

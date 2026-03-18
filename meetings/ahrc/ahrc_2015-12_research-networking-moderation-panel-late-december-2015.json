@@ -1,0 +1,106 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "15",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006046/1",
+      "lead_applicant": "Joao Florencio",
+      "lead_organisation": "University of Exeter",
+      "title": "Rock/Body: Performative interfaces between the geologic and the body",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006321/1",
+      "lead_applicant": "Alexander William Barber",
+      "lead_organisation": "Open University",
+      "title": "Role Ethics Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00759X/1",
+      "lead_applicant": "Bryony Clare Randall",
+      "lead_organisation": "University of Glasgow",
+      "title": "The New Modernist Editing",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006712/1",
+      "lead_applicant": "Susan Hodgett",
+      "lead_organisation": "University of Ulster",
+      "title": "Blurring Genres Network: Recovering the Humanities for Political Science and Area Studies",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006429/1",
+      "lead_applicant": "Colin Neil Macduff",
+      "lead_organisation": "The Robert Gordon University",
+      "title": "Healthcare Associated Infection Visualisation and Ideation Research Network (HAIVAIRN)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006062/1",
+      "lead_applicant": "Esther Eidinow",
+      "lead_organisation": "University of Nottingham",
+      "title": "Narratives of Environmental Risk: Fate, Luck and Fortune",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006496/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005953/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006577/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006682/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006208/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006453/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006488/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006542/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00700X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, Late December 2015",
+  "source": "Research Networking, Late December 2015 Meeting.xlsx",
+  "meeting_start": "2015-12",
+  "meeting_end": "2015-12"
+}

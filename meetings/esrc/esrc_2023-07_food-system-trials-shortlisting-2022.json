@@ -1,0 +1,60 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "8",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/X009343/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X010260/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X010430/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X010139/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X009777/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X00936X/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X01049X/1"
+    },
+    {
+      "opportunity": "Food system trials (2022)",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X010546/1"
+    }
+  ],
+  "meeting_name": "Food System Trials Shortlisting (2022)",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-07",
+  "meeting_end": "2023-07"
+}

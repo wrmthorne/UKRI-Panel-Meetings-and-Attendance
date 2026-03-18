@@ -1,0 +1,52 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN278",
+  "meeting_name": "OPP440 EPSRC Digital Twinning Research Hub for Decarbonising Transport Interview Panel",
+  "meeting_convenor": "R Jacob-Barclay",
+  "applications": [
+    {
+      "application_id": "APP28852",
+      "title": "TransiT - Digital Twinning Research Hub for Decarbonising Transport",
+      "lead_organisation": "Heriot-Watt University",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "20332443.49",
+      "award_id": "EP/Z533221/1",
+      "opportunity_number": "440",
+      "lead_applicant": "P Greening",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533221%2F1",
+      "opportunity": "EPSRC Digital Twinning Research Hub for Decarbonising Transport"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "J Legh-Smith",
+      "role": "Chair",
+      "organisation": "Unaffiliated"
+    },
+    {
+      "name": "G Economides",
+      "role": "Panellist",
+      "organisation": "Department for Transport"
+    },
+    {
+      "name": "J Milanovic",
+      "role": "Panellist",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "I Petri",
+      "role": "Panellist",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "W Saleh",
+      "role": "Panellist",
+      "organisation": "Edinburgh Napier University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-03-18",
+  "meeting_end": "2024-03-18"
+}

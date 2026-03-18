@@ -1,0 +1,328 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-609096435",
+  "meeting_name": "UKRI/AHRC GCRF Urgency Covid19 innov awards 10 Nov 2020",
+  "applications": [
+    {
+      "application_id": "AH/V013505/1",
+      "route": "Standard",
+      "lead_applicant": "Kiril Sharapov",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Edinburgh Napier University",
+      "title": "The impacts of COVID-19 on Persons with Disabilities in Ukraine (with a particular focus on internally displaced Persons with Disabilities)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013432/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Murray",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Bristol",
+      "title": "Implementing participatory-action research to explore the impact of COVID on war-affected disabled populations, including ex-child soldiers, in Uganda",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01353X/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Kuper",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "London Sch of Hygiene & Tropic. Medicine",
+      "title": "Building back better: Disability-inclusive health as a legacy of the COVID-19 pandemic in Zimbabwe",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013459/1",
+      "route": "Standard",
+      "lead_applicant": "Joanna Lynn Morrison",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University College London",
+      "title": "Participatory Action Research with Disabled Adolescents in Nepal (PARDAN) to develop methods and materials to understand their experience of COVID-19",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013548/1",
+      "route": "Standard",
+      "lead_applicant": "Ursula Mary Read",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "King's College London",
+      "title": "The impact of COVID-19 on people living with psychosocial disabilities in Ghana and Indonesia and priorities for inclusive recovery",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013688/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Heritage",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Creating recovery: a case-study of how autistic people, families, health professionals & artists in Peru can build inclusive learning through COVID-19",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013602/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013564/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013556/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013440/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013475/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013513/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013572/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013629/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V01367X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013580/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013327/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013491/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013521/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013599/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013610/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013637/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013645/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013653/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013661/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013696/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V014471/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Emma Crewe",
+      "organisation": "University of Suffolk",
+      "role": "Chair"
+    },
+    {
+      "name": "Laura Dean",
+      "organisation": "Liverpool School of Tropical Medicine",
+      "role": "Member"
+    },
+    {
+      "name": "Emmanuel Tsekleves",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    },
+    {
+      "name": "Lars Waldorf",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Philip Levinson",
+      "organisation": "Bath Spa University",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Mckeown",
+      "organisation": "Teesside University",
+      "role": "Member"
+    },
+    {
+      "name": "Neelam Raina",
+      "organisation": "London Metropolitan University",
+      "role": "Observer"
+    },
+    {
+      "name": "Vera Isabella Kubenz",
+      "organisation": "University of Birmingham",
+      "role": "Observer"
+    },
+    {
+      "name": "Dina Jane Kiwan",
+      "organisation": "University of Birmingham",
+      "role": "Observer"
+    }
+  ],
+  "meeting_start": "2020-12-16",
+  "meeting_end": "2020-12-16"
+}

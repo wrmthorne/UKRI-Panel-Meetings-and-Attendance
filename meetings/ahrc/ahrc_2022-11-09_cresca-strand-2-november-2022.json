@@ -1,0 +1,188 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-875370413",
+  "meeting_name": "CResCa Strand 2 November 2022",
+  "applications": [
+    {
+      "application_id": "AH/X009912/1",
+      "route": "Standard",
+      "lead_applicant": "Bryce Salisbury Lease",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Royal Central Sch of Speech and Drama",
+      "title": "Performance Lab: Innovating Practice-led Research and Development in Immersive and Digital Technologies in Theatre and Performance",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010201/1",
+      "route": "Standard",
+      "lead_applicant": "Tavs Jorgensen",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of the West of England",
+      "title": "The Bridge: A Creative Lab For Physical-Meta Production",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010090/1",
+      "route": "Standard",
+      "lead_applicant": "Aaron Williamon",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Royal College of Music",
+      "title": "Royal College of Music Performance Laboratory",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009998/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009920/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010279/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010236/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010295/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010287/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009831/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010392/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010317/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009858/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009963/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010171/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Karen Fleming",
+      "organisation": "University of Ulster",
+      "role": "Chair"
+    },
+    {
+      "name": "Jo Vergunst",
+      "organisation": "Imperial War Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Vincent Stuart Smith",
+      "organisation": "The Natural History Museum",
+      "role": "Member"
+    },
+    {
+      "name": "Lucy Kimbell",
+      "organisation": "University of the Arts London",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Whatley",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-11-09",
+  "meeting_end": "2022-11-09"
+}

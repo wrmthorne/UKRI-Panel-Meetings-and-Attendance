@@ -1,0 +1,62 @@
+{
+  "council": "STFC",
+  "year": "2022",
+  "count_of_applications": "7",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1804",
+      "rank": "1",
+      "award_id": "ST/X508986/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1802",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1803",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1805",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1807",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1801",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "CLASP Security and Environment",
+      "year": "2022",
+      "application_id": "APP1806",
+      "rank": "7"
+    }
+  ],
+  "meeting_name": "CLASP Security and Environment 2022",
+  "source": "Challenge-lead-applied-systems-programme-CLASP-201/STFC-040123-CLASP2022RankingList.pdf",
+  "meeting_start": "2022",
+  "meeting_end": "2022"
+}

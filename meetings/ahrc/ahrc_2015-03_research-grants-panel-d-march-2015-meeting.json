@@ -1,0 +1,84 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "11",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M009076/1",
+      "lead_applicant": "Jennifer Richards",
+      "lead_organisation": "Newcastle University",
+      "title": "The Thomas Nashe Project",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008428/1",
+      "lead_applicant": "Martin Butler",
+      "lead_organisation": "University of Leeds",
+      "title": "The Oxford Edition of the Complete Works of John Marston",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008940/1",
+      "lead_applicant": "Helen Abbott",
+      "lead_organisation": "University of Sheffield",
+      "title": "The Baudelaire Song Project",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008819/1",
+      "lead_applicant": "Clodagh Brook",
+      "lead_organisation": "University of Birmingham",
+      "title": "Interdisciplinary Italy 1900-2020: Interart/Intermedia",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008797/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009874/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008878/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008460/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008509/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009416/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011410/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel D, March 2015 meeting",
+  "source": "Research Grants Panel D, March 2015 meeting.xlsx",
+  "meeting_start": "2015-03",
+  "meeting_end": "2015-03"
+}

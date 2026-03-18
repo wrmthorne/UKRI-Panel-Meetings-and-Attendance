@@ -1,0 +1,25 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN882",
+  "meeting_name": "EPSRC OPP 141 EPSRC Engineering Postdoc Fellowship Interview Dec 2024",
+  "meeting_convenor": "G Davies",
+  "applications": [
+    {
+      "application_id": "APP12298",
+      "title": "High-throughput engineering of nanopores for isoform-specific protein sensing",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "439974.94",
+      "award_id": "UKRI939",
+      "opportunity_number": "141",
+      "lead_applicant": "Y Yuan",
+      "link": "https://gtr.ukri.org/projects?ref=939",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-12-18",
+  "meeting_end": "2024-12-18"
+}

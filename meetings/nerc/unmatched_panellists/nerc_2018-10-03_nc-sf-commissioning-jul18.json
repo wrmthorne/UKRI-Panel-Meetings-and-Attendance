@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Mrs Emma Payne",
+  "panellists": [
+    {
+      "name": "Tim Wheeler",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Cathy Batt",
+      "role": "Member",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "Dorian Fuller",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Kevin Hiscock",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Stephen Grimes",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Iain Robertson",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "James Scourse",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Lizzie Garratt Head",
+      "role": "Member",
+      "organisation": "of Science Facilities and Data, NERC"
+    },
+    {
+      "name": "Emma Johnston Senior Programme",
+      "role": "Member",
+      "organisation": "Manager, NERC"
+    },
+    {
+      "name": "Robert Harvey Senior Programme",
+      "role": "Member",
+      "organisation": "Manager, NERC"
+    },
+    {
+      "name": "Thomas Booker Radiocarbon",
+      "role": "Member",
+      "organisation": "Liaison, AHRC"
+    }
+  ],
+  "meeting_name": "NC S&F Commissioning JUL18",
+  "source": "NERC-funding-assessment-panel-members-2018/NC SF Isotope and Radiocarbon Panel - July 2018 (updated 14 Sept).pdf",
+  "meeting_start": "2018-10-03",
+  "meeting_end": "2018-10-03"
+}

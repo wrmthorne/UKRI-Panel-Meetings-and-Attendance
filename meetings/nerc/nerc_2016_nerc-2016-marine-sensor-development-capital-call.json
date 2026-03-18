@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "count_of_applications": "9",
+  "count_of_awards": "5",
+  "year": "2016",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/P020798/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/P02081X/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/P020887/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "score": "8",
+      "application_id": "NE/P020844/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "score": "7",
+      "application_id": "NE/P020755/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P020763/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P020852/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P020720/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/P020836/1",
+      "rank": "9"
+    }
+  ],
+  "meeting_name": "NERC 2016 Marine Sensor Development Capital Call",
+  "source": "NERC Marine Sensor Development Captial Call_Funding Ouctomes FINAL FOR WEB.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

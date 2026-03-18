@@ -1,0 +1,152 @@
+{
+  "council": "ESRC",
+  "year": "2024",
+  "count_of_applications": "3",
+  "count_of_awards": "3",
+  "panellists": [
+    {
+      "name": "Kathy Rastle",
+      "organisation": "Royal Holloway, University of London",
+      "role": "Chair"
+    },
+    {
+      "name": "Chiaki Beis",
+      "organisation": "ESRC",
+      "role": "Convenor"
+    },
+    {
+      "name": "Gulcin Ozkan",
+      "organisation": "KCL",
+      "role": "Member"
+    },
+    {
+      "name": "Jo Michell",
+      "organisation": "UWE",
+      "role": "Member"
+    },
+    {
+      "name": "Cecilia Wong",
+      "organisation": "Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Charlotte Taylor",
+      "organisation": "Sussex",
+      "role": "Member"
+    },
+    {
+      "name": "Peter Kraftl",
+      "organisation": "Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Vanessa May",
+      "organisation": "Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Matthew Flinders",
+      "organisation": "Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Stephen Elstub",
+      "organisation": "Newcastle",
+      "role": "Member"
+    },
+    {
+      "name": "Allen Thurston",
+      "organisation": "QUB",
+      "role": "Member"
+    },
+    {
+      "name": "Patricia Findlay",
+      "organisation": "Strathclyde",
+      "role": "Member"
+    },
+    {
+      "name": "Peter Smith",
+      "organisation": "Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Noortje Marres",
+      "organisation": "Warwick",
+      "role": "Member"
+    },
+    {
+      "name": "Peter Moyes",
+      "organisation": "Life Skills Education Charity",
+      "role": "Member"
+    },
+    {
+      "name": "Liz Jones",
+      "organisation": "DCMS",
+      "role": "Member"
+    },
+    {
+      "name": "Carrie Heitmeyer",
+      "organisation": "Go Science",
+      "role": "Member"
+    },
+    {
+      "name": "Ligia Teixeira",
+      "organisation": "Center for Homelessness Impact",
+      "role": "Member"
+    },
+    {
+      "name": "Jim McManus",
+      "organisation": "Public Health Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Stephen Blakeley",
+      "organisation": "3B Impact",
+      "role": "Member"
+    },
+    {
+      "name": "Alison Pilnick",
+      "organisation": "MMU",
+      "role": "Member"
+    },
+    {
+      "name": "Dale Southerton",
+      "organisation": "Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Fiona Douglas",
+      "organisation": "Leeds",
+      "role": "Member"
+    },
+    {
+      "name": "Sabine Keston-Siebert",
+      "organisation": "Glasgow",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "opportunity": "ESRC Centres Open Call 2024",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z504270/1"
+    },
+    {
+      "opportunity": "ESRC Centres Open Call 2024",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z504713/1"
+    },
+    {
+      "opportunity": "ESRC Centres Open Call 2024",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z504701/1"
+    }
+  ],
+  "meeting_name": "ESRC Open Centre",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2024-07",
+  "meeting_end": "2024-07"
+}

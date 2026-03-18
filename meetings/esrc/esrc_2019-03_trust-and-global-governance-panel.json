@@ -1,0 +1,114 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "17",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S009965/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S009809/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009639/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009892/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00985X/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009884/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009760/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009779/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009973/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009930/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009914/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009981/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00999X/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009795/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009906/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S01005X/1"
+    },
+    {
+      "opportunity": "Trust and Global Governance",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009949/1"
+    }
+  ],
+  "meeting_name": "Trust and Global Governance Panel",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-03",
+  "meeting_end": "2019-03"
+}

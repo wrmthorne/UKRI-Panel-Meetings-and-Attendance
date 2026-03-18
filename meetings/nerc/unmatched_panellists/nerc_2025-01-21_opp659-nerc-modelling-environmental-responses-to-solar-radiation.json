@@ -1,0 +1,61 @@
+{
+  "council": "NERC",
+  "meeting_location": "Videoconference",
+  "panel_secretary": "Catriona Till",
+  "panellists": [
+    {
+      "name": "CO CHAIR: Oliver Wild",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "CO CHAIR: Mathew Evans",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Tyler Felgenhauer Duke",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Paola Formenti Institute",
+      "role": "Member",
+      "organisation": "Pierre-Simon Laplace"
+    },
+    {
+      "name": "Fabian Hoffmann Ludwig Maximilian",
+      "role": "Member",
+      "organisation": "University of Munich"
+    },
+    {
+      "name": "Ben Kravitz Indiana University",
+      "role": "Member",
+      "organisation": "Bloomington"
+    },
+    {
+      "name": "Helene Muri Norwegian",
+      "role": "Member",
+      "organisation": "University of Science and"
+    },
+    {
+      "name": "Stefan Kinne",
+      "role": "Member",
+      "organisation": "Max-Planck Institute for Meteorology"
+    },
+    {
+      "name": "Romain Roehrig",
+      "role": "Member",
+      "organisation": "Météo-France"
+    },
+    {
+      "name": "Christiane Textor The German",
+      "role": "Member",
+      "organisation": "Aerospace Center (DLR)"
+    }
+  ],
+  "meeting_name": "OPP659: NERC Modelling environmental responses to solar radiation",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-19032025-Panel-membership-Modelling-environmental-responses-to-solar-radiation-management-assessment-panel-for-the-8-October-2024-closing-date.pdf",
+  "meeting_start": "2025-01-21",
+  "meeting_end": "2025-01-22"
+}

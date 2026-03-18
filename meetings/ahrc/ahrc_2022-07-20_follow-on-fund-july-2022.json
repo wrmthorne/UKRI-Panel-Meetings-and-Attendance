@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-840843902",
+  "meeting_name": "Follow on Fund - July 2022",
+  "applications": [
+    {
+      "application_id": "AH/X001628/1",
+      "route": "Standard",
+      "lead_applicant": "Michael Buser",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of the West of England",
+      "title": "Art of Healing Follow-on: Impact and Engagement (Update)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X004279/1",
+      "route": "Standard",
+      "lead_applicant": "Venda Louise Pollock",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Newcastle University",
+      "title": "On-site/Off-site: Thomas Bewick and contemporary art at National Trust Cherryburn.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X00421X/1",
+      "route": "Standard",
+      "lead_applicant": "Jerome de Groot",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "The University of Manchester",
+      "title": "Manchester's DNA: History, Place, Identity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000613/1",
+      "route": "Standard",
+      "lead_applicant": "Philip John Shaw",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leicester",
+      "title": "Sensory Reading: A New Approach to Teaching & Learning GCSE English Literature",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X002985/1",
+      "route": "Standard",
+      "lead_applicant": "Henriette van der Blom",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Birmingham",
+      "title": "Speech! Speech! Dramatising Rhetorical Citizenship",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001040/1",
+      "route": "Standard",
+      "lead_applicant": "Jessica Jacobs",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Storytelling For All: Empowering Bedouin Women and Men through Film and Craft Impact and Engagement",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Carol Tully",
+      "organisation": "Bangor University",
+      "role": "Member"
+    },
+    {
+      "name": "Matthew Smith",
+      "organisation": "University of Strathclyde",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-07-20",
+  "meeting_end": "2022-07-20"
+}

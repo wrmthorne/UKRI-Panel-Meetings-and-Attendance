@@ -1,0 +1,180 @@
+{
+  "council": "NERC",
+  "count_of_applications": "26",
+  "count_of_awards": "11",
+  "year": "2018",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S006087/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005900/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005943/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S006079/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005951/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005919/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S00596X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005889/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005897/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005994/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/S005838/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006095/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005862/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S00601X/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005927/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006044/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006001/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006060/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006036/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005854/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005986/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005935/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006028/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005978/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S006052/1",
+      "rank": "25"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/S005870/1",
+      "rank": "25"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Nick Chappell",
+      "role": "Chair",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Lindsay Beevers",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Simone Di Vicenz Christian",
+      "role": "Member",
+      "organisation": "Aid"
+    },
+    {
+      "name": "Andy Gibson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Brian Golding",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Justin Sheffield",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Christopher White",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    }
+  ],
+  "meeting_name": "Science for Humanitarian Emergencies and Resilience (SHEAR) - April 2018 Rank",
+  "source": "SHEAR - April 18.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2018/SHEAR Catalyst Grants Panel - April 2018 (updated 18May).pdf",
+  "meeting_start": "2018-05-23",
+  "meeting_end": "2018-05-23"
+}

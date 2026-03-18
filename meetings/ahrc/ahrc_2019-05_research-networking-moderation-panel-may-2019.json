@@ -1,0 +1,78 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "10",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001135/1",
+      "lead_applicant": "Anthony Musson",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "HENRY VIII ON TOUR: TUDOR PALACES AND ROYAL PROGRESSES",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T00231X/1",
+      "lead_applicant": "G. Anthony Bruno",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "The London Post-Kantian Seminar",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/T001054/1",
+      "lead_applicant": "Michael Wolters",
+      "lead_organisation": "Birmingham City University",
+      "title": "Documenting music with non-sonic elements",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010963/1",
+      "lead_applicant": "Louise Harvey",
+      "lead_organisation": "University of Leeds",
+      "title": "Communicating the Unsayable: Learning at the Intersection of Language and the Arts",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012079/1",
+      "lead_applicant": "Bevan Sewell",
+      "lead_organisation": "University of Nottingham",
+      "title": "The Promise and Peril of \"U.S. in the World\"",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012672/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T001526/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001506/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/T002034/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S013253/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, May 2019",
+  "source": "Research Networking, May 2019 Moderation.xlsx",
+  "meeting_start": "2019-05",
+  "meeting_end": "2019-05"
+}

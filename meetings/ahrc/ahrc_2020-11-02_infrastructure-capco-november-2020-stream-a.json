@@ -1,0 +1,343 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-602098573",
+  "meeting_name": "Infrastructure CapCo November 2020 Stream A",
+  "applications": [
+    {
+      "application_id": "AH/V01241X/1",
+      "route": "Standard",
+      "lead_applicant": "Amber Amber Xavier-Rowe",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Historic Bldgs & Mnts Commis for England",
+      "title": "ENGLISH HERITAGE TRUST CONSERVATION AND HERITAGE SCIENCE FACILITY - RANGER'S HOUSE, GREENWICH, LONDON",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012118/1",
+      "route": "Standard",
+      "lead_applicant": "Anna Anna Starkey",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "National Museums of Scotland",
+      "title": "NMS Facilities Enhancement at NMCC",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012576/1",
+      "route": "Standard",
+      "lead_applicant": "Oliver Urquhart Irvine",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "SOAS University of London",
+      "title": "Unlocking SOAS Collections: Environmental Systems and Storage Upgrade",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011685/1",
+      "route": "Standard",
+      "lead_applicant": "Paola Ricciardi",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Cambridge",
+      "title": "Cambridge Heritage Science Hub (CHERISH): Infrastructure for Research in Material Culture and Collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012142/1",
+      "route": "Standard",
+      "lead_applicant": "Bronwyn Ann Ormsby",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Tate",
+      "title": "Renewing Conservation Science Facilities at Tate",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012541/1",
+      "route": "Standard",
+      "lead_applicant": "Deborah Anne Swallow",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "The Courtauld Institute of Art",
+      "title": "Driving innovation through technology-enabled research spaces and collections management at The Courtauld",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011634/1",
+      "route": "Standard",
+      "lead_applicant": "Huw James Barton",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Leicester",
+      "title": "Remaking materials: Upgrade of Archaeological Material Labs in School of Archaeology & Ancient History (SAAH)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012134/1",
+      "route": "Standard",
+      "lead_applicant": "Pedro Gaspar",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Refurbishment of the V&A's Science Laboratory",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012150/1",
+      "route": "Standard",
+      "lead_applicant": "LIz Liz Waller",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Durham University",
+      "title": "Light from the East: Transforming research access at Durham's Oriental Museum",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011588/1",
+      "route": "Standard",
+      "lead_applicant": "Jennifer Richards",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "Newcastle University",
+      "title": "Digital Archives: Creating a Regional Hub in the North East",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011901/1",
+      "route": "Standard",
+      "lead_applicant": "Benjamin Gerald Meunier",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "University College London",
+      "title": "AHRC Capability for Collections Fund - Stream A (Facilities)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01157X/1",
+      "route": "Standard",
+      "lead_applicant": "Sue Anne Niebrzydowski",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "Bangor University",
+      "title": "Investing in the Past: Upgrading Bangor University Archives",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012452/1",
+      "route": "Standard",
+      "lead_applicant": "Ieuan Richard Hopkins",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "NERC British Antarctic Survey",
+      "title": "Digitisation Facility - BAS Archives and other physical collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012525/1",
+      "route": "Standard",
+      "lead_applicant": "Guy Leonard Baxter",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "University of Reading",
+      "title": "Sustainable infrastructure for the digital shift: upgrading collections access and preservation at the University of Reading",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01188X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011723/1",
+      "route": "Standard",
+      "lead_applicant": "Paula Reimer",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "CHRONO: Institute for Heritage and Environmental Science",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011529/1",
+      "route": "Standard",
+      "lead_applicant": "Katie Katie Hemer",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "University College London",
+      "title": "Connected microscopy and digital technology for enhanced scientific archaeology",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012339/1",
+      "route": "Standard",
+      "lead_applicant": "Daryl Green",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "University of Edinburgh",
+      "title": "CultureLab",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01238X/1",
+      "route": "Standard",
+      "lead_applicant": "Laura Sillars",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "Teesside University",
+      "title": "AHRC infrastructure fund MIMA",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01191X/1",
+      "route": "Standard",
+      "lead_applicant": "Timothy John Procter",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "University of Leeds",
+      "title": "Streamlining facilities for access and preservation of Cultural and Heritage collections at the University of Leeds",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01255X/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Stephen Wilson",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "University of Bradford",
+      "title": "Capability for Human Bioarchaeology and Digital Collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012045/1",
+      "route": "Standard",
+      "lead_applicant": "Emma Smart",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "British Film Institute",
+      "title": "Refresh and Upgrade the BFI Reuben Library & BFI Mediatheque research spaces",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01224X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011944/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012169/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012207/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012371/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012533/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Charalampos (Charis) Theodorakopoulos",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Emma Richardson",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Mélanie Roffet-Salque",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Michael Buckley",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Gabriel Egan",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Heather Viles",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Janet Montgomery",
+      "organisation": "De Montfort University",
+      "role": "Member"
+    },
+    {
+      "name": "Sam Turner",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Stuart Jeffrey",
+      "organisation": "Glasgow School of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Turi King",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-11-02",
+  "meeting_end": "2020-11-02"
+}

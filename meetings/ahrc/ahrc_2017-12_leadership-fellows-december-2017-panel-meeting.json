@@ -1,0 +1,127 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "18",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R007195/1",
+      "lead_applicant": "Celeste-Marie Bernier",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Our Bondage and Our Freedom: Struggles for Liberty in the Lives and Works of Frederick Douglass and His Family (1818-1920)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R005613/1",
+      "lead_applicant": "Sarah Jackson",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "Crossed Wires: Literature and Telephony",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R005362/1",
+      "lead_applicant": "Camilla Rose Schofield",
+      "lead_organisation": "University of East Anglia",
+      "title": "When Racism Became Taboo: Intolerance, Anonymity and the Public Sphere in England, 1960-1990",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R006997/1",
+      "lead_applicant": "Fiona Barclay",
+      "lead_organisation": "University of Stirling",
+      "title": "From colonisers to refugees: narratives and representations of the French settlers of Algeria.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R008124/1",
+      "lead_applicant": "Emma Long",
+      "lead_organisation": "University of East Anglia",
+      "title": "An (Evangelical) Voice in the Wilderness: The Modern Roots of Evangelical Engagement with American Politics",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R006652/1",
+      "lead_applicant": "Megan Laura Gooch",
+      "lead_organisation": "Historic Royal Palaces",
+      "title": "Lest we forget: poppies and public commemoration",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00627X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007284/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006504/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007640/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005648/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005656/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R005176/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006784/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006598/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R006970/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007144/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R007217/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Leadership Fellows, December 2017 panel meeting",
+  "source": "Leadership Fellows Panel, December 2017 Meeting.xlsx",
+  "meeting_start": "2017-12",
+  "meeting_end": "2017-12"
+}

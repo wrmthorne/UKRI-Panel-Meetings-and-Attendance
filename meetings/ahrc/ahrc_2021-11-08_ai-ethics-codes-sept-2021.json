@@ -1,0 +1,48 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-735183692",
+  "meeting_name": "AI Ethics Codes Sept 2021",
+  "applications": [
+    {
+      "application_id": "AH/W007746/1",
+      "route": "Standard",
+      "lead_applicant": "Kendra Briken",
+      "score": "4",
+      "rank": "2",
+      "lead_organisation": "University of Strathclyde",
+      "title": "Industry 4.0: Can AI ethics be embedded in the innovation lifecycle?",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Tony McEnery",
+      "organisation": "Lancaster University",
+      "role": "Chair"
+    },
+    {
+      "name": "Bernd Carsten Stahl",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Johnny Golding",
+      "organisation": "Royal College of Art",
+      "role": "Member"
+    },
+    {
+      "name": "Mike Wald",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Shaun William Lawson",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-11-08",
+  "meeting_end": "2021-11-08"
+}

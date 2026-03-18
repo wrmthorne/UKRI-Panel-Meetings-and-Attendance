@@ -1,0 +1,39 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN924",
+  "meeting_name": "EPSRC Physical Sciences Prioritisation Panel January 2025 - Network Grants",
+  "meeting_convenor": "",
+  "applications": [
+    {
+      "application_id": "APP45409",
+      "title": "Physics of Life Network (PoLNET4): catalysing disruptive research and impact at the physical-life sciences interface",
+      "lead_organisation": "University of York",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "694065.52",
+      "award_id": "UKRI1099",
+      "opportunity_number": "284",
+      "lead_applicant": "M Leake",
+      "link": "https://gtr.ukri.org/projects?ref=1099",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP26567",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "284",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC network grant, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-29",
+  "meeting_end": "2025-01-29"
+}

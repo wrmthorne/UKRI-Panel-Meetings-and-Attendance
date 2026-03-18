@@ -1,0 +1,54 @@
+{
+  "council": "NERC",
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S003495/1",
+      "rank": "1"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/S003487/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S003444/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S003436/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/S003452/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S003479/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S003460/1",
+      "rank": "7"
+    }
+  ],
+  "meeting_name": "Regional Impact from Science of the Environment (RISE) Call",
+  "source": "RISE - February 2018.pdf",
+  "meeting_start": "2018",
+  "meeting_end": "2018"
+}

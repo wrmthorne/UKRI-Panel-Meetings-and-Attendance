@@ -1,0 +1,49 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "5",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006698/1",
+      "lead_applicant": "Ian Grosvenor",
+      "lead_organisation": "University of Birmingham",
+      "title": "Voices of War and Peace - Core Centre Continuation Proposal",
+      "score": "Fundable"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00668X/1",
+      "lead_applicant": "Sarah Lloyd",
+      "lead_organisation": "University of Hertfordshire",
+      "title": "Everyday Lives in War: First World War Engagement Centre",
+      "score": "Fundable"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006671/1",
+      "lead_applicant": "Keith Lilley",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Living Legacies 1914-18: From Past Conflict to Shared Future",
+      "score": "Fundable"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P006655/1",
+      "lead_applicant": "Mark Connelly",
+      "lead_organisation": "University of Kent",
+      "title": "Gateways to the First World War (Phase 2)",
+      "score": "Fundable"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006701/1"
+    }
+  ],
+  "meeting_name": "WW1 Engagement Centres, July 2016 panel meeting",
+  "source": "WW1 Engagement Centres, July 2016 meeting.xlsx",
+  "meeting_start": "2016-07",
+  "meeting_end": "2016-07"
+}

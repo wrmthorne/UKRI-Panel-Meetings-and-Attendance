@@ -1,0 +1,288 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-690252626",
+  "meeting_name": "Research, Development and Engagement Fellowships - October 2021",
+  "applications": [
+    {
+      "application_id": "AH/V014439/1",
+      "route": "Standard",
+      "lead_applicant": "Ailsa Grant Ferguson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Brighton",
+      "title": "'Susanna Hall and Hall's Croft: Gender, Cultural Memory, Heritage'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005794/1",
+      "route": "Early Career",
+      "lead_applicant": "Rebecca Jinks",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Genocidal captivity: (Re)telling the stories of Armenian and Yezidi women survivors",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W003147/1",
+      "route": "Early Career",
+      "lead_applicant": "Sarah Price",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Liverpool",
+      "title": "Audiences for Classical Music",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005034/1",
+      "route": "Standard",
+      "lead_applicant": "Kate Elswit",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Royal Central Sch of Speech and Drama",
+      "title": "Visceral Histories, Visual Arguments: Dance-Based Approaches to Data",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W004267/1",
+      "route": "Standard",
+      "lead_applicant": "Kevin Barry Linch",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Leeds",
+      "title": "Re-archiving the Individual: British Army Officers, 1790-1820",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W003880/1",
+      "route": "Standard",
+      "lead_applicant": "Zoltan Biedermann",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University College London",
+      "title": "The Nascent Globe: Diplomacy and the Making of the First Global Order, c.1480-c.1520",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005263/1",
+      "route": "Standard",
+      "lead_applicant": "Jonathan Floyd",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Bristol",
+      "title": "How to do (public) political philosophy: From pupils to professors",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005956/1",
+      "route": "Standard",
+      "lead_applicant": "Katy Shaw",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Northumbria University",
+      "title": "Writing Resilience: Understanding the 'Value' of Regional Writing Development",
+      "outcome": "Withdrawn"
+    },
+    {
+      "application_id": "AH/W00397X/1",
+      "route": "Early Career",
+      "lead_applicant": "Luca Csepely-Knorr",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Women of the Welfare Landscape",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005328/1",
+      "route": "Early Career",
+      "lead_applicant": "Daniel Potter",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "National Museums of Scotland",
+      "title": "Buying Power: The Business of British Archaeology and the Antiquities Market in Egypt and Sudan 1880-1939",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W003848/1",
+      "route": "Early Career",
+      "lead_applicant": "Irene Wieczorek",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "Durham University",
+      "title": "Brexit's impact on transfers of prisoners: A shift in balance between criminal policy objectives and individuals' rights?",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006200/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005115/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W003791/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005751/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005107/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002299/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00254X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005026/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00187X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W003058/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W004925/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Robert Linn",
+      "organisation": "University of Westminster",
+      "role": "Chair"
+    },
+    {
+      "name": "Bella Honess Roe",
+      "organisation": "University of Surrey",
+      "role": "Member"
+    },
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Simon Alasdair McKerrell",
+      "organisation": "Institute of Development Studies",
+      "role": "Member"
+    },
+    {
+      "name": "Graham Saunders",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "John H Gillespie",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Ferris",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Nick Selby",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Philip Leonard",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Wright",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-10-04",
+  "meeting_end": "2021-10-04"
+}

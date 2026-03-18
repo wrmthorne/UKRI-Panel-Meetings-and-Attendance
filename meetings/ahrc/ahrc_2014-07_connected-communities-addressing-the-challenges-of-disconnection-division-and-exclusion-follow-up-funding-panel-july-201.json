@@ -1,0 +1,65 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "8",
+  "count_of_awards": "4",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005968/1",
+      "lead_applicant": "Churnjeet Mahn",
+      "lead_organisation": "University of Surrey",
+      "title": "Connecting States of Desire: Sustaining LGBTQ Lives",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006107/1",
+      "lead_applicant": "Clare Rishbeth",
+      "lead_organisation": "University of Sheffield",
+      "title": "The Un-Sociable Bench, and other urban micro-territories of encounter and intimidation.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006085/1",
+      "lead_applicant": "Margaret Greenfields",
+      "lead_organisation": "Buckinghamshire New University",
+      "title": "Ritual Reconstructed: Challenges to Disconnection, Division and Exclusion in the Jewish LGBTQI Community",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006026/1",
+      "lead_applicant": "Ursula Hurley",
+      "lead_organisation": "University of Salford",
+      "title": "'In the making': a co-constructed mapping and feasibility study of digital fabrication labs and their potential to catalyse cultural change.",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006042/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005992/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006034/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006077/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Connected Communities: Addressing the Challenges of Disconnection, Division and Exclusion - Follow Up Funding Panel - July 2014",
+  "source": "Connected Communities Addressing the Challenges of Disconnection Division and Exclusion - Follow Up Funding Panel - July 2014.xlsx",
+  "meeting_start": "2014-07",
+  "meeting_end": "2014-07"
+}

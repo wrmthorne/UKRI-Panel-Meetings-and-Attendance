@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Josie McGregor",
+  "panellists": [
+    {
+      "name": "Katy Hill",
+      "role": "Chair",
+      "organisation": "National Oceanography Centre"
+    },
+    {
+      "name": "Philip Wheeler The",
+      "role": "Deputy Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Jonathan Higham",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Adrian Hines",
+      "role": "Member",
+      "organisation": "STFC Rutherford Appleton Laboratory"
+    },
+    {
+      "name": "Josiane Kakeu",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Gavin Shaddick",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Anne Verhoef",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ],
+  "meeting_name": "TWINE demonstrators: digital twins for environmental science",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-211123-TWINEDemonstratorsDigitalTwinsEnvironmentalScienceAssessmentPanelOctober2023.pdf",
+  "meeting_start": "2023-11-09",
+  "meeting_end": "2023-11-09"
+}

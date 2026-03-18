@@ -1,0 +1,93 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "12",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008770/1",
+      "lead_applicant": "Alexandra Walsham",
+      "lead_organisation": "University of Cambridge",
+      "title": "Remembering the Reformation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008827/1",
+      "lead_applicant": "Brian Black",
+      "lead_organisation": "Lancaster University",
+      "title": "In Dialogue with the Mahabharata",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M00841X/1",
+      "lead_applicant": "Alison Scott-Baumann",
+      "lead_organisation": "School of Oriental & African Studies",
+      "title": "Re/presenting Islam on campus: gender, radicalisation and interreligious understanding in British higher education",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008649/1",
+      "lead_applicant": "Leanne McCormick",
+      "lead_organisation": "University of Ulster",
+      "title": "Bad Bridget: Criminal and Deviant Irishwomen in North America, 1838-1918",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M008398/1",
+      "lead_applicant": "Margaret Holloway",
+      "lead_organisation": "University of Hull",
+      "title": "Remember Me. The Changing Face of Memorialisation",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008630/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008835/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009009/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009343/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009408/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009394/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009807/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants Panel A, March 2015 meeting",
+  "source": "Research Grants Panel A, March 2015 meeting.xlsx",
+  "meeting_start": "2015-03",
+  "meeting_end": "2015-03"
+}

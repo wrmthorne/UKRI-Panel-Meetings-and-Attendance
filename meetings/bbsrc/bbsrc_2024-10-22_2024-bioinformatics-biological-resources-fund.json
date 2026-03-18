@@ -1,0 +1,126 @@
+{
+  "council": "BBSRC",
+  "year": "2024",
+  "count_of_applications": "6",
+  "count_of_awards": "6",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "APP36489"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP37045"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP37114"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP40209"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP39473"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP40159"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Eileen Wall",
+      "role": "Chair",
+      "organisation": "SRUC"
+    },
+    {
+      "name": "Geoffrey Barton",
+      "role": "Chair",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Robert Andrews",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Roy Chaudhuri",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Thomas Connor",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Sarath Dantu",
+      "role": "Member",
+      "organisation": "Brunel University London"
+    },
+    {
+      "name": "Seth Davis",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "William Griffiths",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Liangxiu Han",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan"
+    },
+    {
+      "name": "Catherine Howarth",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Paul Kersey",
+      "role": "Member",
+      "organisation": "RGB Kew"
+    },
+    {
+      "name": "Andrzej Kierzek",
+      "role": "Member",
+      "organisation": "CERTARA"
+    },
+    {
+      "name": "Sascha Ott",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Raymond Owens",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Androniki Psifidi",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Elizabeth Reynolds",
+      "role": "Member",
+      "organisation": "General Bioinformatics"
+    },
+    {
+      "name": "Natasha Yelina",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "membership_source_files": [
+    "membership/BBSRC-130625-BioinformaticsBiologicalResourcesFund2024PanelMembership.pdf"
+  ],
+  "meeting_name": "2024 Bioinformatics Biological Resources Fund",
+  "source": "awarded_grants/BBSRC-110825-BBSRC-AwardedGrants2024_BioinformaticsBiologicalResourcesFund.xlsx",
+  "meeting_start": "2024-10-22",
+  "meeting_end": "2024-10-23"
+}

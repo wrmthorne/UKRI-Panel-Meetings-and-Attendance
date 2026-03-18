@@ -1,0 +1,158 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-494270451",
+  "meeting_name": "Research Networking - November 2019",
+  "applications": [
+    {
+      "application_id": "AH/T004797/1",
+      "route": "Standard",
+      "lead_applicant": "Frances Anne Turner",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Bath Spa University",
+      "title": "The Gloves Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006900/1",
+      "route": "Standard",
+      "lead_applicant": "Jo Hart",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "The University of Manchester",
+      "title": "Gondwanaland and Antipodal Histories",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T005610/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Robert McAleer",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Hull",
+      "title": "Indigenous Literatures and Languages in the Americas: Translanguaging and Education in Global Contexts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006706/1",
+      "route": "Standard",
+      "lead_applicant": "Jenifer Chao",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "De Montfort University",
+      "title": "Art Diplomacy and Nation Branding: The Visual Politics of Reinventing China",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004738/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005823/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006277/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006714/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005149/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00567X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T004525/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005645/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005661/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T006803/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Yvonne Tasker",
+      "organisation": "University of Leeds",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-11-04",
+  "meeting_end": "2019-11-04"
+}

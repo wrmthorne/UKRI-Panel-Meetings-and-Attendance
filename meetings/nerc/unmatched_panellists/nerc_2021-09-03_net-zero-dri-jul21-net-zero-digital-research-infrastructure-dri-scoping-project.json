@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Charlotte Clarke",
+  "panellists": [
+    {
+      "name": "Iain Williams",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Alberto",
+      "role": "Member",
+      "organisation": "Arribas-Herranz Microsoft"
+    },
+    {
+      "name": "Corinne Le Quéré",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Marian Scott",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Stefan Reis UK-",
+      "role": "Member",
+      "organisation": "Centre for Ecology and Hydrology (CEH)"
+    }
+  ],
+  "meeting_name": "Net Zero DRI JUL21 Net-Zero Digital Research Infrastructure (DRI) Scoping Project",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-NetZeroDigitalResearchInfrastructureScoping-290721.pdf",
+  "meeting_start": "2021-09-03",
+  "meeting_end": "2021-09-03"
+}

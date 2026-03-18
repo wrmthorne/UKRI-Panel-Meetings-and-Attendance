@@ -1,0 +1,156 @@
+{
+  "council": "EPSRC",
+  "year": "2018",
+  "count_of_applications": "12",
+  "count_of_awards": "10",
+  "notes": "Two applications were unsuccessful in the May 2018 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "Natalia Petrovskaya",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Charles Laughton",
+      "organisation": "University of Nottingham",
+      "role": "Chair"
+    },
+    {
+      "name": "Jamieson Christie",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Roger Webb",
+      "organisation": "Surrey University",
+      "role": "Member"
+    },
+    {
+      "name": "Jun Zang",
+      "organisation": "Bath University",
+      "role": "Member"
+    },
+    {
+      "name": "Adrian Mulholland",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Mark Savill",
+      "organisation": "Cranfield University",
+      "role": "Member"
+    },
+    {
+      "name": "Angela Mihai",
+      "organisation": "Cardiff University",
+      "role": "Member"
+    },
+    {
+      "name": "Keith Bennett",
+      "organisation": "Warwick University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "title": "What Controls Subunit Association in Voltage-gated Sodium Channel Complexes?",
+      "outcome": "Successful",
+      "kaus_awarded": "39813",
+      "lead_applicant": "Phillip Biggin",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Ultra-large-scale atomistic modelling of amorphous silicon using machine learning",
+      "outcome": "Successful",
+      "kaus_awarded": "44326.8",
+      "lead_applicant": "Gábor Csányi",
+      "lead_organisation": "University of Cambridge"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Simulation support to experiments investigating turbulent cascade in laboratory plasmas",
+      "outcome": "Successful",
+      "kaus_awarded": "22118.4",
+      "lead_applicant": "David Burgess",
+      "lead_organisation": "Queen Mary, University of London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Scalable multigrid solvers for the stationary incompressible Navier-Stokes equations",
+      "outcome": "Successful",
+      "kaus_awarded": "10800",
+      "lead_applicant": "Patrick Farrell",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Accurate numerical modelling of digital wind farms",
+      "outcome": "Successful",
+      "kaus_awarded": "55440",
+      "lead_applicant": "Lee Margetts",
+      "lead_organisation": "University of Manchester"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Dynamic fragment-based mapping of allosteric pockets in membrane proteins",
+      "outcome": "Successful",
+      "kaus_awarded": "36864",
+      "lead_applicant": "Irina Tikhonova",
+      "lead_organisation": "Queen's University Belfast"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Effects of size sorting and fractional transport in evolution of sandy ripples under oscillatory flow",
+      "outcome": "Successful",
+      "kaus_awarded": "14929.9",
+      "lead_applicant": "Ming Li",
+      "lead_organisation": "University of Liverpool"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Shock-induced vorticity production by entropy modes in plasmas",
+      "outcome": "Successful",
+      "kaus_awarded": "59719.7",
+      "lead_applicant": "Emile Touber",
+      "lead_organisation": "Imperial College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Designing alloys for resource efficiency (DARE) - a manufacturing approach",
+      "outcome": "Successful",
+      "kaus_awarded": "27993.6",
+      "lead_applicant": "William Rainforth",
+      "lead_organisation": "University of Sheffield"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Programming DNA topology: from folding DNA minicircles to revealing the spatial organization of bacterial genomes",
+      "outcome": "Successful",
+      "kaus_awarded": "26680.32",
+      "lead_applicant": "Agnes Noy",
+      "lead_organisation": "Univeristy of York"
+    }
+  ],
+  "meeting_name": "ARCHER resource allocation panel - May 2018",
+  "source": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-May2018.xlsx",
+  "meeting_start": "2018-05",
+  "meeting_end": "2018-05"
+}

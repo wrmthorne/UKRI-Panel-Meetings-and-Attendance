@@ -1,0 +1,159 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "22",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001271/1",
+      "lead_applicant": "JoAnn McGregor",
+      "lead_organisation": "University of Sussex",
+      "title": "Making African Connections: Decolonial Futures for Colonial Collections",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001824/1",
+      "lead_applicant": "Chris Rodgers",
+      "lead_organisation": "Newcastle University",
+      "title": "Wastes and Strays: The Past, Present and Fugure of English Urban Commons",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001212/1",
+      "lead_applicant": "Salome Voegelin",
+      "lead_organisation": "University of the Arts London",
+      "title": "Listening Across Disciplines II",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S002596/1",
+      "lead_applicant": "Arezou Azad",
+      "lead_organisation": "University of Birmingham",
+      "title": "Persian in Dcouments (PersDoc); Lanaguage and Islamisation in the pre-Mongol Eastern Islamic Lands",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001743/1",
+      "lead_applicant": "Jan Jooslen",
+      "lead_organisation": "University of Oxford",
+      "title": "Critical Editions of the Hebrew Bible",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001484/1",
+      "lead_applicant": "Oliver Richmond",
+      "lead_organisation": "University of Manchester",
+      "title": "The art of peace; Interrogating community devised arts based peacebuilding",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S000380/1",
+      "lead_applicant": "Oliver Hamilton Creighton",
+      "lead_organisation": "University of Exeter",
+      "title": "Warhorse: The Archaeology of a Military Revolution?",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001425/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S001654/1",
+      "lead_applicant": "Brodie Wadell",
+      "lead_organisation": "Birkbeck College",
+      "title": "The Power of Petitioning in Seventeenth-Century England",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001875/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001573/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S00209X/1",
+      "lead_applicant": "Ting Guo",
+      "lead_organisation": "University of Exeter",
+      "title": "Translating for change: Anglophone queer cinema and the Chines LGBT+ movement",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002588/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001336/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014841/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008299/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002103/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002529/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000445/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001018/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001638/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002057/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, June 2018 Panel Meeting",
+  "source": "Research Grants Panel, June 2018 Meeting.xlsx",
+  "meeting_start": "2018-06",
+  "meeting_end": "2018-06"
+}

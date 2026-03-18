@@ -1,0 +1,82 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-273658767",
+  "meeting_name": "DTP2 April 2018",
+  "applications": [],
+  "panellists": [
+    {
+      "name": "Nigel Graham Llewellyn",
+      "organisation": "National Heritage Science Forum",
+      "role": "Chair"
+    },
+    {
+      "name": "Mark Redknap",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Anthony Joseph Musson",
+      "organisation": "Historic Royal Palaces",
+      "role": "Member"
+    },
+    {
+      "name": "Dana Arnold",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Donald MacLeod MacRaild",
+      "organisation": "University of the West of Scotland",
+      "role": "Member"
+    },
+    {
+      "name": "Jeremy Myerson",
+      "organisation": "Unwired Ventures Ltd",
+      "role": "Member"
+    },
+    {
+      "name": "Joy Porter",
+      "organisation": "University of Hull",
+      "role": "Member"
+    },
+    {
+      "name": "Katherine Hawley",
+      "organisation": "University of Worcester",
+      "role": "Member"
+    },
+    {
+      "name": "Maria Delgado",
+      "organisation": "Royal Central Sch of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Nandini Das",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Nicola McLelland",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Peter Stewart",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Philip Davies",
+      "organisation": "University of Sheffield",
+      "role": "Member"
+    },
+    {
+      "name": "Venda Louise Pollock",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-04-18",
+  "meeting_end": "2018-04-18"
+}

@@ -1,0 +1,110 @@
+{
+  "council": "MRC",
+  "applications": [
+    {
+      "title": "High-throughput screen to discover novel Kir4.1 activators to treat orofacial pain",
+      "lead_applicant": "Sahil Patel",
+      "lead_organisation": "University College London",
+      "score": "7",
+      "outcome": "Successful",
+      "award_id": "UKRI3693",
+      "link": "https://gtr.ukri.org/projects?ref=3693",
+      "application_id": "APP89285"
+    },
+    {
+      "title": "High-throughput screen for genetic modifier inhibitors in Huntington's disease",
+      "lead_applicant": "Thomas Massey",
+      "lead_organisation": "Cardiff University",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI3694",
+      "link": "https://gtr.ukri.org/projects?ref=3694",
+      "application_id": "APP88041"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP84626"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP88193"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP86787"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP88267"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP89957"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Angela Russell",
+      "organisation": "University of Oxford",
+      "role": "Chair"
+    },
+    {
+      "name": "Sam Butterworth",
+      "organisation": "University of Manchester",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "David Gray",
+      "organisation": "University of Dundee",
+      "role": "Panellist"
+    },
+    {
+      "name": "Olivia Rossanese",
+      "organisation": "Institute of Cancer Research",
+      "role": "Panellist"
+    },
+    {
+      "name": "Hannah Semple",
+      "organisation": "AstraZeneca",
+      "role": "Panellist"
+    }
+  ],
+  "count_of_applications": "7",
+  "count_of_awards": "2",
+  "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
+  "meeting_name": "Astra Zeneca Small Molecule High Throughput Screening Panel",
+  "meeting_reference": "PAN1566",
+  "meeting_start": "2025-11-06",
+  "meeting_end": "2025-11-06",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred."
+}

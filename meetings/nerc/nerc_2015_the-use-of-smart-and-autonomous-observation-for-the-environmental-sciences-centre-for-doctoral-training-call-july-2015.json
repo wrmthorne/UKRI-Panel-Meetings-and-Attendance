@@ -1,0 +1,42 @@
+{
+  "council": "NERC",
+  "count_of_applications": "5",
+  "count_of_awards": "1",
+  "year": "2015",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/N012070/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/N012062/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/N012054/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/N012046/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/N012038/1",
+      "rank": "5"
+    }
+  ],
+  "meeting_name": "The use of smart and autonomous observation for the environmental sciences Centre for Doctoral Training call - July 2015",
+  "source": "smart-obs.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

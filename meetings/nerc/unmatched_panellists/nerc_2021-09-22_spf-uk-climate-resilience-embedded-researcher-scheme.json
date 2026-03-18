@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Nick Pidgeon",
+      "role": "Chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Iain Brown",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Ksenia Chmutina",
+      "role": "Member",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Emma Ferranti",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Andrew Kythreotis",
+      "role": "Member",
+      "organisation": "University of Lincoln"
+    },
+    {
+      "name": "Sandhya Patidar",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Sally Rangecroft",
+      "role": "Member",
+      "organisation": "University of Plymouth/University of Exeter"
+    },
+    {
+      "name": "Andrea Taylor",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Anna Taylor",
+      "role": "Member",
+      "organisation": "University of Cape Town"
+    }
+  ],
+  "meeting_name": "SPF UK Climate Resilience - Embedded Researcher Scheme",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-SPFUK-ClimateResilienceEmbeddedResearcherScheme-220721.pdf",
+  "meeting_start": "2021-09-22",
+  "meeting_end": "2021-09-22"
+}

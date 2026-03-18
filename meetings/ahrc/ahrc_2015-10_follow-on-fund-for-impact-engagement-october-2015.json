@@ -1,0 +1,135 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "19",
+  "count_of_awards": "9",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003772/1",
+      "lead_applicant": "Claire Alexander",
+      "lead_organisation": "The University of Manchester",
+      "title": "History Matters: creating 'joined-up' resources for a diverse history curriculum",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004396/1",
+      "lead_applicant": "Laura Leante",
+      "lead_organisation": "Durham University",
+      "title": "Khyal: Music and Imagination",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005821/1",
+      "lead_applicant": "Tom Kuhn",
+      "lead_organisation": "University of Oxford",
+      "title": "BRECHT INTO ENGLISH: THE WRITING/PERFORMING WORKSHOP",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007433/1",
+      "lead_applicant": "Paul Cooke",
+      "lead_organisation": "University of Leeds",
+      "title": "Community Filmmaking, Heritage and Global Citizenship: Supporting the work of the Bishop Simeon Trust's 'Safe Park' Programme in South Africa",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007069/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006755/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004140/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003098/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003454/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005848/1",
+      "lead_applicant": "William Ormrod",
+      "lead_organisation": "University of York",
+      "title": "England's Medieval Immigrants: Migration History Resources for Schools",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006445/1",
+      "lead_applicant": "Andrew Gosler",
+      "lead_organisation": "University of Oxford",
+      "title": "The Human Side of Digitized Knowledge: Community Curation of the Ethno-ornithology World Archive",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006658/1",
+      "lead_applicant": "Aengus Ward",
+      "lead_organisation": "University of Birmingham",
+      "title": "Alfonso el Sabio and the Estoria de Espanna: the past in the digital present",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N005864/1",
+      "lead_applicant": "Andrea Noble",
+      "lead_organisation": "Durham University",
+      "title": "Cold War Camera: Visual Legacies in Latin America",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006402/1",
+      "lead_applicant": "John Beckett",
+      "lead_organisation": "University of Nottingham",
+      "title": "The Social World of Nottingham's Historic Green Spaces: follow-on project",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007549/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008847/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004272/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004752/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002059/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow on Fund for Impact & Engagement, October 2015",
+  "source": "Follow-on Funding for Impact and Engagement Q4 2015 Meetings.xlsx",
+  "meeting_start": "2015-10",
+  "meeting_end": "2015-10"
+}

@@ -1,0 +1,18 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "1",
+  "count_of_awards": "0",
+  "applications": [
+    {
+      "opportunity": "DF Senior Strategic Fellowship",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X001253/1"
+    }
+  ],
+  "meeting_name": "DF Senior Strategic Fellowship",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-04",
+  "meeting_end": "2022-04"
+}

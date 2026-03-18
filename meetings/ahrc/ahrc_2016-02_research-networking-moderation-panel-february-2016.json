@@ -1,0 +1,99 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "13",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009428/1",
+      "lead_applicant": "Nicholas Peter Gebhardt",
+      "lead_organisation": "Birmingham City University",
+      "title": "Jazz and Everyday Aesthetics",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007514/1",
+      "lead_applicant": "Robert Hosfield",
+      "lead_organisation": "University of Reading",
+      "title": "Coping with climate: the legacy of H. heidelbergensis",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N008987/1",
+      "lead_applicant": "Hannah Burrows",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Humours of the Past",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N008774/1",
+      "lead_applicant": "Sara Jones",
+      "lead_organisation": "University of Birmingham",
+      "title": "Culture and its Uses as Testimony",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00910X/1",
+      "lead_applicant": "Philippa Lovatt",
+      "lead_organisation": "University of Stirling",
+      "title": "'Southeast Asian Cinemas Research Network' (SEACRN): Promoting Dialogue Across Critical and Creative Practice'.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007026/1",
+      "lead_applicant": "Marie-Noelle Guillot",
+      "lead_organisation": "University of East Anglia",
+      "title": "Tapping the Power of Foreign Language Films: Audiovisual Translation as Cross-cultural Mediation",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N006305/1",
+      "lead_applicant": "Salome Voegelin",
+      "lead_organisation": "University of the Arts London",
+      "title": "Listening Across Disciplines",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008995/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009479/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007417/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006364/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N005937/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00437X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, February 2016",
+  "source": "Research Networking February 2016 Meeting.xlsx",
+  "meeting_start": "2016-02",
+  "meeting_end": "2016-02"
+}

@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Heather Bagnall",
+  "panellists": [
+    {
+      "name": "Helen Roy",
+      "role": "Chair",
+      "organisation": "CEH"
+    },
+    {
+      "name": "Sarah Macnaughton",
+      "role": "Member",
+      "organisation": "Oxentia"
+    },
+    {
+      "name": "Patrick Burke",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Laura Vickers Harper Adams",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Emma Visman",
+      "role": "Member",
+      "organisation": "KCL/CEH"
+    },
+    {
+      "name": "Mark Reed",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "KE Fellowships DEC20 Panel Meeting",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-KEFellowshipsDEC20interview-021220.pdf",
+  "meeting_start": "2021-03-22",
+  "meeting_end": "2021-03-23"
+}

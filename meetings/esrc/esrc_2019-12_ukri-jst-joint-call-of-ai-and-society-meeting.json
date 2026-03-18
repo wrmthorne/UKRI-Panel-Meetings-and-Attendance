@@ -1,0 +1,186 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "29",
+  "count_of_awards": "6",
+  "applications": [
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/T007214/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T007354/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T006315/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T007265/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T007079/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T00696X/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007109/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007141/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T00715X/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007044/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007052/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007303/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007257/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007281/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T00729X/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007060/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T00701X/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T006978/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T006951/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007222/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007230/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007273/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007338/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T00732X/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007087/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007095/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007192/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T006986/1"
+    },
+    {
+      "opportunity": "UKRI-JST Joint AI Society Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T007028/1"
+    }
+  ],
+  "meeting_name": "UKRI-JST Joint Call of AI and Society meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-12",
+  "meeting_end": "2019-12"
+}

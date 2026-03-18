@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Heather Bagnall",
+  "panellists": [
+    {
+      "name": "Helen Roy",
+      "role": "Chair",
+      "organisation": "CEH"
+    },
+    {
+      "name": "Helen Featherstone",
+      "role": "Deputy Chair",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Sarah Mcnaughton",
+      "role": "Member",
+      "organisation": "Oxentia"
+    },
+    {
+      "name": "Hazel Napier",
+      "role": "Member",
+      "organisation": "BGS"
+    },
+    {
+      "name": "Patrick Burke",
+      "role": "Member",
+      "organisation": "Defra"
+    },
+    {
+      "name": "Candice Howarth",
+      "role": "Member",
+      "organisation": "LSE"
+    },
+    {
+      "name": "Laura Vickers Harper Adams",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Ian Mell",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Emma Visman",
+      "role": "Member",
+      "organisation": "KCL/CEH"
+    },
+    {
+      "name": "Mark Reed",
+      "role": "Member",
+      "organisation": "University of Newcastle"
+    },
+    {
+      "name": "Deepa Senapathi",
+      "role": "Member",
+      "organisation": "University of Reading"
+    }
+  ],
+  "meeting_name": "KE Fellowships DEC20 Panel Meeting",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-KEFellowships-021220.pdf",
+  "meeting_start": "2021-02-09",
+  "meeting_end": "2021-02-10"
+}

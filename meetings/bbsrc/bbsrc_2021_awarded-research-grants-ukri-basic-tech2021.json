@@ -1,0 +1,108 @@
+{
+  "council": "BBSRC",
+  "year": "2021",
+  "count_of_applications": "24",
+  "count_of_awards": "24",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003221/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003256/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003264/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003299/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003329/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003426/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003442/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003477/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003507/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003620/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003736/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003744/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003833/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003841/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003876/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X003957/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004082/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004120/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004260/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004317/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004449/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004716/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004775/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/X004791/1"
+    }
+  ],
+  "meeting_name": "Awarded Research Grants UKRI Basic Tech2021",
+  "source": "awarded_grants/BBSRC-031224-AwardedResearchGrantsUKRIBasicTech2021.xlsx",
+  "meeting_start": "2021",
+  "meeting_end": "2021"
+}

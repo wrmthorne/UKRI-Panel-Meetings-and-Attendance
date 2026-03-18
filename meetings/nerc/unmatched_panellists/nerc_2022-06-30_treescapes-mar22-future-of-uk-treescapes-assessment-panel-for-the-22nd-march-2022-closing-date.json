@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Stephen Cavers",
+      "role": "Chair",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Rosalind Bark",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Nik Cunniffe",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Carlos Galan-Diaz",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "David Higgins",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Adam Kleczkowski",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Carolina Mayoral",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Sara Penrhyn Jones Bath",
+      "role": "Member",
+      "organisation": "Spa University"
+    },
+    {
+      "name": "Jon Pigott Cardiff Metropolitan",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Chris Quine Forest",
+      "role": "Member",
+      "organisation": "Research"
+    },
+    {
+      "name": "George Revill The",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Eirini Saratsi",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Andy Smith",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Caroline Upton",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Kerry Waylen The James",
+      "role": "Member",
+      "organisation": "Hutton Institute"
+    },
+    {
+      "name": "Ada Wossink The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    }
+  ],
+  "meeting_name": "Treescapes MAR22 Future of UK Treescapes Assessment Panel for the 22nd March 2022 closing date",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-070722-FutureOfUKTreescapesAssessmentPanel-ClosingDate-22March2022.pdf",
+  "meeting_start": "2022-06-30",
+  "meeting_end": "2022-07-01"
+}

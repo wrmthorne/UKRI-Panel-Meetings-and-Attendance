@@ -1,0 +1,117 @@
+{
+  "council": "STFC",
+  "year": "2023",
+  "count_of_applications": "15",
+  "count_of_awards": "7",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003322/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003357/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003438/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003470/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003330/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y00342X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003314/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y00339X/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003349/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003454/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003381/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003446/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003403/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003292/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2023A",
+      "year": "2023",
+      "application_id": "ST/Y003365/1",
+      "rank": "15"
+    }
+  ],
+  "meeting_name": "PE SPARK Awards 2023A",
+  "source": "Public-engagement-PE-legacy-nucleus-and-SPARK-awar/Ranking-list-for-PE-SPARK-awards-2023A.xlsx",
+  "meeting_start": "2023",
+  "meeting_end": "2023"
+}

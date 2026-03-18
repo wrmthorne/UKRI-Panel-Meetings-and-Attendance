@@ -1,0 +1,65 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Kirsty Frior Evaluation Panel Membership: John Brodholt (Chair) University College London",
+  "panellists": [
+    {
+      "name": "John BrodholtUniversity College London",
+      "role": "Chair"
+    },
+    {
+      "name": "Arwyn Edwards",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "France Gerard",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Nicholas Rawlinson",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Roger Webb",
+      "role": "Member",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "John Love",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Fiona Larner Science",
+      "role": "Member",
+      "organisation": "and Technology Facilities Council"
+    },
+    {
+      "name": "Luke Davis Engineering",
+      "role": "Member",
+      "organisation": "and Physical Sciences Research"
+    },
+    {
+      "name": "Sue Grimmond Reading",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Patricia Harvey",
+      "role": "Member",
+      "organisation": "University of Greenwich"
+    },
+    {
+      "name": "Mike Kosch",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    }
+  ],
+  "meeting_name": "NERC Scientific support and Facilities (S&F) Evaluation panel 2022",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-211022-ScientificServicesFacilitiesEvaluationPanelMembership.pdf",
+  "meeting_start": "2022-10-19",
+  "meeting_end": "2022-10-19"
+}

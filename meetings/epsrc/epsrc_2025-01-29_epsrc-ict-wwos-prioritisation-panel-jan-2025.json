@@ -1,0 +1,53 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN827",
+  "meeting_name": "EPSRC: ICT WWOS Prioritisation Panel Jan 2025",
+  "meeting_convenor": "S Russin",
+  "applications": [
+    {
+      "application_id": "APP25240",
+      "title": "FAPESP-EPSRC: Multi-species Ion-Photon Interface for Distributed Quantum Computing",
+      "lead_organisation": "University of Sussex",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "834260.52",
+      "award_id": "UKRI2306",
+      "opportunity_number": "280",
+      "lead_applicant": "M Keller",
+      "link": "https://gtr.ukri.org/projects?ref=2306",
+      "opportunity": "EPSRC working with overseas scientists, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP28366",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "280",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC working with overseas scientists, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23190",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "280",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC working with overseas scientists, November 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-29",
+  "meeting_end": "2025-01-29"
+}

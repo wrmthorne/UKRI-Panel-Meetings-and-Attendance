@@ -1,0 +1,188 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN986",
+  "meeting_name": "OPP464: EPSRC Quantum Technologies Career Acceleration Fellowships Interview Panel A",
+  "meeting_convenor": "J Allen",
+  "applications": [
+    {
+      "application_id": "APP37980",
+      "title": "Directly mapping quantum landscapes: finding superconductors’ hidden domains  (QMATE)",
+      "lead_organisation": "University of Warwick",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "2327996.41",
+      "award_id": "UKRI1221",
+      "opportunity_number": "464",
+      "lead_applicant": "D Evans",
+      "link": "https://gtr.ukri.org/projects?ref=1221",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34322",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP34549",
+      "title": "Adversarially Robust Quantum Machine Learning: Theory and Design via Quantum Information Bottleneck",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "1255509.68",
+      "award_id": "UKRI1218",
+      "opportunity_number": "464",
+      "lead_applicant": "S Jose",
+      "link": "https://gtr.ukri.org/projects?ref=1218",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37860",
+      "title": "Developing Quantum Advantage by Understanding the Paradoxical Aspects of Measurement in Quantum Systems",
+      "lead_organisation": "Newcastle University",
+      "outcome": "Successful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "1371098.17",
+      "award_id": "UKRI1217",
+      "opportunity_number": "464",
+      "lead_applicant": "J Hance",
+      "link": "https://gtr.ukri.org/projects?ref=1217",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP31485",
+      "title": "Quantum networking at telecom wavelengths with Yb qubits",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "1746802.37",
+      "award_id": "UKRI1227",
+      "opportunity_number": "464",
+      "lead_applicant": "T Franzen",
+      "link": "https://gtr.ukri.org/projects?ref=1227",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP33027",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36595",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "16",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP37785",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "17",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP36755",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "18",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    },
+    {
+      "application_id": "APP35777",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Deferred",
+      "rank": "0",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "464",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technologies Career Acceleration Fellowships"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Parsons",
+      "role": "Chair",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "I Aniceto",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "K Coopman",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "V Kendon",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "R Srinivas",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "C Weidner",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "D Wood",
+      "role": "Panellist",
+      "organisation": "BAE Systems (United Kingdom)"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-29",
+  "meeting_end": "2025-01-29"
+}

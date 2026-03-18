@@ -1,0 +1,81 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "10",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M004937/1",
+      "lead_applicant": "John Oldfield",
+      "lead_organisation": "University of Hull",
+      "title": "Child Cargo; Public engagement and learning from research into the Trans-Atlantic slave trade Abolitionists' campaign",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003337/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M007278/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M00628X/1",
+      "lead_applicant": "Alastair Macdonald",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "Vision-on: Staff Training Tool for the Prevention of Healthcare Associated Infections",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M005275/1",
+      "lead_applicant": "Laura Bradley",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The Context of Creativity: Creating New Drama and Film about East German Theatre Censorship",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006670/1",
+      "lead_applicant": "David Studdert",
+      "lead_organisation": "Cardiff University",
+      "title": "Spreading knowledge: Embedding Social media into Community",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003469/1",
+      "lead_applicant": "Tanya Bressey",
+      "lead_organisation": "University College London",
+      "title": "Black Modernism: Historical geographies of cosmopolitan lives in interwar London",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005763/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006875/1",
+      "lead_applicant": "Sara McDowell",
+      "lead_organisation": "University of Ulster",
+      "title": "Connecting commemorative communities: Transforming memory-work after conflict in Northern Ireland",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008606/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow on Fund for Impact & Engagement, July 2014",
+  "source": "Follow-on Funding for IE Q3 2014 Meetings.xlsx",
+  "meeting_start": "2014-07",
+  "meeting_end": "2014-07"
+}

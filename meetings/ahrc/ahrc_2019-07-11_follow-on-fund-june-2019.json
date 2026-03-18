@@ -1,0 +1,193 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-453956317",
+  "meeting_name": "Follow on Fund - June 2019",
+  "applications": [
+    {
+      "application_id": "AH/T004053/1",
+      "route": "Standard",
+      "lead_applicant": "Nicolas Salazar Sutil",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Leeds",
+      "title": "The Drying Prayers: Peace Dance from a Central African Perspective",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011382/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Andrew Readman",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "King's College London",
+      "title": "The Redress of the Past: Historical Pageants in Britain",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001038/1",
+      "route": "Standard",
+      "lead_applicant": "William Edward Higbee",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Exeter",
+      "title": "Building an Alternative Distribution Network for Moroccan Cinema: Online Audiences, Festival Networks and Transnational Talent Development",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T004835/1",
+      "route": "Standard",
+      "lead_applicant": "Michele Aaron",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Warwick",
+      "title": "Life:Moving Onwards: Ethical Praxis and the use of film in the International End of Life Community",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002115/1",
+      "route": "Standard",
+      "lead_applicant": "Graham Huggan",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Leeds",
+      "title": "Nature Writing Beyond the Page: Tracks, Traces, Trails",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002921/1",
+      "route": "Standard",
+      "lead_applicant": "John Baker",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Nottingham",
+      "title": "Learning the Landscape through Language: place-names and childhood education",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001445/1",
+      "route": "Standard",
+      "lead_applicant": "Ayesha Mukherjee",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Exeter",
+      "title": "Famine Tales from India and Britain",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001461/1",
+      "route": "Standard",
+      "lead_applicant": "Bryony Clare Randall",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Glasgow",
+      "title": "Imprints of the New Modernist Editing: an intermedia exploration",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S008608/1",
+      "route": "Standard",
+      "lead_applicant": "Nicole W. Thiara",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Nottingham Trent University",
+      "title": "On Page and on Stage: Celebrating Dalit and Adivasi Literatures and Performing Arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001143/1",
+      "route": "Standard",
+      "lead_applicant": "Toby Oliver Ray Green",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "King's College London",
+      "title": "From Monograph to Classroom: Securing the Future of West African History Through Pedagogical Innovation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T003057/1",
+      "route": "Standard",
+      "lead_applicant": "Lisa Anne Peschel",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "University of York",
+      "title": "Gido's coming home! Performing Music and Theatre from the Terezin/Theresienstadt Ghetto for Commemoration, Education and Inspiration",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T003820/1",
+      "route": "Standard",
+      "lead_applicant": "Heike Bartel",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "University of Nottingham",
+      "title": "'Consider Male Eating Disorders': A creative approach to improving access to treatment in primary health care for men and boys with eating disorders",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001518/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002972/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003715/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003782/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Joanna Drugan",
+      "organisation": "Anglia Ruskin University",
+      "role": "Chair"
+    },
+    {
+      "name": "Anna Whicher",
+      "organisation": "Institute of Cancer Research",
+      "role": "Member"
+    },
+    {
+      "name": "Mary Agnes Krell",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Berger",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-07-11",
+  "meeting_end": "2019-07-11"
+}

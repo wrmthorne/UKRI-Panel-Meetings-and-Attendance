@@ -1,0 +1,198 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-806305291",
+  "meeting_name": "Research Networking January 2022",
+  "applications": [
+    {
+      "application_id": "AH/W006235/1",
+      "route": "Standard",
+      "lead_applicant": "Helen Marie Vassallo",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Exeter",
+      "title": "Changing the Landscape: Diversity and Translated Fiction in the UK Publishing Industry",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W008483/1",
+      "route": "Standard",
+      "lead_applicant": "Josie Billington",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Liverpool",
+      "title": "Seeing Arts Health Research Enacted (SHARED): Understanding what works for whom in arts-based approaches for mental health and wellbeing globally",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006464/1",
+      "route": "Standard",
+      "lead_applicant": "Valentina Vitali",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of East London",
+      "title": "South Asian cinema and video online distribution (VOD) research network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007045/1",
+      "route": "Standard",
+      "lead_applicant": "Dimitra Fimi",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Glasgow",
+      "title": "Future Voices of Scottish Science Fiction and Fantasy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00772X/1",
+      "route": "Standard",
+      "lead_applicant": "Lee McConnell",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Bristol",
+      "title": "The Extractive Industries and Foreign Security Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W009560/1",
+      "route": "Standard",
+      "lead_applicant": "Lucy Kimbell",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of the Arts London",
+      "title": "Design|Policy Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W007134/1",
+      "route": "Standard",
+      "lead_applicant": "Kyungeun Sung",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "De Montfort University",
+      "title": "International Upcycling Research Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W006618/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W008130/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007312/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007088/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006758/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W007525/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W005948/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001535/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W00724X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006278/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W006340/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Helena Frances Gaunt",
+      "organisation": "University of South Wales",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2022-02-14",
+  "meeting_end": "2022-02-14"
+}

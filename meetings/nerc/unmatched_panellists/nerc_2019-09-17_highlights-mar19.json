@@ -1,0 +1,92 @@
+{
+  "council": "NERC",
+  "meeting_location": "Jurys Inn, Swindon",
+  "panel_secretary": "Dr Jennifer Wickens",
+  "panel_name": "Highlight Topics",
+  "panellists": [
+    {
+      "name": "Mark Brandon",
+      "role": "Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Iain Staniland",
+      "role": "Member",
+      "organisation": "NERC BAS"
+    },
+    {
+      "name": "Mark Danson",
+      "role": "Member",
+      "organisation": "University of Salford"
+    },
+    {
+      "name": "Anne Robertson",
+      "role": "Member",
+      "organisation": "Roehampton University"
+    },
+    {
+      "name": "Ken Norris",
+      "role": "Member",
+      "organisation": "Zoological Soc London Inst of Zoology"
+    },
+    {
+      "name": "Gabriel Yvon-Durocher",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Thomas Meagher",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Jim Wharfe Wharfe",
+      "role": "Member",
+      "organisation": "Independent Consulting"
+    },
+    {
+      "name": "Graham Ferrier",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Francis Jenner",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Frances Wall",
+      "role": "Member",
+      "organisation": "Exeter University"
+    },
+    {
+      "name": "Andrew Ross",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Kevin Tansey",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Tom Hutchinson",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Jorn Scharlemann",
+      "role": "Member",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Michael Herzog",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "meeting_name": "Highlights MAR19",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-HighlightTopics-210319.pdf",
+  "meeting_start": "2019-09-17",
+  "meeting_end": "2019-09-18"
+}

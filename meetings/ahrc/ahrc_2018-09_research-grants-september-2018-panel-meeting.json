@@ -1,0 +1,220 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "31",
+  "count_of_awards": "13",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001778/1",
+      "lead_applicant": "Sabrina Qiong Yu",
+      "lead_organisation": "Newcastle University",
+      "title": "Independent Cinema in China, 1990-2017: State, Market and Film Culture",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S003657/1",
+      "lead_applicant": "Catherine Richardson",
+      "lead_organisation": "University of Kent",
+      "title": "The Cultural Lives of the Middling Sort: writing and material culture 1560 - 1660",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S003258/1",
+      "lead_applicant": "Ben Clements",
+      "lead_organisation": "University of Leicester",
+      "title": "Roman Catholics in Britain: Faith, Society and Politics.",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S003592/1",
+      "lead_applicant": "Tia DeNora",
+      "lead_organisation": "University of Exeter",
+      "title": "Care for Music - an ethnography of music in late life and end of life settings",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001565/1",
+      "lead_applicant": "Sarah Rees Jones",
+      "lead_organisation": "University of York",
+      "title": "THE NORTHERN WAY: THE ARCHBISHOPS OF YORK AND THE NORTH OF ENGLAND, 1304-1405",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S002952/1",
+      "lead_applicant": "Rowan Cruft",
+      "lead_organisation": "University of Stirling",
+      "title": "Norms for the New Public Sphere: Institutionalising Respect for Truth, Self-Government, and Privacy",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S00369X/1",
+      "lead_applicant": "Tom Corby",
+      "lead_organisation": "University of the Arts London",
+      "title": "Materializing Data, Embodying Climate Change",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S002154/1",
+      "lead_applicant": "Helen Williams",
+      "lead_organisation": "Northumbria University",
+      "title": "Sterne Digital Library",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S002189/1",
+      "lead_applicant": "Paula Callus",
+      "lead_organisation": "Bournemouth University",
+      "title": "ArtoP - The Visual Articulations of Politics in Nigeria",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S002537/1",
+      "lead_applicant": "William Gould",
+      "lead_organisation": "University of Leeds",
+      "title": "The Other From Within: Indian Anthropologists and the Birth of the Nation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S002693/1",
+      "lead_applicant": "Nigel Jeffries",
+      "lead_organisation": "Museum of London Archaeology",
+      "title": "Bottles concealed and revealed: examining the phenomena of stone and glass 'witch bottles' and their concealment in mid to late 17th-century England",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002294/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00470X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S003673/1",
+      "lead_applicant": "Emily A. Winkler",
+      "lead_organisation": "University of Oxford",
+      "title": "The Search for Parity: Rulers, Relationships and the Remote Past in Britain's Chronicles, c. 1100-1300",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014868/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S001476/1",
+      "lead_applicant": "Jane Lugea",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Dementia in the minds of characters and readers",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003150/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001921/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002456/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001093/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003630/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004416/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014760/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001700/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001751/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001840/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S002642/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003118/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003649/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003878/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004769/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, September 2018 Panel Meeting",
+  "source": "Research Grants Panel, Septamber 2018 Meeting.xlsx",
+  "meeting_start": "2018-09",
+  "meeting_end": "2018-09"
+}

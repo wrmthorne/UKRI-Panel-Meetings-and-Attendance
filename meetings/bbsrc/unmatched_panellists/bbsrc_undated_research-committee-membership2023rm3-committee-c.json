@@ -1,0 +1,138 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee C",
+  "panellists": [
+    {
+      "name": "Lorna Harries",
+      "role": "Chair",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Tracey Chapman",
+      "role": "Deputy Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Helen Parkinson",
+      "role": "Deputy Chair",
+      "organisation": "(EMBL-EBI"
+    },
+    {
+      "name": "Alastair Kerr",
+      "role": "Member",
+      "organisation": "Genomics England"
+    },
+    {
+      "name": "Andrea Serio (King’s College London and",
+      "role": "Member",
+      "organisation": "The Francis Crick"
+    },
+    {
+      "name": "Andrew Jackson",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Androniki Psifidi",
+      "role": "Member",
+      "organisation": "Royal Veterinary College"
+    },
+    {
+      "name": "Cathy Slack",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Jane Cleal",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Julia Cordero",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Julie Thornton",
+      "role": "Member",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "Jürg Bähler",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Kathryn Hentges",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Konstantinos Thalassinos",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Lisa Crossman",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Mark Bruce",
+      "role": "Member",
+      "organisation": "Oxford Nanopore Technologies"
+    },
+    {
+      "name": "Martyn Winn",
+      "role": "Member",
+      "organisation": "Science and Technology Facilities Council"
+    },
+    {
+      "name": "Paul Badenhorst",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Sari Pennings",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Sebastian Oltean",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Stephanie Duguez",
+      "role": "Member",
+      "organisation": "Ulster University"
+    },
+    {
+      "name": "Stuart Wilson",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Thomas Howard",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Vardhman Rakyan",
+      "role": "Member",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "Victoria James",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Yannick Wurm",
+      "role": "Member",
+      "organisation": "Queen Mary University of London"
+    }
+  ],
+  "meeting_name": "Research Committee Membership2023RM3 - Committee C",
+  "source": "membership/BBSRC-191124-ResearchCommitteeMembership2023RM3.pdf"
+}

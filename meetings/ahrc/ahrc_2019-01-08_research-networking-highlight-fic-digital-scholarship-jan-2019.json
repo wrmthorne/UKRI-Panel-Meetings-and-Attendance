@@ -1,0 +1,268 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-404565597",
+  "meeting_name": "Research Networking Highlight FIC Digital Scholarship Jan 2019",
+  "applications": [
+    {
+      "application_id": "AH/S012419/1",
+      "route": "Standard",
+      "lead_applicant": "Kevin Page",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Oxford",
+      "title": "Linked.Art: Networking Digital Collections and Scholarship",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012400/1",
+      "route": "Standard",
+      "lead_applicant": "Zoe Jaques",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Cambridge",
+      "title": "Digital Collections in Children's Literature: Distance Reading, Scholarship, Community",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012524/1",
+      "route": "Standard",
+      "lead_applicant": "Christine Whyte",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Glasgow",
+      "title": "Connecting Digital Histories of Fugitive Slaves",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012397/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Gooding",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Glasgow",
+      "title": "Developing a network to investigate the development of a global dataset of digitised texts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012494/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Hedges",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "King's College London",
+      "title": "International Research Collaboration Network in Computational Archival Science (IRCN-CAS)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012516/1",
+      "route": "Standard",
+      "lead_applicant": "Oonagh Murphy",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Museums and Artificial Intelligence Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012478/1",
+      "route": "Standard",
+      "lead_applicant": "Daniel Edward Pett",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "University of Cambridge",
+      "title": "Linking islands of data",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012389/1",
+      "route": "Standard",
+      "lead_applicant": "Hannah Platts",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Transatlantic Perspectives on the Use of Data Science in Museums and Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012559/1",
+      "route": "Standard",
+      "lead_applicant": "Rebecca N Mitchell",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "University of Birmingham",
+      "title": "Pre-Raphaelites Online",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012486/1",
+      "route": "Standard",
+      "lead_applicant": "Athanasios Velios",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "University of the Arts London",
+      "title": "Linked Conservation Data",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S012591/1",
+      "route": "Standard",
+      "lead_applicant": "Christian Reynolds",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "University of Sheffield",
+      "title": "AHRC US-UK Food Digital Scholarship network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S01246X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01263X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012338/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012370/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012443/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012451/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012532/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012567/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012575/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012605/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012613/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012621/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Allan Sudlow",
+      "organisation": "British Library",
+      "role": "Chair"
+    },
+    {
+      "name": "Henrietta Lidchi",
+      "organisation": "National Museums of Scotland",
+      "role": "Member"
+    },
+    {
+      "name": "Paul Spencer Ell",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "James Gilbert Mansell",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-01-08",
+  "meeting_end": "2019-01-08"
+}

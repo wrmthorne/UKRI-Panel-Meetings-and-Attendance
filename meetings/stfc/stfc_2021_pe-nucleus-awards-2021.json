@@ -1,0 +1,92 @@
+{
+  "council": "STFC",
+  "year": "2021",
+  "count_of_applications": "10",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W001845/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W001861/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W00187X/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W001853/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Result after Stage 2",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W001888/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W000121/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W000091/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W000067/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W000032/1",
+      "rank": ""
+    },
+    {
+      "outcome": "Unsuccessful",
+      "notes": "Rejected at stage 1",
+      "opportunity": "PE Nucleus Awards",
+      "year": "2021",
+      "application_id": "ST/W000199/1",
+      "rank": ""
+    }
+  ],
+  "meeting_name": "PE Nucleus Awards 2021",
+  "source": "Nucleus-awards/STFC-150223-RankingListForNucleusAwards2021.xlsx",
+  "meeting_start": "2021",
+  "meeting_end": "2021"
+}

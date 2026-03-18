@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Hannah King",
+  "panellists": [
+    {
+      "name": "Nicholas Mitchell",
+      "role": "Chair",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Robert Fish",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Kimberley Freeman Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Mary Gagen",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Amber Griffiths",
+      "role": "Member",
+      "organisation": "FoAM Kernow"
+    },
+    {
+      "name": "Steve Scott Wellcome Genome",
+      "role": "Member",
+      "organisation": "Campus"
+    }
+  ],
+  "meeting_name": "Public Engagement DEC18 Engaging Environment 2 Panel for the 18 December 2018 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2018/Meeting List Template - Single Panel Meeting.pdf",
+  "meeting_start": "2019-03-28",
+  "meeting_end": "2019-03-28"
+}

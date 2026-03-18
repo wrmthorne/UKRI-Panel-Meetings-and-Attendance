@@ -1,0 +1,146 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "20",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M00922X/1",
+      "lead_applicant": "Jenny Slater",
+      "lead_organisation": "Sheffield Hallam University",
+      "title": "Around the toilet: Co-creating intersectional understandings of gender, disability and access",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009327/1",
+      "lead_applicant": "Anni Raw",
+      "lead_organisation": "University of Leeds",
+      "title": "'Potency and Potential' of creative connections in interstitial spaces' - learning from Latin American perspectives",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009319/1",
+      "lead_applicant": "Deborah Maxwell",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Telling the Bees",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009092/1",
+      "lead_applicant": "Naomi Millner",
+      "lead_organisation": "University of Bristol",
+      "title": "The Hospitality Project: Exploring hospitality as an arts-based praxis to remake relationships of co-production",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009270/1",
+      "lead_applicant": "Matt Brennan",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Fields of Green: Addressing Sustainability and Climate Change through Music Festival Communities",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009300/1",
+      "lead_applicant": "Olu Jenzen",
+      "lead_organisation": "University of Brighton",
+      "title": "The People's Pier: The popular culture of pleasure piers and cultural regeneration through community heritage",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009262/1",
+      "lead_applicant": "Nigel Bright",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Working with social haunting: past- and present-making in two \"communities of value\"",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009181/1",
+      "lead_applicant": "Gail McConnell",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Listening to Voices: Creative Disruptions with the Hearing Voices Network",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009114/1",
+      "lead_applicant": "helen limon",
+      "lead_organisation": "Newcastle University",
+      "title": "(r)agency? Lived Practices of Anger",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009203/1",
+      "lead_applicant": "Dai O'Brien",
+      "lead_organisation": "York St John University",
+      "title": "Lost Spaces",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M00919X/1",
+      "lead_applicant": "Michael Skey",
+      "lead_organisation": "University of East Anglia",
+      "title": "'What football players do .. is part of the kids lives': Exploring the connections between young people and sporting celebrity",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009289/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009165/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009238/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009211/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009246/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009173/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009254/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009297/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009335/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "CC ECR Development 23-10-14",
+  "source": "CC ECR Development 23-10-14.xlsx",
+  "meeting_start": "2014-10",
+  "meeting_end": "2014-10"
+}

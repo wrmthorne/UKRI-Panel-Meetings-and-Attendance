@@ -1,0 +1,96 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "13",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001154/1",
+      "lead_applicant": "Hilary White",
+      "lead_organisation": "The University of Manchester",
+      "title": "Interdisciplinarity and experimental technique in the work of Christine Brooke-Rose",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001316/1",
+      "lead_applicant": "Sophie Joscelyne",
+      "lead_organisation": "University of Sussex",
+      "title": "Norman Mailer and the concept of 'totalitarianism'",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001324/1",
+      "lead_applicant": "Rebecca Harding",
+      "lead_organisation": "University of Sussex",
+      "title": "Don DeLillo's Approach to Writing the Body: An investigation into the DeLillo Papers at the Harry Ransom Center",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R000875/1",
+      "lead_applicant": "David Isaacs",
+      "lead_organisation": "University College London",
+      "title": "J.M. Coetzee's Revisions",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00076X/1",
+      "lead_applicant": "Marina Popea",
+      "lead_organisation": "University of Oxford",
+      "title": "Octavio Paz in and on Translation. Collaboration and Dialogue between North American and Mexican poets and critics",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001111/1",
+      "lead_applicant": "Nicole Robertson",
+      "lead_organisation": "University College London",
+      "title": "Investigating the papers of Arthur Schnitzler's British interpreters: Tom Stoppard; David Hare; and Harley Granville Barker",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001138/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00112X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001219/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00109X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000492/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000417/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000506/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "International Placement Scheme 2017 (Harry Ransom Centre)",
+  "source": "International Placement Scheme, Summer 2017 Meetings.xlsx",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

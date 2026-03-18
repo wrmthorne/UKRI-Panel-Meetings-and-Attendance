@@ -1,0 +1,142 @@
+{
+  "council": "MRC",
+  "count_of_applications": "26",
+  "count_of_awards": "14",
+  "notes": "Applications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 26 out of 62 applications did not pass an initial shortlisting stage and were not considered further. The two successful applications with non-TFS grant references (MR/Y011910/1 and MR/Y012356/1) were holdovers from the previous meeting (October 2023)",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP12526"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP11447"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP11321"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP10872"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP11335"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP13131"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP12259"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP12960"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP13899"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP15669"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP12592"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP13835"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14318"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP15937"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP8725"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14211"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP16592"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/Y011910/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP14909"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP17581"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/Y012356/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP7893"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP7869"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP9273"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP9930"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP9704"
+    }
+  ],
+  "meeting_name": "Molecular and Cellular Medicine Board 14-15 March 2024",
+  "source": "Molecular-and-cellular-medicine-board/MRC-010725-MolecularCellularMedicineBoardFundingDecisionsMarch2024.xlsx",
+  "meeting_start": "2024-03-01",
+  "meeting_end": "2024-03-01"
+}

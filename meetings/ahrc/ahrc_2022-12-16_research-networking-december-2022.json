@@ -1,0 +1,148 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-906289951",
+  "meeting_name": "Research Networking December 2022",
+  "applications": [
+    {
+      "application_id": "AH/X008606/1",
+      "route": "Standard",
+      "lead_applicant": "Caitriona Beaumont",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "London South Bank University",
+      "title": "Agency and Advocacy: Locating Women's Grassroots Activism in England and Ireland, 1918 to the present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X008797/1",
+      "route": "Standard",
+      "lead_applicant": "Alexander Alexander Wragge-Morley",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Lancaster University",
+      "title": "The Arts as Medicine? New Histories of the Arts and Health",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010910/1",
+      "route": "Standard",
+      "lead_applicant": "Rebecca Farley",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Newcastle University",
+      "title": "Networking international and transnational approaches to contemporary art in heritage practice.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X011437/1",
+      "route": "Standard",
+      "lead_applicant": "Catrin Fflur Huws",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Court interpretation in Wales and the Republic of Ireland",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X008622/1",
+      "route": "Standard",
+      "lead_applicant": "Valentina Cazzato",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Neuroscience meets Dance: Towards a neuroscientific approach to mental health and wellbeing",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009122/1",
+      "route": "Standard",
+      "lead_applicant": "Mathias Thaler",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Fail Again, Fail Better? Recuperating Failure in Utopian Politics and Research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010538/1",
+      "route": "Standard",
+      "lead_applicant": "Nigel Nayling",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Wales Trinity Saint David",
+      "title": "Digital Network for Nautical Archaeology",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010848/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006697/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X006905/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010414/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010872/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X011100/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Radha D'Souza",
+      "organisation": "University of Westminster",
+      "role": "Chair"
+    }
+  ],
+  "meeting_start": "2022-12-16",
+  "meeting_end": "2022-12-16"
+}

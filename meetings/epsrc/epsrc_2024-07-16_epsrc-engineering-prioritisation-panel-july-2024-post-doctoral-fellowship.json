@@ -1,0 +1,97 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN547",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel July 2024 – Post Doctoral Fellowship",
+  "meeting_convenor": "S Crook",
+  "applications": [
+    {
+      "application_id": "APP12101",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Advance to next stage",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Gee",
+      "role": "Chair",
+      "organisation": "National Physical Laboratory"
+    },
+    {
+      "name": "C Banks",
+      "role": "Panellist",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "L Black",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "B Croxford",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "C Eastwick",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "C Edwards",
+      "role": "Panellist",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "R Higginson",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "B Hon",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "D JENKINS",
+      "role": "Panellist",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "K Mao",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "C Mark Smales",
+      "role": "Panellist",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "M Stack",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "D T Gethin",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "A Walker",
+      "role": "Panellist",
+      "organisation": "University of Bath"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-16",
+  "meeting_end": "2024-07-16"
+}

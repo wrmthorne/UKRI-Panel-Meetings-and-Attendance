@@ -1,0 +1,240 @@
+{
+  "council": "MRC",
+  "applications": [
+    {
+      "title": "ICF: Elucidating and mitigating the aberrant homeostatic neural plasticity mechanism in early-stage Alzheimer’s disease",
+      "lead_applicant": "Nir Grossman",
+      "lead_organisation": "Imperial College London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI2618",
+      "link": "https://gtr.ukri.org/projects?ref=2618",
+      "application_id": "APP69609"
+    },
+    {
+      "title": "ICF Understanding the link between sleep and Alzheimer?s",
+      "lead_applicant": "Elizabeth Coulthard",
+      "lead_organisation": "University of Bristol",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI2616",
+      "link": "https://gtr.ukri.org/projects?ref=2616",
+      "application_id": "APP69784"
+    },
+    {
+      "title": "TARGET-PD: Targeting Renin-Angiotensin and GLP-1 Pathways for Precision Therapy in Parkinson?s Disease: From Mechanisms to Patient Stratification",
+      "lead_applicant": "Sonia Gandhi",
+      "lead_organisation": "University College London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI2620",
+      "link": "https://gtr.ukri.org/projects?ref=2620",
+      "application_id": "APP69993"
+    },
+    {
+      "title": "ICF: Defining the role of PDE5 on cerebrovascular function in small vessel disease",
+      "lead_applicant": "Alastair Webb",
+      "lead_organisation": "Imperial College London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI2619",
+      "link": "https://gtr.ukri.org/projects?ref=2619",
+      "application_id": "APP70950"
+    },
+    {
+      "title": "How does cerebral small vessel disease cause neurodegeneration, and can this be reversed?",
+      "lead_applicant": "Joanna Wardlaw",
+      "lead_organisation": "University of Edinburgh",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2617",
+      "link": "https://gtr.ukri.org/projects?ref=2617",
+      "application_id": "APP71175"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69649"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69910"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP70229"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP70824"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69611"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69612"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69613"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP72788"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69608"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69806"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP69632"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Charlotte Summers",
+      "organisation": "University of Cambridge",
+      "role": "Chair"
+    },
+    {
+      "name": "Abdel Douiri",
+      "organisation": "King's College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Clare Howarth",
+      "organisation": "University of Sheffield",
+      "role": "Panellist"
+    },
+    {
+      "name": "Geor Bakker",
+      "organisation": "Amacrine Scientific Consulting",
+      "role": "Panellist"
+    },
+    {
+      "name": "Johan Luthman",
+      "organisation": "Lundbeck",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jonathan Cavanagh",
+      "organisation": "University of Glasgow",
+      "role": "Panellist"
+    },
+    {
+      "name": "Mark Kearney",
+      "organisation": "University of Leeds",
+      "role": "Panellist"
+    },
+    {
+      "name": "Paul Thompson",
+      "organisation": "Independant",
+      "role": "Panellist"
+    },
+    {
+      "name": "Rik Vandenberghe",
+      "organisation": "KU Leuven",
+      "role": "Panellist"
+    },
+    {
+      "name": "Robert Lai",
+      "organisation": "GSK",
+      "role": "Panellist"
+    },
+    {
+      "name": "Wendy Noble",
+      "organisation": "University of Exeter",
+      "role": "Panellist"
+    },
+    {
+      "name": "Diego Gomez-Nicola",
+      "organisation": "University of Southampton",
+      "role": "Deputy"
+    },
+    {
+      "name": "Fiona Watt",
+      "organisation": "Imperial College London",
+      "role": "Deputy"
+    }
+  ],
+  "count_of_applications": "16",
+  "count_of_awards": "5",
+  "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
+  "meeting_name": "MRC - Exp Med in Neurodegeneration - June 25 - Funding Decision Meeting",
+  "meeting_reference": "PAN1169",
+  "meeting_start": "2025-06-26",
+  "meeting_end": "2025-06-26",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred."
+}

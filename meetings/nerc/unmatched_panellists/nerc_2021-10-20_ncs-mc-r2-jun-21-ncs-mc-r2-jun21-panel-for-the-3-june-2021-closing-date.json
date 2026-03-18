@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "in person with a virtual option",
+  "panel_secretary": "Gemma Davies (Science Committee secretariat) with",
+  "panellists": [
+    {
+      "name": "Graham Underwood",
+      "role": "Chair",
+      "organisation": "University of Essex"
+    },
+    {
+      "name": "Adrian Baker Defence Science",
+      "role": "Member",
+      "organisation": "& Tech Lab DSTL"
+    },
+    {
+      "name": "Nicola Beaumont*",
+      "role": "Member",
+      "organisation": "Plymouth Marine Laboratory"
+    },
+    {
+      "name": "Jane Hill",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Anna Jones*",
+      "role": "Member",
+      "organisation": "NERC British Antarctic Survey"
+    },
+    {
+      "name": "Christine Maggs",
+      "role": "Member",
+      "organisation": "JNCC (Joint Nature Conservation Committee)"
+    },
+    {
+      "name": "Alberto Naveira Garabato",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Richard Pancost",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Daniel Parsons",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Stefan Reis*",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "David Viner",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Simon Vosper",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Doug Wilson Environment",
+      "role": "Member",
+      "organisation": "Agency"
+    },
+    {
+      "name": "Miriam Gifford",
+      "role": "Member",
+      "organisation": "University of Warwick (BBSRC representative)"
+    }
+  ],
+  "meeting_name": "NCS MC R2 JUN 21 NCS MC R2 JUN21 Panel for the 3 June 2021 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-NationalCapabilityScienceMulticentre-Round2-030621.pdf",
+  "meeting_start": "2021-10-20",
+  "meeting_end": "2021-10-20"
+}

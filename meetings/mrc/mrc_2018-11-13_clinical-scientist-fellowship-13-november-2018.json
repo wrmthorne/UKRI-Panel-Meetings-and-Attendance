@@ -1,0 +1,37 @@
+{
+  "council": "MRC",
+  "count_of_applications": "5",
+  "count_of_awards": "3",
+  "notes": "MR/S006176/1 was deferred for consideration at the next Board meeting.\n\nProposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this meeting, 17/23 applications did not pass an initial triage stage and were not considered further. Of the 6 applications that did pass the initial triage stage, no applications were withdrawn by the applicants prior to the meeting and no applications were withdrawn by the applicants following the meeting. 1 application was held over for consideration at the next Board meeting.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "MR/S005552/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S006613/1"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S006680/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/S005617/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/S006753/1"
+    }
+  ],
+  "meeting_name": "Clinical Scientist Fellowship 13 November 2018",
+  "source": "Clinician-scientist-fellowship/MRC-12102021-ClinicalScientistFellowship-13November2018.xlsx",
+  "meeting_start": "2018-11-13",
+  "meeting_end": "2018-11-13"
+}

@@ -1,0 +1,25 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1414",
+  "meeting_name": "EPSRC Physical Sciences Interview Panel 17-18 September 2025 – Open Plus Fellowships",
+  "meeting_convenor": "A Kumar",
+  "applications": [
+    {
+      "application_id": "APP52509",
+      "title": "Running Rings Round Resistance: Chemical Biology Approaches to Cyclic Antimicrobial Peptide-Lipid Recognition",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2862925.59",
+      "award_id": "UKRI3434",
+      "opportunity_number": "295",
+      "lead_applicant": "A Tabor",
+      "link": "https://gtr.ukri.org/projects?ref=3434",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-09-17",
+  "meeting_end": "2025-09-17"
+}

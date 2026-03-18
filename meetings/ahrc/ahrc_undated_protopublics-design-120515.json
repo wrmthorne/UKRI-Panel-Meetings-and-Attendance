@@ -1,0 +1,65 @@
+{
+  "council": "AHRC",
+  "count_of_applications": "7",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Development Grants",
+      "application_id": "AH/N003799/1",
+      "lead_applicant": "Jo Briggs",
+      "lead_organisation": "Northumbria University",
+      "title": "Creative Temporal Costings",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Development Grants",
+      "application_id": "AH/N003829/1",
+      "lead_applicant": "James Duggan",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Design Research Get Lost: An asset-based approach to support young people to self-organise",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Development Grants",
+      "application_id": "AH/N003802/1",
+      "lead_applicant": "Damon Taylor",
+      "lead_organisation": "University of Brighton",
+      "title": "Rules of Thumb: An Investigation into the Potential of Contextual Transposition in Social Design",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Development Grants",
+      "application_id": "AH/N003810/1",
+      "lead_applicant": "Emmanuel Tsekleves",
+      "lead_organisation": "Lancaster University",
+      "title": "Proto-Policy",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Development Grants",
+      "application_id": "AH/N003845/1",
+      "lead_applicant": "Katrina Elly Jungnickel",
+      "lead_organisation": "Goldsmiths College",
+      "title": "The Dewey Organ: making problems and publics",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003780/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003837/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "ProtoPublics Design 12/05/15",
+  "source": "ProtoPublics AHRC COP AH16 1 Publishing Ranked Meeting Lists.xlsx"
+}

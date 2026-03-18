@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote via zoom",
+  "panel_secretary": "Philippa Kennard",
+  "panellists": [
+    {
+      "name": "Karen",
+      "role": "Chair",
+      "organisation": "HeywoodUniversity of East Anglia"
+    },
+    {
+      "name": "Tim",
+      "role": "Member",
+      "organisation": "McGovern National Science Foundation"
+    },
+    {
+      "name": "Karin Lochte Alfred Wegener",
+      "role": "Member",
+      "organisation": "Institute (Helmholtz)"
+    },
+    {
+      "name": "Mike Bentley",
+      "role": "Member",
+      "organisation": "Durham University"
+    }
+  ],
+  "meeting_name": "‘Sir David Attenborough’ research vessel science commissioning Assessment Panel for the 18 April 2023 closing date",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-211223-SirDavidAttenboroughResearchVesselScienceCommissioningAssessmentPanel18April2023ClosingDate.pdf",
+  "meeting_start": "2023-07-10",
+  "meeting_end": "2023-07-10"
+}

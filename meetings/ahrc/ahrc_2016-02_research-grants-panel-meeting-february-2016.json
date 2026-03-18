@@ -1,0 +1,162 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "21",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N00731X/1",
+      "lead_applicant": "Martin Scott",
+      "lead_organisation": "University of East Anglia",
+      "title": "What is humanitarian news? A multi-sited study of how journalists define, debate and reproduce the boundaries of humanitarianism",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N007557/1",
+      "lead_applicant": "Andrew Burton",
+      "lead_organisation": "Newcastle University",
+      "title": "Mapping Contemporary Art in the Heritage Experience: Creation, Consumption and Exchange",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N005902/1",
+      "lead_applicant": "Ryan Rabett",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Human Adaptation to Coastal Evolution: Late Quaternary evidence from Southeast Asia (SUNDASIA)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N004558/1",
+      "lead_applicant": "Naomi Sykes",
+      "lead_organisation": "University of Nottingham",
+      "title": "Exploring the Easter E.g. - Shifting Baselines and Changing Perceptions of Cultural and Biological \"Aliens\"",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N007573/1",
+      "lead_applicant": "Elaine Hobby",
+      "lead_organisation": "Loughborough University",
+      "title": "Editing Aphra Behn in the Digital Age (E-ABIDA)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006151/1",
+      "lead_applicant": "Richard Hingley",
+      "lead_organisation": "Durham University",
+      "title": "Iron Age and Roman Heritage: exploring ancient identities in modern Britain (IA&RH)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006704/1",
+      "lead_applicant": "Deborah Mawer",
+      "lead_organisation": "Birmingham City University",
+      "title": "Accenting the Classics: Durand's Édition classique (c. 1915-25) as a French Prism on the Musical Past",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00664X/1",
+      "lead_applicant": "Jonathan Reinarz",
+      "lead_organisation": "University of Birmingham",
+      "title": "Forged by Fire: Burns Injury and Identity in Britain, c.1800-2000",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N008863/1",
+      "lead_applicant": "Joan Loughrey",
+      "lead_organisation": "University of Leeds",
+      "title": "Business Judgment and the Courts",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N006615/1",
+      "lead_applicant": "Stuart Walker",
+      "lead_organisation": "Lancaster University",
+      "title": "Living Design: The effective use of design for sustainability in maker enterprises",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N004779/1",
+      "lead_applicant": "Aidan McGarry",
+      "lead_organisation": "University of Brighton",
+      "title": "The Aesthetics of Protest: Visual Culture and Communication in Turkey",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006739/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007662/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007670/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009045/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007255/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007077/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007778/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007492/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004426/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006909/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, panel meeting February 2016",
+  "source": "Research Grants Panel, February 2016 meeting.xlsx",
+  "meeting_start": "2016-02",
+  "meeting_end": "2016-02"
+}

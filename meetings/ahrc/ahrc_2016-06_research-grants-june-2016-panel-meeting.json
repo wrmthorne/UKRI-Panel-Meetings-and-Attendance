@@ -1,0 +1,185 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "26",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00924X/1",
+      "lead_applicant": "Kearsy Cormier",
+      "lead_organisation": "University College London",
+      "title": "A broadly usage-based account of British Sign Language syntax",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N009681/1",
+      "lead_applicant": "Michael Rand",
+      "lead_organisation": "University of Cambridge",
+      "title": "A Diplomatic Edition of Mishna-Codex Kaufmann (A50)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P002471/1",
+      "lead_applicant": "Matthew Baerman",
+      "lead_organisation": "University of Surrey",
+      "title": "Seri verbs: multiple complexities",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P004792/1",
+      "lead_applicant": "Richard Schoch",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Performing Restoration Shakespeare",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N008804/1",
+      "lead_applicant": "Lawrence Stephen Barham",
+      "lead_organisation": "University of Liverpool",
+      "title": "Investigating the Deep Roots of Human Behaviour",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N007476/1",
+      "lead_applicant": "Joanna Ostapkowicz",
+      "lead_organisation": "National Museums Liverpool",
+      "title": "SIBA: Stone interchanges in the Bahama archipelago",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N010205/1",
+      "lead_applicant": "Avril Maddrell",
+      "lead_organisation": "University of the West of England",
+      "title": "Deathscapes and Diversity in multicultural England and Wales. Making space for minorities' and migrants' bodily remains, ritual and remembrance.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N008782/1",
+      "lead_applicant": "Rachel Potter",
+      "lead_organisation": "University of East Anglia",
+      "title": "The impact of non-governmental writers' organisations on freedom of expression",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006291/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004903/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006984/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009517/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P004415/1",
+      "lead_applicant": "Karim Pierre Yves Thebault",
+      "lead_organisation": "University of Bristol",
+      "title": "Analogue Simulation in Modern Physics",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P00363X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P004520/1",
+      "lead_applicant": "Sara Lyons",
+      "lead_organisation": "University of Kent",
+      "title": "Literary Culture, Meritocracy, and the Assessment of Intelligence in Britain and America, 1880-1920",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004474/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003729/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003745/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003869/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009576/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P002986/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P000215/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006690/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N010175/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003559/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005020/1",
+      "title": "Invited Resubmission",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, June 2016 panel meeting",
+  "source": "Research Grants Panel, June 2016 meeting.xlsx",
+  "meeting_start": "2016-06",
+  "meeting_end": "2016-06"
+}

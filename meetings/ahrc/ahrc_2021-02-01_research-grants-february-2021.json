@@ -1,0 +1,323 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-610166763",
+  "meeting_name": "Research Grants - February 2021",
+  "applications": [
+    {
+      "application_id": "AH/V012738/1",
+      "route": "Standard",
+      "lead_applicant": "Cordelia Beattie",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Alice Thornton's Books: Remembrances of a Woman's Life in the Seventeenth Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006673/1",
+      "route": "Early Career",
+      "lead_applicant": "Kerry Pimblott",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "The University of Manchester",
+      "title": "Grassroots Struggles, Global Visions: British Black Power, 1964-1985",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001000/1",
+      "route": "Standard",
+      "lead_applicant": "Jago Morrison",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Brunel University London",
+      "title": "Writers in British Intelligence: The Secret State and the Public Sphere",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001078/1",
+      "route": "Standard",
+      "lead_applicant": "Sam Alberti",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "National Museums of Scotland",
+      "title": "Materialising the Cold War",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006622/1",
+      "route": "Early Career",
+      "lead_applicant": "Thomas Long",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Warwick",
+      "title": "Latin America and the peripheral origins of nineteenth-century international order",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01059X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013173/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012827/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011316/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011693/1",
+      "route": "Early Career",
+      "lead_applicant": "Jeffrey Bre Horsley",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "University of the Arts London",
+      "title": "Exhibiting Fashion: exhibition-making and curation as a catalyst for advancing innovative museum practices",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V009834/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V010972/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V013203/1",
+      "route": "Early Career",
+      "lead_applicant": "Henry Jones",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "The University of Manchester",
+      "title": "Negotiating distinctions between conventional and alternative medicine in the English- and French-language Wikipedias",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006231/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008625/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011243/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008129/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011189/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002635/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V009192/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001477/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012606/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001906/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008382/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012665/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V008900/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011421/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Martin Johnes",
+      "organisation": "Brunel University London",
+      "role": "Chair"
+    },
+    {
+      "name": "Cathy Batt",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "Berthold Johannes Schoene",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Joanne Clarke",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Karen Louise Harvey",
+      "organisation": "University of Birmingham",
+      "role": "Member"
+    },
+    {
+      "name": "Kevin Petrie",
+      "organisation": "Northumbria University",
+      "role": "Member"
+    },
+    {
+      "name": "Melanie Josefine Klinkner",
+      "organisation": "University of St Andrews",
+      "role": "Member"
+    },
+    {
+      "name": "Royona Mitra",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-02-01",
+  "meeting_end": "2021-02-01"
+}

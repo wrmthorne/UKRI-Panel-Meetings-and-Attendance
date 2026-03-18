@@ -1,0 +1,378 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-352312761",
+  "meeting_name": "Research Grants - September 2018",
+  "applications": [
+    {
+      "application_id": "AH/S001778/1",
+      "route": "Standard",
+      "lead_applicant": "Sabrina Qiong Yu",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Newcastle University",
+      "title": "Independent Cinema in China: State, Market and Film Culture",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003657/1",
+      "route": "Standard",
+      "lead_applicant": "Catherine Richardson",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Kent",
+      "title": "The Cultural Lives of the Middling Sort: writing and material culture 1560 - 1660",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003258/1",
+      "route": "Standard",
+      "lead_applicant": "Ben Clements",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Leicester",
+      "title": "Roman Catholics in Britain: Faith, Society and Politics.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003592/1",
+      "route": "Standard",
+      "lead_applicant": "Tia DeNora",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "University of Exeter",
+      "title": "Care for Music - an ethnography of music in late life and end of life settings",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001565/1",
+      "route": "Standard",
+      "lead_applicant": "Sarah Ruth Rees Jones",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of York",
+      "title": "THE  NORTHERN WAY: THE ARCHBISHOPS OF YORK AND THE NORTH OF ENGLAND, 1304-1405",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002952/1",
+      "route": "Standard",
+      "lead_applicant": "Rowan Cruft",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Stirling",
+      "title": "Norms for the New Public Sphere: Institutionalising Respect for Truth, Self-Government, and Privacy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00369X/1",
+      "route": "Standard",
+      "lead_applicant": "Tom Corby",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of the Arts London",
+      "title": "Materializing Data, Embodying Climate Change",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002154/1",
+      "route": "Early Career",
+      "lead_applicant": "Helen Helen Williams",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Northumbria University",
+      "title": "Sterne Digital Library",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002189/1",
+      "route": "Early Career",
+      "lead_applicant": "Paula Callus",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Bournemouth University",
+      "title": "ArtoP - The Visual Articulations of Politics in Nigeria",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002537/1",
+      "route": "Standard",
+      "lead_applicant": "William Gould",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "University of Leeds",
+      "title": "The Other From Within: Indian Anthropologists and the Birth of the Nation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002693/1",
+      "route": "Standard",
+      "lead_applicant": "Nigel Jeffries",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "Museum of London Archaeology",
+      "title": "Bottles concealed and revealed: examining the phenomena of stone and glass 'witch bottles' and their concealment in mid to late 17th-century England",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002294/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00470X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003673/1",
+      "route": "Early Career",
+      "lead_applicant": "Emily A. Winkler",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "University of Oxford",
+      "title": "The Search for Parity: Rulers, Relationships and the Remote Past in Britain's Chronicles, c. 1100-1300",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/R014868/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001476/1",
+      "route": "Early Career",
+      "lead_applicant": "Jane Lugea",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Dementia in the minds of characters and readers",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003150/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001921/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S002456/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001093/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003630/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004416/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014760/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001700/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001751/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001840/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S002642/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003118/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003649/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003878/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S004769/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ros King",
+      "organisation": "University of Southampton",
+      "role": "Chair"
+    },
+    {
+      "name": "Adam Stock",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Clare Parfitt",
+      "organisation": "Falmouth University",
+      "role": "Member"
+    },
+    {
+      "name": "Edward Paleit",
+      "organisation": "University of Salford",
+      "role": "Member"
+    },
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Bella Dicks",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Deirdre Elizabeth Heddon",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Delia Bentley",
+      "organisation": "The University of Manchester",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Hand",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Sean Cubitt",
+      "organisation": "University of Melbourne",
+      "role": "Member"
+    },
+    {
+      "name": "Timothy James Lockley",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-09-13",
+  "meeting_end": "2018-09-13"
+}

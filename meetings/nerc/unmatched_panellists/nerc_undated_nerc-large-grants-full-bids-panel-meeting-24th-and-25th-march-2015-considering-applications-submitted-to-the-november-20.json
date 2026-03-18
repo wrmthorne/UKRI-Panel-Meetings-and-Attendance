@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "panellists": [
+    {
+      "name": "Angela",
+      "role": "Chair"
+    },
+    {
+      "name": "Neil Arnold",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Angus Atkinson",
+      "role": "Member",
+      "organisation": "Plymouth Marine Laboratory"
+    },
+    {
+      "name": "Heiko Baltzer",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Andrew Brierley",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Jonathan Bull",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Mark Emmerson",
+      "role": "Member",
+      "organisation": "Queen’s University, Belfast"
+    },
+    {
+      "name": "Jim Harris",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Matthew Heal",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Owen Lewis",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Doug Mair",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Matthew Rigby",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Zongbo Shi",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Oliver Wild",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Darren Wright",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    }
+  ],
+  "meeting_name": "NERC Large Grants Full Bids Panel Meeting 24th and 25th March 2015 Considering applications submitted to the November 2014 closing date",
+  "source": "NERC-funding-assessment-panel-members-2014/1411largegrantpanel.pdf"
+}

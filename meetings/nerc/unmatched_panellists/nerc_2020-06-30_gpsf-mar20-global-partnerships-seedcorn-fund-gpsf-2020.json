@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "meeting_location": "Via video conference",
+  "panel_secretary": "Claire Simmons",
+  "panellists": [
+    {
+      "name": "Xavier Lambin",
+      "role": "Chair",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Richard Allan",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Heiko Balzter",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Philip Benson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Jennifer Best",
+      "role": "Member",
+      "organisation": "Scottish Environmental Protection Agency"
+    },
+    {
+      "name": "Ron Corstanje",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Daren Gooddy",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Jonathan Houghton",
+      "role": "Member",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Nicholas Kamenos",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Colin Mackechnie",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology & Hydrology"
+    },
+    {
+      "name": "Sacha Mooney",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Colin Murrell",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Vincent Savolainen",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Hugh Sinclair",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Sarah Woodroffe",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Clare Woulds",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    }
+  ],
+  "meeting_name": "GPSF MAR20 Global Partnerships Seedcorn Fund (GPSF) 2020",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-GlobalPartnershipsSeedcornFund-310320.pdf",
+  "meeting_start": "2020-06-30",
+  "meeting_end": "2020-07-01"
+}

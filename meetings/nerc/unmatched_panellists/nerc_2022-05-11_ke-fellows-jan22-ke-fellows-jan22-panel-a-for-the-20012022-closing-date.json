@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Via Zoom",
+  "panel_secretary": "Nikki Cholod",
+  "panellists": [
+    {
+      "name": "Helen Roy",
+      "role": "Chair",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Helen Featherstone",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Alison Holt Natural Capital",
+      "role": "Member",
+      "organisation": "Solutions"
+    },
+    {
+      "name": "Deepa Senapathi",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Martin Smith",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Emma Visman",
+      "role": "Member",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    }
+  ],
+  "meeting_name": "KE Fellows JAN22 KE Fellows JAN22 - Panel A for the 20/01/2022 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-200522-KEFellowsInterviewPanelsJanuary2022.pdf",
+  "meeting_start": "2022-05-11",
+  "meeting_end": "2022-05-12"
+}

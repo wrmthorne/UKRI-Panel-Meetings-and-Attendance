@@ -1,0 +1,116 @@
+{
+  "council": "NERC",
+  "count_of_applications": "22",
+  "count_of_awards": "8",
+  "year": "2014",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M021866/1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/M021750/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/M021696/1"
+    },
+    {
+      "score": "8.8",
+      "outcome": "Successful",
+      "application_id": "NE/M021955/1",
+      "rank": "2"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/M021726/1",
+      "rank": "3"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M021858/1",
+      "rank": "4"
+    },
+    {
+      "score": "6.5",
+      "outcome": "Successful",
+      "application_id": "NE/M021998/1",
+      "rank": "5"
+    },
+    {
+      "score": "6",
+      "outcome": "Successful",
+      "application_id": "NE/M021513/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "4.5",
+      "application_id": "NE/M021572/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "0",
+      "application_id": "NE/M021432/1",
+      "rank": "0"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M022005/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021289/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021785/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021912/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021610/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021831/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021645/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021815/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M02170X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021629/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021904/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/M021688/1"
+    }
+  ],
+  "meeting_name": "Follow On Fund Dec 2014",
+  "source": "followon-dec14.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

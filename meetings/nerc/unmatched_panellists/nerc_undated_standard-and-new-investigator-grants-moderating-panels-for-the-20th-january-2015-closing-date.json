@@ -1,0 +1,83 @@
+{
+  "council": "NERC",
+  "panel_secretary": "Anne Priest Chair: Professor Peter Cawood, University of St Andrews",
+  "panellists": [
+    {
+      "name": "Peter Cawood",
+      "role": "Chair",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Nicholas Rogers",
+      "role": "Deputy Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Timothy Barrows",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Eliza Calder",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Peter Clarke",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Bryn Hubbard",
+      "role": "Member",
+      "organisation": "Aberystwyth University"
+    },
+    {
+      "name": "Simon Kelley",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Anthony Long",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "John Maclennan",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Brice Rea",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Rosalind Rickaby",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Gerald Roberts",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Iain Robertson",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Sebastian Rost",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Dorrik Stow",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    }
+  ],
+  "meeting_name": "Standard and New Investigator Grants Moderating Panels for the 20th January 2015 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2015/2015grants-moderating-panel.pdf"
+}

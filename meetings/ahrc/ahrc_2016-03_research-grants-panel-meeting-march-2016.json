@@ -1,0 +1,130 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "17",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/N008936/1",
+      "lead_applicant": "Matt Brennan",
+      "lead_organisation": "University of Edinburgh",
+      "title": "The Great British Live Music Census",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N009444/1",
+      "lead_applicant": "Sarah Street",
+      "lead_organisation": "University of Bristol",
+      "title": "The Eastmancolor Revolution and British Cinema, 1955-85",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N007506/1",
+      "lead_applicant": "Carl Pollard",
+      "lead_organisation": "University of Southampton",
+      "title": "Living with Monuments: life and cultural landscape between the 4th and 2nd millennia BC in the Avebury region, Wiltshire",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N007042/1",
+      "lead_applicant": "Fiona Candlin",
+      "lead_organisation": "Birkbeck College",
+      "title": "Mapping Museums: The history and geography of the UK independent sector 1960-2020",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00745X/1",
+      "lead_applicant": "Tertia Barnett",
+      "lead_organisation": "Historic Environment Scotland",
+      "title": "Scotland's Rock Art in context: placement, re-placement and engagement",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00941X/1",
+      "lead_applicant": "Felix Driver",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "The mobile museum: economic botany in circulation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00681X/1",
+      "lead_applicant": "Christian Luczanits",
+      "lead_organisation": "School of Oriental & African Studies",
+      "title": "Tibetan Buddhist Monastery Collections Today",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/N00809X/1",
+      "lead_applicant": "David Thomas",
+      "lead_organisation": "University of Birmingham",
+      "title": "Christian-Muslim Relations, a Bibliographical History 1800-1914 (CMR 1914)",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009134/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009819/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00695X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008960/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009037/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N008820/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009096/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009797/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009940/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, panel meeting March 2016",
+  "source": "Research Grants Panel, March 2016 meeting.xlsx",
+  "meeting_start": "2016-03",
+  "meeting_end": "2016-03"
+}

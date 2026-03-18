@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Videoconference",
+  "panel_secretary": "Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Ben Smith",
+      "role": "Chair",
+      "organisation": "Arup"
+    },
+    {
+      "name": "Sue Brooks Birkbeck",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Ksenia Chmutina",
+      "role": "Member",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "Murray Dale",
+      "role": "Member",
+      "organisation": "JBA Consulting"
+    },
+    {
+      "name": "Marie Ekström",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Emma Ferranti",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "David Proverbs Birmingham City",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Giridharan Renganathan",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Anna Taylor",
+      "role": "Member",
+      "organisation": "University of Cape Town"
+    },
+    {
+      "name": "Peter Walton",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Mathew Williams",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "meeting_name": "UK Climate Resilience JUN20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-UKClimateResilienceEmbeddedResearcherScheme-100720.pdf",
+  "meeting_start": "2020-07-21",
+  "meeting_end": "2020-07-21"
+}

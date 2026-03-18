@@ -1,0 +1,107 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN649",
+  "meeting_name": "EPSRC: ICT Network Grant Prioritisation Panel Sept 2024",
+  "meeting_convenor": "E Hims",
+  "applications": [
+    {
+      "application_id": "APP17393",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "142",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC network grant, May 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "M Bloj",
+      "role": "Chair",
+      "organisation": "University of Bradford"
+    },
+    {
+      "name": "G Aarts",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "X Chu",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "A Ellis",
+      "role": "Panellist",
+      "organisation": "Aston University"
+    },
+    {
+      "name": "A French",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "E Kanjo",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "E Le Moignan",
+      "role": "Panellist",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "A Leonardis",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "I Mabbett",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "D McIlhatton",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "Y Noori",
+      "role": "Panellist",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "J Pritchard",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "D Thakker",
+      "role": "Panellist",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "K Wong",
+      "role": "Panellist",
+      "organisation": "University College London"
+    },
+    {
+      "name": "C Zarges",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "F Zheng",
+      "role": "Panellist",
+      "organisation": "University of York"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-09-24",
+  "meeting_end": "2024-09-24"
+}

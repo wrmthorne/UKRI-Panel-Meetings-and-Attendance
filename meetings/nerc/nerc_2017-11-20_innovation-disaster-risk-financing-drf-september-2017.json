@@ -1,0 +1,242 @@
+{
+  "council": "NERC",
+  "count_of_applications": "22",
+  "count_of_awards": "7",
+  "year": "2017",
+  "applications": [
+    {
+      "score": "17",
+      "outcome": "Successful",
+      "application_id": "NE/R014116/1",
+      "rank": "1"
+    },
+    {
+      "score": "16",
+      "outcome": "Successful",
+      "application_id": "NE/R014272/1",
+      "rank": "2"
+    },
+    {
+      "score": "16",
+      "outcome": "Successful",
+      "application_id": "NE/R014094/1",
+      "rank": "3"
+    },
+    {
+      "score": "15",
+      "outcome": "Successful",
+      "application_id": "NE/R01423X/1",
+      "rank": "4"
+    },
+    {
+      "score": "14",
+      "outcome": "Successful",
+      "application_id": "NE/R014264/1",
+      "rank": "5"
+    },
+    {
+      "score": "13",
+      "outcome": "Successful",
+      "application_id": "NE/R014329/1",
+      "rank": "6"
+    },
+    {
+      "score": "12",
+      "outcome": "Successful",
+      "application_id": "NE/R014361/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/R014043/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/R014302/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "NE/R014299/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "NE/R014353/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "11",
+      "application_id": "NE/R014345/1",
+      "rank": "12"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/R014310/1",
+      "rank": "13"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "9",
+      "application_id": "NE/R01437X/1",
+      "rank": "14"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014051/1",
+      "rank": "15"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014175/1",
+      "rank": "16"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014205/1",
+      "rank": "17"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014256/1",
+      "rank": "18"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/R014388/1",
+      "rank": "19"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/R01406X/1",
+      "rank": "20"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "0",
+      "application_id": "NE/R014191/1",
+      "rank": "21"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "0",
+      "application_id": "NE/R014337/1",
+      "rank": "22"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Rob MacKenzie",
+      "role": "Chair",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Antoine Bavandi World",
+      "role": "Member",
+      "organisation": "Bank"
+    },
+    {
+      "name": "Andrea Camargo",
+      "role": "Member",
+      "organisation": "MiCRO"
+    },
+    {
+      "name": "Daniel Clarke Government",
+      "role": "Member",
+      "organisation": "Actuary’s Department"
+    },
+    {
+      "name": "Susan Davies",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Richard Dixon",
+      "role": "Member",
+      "organisation": "CatInsight"
+    },
+    {
+      "name": "Sue Gray",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Ian Holman",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Richard Leftley",
+      "role": "Member",
+      "organisation": "MicroEnsure"
+    },
+    {
+      "name": "Robert Lensink",
+      "role": "Member",
+      "organisation": "University of Groningen"
+    },
+    {
+      "name": "Qiuhua Liang",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Thomas Loster Munich Re",
+      "role": "Member",
+      "organisation": "Foundation"
+    },
+    {
+      "name": "Iris Möller",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Nick Moody",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Aaron Oxley Results",
+      "role": "Member",
+      "organisation": "UK"
+    },
+    {
+      "name": "Pablo Suarez Red Cross",
+      "role": "Member",
+      "organisation": "Red Crescent Climate Centre"
+    },
+    {
+      "name": "Swenja Surminski",
+      "role": "Member",
+      "organisation": "London School of Economics"
+    },
+    {
+      "name": "Lena Weingartner",
+      "role": "Member",
+      "organisation": "Overseas Development Institute"
+    },
+    {
+      "name": "Simon Young",
+      "role": "Member",
+      "organisation": "GeoSY Ltd"
+    }
+  ],
+  "meeting_name": "Innovation Disaster Risk Financing (DRF) September 2017",
+  "source": "NERC-061021-InnovationDisasterRiskFinancing-FundingOutcomes-Sept2017.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2017/Building resilience to natural disasters using financial instruments - September 2017.pdf",
+  "meeting_start": "2017-11-20",
+  "meeting_end": "2017-11-20"
+}

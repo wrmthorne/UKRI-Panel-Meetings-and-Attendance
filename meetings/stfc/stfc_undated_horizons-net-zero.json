@@ -1,0 +1,76 @@
+{
+  "council": "STFC",
+  "year": null,
+  "count_of_applications": "11",
+  "count_of_awards": "10",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002345/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002272/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002418/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002329/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002310/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W00237X/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002442/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002434/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W00240X/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002361/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Horizons Net Zero",
+      "application_id": "ST/W002299/1",
+      "rank": "11"
+    }
+  ],
+  "meeting_name": "Horizons Net Zero",
+  "source": "Horizons-Net-Zero-funding-opportunity-2021/Ranking-list-for-Horizons-Net-Zero-Call.docx"
+}

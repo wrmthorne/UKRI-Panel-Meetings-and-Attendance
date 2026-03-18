@@ -1,0 +1,132 @@
+{
+  "council": "ESRC",
+  "year": "2018",
+  "count_of_applications": "20",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S008810/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S008624/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S008578/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S008853/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S009019/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009027/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009388/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009418/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009221/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009035/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009043/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00906X/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S008748/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S008543/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S008888/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S008950/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S00890X/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S008942/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009299/1"
+    },
+    {
+      "opportunity": "TNOC Grants Call",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S009183/1"
+    }
+  ],
+  "meeting_name": "TNOC Commissioning Panel",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2018-10",
+  "meeting_end": "2018-10"
+}

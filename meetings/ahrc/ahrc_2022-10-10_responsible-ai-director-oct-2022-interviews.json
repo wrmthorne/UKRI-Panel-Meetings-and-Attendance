@@ -1,0 +1,58 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-886406503",
+  "meeting_name": "Responsible AI Director Oct 2022 Interviews",
+  "applications": [
+    {
+      "application_id": "AH/X007146/1",
+      "route": "Standard",
+      "lead_applicant": "Shannon Vallor",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Enabling a Responsible AI Ecosystem",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X007138/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "2",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00712X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X007243/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Tony McEnery",
+      "organisation": "Lancaster University",
+      "role": "Chair"
+    }
+  ],
+  "meeting_start": "2022-10-10",
+  "meeting_end": "2022-10-10"
+}

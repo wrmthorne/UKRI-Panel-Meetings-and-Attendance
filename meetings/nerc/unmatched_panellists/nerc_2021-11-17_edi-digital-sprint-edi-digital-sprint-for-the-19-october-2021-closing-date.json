@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom",
+  "panel_secretary": "Kirsten Dutton",
+  "panellists": [
+    {
+      "name": "Katherine Royse",
+      "role": "Chair",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Louise Slater",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Chris Speed",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Clare Woulds",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    }
+  ],
+  "meeting_name": "EDI Digital Sprint EDI Digital Sprint for the 19 October 2021 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-EDIDigitalSprint-191021.pdf",
+  "meeting_start": "2021-11-17",
+  "meeting_end": "2021-11-17"
+}

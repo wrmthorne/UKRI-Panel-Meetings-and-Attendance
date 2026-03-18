@@ -1,0 +1,157 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "21",
+  "count_of_awards": "13",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009557/1",
+      "lead_applicant": "Jenny Slater",
+      "lead_organisation": "Sheffield Hallam University",
+      "title": "Arts, Architecture, Activism and Access: Taking Around the Toilet to New Spaces",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00962X/1",
+      "lead_applicant": "Tom Wakeford",
+      "lead_organisation": "Coventry University",
+      "title": "Yes to Youth: Impactful participation with young people from refugee and migrant backgrounds",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009654/1",
+      "lead_applicant": "Elizabeth Curtis",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Enacting the Past: Stories from the Colony to the Tatras",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009581/1",
+      "lead_applicant": "Deborah Maxwell",
+      "lead_organisation": "University of York",
+      "title": "Hacking the Bees",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00928X/1",
+      "lead_applicant": "Daniela Treveri Gennari",
+      "lead_organisation": "Oxford Brookes University",
+      "title": "Mapping cinema experience as living knowledge across Italy's generational divide (ICAMAP)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009573/1",
+      "lead_applicant": "Kate Pahl",
+      "lead_organisation": "University of Sheffield",
+      "title": "Taking Yourselves Seriously",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009662/1",
+      "lead_applicant": "Jane Plastow",
+      "lead_organisation": "University of Leeds",
+      "title": "Performing Living Knowledge: Developing a replicable model for arts-based empowerment of marginalised urban communities in Uganda and Malawi",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009689/1",
+      "lead_applicant": "Susanne Seymour",
+      "lead_organisation": "University of Nottingham",
+      "title": "Practising Reparative Histories in Rural Heritage Sites",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009514/1",
+      "lead_applicant": "Clare Rishbeth",
+      "lead_organisation": "University of Sheffield",
+      "title": "#Refugeeswelcome in Parks: Wellbeing and Inclusion in Public Open Space.",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009506/1",
+      "lead_applicant": "Nigel Bright",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Song Lines to Impact and Legacy: Creating Living Knowledge through Working with Social Haunting",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009611/1",
+      "lead_applicant": "Emma Roe",
+      "lead_organisation": "University of Southampton",
+      "title": "Man Food - Exploring men's opportunities for 'Becoming an ecological citizen' through protein-related food practices",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P00959X/1",
+      "lead_applicant": "Sara Penrhyn Jones",
+      "lead_organisation": "Bath Spa University",
+      "title": "Troubled Waters- Reaching Out",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009638/1",
+      "lead_applicant": "Fiona Anne Seaton Hackney",
+      "lead_organisation": "University of Wolverhampton",
+      "title": "Maker-centric: building place-based, co-making communities",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009603/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009646/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009492/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009565/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009484/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009670/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009425/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009522/1",
+      "score": "1"
+    }
+  ],
+  "meeting_name": "Follow-on Funding for Impact and Engagement: Connected Communities Highlight Notice, December 2016 meeting",
+  "source": "Follow-on Funding Connected Communities Highlight Notice, December 2016 meeting.xlsx",
+  "meeting_start": "2016-12",
+  "meeting_end": "2016-12"
+}

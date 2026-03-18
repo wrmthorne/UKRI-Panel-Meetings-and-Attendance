@@ -1,0 +1,42 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "5",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "Behavioural CDT Plus 2022",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y002148/1"
+    },
+    {
+      "opportunity": "Behavioural CDT Plus 2022",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y002180/1"
+    },
+    {
+      "opportunity": "Behavioural CDT Plus 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y00213X/1"
+    },
+    {
+      "opportunity": "Behavioural CDT Plus 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y002164/1"
+    },
+    {
+      "opportunity": "Behavioural CDT Plus 2022",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/Y002172/1"
+    }
+  ],
+  "meeting_name": "CDT Plus Behavioural Research Panel 2023",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-07",
+  "meeting_end": "2023-07"
+}

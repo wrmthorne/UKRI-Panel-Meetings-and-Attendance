@@ -1,0 +1,53 @@
+{
+  "council": "NERC",
+  "count_of_applications": "3",
+  "count_of_awards": "1",
+  "year": "2018",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/S017321/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/S016910/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "5",
+      "application_id": "NE/S017275/1",
+      "rank": "3"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Jim Hall",
+      "role": "Chair",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Lindsay Beevers",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Albert Klein Tank",
+      "role": "Member",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Liz Bergère",
+      "role": "Member",
+      "organisation": "DEFRA"
+    }
+  ],
+  "meeting_name": "UK Climate Resilience Champion",
+  "source": "UK Climate Resilience Champion - December 2018.pdf",
+  "membership_source_files": "NERC-funding-assessment-panel-members-2018/UK Climate Resilience Champ Meeting Panel for Web publishing.pdf",
+  "meeting_start": "2019-01-14",
+  "meeting_end": "2019-01-14"
+}

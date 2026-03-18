@@ -1,0 +1,149 @@
+{
+  "council": "ESRC",
+  "year": "2025",
+  "count_of_applications": "15",
+  "count_of_awards": "15",
+  "panellists": [
+    {
+      "name": "Marzena Bien",
+      "organisation": "ESRC",
+      "role": "Covenor"
+    },
+    {
+      "name": "Katherine Homewood",
+      "organisation": "University College London",
+      "role": "Chair"
+    },
+    {
+      "name": "Andreza de Souza Santos",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Felipe Krause Dornelles",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Fernanda Mello",
+      "organisation": "São Paulo State University",
+      "role": "Member"
+    },
+    {
+      "name": "Flavia Mori Sarti",
+      "organisation": "São Paulo Research Foundation",
+      "role": "Member"
+    },
+    {
+      "name": "Laura Rival",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Pia Riggirozzi",
+      "organisation": "University of Southampton",
+      "role": "Member"
+    },
+    {
+      "name": "Rhys Jenkins",
+      "organisation": "University of East Anglia",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/Z504658/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504531/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504592/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504609/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504543/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504579/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50466X/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504555/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504646/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504622/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504610/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z50452X/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504580/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504683/1"
+    },
+    {
+      "opportunity": "ESRC UK-Brazil global talent exchange scheme (pilot), Round 1",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/Z504567/1"
+    }
+  ],
+  "meeting_name": "ESRC UK-Brazil global talent exchange scheme (pilot)",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2025-03",
+  "meeting_end": "2025-03"
+}

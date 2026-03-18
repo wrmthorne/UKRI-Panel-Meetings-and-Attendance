@@ -1,0 +1,98 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-680545851",
+  "meeting_name": "(L2) NEH AHRC New Directions for Digital Scholarship September 2021",
+  "applications": [
+    {
+      "application_id": "AH/W005514/1",
+      "route": "Standard",
+      "lead_applicant": "Nicholas Radburn",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Lancaster University",
+      "title": "Towards a Digital Archive of the Atlantic Slave Trades: Unlocking the Records of the South Sea Company",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005530/1",
+      "route": "Standard",
+      "lead_applicant": "Mariza Maria Dima",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Brunel University London",
+      "title": "Designing Mixed Reality Heritage Performances to Support Decolonisation of Heritage Sites",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005417/1",
+      "route": "Standard",
+      "lead_applicant": "Julia Thomas",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Cardiff University",
+      "title": "Finding a place: advancing digital methods to unlock the use of digitized book illustrations in cultural institutions",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005611/1",
+      "route": "Standard",
+      "lead_applicant": "Maria Cristina Martinez-Juan",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "SOAS University of London",
+      "title": "A Digital Repatriation of a Lost archive of the Spanish Pacific: The Library of The Convent of San Pablo (Manila, 1762)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W005638/1",
+      "route": "Standard",
+      "lead_applicant": "Neil Stephen Jefferies",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Oxford",
+      "title": "Unlocking Digital Texts: Towards an Interoperable Text Framework",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00559X/1",
+      "route": "Standard",
+      "lead_applicant": "Clare Llewellyn",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Enriching Exhibition Scholarship: Reconciling Knowledge Graphs and Social Media from Newspaper Articles to Twitter",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Leif Isaksen",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Chante St Clair Inglis",
+      "organisation": "The Royal College of Surgeons of Edin",
+      "role": "Member"
+    },
+    {
+      "name": "Gregory Toner",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    },
+    {
+      "name": "Lorna Hughes",
+      "organisation": "University of Glasgow",
+      "role": "Member"
+    },
+    {
+      "name": "Luciana Martins",
+      "organisation": "Birkbeck College",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-09-13",
+  "meeting_end": "2021-09-13"
+}

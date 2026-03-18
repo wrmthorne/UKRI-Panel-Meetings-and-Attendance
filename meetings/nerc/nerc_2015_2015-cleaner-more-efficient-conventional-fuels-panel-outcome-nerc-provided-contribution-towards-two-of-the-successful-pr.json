@@ -1,0 +1,20 @@
+{
+  "council": "NERC",
+  "count_of_applications": "2",
+  "count_of_awards": "2",
+  "year": "2015",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N012127/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/N012097/1"
+    }
+  ],
+  "meeting_name": "2015 Cleaner, more efficient conventional fuels Panel outcome NERC provided contribution towards two of the successful projects funded under the Innovate UK-led competition ‘Cleaner, more efficient conventional",
+  "source": "2015-cleaner-conventional-fuels-outcome-panel.pdf",
+  "meeting_start": "2015",
+  "meeting_end": "2015"
+}

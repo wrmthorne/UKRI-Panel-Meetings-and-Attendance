@@ -1,0 +1,83 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-585675512",
+  "meeting_name": "Follow on Fund - September 2020",
+  "applications": [
+    {
+      "application_id": "AH/V008056/1",
+      "route": "Standard",
+      "lead_applicant": "David Parsons",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Wales Trinity Saint David",
+      "title": "Visualizing the Saints of Wales",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00493X/1",
+      "route": "Standard",
+      "lead_applicant": "Jane Elizabeth Hamlett",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Pet Histories and Wellbeing",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001795/1",
+      "route": "Standard",
+      "lead_applicant": "Alastair Macdonald",
+      "score": "4",
+      "rank": "3",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "VIPVis: Veterinary Infection Prevention through Visualisation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V00624X/1",
+      "route": "Standard",
+      "lead_applicant": "Stefano Evangelista",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "University of Oxford",
+      "title": "'I am a Camera: The Berlin Myth through the Eyes of English Writers'",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006681/1",
+      "route": "Standard",
+      "lead_applicant": "Nicola Frith",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Rethinking Reparations for African Enslavement as Cultural, Spiritual and Environmental Repair",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006932/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Fabrizio James Nevola",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Simon Mark Bolton",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-09-14",
+  "meeting_end": "2020-09-14"
+}

@@ -1,0 +1,101 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Edoardo Fiordalisi",
+  "panellists": [
+    {
+      "name": "Daren Gooddy",
+      "role": "Chair",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Martin Evans The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Celine Guervilly",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Kevin Miles Hiscock",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Hannah Hughes",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Ekbal Hussain",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Ola Kwiecien",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Timothy Minshull",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Iain Neill",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Greig Paterson",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Sandhya Patidar",
+      "role": "Member",
+      "organisation": "Heriot-Watt University"
+    },
+    {
+      "name": "Gareth Garmon Roberts",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Hugh Sinclair",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Finlay Stuart",
+      "role": "Member",
+      "organisation": "Scottish Universities Environmental Research Centre"
+    },
+    {
+      "name": "Alexandra Turchyn",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Clare Warren The",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Rebecca Williams",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Clare Wilson",
+      "role": "Member",
+      "organisation": "University of Stirling"
+    }
+  ],
+  "meeting_name": "Pushing the Frontiers JAN23 (Stage 2)",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-150823-Pushing-the-Frontiers-Assessment-Panels-closing-date-17-January-2023-Stage-2.pdf",
+  "meeting_start": "2023-06-20",
+  "meeting_end": "2023-06-21"
+}

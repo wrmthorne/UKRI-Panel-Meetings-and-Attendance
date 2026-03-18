@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "Video conference",
+  "panel_secretary": "Boudewijn Dominicus",
+  "panellists": [
+    {
+      "name": "Ian Hall",
+      "role": "Chair",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Arman Hashemi",
+      "role": "Member",
+      "organisation": "University of East London"
+    },
+    {
+      "name": "Louise Fletcher",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Runming Yao",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Jennifer Gabrys",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Rebecca McDonald",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Dimitrinka Atanasova",
+      "role": "Member",
+      "organisation": "University of Lancaster"
+    },
+    {
+      "name": "Stephen Gordon Liverpool School",
+      "role": "Member",
+      "organisation": "of Tropical Medicine"
+    },
+    {
+      "name": "Johan Øvrevik",
+      "role": "Member",
+      "organisation": "Norwegian Institute of Public Health"
+    },
+    {
+      "name": "Pawel Wargocki Technical",
+      "role": "Member",
+      "organisation": "University of Denmark"
+    },
+    {
+      "name": "Harald Berresheim",
+      "role": "Member",
+      "organisation": "NUI Galway"
+    },
+    {
+      "name": "John Wenger",
+      "role": "Member",
+      "organisation": "University College Cork"
+    },
+    {
+      "name": "Leonor Tarrason",
+      "role": "Member",
+      "organisation": "Norwegian Institute for Air Res. (NILU)"
+    },
+    {
+      "name": "Dimitrios Kotzias",
+      "role": "Member",
+      "organisation": "University of Bonn"
+    }
+  ],
+  "meeting_name": "Clean Air Outline OCT20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-CleanAir-Wave2-ConsortiaOutline-151020.pdf",
+  "meeting_start": "2020-11-24",
+  "meeting_end": "2020-11-25"
+}

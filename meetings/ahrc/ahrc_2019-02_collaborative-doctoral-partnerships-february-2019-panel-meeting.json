@@ -1,0 +1,126 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "17",
+  "count_of_awards": "14",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007237/1",
+      "lead_organisation": "The National Archives",
+      "title": "The National Archives",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007350/1",
+      "lead_organisation": "Tate",
+      "title": "Tate Phase Three Collaborative Doctoral Partnerships proposal",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S009426/1",
+      "lead_organisation": "Imperial War Museum",
+      "title": "IWM Collaborative Doctoral Partnerships 3",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010394/1",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Collaborative Doctoral Partnerships with the V&A",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007261/1",
+      "lead_organisation": "The British Museum",
+      "title": "Collaborative Doctoral Partnership Students Round 3",
+      "score": "5.9"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007164/1",
+      "lead_organisation": "Science Museum Group",
+      "title": "Science Museums and Archives Consortium",
+      "score": "5.8"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010378/1",
+      "lead_organisation": "National Maritime Museum",
+      "title": "REACH Consortium (Revisiting and Enhancing Approaches to Collections and Heritage) - Application for Collaborative Doctoral Partnership",
+      "score": "5.7"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S006966/1",
+      "lead_organisation": "Historic Environment Scotland",
+      "title": "Scottish Cultural Heritage Consortium CDP3",
+      "score": "5.6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007067/1",
+      "lead_organisation": "British Library",
+      "title": "The British Library: Supporting the Next Generation of Research Talent",
+      "score": "5.5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S008675/1",
+      "lead_organisation": "Historic buildings and Monuments Commission for England",
+      "title": "Historic Buildings and Monuments Commission for England Collaborative Doctoral Partnership",
+      "score": "5.4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S00730X/1",
+      "lead_organisation": "University of Oxford",
+      "title": "Oxford University GLAM (Gardens, Libraries and Museums) Collaborative Doctoral Partnership",
+      "score": "5.3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S010343/1",
+      "lead_organisation": "The National Gallery",
+      "title": "National Gallery_Bowes Museum_York Museums Trust: Collaborative Doctoral Partnership Consortium",
+      "score": "5.2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007377/1",
+      "lead_organisation": "Museum of London Archaeology",
+      "title": "MOLA Collaborative Doctoral Partnership",
+      "score": "5.1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S009256/1",
+      "lead_organisation": "National Museum Wales",
+      "title": "Amgueddfa Cymru-National Museum Wales Collaborative Doctoral Partnership",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007288/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S008888/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S007334/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Collaborative Doctoral Partnerships, February 2019 panel meeting",
+  "source": "Collaborative Doctoral Partnerships, February 2019 meeting.xlsx",
+  "meeting_start": "2019-02",
+  "meeting_end": "2019-02"
+}

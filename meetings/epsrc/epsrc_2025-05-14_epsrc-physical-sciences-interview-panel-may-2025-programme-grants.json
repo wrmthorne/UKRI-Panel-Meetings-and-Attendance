@@ -1,0 +1,141 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1200",
+  "meeting_name": "EPSRC Physical Sciences Interview Panel - May 2025 - Programme Grants",
+  "meeting_convenor": "U Sharma",
+  "applications": [
+    {
+      "application_id": "APP58672",
+      "title": "Quantum Many-Body Physics with Ultracold Polar Molecules",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "9987529.52",
+      "award_id": "UKRI2226",
+      "opportunity_number": "781",
+      "lead_applicant": "S Cornish",
+      "link": "https://gtr.ukri.org/projects?ref=2226",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58884",
+      "title": "Molecular Solid Solutions (MoSS): From Concept to Applications",
+      "lead_organisation": "Durham University",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "7219610.52",
+      "award_id": "UKRI2227",
+      "opportunity_number": "781",
+      "lead_applicant": "A Cruz-Cabeza",
+      "link": "https://gtr.ukri.org/projects?ref=2227",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58650",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "781",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58690",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "781",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58928",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "781",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP58950",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "781",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    },
+    {
+      "application_id": "APP59827",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "781",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grant (Physical Sciences) full application winter 2024"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "P Vadgama",
+      "role": "Chair",
+      "organisation": "Queen Mary University of London"
+    },
+    {
+      "name": "H Cooper",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "A Orr-Ewing",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "M Paternostro",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "s rimmer",
+      "role": "Panellist",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "L Siller",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-05-14",
+  "meeting_end": "2025-05-14"
+}

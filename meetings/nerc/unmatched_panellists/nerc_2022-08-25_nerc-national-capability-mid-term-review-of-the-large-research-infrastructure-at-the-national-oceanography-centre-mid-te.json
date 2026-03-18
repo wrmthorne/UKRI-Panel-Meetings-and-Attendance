@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Allison Bryan Panel member Research Organisation CHAIR: Tim Jickells University of East Anglia",
+  "panellists": [
+    {
+      "name": "Tim Jickells",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Heather Bouman",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Erica Koning Royal Netherlands",
+      "role": "Member",
+      "organisation": "Institute for Sea"
+    },
+    {
+      "name": "Uwe Nixdorf Alfred Wegener",
+      "role": "Member",
+      "organisation": "Institute, Helmholtz"
+    },
+    {
+      "name": "Andy Rees",
+      "role": "Member",
+      "organisation": "Plymouth Marine Laboratory"
+    },
+    {
+      "name": "George Wolff",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    }
+  ],
+  "meeting_name": "NERC National Capability Mid-Term Review of the Large Research Infrastructure at the National Oceanography Centre Mid Term Review Panel",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-211022-NOCMid-TermReviewPanelMembership.pdf",
+  "meeting_start": "2022-08-25",
+  "meeting_end": "2022-08-25"
+}

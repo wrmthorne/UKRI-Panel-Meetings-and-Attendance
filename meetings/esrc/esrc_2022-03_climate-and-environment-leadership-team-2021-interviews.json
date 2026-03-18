@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "Environment Leadership 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W00805X/1"
+    },
+    {
+      "opportunity": "Environment Leadership 2021",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W008033/1"
+    }
+  ],
+  "meeting_name": "Climate And Environment Leadership Team 2021 - Interviews",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-03",
+  "meeting_end": "2022-03"
+}

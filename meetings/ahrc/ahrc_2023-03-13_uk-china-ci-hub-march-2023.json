@@ -1,0 +1,98 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2023,
+  "meeting_reference": "1-935837905",
+  "meeting_name": "UK China CI Hub March 2023",
+  "applications": [
+    {
+      "application_id": "AH/Y000722/1",
+      "route": "Standard",
+      "lead_applicant": "Hua Dong",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "Brunel University London",
+      "title": "SEED Fellowship",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/Y000749/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000706/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000870/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000757/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "5",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/Y000781/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Naren Barfield",
+      "organisation": "Royal College of Art",
+      "role": "Chair"
+    },
+    {
+      "name": "Chris Berry",
+      "organisation": "King's College London",
+      "role": "Member"
+    },
+    {
+      "name": "Martyn Evans",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Natascha Natascha Radclyffe-Thomas",
+      "organisation": "Institute of Development Studies",
+      "role": "Member"
+    },
+    {
+      "name": "Robin James Stuart Sloan",
+      "organisation": "Abertay University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2023-03-13",
+  "meeting_end": "2023-03-13"
+}

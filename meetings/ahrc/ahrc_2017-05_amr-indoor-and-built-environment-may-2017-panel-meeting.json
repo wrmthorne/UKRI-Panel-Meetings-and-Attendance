@@ -1,0 +1,141 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "19",
+  "count_of_awards": "19",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001952/1",
+      "lead_applicant": "Alan Short",
+      "lead_organisation": "University of Cambridge",
+      "title": "Excising Infection in the Surgical Environment [ExISE]",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R00207X/1",
+      "lead_applicant": "Tim Sharpe",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "Influence of ventilation design on the prevalence of anti-microbial bacteria in homes",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002029/1",
+      "lead_applicant": "Catherine Stones",
+      "lead_organisation": "University of Leeds",
+      "title": "'Lifting the Lid on Bacteria': Designing ambient communications to improve hygiene in primary school toilets",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001863/1",
+      "lead_applicant": "Kerstin Sailer",
+      "lead_organisation": "University College London",
+      "title": "Paths of resistant pathogens in hospitals: architecture, design interventions, transmission risks",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002177/1",
+      "lead_applicant": "Emmanuel Tsekleves",
+      "lead_organisation": "Lancaster University",
+      "title": "Understanding the home as a source of infection of AMR bacteria carried by dust by exploring hygiene practices in different home environments in Ghana",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001987/1",
+      "lead_applicant": "Richard Beckett",
+      "lead_organisation": "University College London",
+      "title": "\"Niches for Organic Territories in Bio-Augmented Design\" - NOTBAD",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002126/1",
+      "lead_applicant": "Colin Macduff",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "Re-envisaging Infection Practice Ecologies in Nursing (RIPEN) through Arts and Humanities Approaches",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002118/1",
+      "lead_applicant": "Emma Pitchforth",
+      "lead_organisation": "RAND Europe Community Interest Company",
+      "title": "AMR policy development: looking forward through history",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002037/1",
+      "lead_applicant": "Nik Brown",
+      "lead_organisation": "University of York",
+      "title": "Pathways, Practices and Architectures: Containing Antimicrobial Resistance in the Cystic Fibrosis Clinic (PARC)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002053/1",
+      "lead_applicant": "Sue Walker",
+      "lead_organisation": "University of Reading",
+      "title": "Information Design and Architecture in Persuasive Pharmacy Space: combating Anti-Microbial Resistance (IDAPPS)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002088/1",
+      "lead_applicant": "Alastair Macdonald",
+      "lead_organisation": "Glasgow School of Art",
+      "title": "AMRSim: A Microbial Reality Simulator",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R001979/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002045/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002061/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002142/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002169/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002207/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002215/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R002223/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "AMR Indoor and Built Environment May 2017 panel meeting",
+  "source": "AMR Indoor and Built Environment, May 2017 meeting.xlsx",
+  "meeting_start": "2017-05",
+  "meeting_end": "2017-05"
+}

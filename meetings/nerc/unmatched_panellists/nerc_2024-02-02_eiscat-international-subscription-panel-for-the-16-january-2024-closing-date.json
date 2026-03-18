@@ -1,0 +1,40 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote/Virtual",
+  "panel_secretary": "Chris Armsby",
+  "panellists": [
+    {
+      "name": "Anasuya Aruliah",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Betty Lanchester",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Head of National Lisa BettingtonNERC",
+      "role": "Chair"
+    },
+    {
+      "name": "Capability Research",
+      "role": "Member",
+      "organisation": "Facilities"
+    },
+    {
+      "name": "Jacqueline Wood",
+      "role": "Member",
+      "organisation": "NERC, Head of Business"
+    },
+    {
+      "name": "Matthew Dobson",
+      "role": "Member",
+      "organisation": "NERC, Senior Programme"
+    }
+  ],
+  "meeting_name": "EISCAT International Subscription Panel for the 16 January 2024 closing date",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-160224-EISCATInternationalSubscriptionPanelJanuary2024.pdf",
+  "meeting_start": "2024-02-02",
+  "meeting_end": "2024-02-02"
+}

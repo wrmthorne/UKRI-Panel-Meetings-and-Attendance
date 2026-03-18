@@ -1,0 +1,116 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "17",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M009645/1",
+      "lead_applicant": "Mariangela Palladino",
+      "lead_organisation": "Keele University",
+      "title": "Responding to Crisis: Forced Migration and the Humanities in the Twenty-First Century",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M011348/1",
+      "lead_applicant": "Ruth Ann Mcelroy",
+      "lead_organisation": "University of South Wales",
+      "title": "Television from small nations: building a network for cultural and commercial success",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008096/1",
+      "lead_applicant": "Yvette Hutchison",
+      "lead_organisation": "University of Warwick",
+      "title": "Networking Women's theatre in Africa",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M010600/1",
+      "lead_applicant": "Steve Presence",
+      "lead_organisation": "University of the West of England",
+      "title": "Radical Film Network: Sustaining Alternative Film Cultures",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M01097X/1",
+      "lead_applicant": "James Richard Daybell",
+      "lead_organisation": "University of Plymouth",
+      "title": "Gender, Politics and Materiality in Early Modern Europe, 1500-1800",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M011143/1",
+      "lead_applicant": "Rex Ferguson",
+      "lead_organisation": "University of Birmingham",
+      "title": "The Art of Identification",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009459/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011453/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011534/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011402/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009505/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N000013/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011070/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M01147X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008258/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M009661/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M011208/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, February 2015",
+  "source": "Research Networking, February 2015 Meeting.xlsx",
+  "meeting_start": "2015-02",
+  "meeting_end": "2015-02"
+}

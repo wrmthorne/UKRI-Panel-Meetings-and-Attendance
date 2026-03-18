@@ -1,0 +1,209 @@
+{
+  "council": "AHRC",
+  "count_of_applications": "35",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003612/1",
+      "lead_applicant": "Paul Heritage",
+      "lead_organisation": "QMUL",
+      "title": "The Art of Cultural Exchange: Translation and Transformation between the UK and Brazil 2014-16",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003566/1",
+      "lead_applicant": "Rosaleen Howard",
+      "lead_organisation": "Newcastle University",
+      "title": "Translating cultures and the legislated mediation of indigenous rights in Peru",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003809/1",
+      "lead_applicant": "Alice Deignan",
+      "lead_organisation": "University of Leeds",
+      "title": "Translating science for young people",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003825/1",
+      "lead_applicant": "Rajendra Chitnis",
+      "lead_organisation": "University of Bristol",
+      "title": "Translating the Literatures of Small European Nations",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003760/1",
+      "lead_applicant": "Margaret Topping",
+      "lead_organisation": "QUB",
+      "title": "From Dark Tourism to Phoenix Tourism: The Ethics of Cultural Translation in Urban Festivals",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003744/1",
+      "lead_applicant": "Sarah Crafter",
+      "lead_organisation": "Institute of Education",
+      "title": "Child language brokering: Spaces of belonging and mediators of cultural knowledge",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003957/1",
+      "lead_applicant": "Hephzibah Israel",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Conversion, Translation and the Language of Autobiography: Re-inventing the Self in Transitions to Christianity in India (1700-1947)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003426/1",
+      "lead_applicant": "Jemina Napier",
+      "lead_organisation": "Heriot-Watt University",
+      "title": "Translating the Deaf Self",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003884/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003639/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003922/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003949/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003698/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003477/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003795/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00371X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003663/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003817/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003868/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003736/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003604/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003930/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003493/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003752/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003523/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003531/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003582/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003353/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003876/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003728/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M002799/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003361/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003906/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003558/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M003841/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Translating Cultures Research Innovation Grants",
+  "source": "Translating Cultures Research Innovation Grants.xlsx"
+}

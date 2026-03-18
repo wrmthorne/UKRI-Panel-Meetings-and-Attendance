@@ -1,0 +1,143 @@
+{
+  "council": "NERC",
+  "count_of_applications": "24",
+  "count_of_awards": "10",
+  "year": "2014",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/M006824/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007197/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007235/1",
+      "rank": "5"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007200/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M006972/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007138/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007251/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007324/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007146/1",
+      "rank": "4"
+    },
+    {
+      "score": "7",
+      "outcome": "Successful",
+      "application_id": "NE/M007286/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "64",
+      "application_id": "NE/M007243/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "12",
+      "application_id": "NE/M007278/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "13",
+      "application_id": "NE/M007316/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "14",
+      "application_id": "NE/M007170/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "15",
+      "application_id": "NE/M007227/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "16",
+      "application_id": "NE/M007308/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "17",
+      "application_id": "NE/M00726X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "18",
+      "application_id": "NE/M007294/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "19",
+      "application_id": "NE/M007332/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "20",
+      "application_id": "NE/M00712X/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "21",
+      "application_id": "NE/M007189/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "22",
+      "application_id": "NE/M007162/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "23",
+      "application_id": "NE/M007219/1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "24",
+      "application_id": "NE/M007340/1"
+    }
+  ],
+  "meeting_name": "Oil and Gas Innovation call June 2014",
+  "source": "oil-gas-outcomes.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

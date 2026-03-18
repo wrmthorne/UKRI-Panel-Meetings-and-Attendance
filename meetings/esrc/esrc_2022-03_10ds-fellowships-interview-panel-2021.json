@@ -1,0 +1,60 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "8",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W003937/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/W004305/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W004275/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W003953/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W004003/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W004038/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W004321/1"
+    },
+    {
+      "opportunity": "10DS Fellowships 2021",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/W004186/1"
+    }
+  ],
+  "meeting_name": "10DS Fellowships Interview Panel 2021",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-03",
+  "meeting_end": "2022-03"
+}

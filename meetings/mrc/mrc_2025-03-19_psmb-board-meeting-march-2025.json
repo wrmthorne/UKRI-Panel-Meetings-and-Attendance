@@ -1,0 +1,475 @@
+{
+  "council": "MRC",
+  "applications": [
+    {
+      "title": "DeCyFir: Determining functional DNA cytosine modification in idiopathic pulmonary fibrosis pathology",
+      "lead_applicant": "Rachel Clifford",
+      "lead_organisation": "University of Nottingham",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1482",
+      "link": "https://gtr.ukri.org/projects?ref=1482",
+      "application_id": "APP40140"
+    },
+    {
+      "title": "Personalised medicine in pulmonary fibrosis",
+      "lead_applicant": "Richard Allen",
+      "lead_organisation": "University of Leicester",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI1481",
+      "link": "https://gtr.ukri.org/projects?ref=1481",
+      "application_id": "APP49053"
+    },
+    {
+      "title": "Premature senescence of the alveolar epithelium as a new pathophysiological mechanism in acute respiratory distress syndrome",
+      "lead_applicant": "Anna Krasnodembskaya",
+      "lead_organisation": "Queen's University Belfast",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1467",
+      "link": "https://gtr.ukri.org/projects?ref=1467",
+      "application_id": "APP47598"
+    },
+    {
+      "title": "A dual origin for pituitary gonadotrophs and its relevance for reproductive function",
+      "lead_applicant": "Karine Rizzoti",
+      "lead_organisation": "Queen Mary University of London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1468",
+      "link": "https://gtr.ukri.org/projects?ref=1468",
+      "application_id": "APP48261"
+    },
+    {
+      "title": "Mechanisms for population strategies to prevent diet- and activity-related chronic disease",
+      "lead_applicant": "David Ogilvie",
+      "lead_organisation": "University of Cambridge",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1478",
+      "link": "https://gtr.ukri.org/projects?ref=1478",
+      "application_id": "APP49811"
+    },
+    {
+      "title": "Exploring the transgenerational impacts of maternal surgical and pharmacological obesity management",
+      "lead_applicant": "Jia Li",
+      "lead_organisation": "Imperial College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1484",
+      "link": "https://gtr.ukri.org/projects?ref=1484",
+      "application_id": "APP49965"
+    },
+    {
+      "title": "Repurposing existing Sphingosine-1-phosphate receptor modulators to reduce risk of primary graft dysfunction (PGD) after lung transplantation",
+      "lead_applicant": "Simi Ali",
+      "lead_organisation": "Newcastle University",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1479",
+      "link": "https://gtr.ukri.org/projects?ref=1479",
+      "application_id": "APP52043"
+    },
+    {
+      "title": "OpenEP|NET",
+      "lead_applicant": "Steven Williams",
+      "lead_organisation": "University of Edinburgh",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI1480",
+      "link": "https://gtr.ukri.org/projects?ref=1480",
+      "application_id": "APP53906"
+    },
+    {
+      "title": "The Million Women Study",
+      "lead_applicant": "Gill Reeves",
+      "lead_organisation": "University of Oxford",
+      "score": "10",
+      "outcome": "Successful",
+      "award_id": "UKRI1464",
+      "link": "https://gtr.ukri.org/projects?ref=1464",
+      "application_id": "APP48180"
+    },
+    {
+      "title": "Examining the effect of vaping and smoking cessation on Lung Health",
+      "lead_applicant": "Aaron Scott",
+      "lead_organisation": "University of Birmingham",
+      "score": "10",
+      "outcome": "Successful",
+      "award_id": "UKRI1465",
+      "link": "https://gtr.ukri.org/projects?ref=1465",
+      "application_id": "APP50170"
+    },
+    {
+      "title": "The role of synovial tissue macrophage VSIG4 in regulating joint immune-homeostasis",
+      "lead_applicant": "Mariola Kurowska-Stolarska",
+      "lead_organisation": "University of Glasgow",
+      "score": "10",
+      "outcome": "Successful",
+      "award_id": "UKRI1466",
+      "link": "https://gtr.ukri.org/projects?ref=1466",
+      "application_id": "APP54942"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP47898"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP49320"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP51689"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP54477"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP47759"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP49797"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP50426"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP50539"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP50941"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP50959"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP51038"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP53658"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP54718"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP55240"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP40651"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP47953"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP48827"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP48894"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP49702"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP53464"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP53894"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP54945"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Louise Kenny",
+      "organisation": "University of Liverpool",
+      "role": "Chair"
+    },
+    {
+      "name": "Louise Wain",
+      "organisation": "University of Leicester",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "Andres Floto",
+      "organisation": "University of Cambridge",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Anne McArdle",
+      "organisation": "University of Liverpool",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Arthur Kaser",
+      "organisation": "University of Cambridge",
+      "role": "Panel Member"
+    },
+    {
+      "name": "David Grieve",
+      "organisation": "Queen's University Belfast",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Derek Mann",
+      "organisation": "Newcastle University",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Ellie Tzima",
+      "organisation": "University of Oxford",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Francesco D'Aiuto",
+      "organisation": "University College London",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Gemma Satterthwaite",
+      "organisation": "AstraZeneca (UK)",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Jonathan Grigg",
+      "organisation": "Queen Mary University of London",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Julie Lovegrove",
+      "organisation": "University of Reading",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Kerrin Small",
+      "organisation": "King's College London",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Lorraine Harper",
+      "organisation": "University of Birmingham",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Maciej Tomaszewski",
+      "organisation": "University of Manchester",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Mirela Delibegovic",
+      "organisation": "University of Aberdeen",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Phillip Atherton",
+      "organisation": "University of Nottingham",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Rosalind John",
+      "organisation": "Cardiff University",
+      "role": "Panel Member"
+    },
+    {
+      "name": "S Vittal Katikireddi",
+      "organisation": "University of Glasgow",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Sinead Brophy",
+      "organisation": "Swansea University",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Siobhan Quenby",
+      "organisation": "University of Warwick",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Tom Gaunt",
+      "organisation": "University of Bristol",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Waljit Dhillo",
+      "organisation": "Imperial College London",
+      "role": "Panel Member"
+    },
+    {
+      "name": "William Dixon",
+      "organisation": "University of Manchester",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Gemma Sharp",
+      "organisation": "University of Exeter",
+      "role": "Associate"
+    },
+    {
+      "name": "Mun-Kit Choi",
+      "organisation": "Manchester Metropolitan University",
+      "role": "Associate"
+    }
+  ],
+  "count_of_applications": "33",
+  "count_of_awards": "11",
+  "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
+  "meeting_name": "PSMB Board Meeting March 2025",
+  "meeting_reference": "PAN1066",
+  "meeting_start": "2025-03-19",
+  "meeting_end": "2025-03-19",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 50 out of 81 applications were unsuccessful at shortlisting and are not displayed here.\n\n* APP40401 was scored 8 at the previous meeting and the funding outcome was determined at this meeting as UKRI1482."
+}

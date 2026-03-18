@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-508505192",
+  "meeting_name": "Follow on Fund - January 2020",
+  "applications": [
+    {
+      "application_id": "AH/T012765/1",
+      "route": "Standard",
+      "lead_applicant": "James Thompson",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "The University of Manchester",
+      "title": "100 Agents of Change",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006463/1",
+      "route": "Standard",
+      "lead_applicant": "Lucy Amelia Bell",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Surrey",
+      "title": "Prisoner Publishing: Supporting Rehabilitation and Reform through Innovative Writing Programmes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008938/1",
+      "route": "Standard",
+      "lead_applicant": "Kaitlynn Mendes",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Leicester",
+      "title": "Digital Defence & Activism Lessons: Equipping young people to navigate contemporary digital cultures in and around school",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T012579/1",
+      "route": "Standard",
+      "lead_applicant": "Maiken Umbach",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Nottingham",
+      "title": "Understanding and Improving Public Engagement with Holocaust Photography",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T006625/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008237/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Alannah Tomkins",
+      "organisation": "Keele University",
+      "role": "Chair"
+    },
+    {
+      "name": "David Alexander Peggie",
+      "organisation": "The National Gallery",
+      "role": "Member"
+    },
+    {
+      "name": "Veronika Kapsali",
+      "organisation": "University of the Arts London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-01-20",
+  "meeting_end": "2020-01-20"
+}

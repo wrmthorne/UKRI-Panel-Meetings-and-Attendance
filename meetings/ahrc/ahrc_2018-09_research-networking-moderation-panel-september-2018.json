@@ -1,0 +1,108 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "16",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S003495/1",
+      "lead_applicant": "Emma Meehan",
+      "lead_organisation": "Coventry University",
+      "title": "Somatic practice, chronic pain and self-care technology: inhabiting the lived and contextual body",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S004793/1",
+      "lead_applicant": "Paul Coldwell",
+      "lead_organisation": "University of the Arts London",
+      "title": "Picturing the Invisible",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S005102/1",
+      "lead_applicant": "Esther Leslie",
+      "lead_organisation": "Birkbeck College",
+      "title": "Animate Assembly: Animation and New Life",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S003231/1",
+      "lead_applicant": "Mick Finch",
+      "lead_organisation": "University of the Arts London",
+      "title": "A Vision for Europe: Academic Responsibility and Action in Times of Crises",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S004939/1",
+      "lead_applicant": "Paul Beaumont",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Where do we go from here? The development of private international law in the UK and the post Brexit environment.",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003177/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005536/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005277/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003339/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005552/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S003002/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004173/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00419X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004238/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S004955/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00548X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, September 2018",
+  "source": "Research Networking, September 2018 Moderation.xlsx",
+  "meeting_start": "2018-09",
+  "meeting_end": "2018-09"
+}

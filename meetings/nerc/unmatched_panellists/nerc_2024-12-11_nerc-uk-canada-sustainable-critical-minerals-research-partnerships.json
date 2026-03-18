@@ -1,0 +1,86 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Catriona Till & Poppy Simon",
+  "panellists": [
+    {
+      "name": "Colin Macpherson",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Andrew Abbott",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Frank Boons",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Gavin Harper",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Iain Mcdonald",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "James Brenan Dalhousie",
+      "role": "Member",
+      "organisation": "University, Canada"
+    },
+    {
+      "name": "John Hanchar Memorial",
+      "role": "Member",
+      "organisation": "University of Newfoundland, Canada"
+    },
+    {
+      "name": "John Thompson",
+      "role": "Member",
+      "organisation": "Independent Consultant"
+    },
+    {
+      "name": "Mark Tibbett",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Martin Smith",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Rachael James",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Rich Crane",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Richard Herrington",
+      "role": "Member",
+      "organisation": "Natural History Museum"
+    },
+    {
+      "name": "Virginia Echavarri-Bravo",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Yousef Ghorbani",
+      "role": "Member",
+      "organisation": "University of Lincoln"
+    }
+  ],
+  "meeting_name": "NERC UK-Canada Sustainable Critical Minerals Research Partnerships",
+  "source": "NERC-funding-assessment-panel-members-2024/NERC-020125-UKCanadaSustainableCriticalMineralsResearchPartnershipsAssessmentPanel-October2024.pdf",
+  "meeting_start": "2024-12-11",
+  "meeting_end": "2024-12-12"
+}

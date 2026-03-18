@@ -1,0 +1,193 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-412527821",
+  "meeting_name": "Research Networking January 2019",
+  "applications": [
+    {
+      "application_id": "AH/S007520/1",
+      "route": "Standard",
+      "lead_applicant": "Marco Bohr",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Loughborough University",
+      "title": "VASDiV: Visual Activism and Sexual Diversity in Vietnam",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007059/1",
+      "route": "Standard",
+      "lead_applicant": "Mary Harrod",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Warwick",
+      "title": "Producing the Post-National Popular: The Expanding Imagination of Popular French Films and Television Series",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011013/1",
+      "route": "Standard",
+      "lead_applicant": "Kimberley Lauren Brownlee",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Warwick",
+      "title": "Social Human Rights",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S010289/1",
+      "route": "Standard",
+      "lead_applicant": "Charlotte Elizabeth Wildman",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "The University of Manchester",
+      "title": "Challenging Domesticity in Britain, 1890-1990",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S011455/1",
+      "route": "Standard",
+      "lead_applicant": "Bolanle Adebola",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Reading",
+      "title": "Commercial Law Research Network Nigeria (CLRN_N)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S007091/1",
+      "route": "Standard",
+      "lead_applicant": "Naomi judith Creutzfeldt",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Westminster",
+      "title": "Administrative Justice Network",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006710/1",
+      "route": "Standard",
+      "lead_applicant": "Adrian Curtin",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Exeter",
+      "title": "Representing 'Classical Music' in the Twenty-First Century",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S01148X/1",
+      "route": "Standard",
+      "lead_applicant": "Marisa Wilson",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Living Histories of Sugar in Scotland and the West Indies: Transnationalisms, Performance and Co-creation",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006214/1",
+      "route": "Standard",
+      "lead_applicant": "Gesine Manuwald",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University College London",
+      "title": "Baroque Latinity",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S01103X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S012028/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010866/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S011110/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007156/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S01084X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S007695/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S010718/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Paul Cooke",
+      "organisation": "University of Leeds",
+      "role": "Moderator"
+    },
+    {
+      "name": "Rajinder Dudrah",
+      "organisation": "City of Bristol College",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2019-02-22",
+  "meeting_end": "2019-02-22"
+}

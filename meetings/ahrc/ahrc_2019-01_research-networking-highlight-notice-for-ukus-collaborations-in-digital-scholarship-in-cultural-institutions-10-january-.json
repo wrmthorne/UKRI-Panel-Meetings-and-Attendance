@@ -1,0 +1,160 @@
+{
+  "council": "AHRC",
+  "year": "2019",
+  "count_of_applications": "23",
+  "count_of_awards": "11",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012419/1",
+      "lead_applicant": "Kevin Page",
+      "lead_organisation": "University of Oxford",
+      "title": "Linked.Art: Networking Digital Collections and Scholarship",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012400/1",
+      "lead_applicant": "Zoe Jaques",
+      "lead_organisation": "University of Cambridge",
+      "title": "Digital Collections in Children's Literature: Distance Reading, Scholarship, Community",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012524/1",
+      "lead_applicant": "Christine Whyte",
+      "lead_organisation": "University of Glasgow",
+      "title": "Connecting Digital Histories of Fugitive Slaves",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012397/1",
+      "lead_applicant": "Paul Gooding",
+      "lead_organisation": "University of Glasgow",
+      "title": "Developing a network to investigate the development of a global dataset of digitised texts",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012494/1",
+      "lead_applicant": "Mark Hedges",
+      "lead_organisation": "King's College London",
+      "title": "International Research Collaboration Network in Computational Archival Science (IRCN-CAS)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012516/1",
+      "lead_applicant": "Oonagh Murphy",
+      "lead_organisation": "Goldsmiths College",
+      "title": "Museums and Artificial Intelligence Network",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012478/1",
+      "lead_applicant": "Daniel Pett",
+      "lead_organisation": "University of Cambridge",
+      "title": "Linking islands of data",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012389/1",
+      "lead_applicant": "Hannah Platts",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Transatlantic Perspectives on the Use of Data Science in Museums and Heritage",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012559/1",
+      "lead_applicant": "Rebecca Mitchell",
+      "lead_organisation": "University of Birmingham",
+      "title": "Pre-Raphaelites Online",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012486/1",
+      "lead_applicant": "Athanasios Velios",
+      "lead_organisation": "University of the Arts London",
+      "title": "Linked Conservation Data",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S012591/1",
+      "lead_applicant": "Christian Reynolds",
+      "lead_organisation": "University of Sheffield",
+      "title": "AHRC US-UK Food Digital Scholarship network",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012370/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012451/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01246X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012567/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012605/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012613/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012338/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012443/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012532/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012575/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S012621/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S01263X/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Networking Highlight Notice for UK–US Collaborations in Digital Scholarship in Cultural Institutions (10 January 2019)",
+  "source": "Research Networks UK-US Digital Scholarship January 2019 Meeting.xlsx",
+  "meeting_start": "2019-01",
+  "meeting_end": "2019-01"
+}

@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Via video conference",
+  "panel_secretary": "Dr Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Jim Hall",
+      "role": "Chair",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Iain Brown",
+      "role": "Member",
+      "organisation": "University of Dundee"
+    },
+    {
+      "name": "Simin Davoudi",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Mikael Granberg Karlstad",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Ray Ison",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Harshinie Karunarathna",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Jürgen Kropp",
+      "role": "Member",
+      "organisation": "Potsdam Institute for Climate Impact Research"
+    },
+    {
+      "name": "Conor Murphy National",
+      "role": "Member",
+      "organisation": "University of Ireland Maynooth"
+    },
+    {
+      "name": "Elen-Maarja Trell",
+      "role": "Member",
+      "organisation": "University of Groningen"
+    },
+    {
+      "name": "Jonathan Wistow",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Ruth Wood",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    }
+  ],
+  "meeting_name": "UK Climate Resilience DEC19",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-UKClimateResilienceSecondFundingOpportunity-051219.pdf",
+  "meeting_start": "2020-03-24",
+  "meeting_end": "2020-03-24"
+}

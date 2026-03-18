@@ -1,0 +1,81 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Oliver Knevitt",
+  "panel_name": "July 2019 Standard Grant Panel A",
+  "panellists": [
+    {
+      "name": "Marie Edmonds Cambridge",
+      "role": "Chair",
+      "organisation": "University"
+    },
+    {
+      "name": "Peter Clarke",
+      "role": "Deputy Chair",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Ray Burgess",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Tom Coulthard",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Jonathan Holmes",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Andy Large",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Sue Loughlin",
+      "role": "Member",
+      "organisation": "NERC British Geological Survey"
+    },
+    {
+      "name": "Andrew McCaig",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Tony Prave",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Greg Sambrook-Smith",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Finlay Stuart",
+      "role": "Member",
+      "organisation": "Scottish Universities Environmental"
+    },
+    {
+      "name": "Research Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Richard Hindmarsh",
+      "role": "Member",
+      "organisation": "NERC British Antarctic Survey"
+    },
+    {
+      "name": "Teh-Ru Alex Song",
+      "role": "Member",
+      "organisation": "University College London"
+    }
+  ],
+  "meeting_name": "Standard Grant Panels for the 16 July 2019 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-StandardGrant-160719.pdf",
+  "meeting_start": "2019-12-03",
+  "meeting_end": "2019-12-04"
+}

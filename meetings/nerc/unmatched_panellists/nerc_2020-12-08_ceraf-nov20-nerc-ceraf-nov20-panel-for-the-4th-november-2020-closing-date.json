@@ -1,0 +1,51 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Matthew Chisholm",
+  "panellists": [
+    {
+      "name": "Julia Slingo",
+      "role": "Chair",
+      "organisation": "Met Office"
+    },
+    {
+      "name": "Martin Baxter Inst",
+      "role": "Member",
+      "organisation": "of Env Management and Assessment"
+    },
+    {
+      "name": "Ben Carr Aviva",
+      "role": "Member",
+      "organisation": "plc"
+    },
+    {
+      "name": "Lee Chapman",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Neil Chue Hong",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Maryam Golnaraghi Geneva",
+      "role": "Member",
+      "organisation": "Association"
+    },
+    {
+      "name": "Theresa Lober The Bank",
+      "role": "Member",
+      "organisation": "of England"
+    },
+    {
+      "name": "Marian Scott",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    }
+  ],
+  "meeting_name": "CERAF NOV20 NERC CERAF NOV20 Panel for the 4th November 2020 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-CERAF-NOV20-041120.pdf",
+  "meeting_start": "2020-12-08",
+  "meeting_end": "2020-12-08"
+}

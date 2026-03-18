@@ -1,0 +1,475 @@
+{
+  "council": "MRC",
+  "applications": [
+    {
+      "title": "Spatial Mapping of the HIV Brain Reservoir and Genomic Changes in Health and Neurological Diseases",
+      "lead_applicant": "Laura Benjamin",
+      "lead_organisation": "University College London",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI2527",
+      "link": "https://gtr.ukri.org/projects?ref=2527",
+      "application_id": "APP63364"
+    },
+    {
+      "title": "Targeting the myeloid-specific TGF-? regulator, NRROS, to modulate tissue macrophage functions and outcome of gastrointestinal cancer",
+      "lead_applicant": "Tovah Shaw",
+      "lead_organisation": "University of Edinburgh",
+      "score": "8",
+      "outcome": "Successful",
+      "award_id": "UKRI2526",
+      "link": "https://gtr.ukri.org/projects?ref=2526",
+      "application_id": "APP64545"
+    },
+    {
+      "title": "A Chemical Microbiology Approach to Study Efflux Mediated Resistance and Develop New Therapeutics Against Drug-resistant Candida spp",
+      "lead_applicant": "Miraz Rahman",
+      "lead_organisation": "King's College London",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2514",
+      "link": "https://gtr.ukri.org/projects?ref=2514",
+      "application_id": "APP57173"
+    },
+    {
+      "title": "Harnessing technological advances to elucidate the immunological basis of podoconiosis, a neglected HLA-associated cause of tropical lymphoedema",
+      "lead_applicant": "Melanie Newport",
+      "lead_organisation": "University of Sussex",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2515",
+      "link": "https://gtr.ukri.org/projects?ref=2515",
+      "application_id": "APP59701"
+    },
+    {
+      "title": "Understanding pathogenic signalling mechanisms of the secreted protein kinome of Legionella pneumophila",
+      "lead_applicant": "Dominic Byrne",
+      "lead_organisation": "University of Liverpool",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2525",
+      "link": "https://gtr.ukri.org/projects?ref=2525",
+      "application_id": "APP61535"
+    },
+    {
+      "title": "Investigating how memory T cells regulate immune responses to re-infection and cancer",
+      "lead_applicant": "Mark Travis",
+      "lead_organisation": "University of Manchester",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2518",
+      "link": "https://gtr.ukri.org/projects?ref=2518",
+      "application_id": "APP62625"
+    },
+    {
+      "title": "KSHV-induced translation of lncRNAs - role of micropeptides in virus replication",
+      "lead_applicant": "Ade Whitehouse",
+      "lead_organisation": "University of Leeds",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2519",
+      "link": "https://gtr.ukri.org/projects?ref=2519",
+      "application_id": "APP64811"
+    },
+    {
+      "title": "Lymph nodE single cell Genomics AnCestrY immunity, infection, inflammation and immunisation (LEGACY IIII) Network",
+      "lead_applicant": "Katrina Pollock",
+      "lead_organisation": "University of Oxford",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2495",
+      "link": "https://gtr.ukri.org/projects?ref=2495",
+      "application_id": "APP64924"
+    },
+    {
+      "title": "Elucidating the complexities of a unique phosphotransfer system required for the growth and virulence of Mycobacterium tuberculosis",
+      "lead_applicant": "Dany Beste",
+      "lead_organisation": "University of Surrey",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2522",
+      "link": "https://gtr.ukri.org/projects?ref=2522",
+      "application_id": "APP66579"
+    },
+    {
+      "title": "Survival and persistence of Enterobacter species in human macrophages",
+      "lead_applicant": "Miguel Valvano",
+      "lead_organisation": "Queen's University Belfast",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2521",
+      "link": "https://gtr.ukri.org/projects?ref=2521",
+      "application_id": "APP66864"
+    },
+    {
+      "title": "Understanding MPVX Viral Clearance and Evaluating Transmission Dynamics of MPVX and Mpox Vaccine Effectiveness in Sierra Leone (MOVIE-TRACE SALONE).",
+      "lead_applicant": "Edward Choi",
+      "lead_organisation": "London School of Hygiene & Tropical Medicine",
+      "score": "9",
+      "outcome": "Successful",
+      "award_id": "UKRI2532",
+      "link": "https://gtr.ukri.org/projects?ref=2532",
+      "application_id": "APP78550"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP62515"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP65067"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP65341"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP65968"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP66942"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP61712"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP62273"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP63679"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP65411"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP65951"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP66158"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP66200"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP66438"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP66496"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP67168"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP67383"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP56678"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP57024"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP57752"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP62092"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP64698"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP65729"
+    },
+    {
+      "title": "",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "award_id": "",
+      "link": "",
+      "application_id": "APP66872"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Wendy Barclay",
+      "organisation": "Imperial College London",
+      "role": "Chair"
+    },
+    {
+      "name": "Alison Condliffe",
+      "organisation": "University of Sheffield",
+      "role": "Deputy Chair"
+    },
+    {
+      "name": "David Tough",
+      "organisation": "GSK",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dinis Calado",
+      "organisation": "The Francis Crick Institute",
+      "role": "Panellist"
+    },
+    {
+      "name": "Adrian Whitehouse",
+      "organisation": "University of Leeds",
+      "role": "Panellist"
+    },
+    {
+      "name": "Antonia Ho",
+      "organisation": "MRC-University of Glasgow Centre for Virus Research",
+      "role": "Panellist"
+    },
+    {
+      "name": "Clare Bryant",
+      "organisation": "University of Cambridge",
+      "role": "Panellist"
+    },
+    {
+      "name": "David Price",
+      "organisation": "Cardiff University",
+      "role": "Panellist"
+    },
+    {
+      "name": "David Roper",
+      "organisation": "University of Warwick",
+      "role": "Panellist"
+    },
+    {
+      "name": "Elaine Bignell",
+      "organisation": "University of Exeter",
+      "role": "Panellist"
+    },
+    {
+      "name": "George Christophides",
+      "organisation": "Imperial College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Irina Udalova",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Joanna Parish",
+      "organisation": "University of Birmingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Jonathan Ball",
+      "organisation": "University of Nottingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Lucy Wedderburn",
+      "organisation": "University College London",
+      "role": "Panellist"
+    },
+    {
+      "name": "Max Gutierrez",
+      "organisation": "The Francis Crick Institute",
+      "role": "Panellist"
+    },
+    {
+      "name": "Neil Mabbott",
+      "organisation": "University of Edinburgh",
+      "role": "Panellist"
+    },
+    {
+      "name": "Rita Tewari",
+      "organisation": "University of Nottingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Simon Johnson",
+      "organisation": "University of Sheffield",
+      "role": "Panellist"
+    },
+    {
+      "name": "Tania Dottorini",
+      "organisation": "University of Nottingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Teresa Lambe",
+      "organisation": "University of Oxford",
+      "role": "Panellist"
+    },
+    {
+      "name": "Willem van Schalik",
+      "organisation": "University of Birmingham",
+      "role": "Panellist"
+    },
+    {
+      "name": "Chien-Yi Chang",
+      "organisation": "University of Newcastle",
+      "role": "Associate"
+    },
+    {
+      "name": "Naveed Akbar",
+      "organisation": "University of Oxford",
+      "role": "Associate"
+    }
+  ],
+  "count_of_applications": "34",
+  "count_of_awards": "11",
+  "source": "https://public.tableau.com/app/profile/mrcevaluationandanalysis/viz/MRCPanelOutcomes/Overview",
+  "meeting_name": "MRC - Infections & Immunity Board Meeting - July 2025",
+  "meeting_reference": "PAN1269",
+  "meeting_start": "2025-07-08",
+  "meeting_end": "2025-07-08",
+  "notes": "* Applications are listed in numerical order within blocks according to their median score and funding outcome. No ranking within blocks should be inferred.\n\n* For this meeting 37 out of 69 applications were unsuccessful at shortlisting and are not displayed here."
+}

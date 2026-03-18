@@ -1,0 +1,42 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "5",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "Measuring Wellbeing 2019",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T005556/1"
+    },
+    {
+      "opportunity": "Measuring Wellbeing 2019",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005610/1"
+    },
+    {
+      "opportunity": "Measuring Wellbeing 2019",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005637/1"
+    },
+    {
+      "opportunity": "Measuring Wellbeing 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005653/1"
+    },
+    {
+      "opportunity": "Measuring Wellbeing 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005572/1"
+    }
+  ],
+  "meeting_name": "Measuring Wellbeing - Interviews",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-10",
+  "meeting_end": "2019-10"
+}

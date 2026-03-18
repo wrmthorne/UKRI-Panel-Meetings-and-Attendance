@@ -1,0 +1,74 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "8",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P009360/1",
+      "lead_applicant": "Daniel Grimley",
+      "lead_organisation": "University of Oxford",
+      "title": "Digital Delius: Interpretation, Performance, and Analysis",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P01352X/1",
+      "lead_applicant": "Thomas McKean",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Integrating and Engaging with the J. M. Carpenter Collection of Traditional Song and Drama as part of the Vaughan Williams Library's Digital Archive",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P01321X/1",
+      "lead_applicant": "Emily Caston",
+      "lead_organisation": "University of Portsmouth",
+      "title": "Dancing, Drawing, and Dreaming: Presenting Fifty Years of British Music Video innovation on the global stage.",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009840/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P014046/1",
+      "lead_applicant": "Carol Tully",
+      "lead_organisation": "Bangor University",
+      "title": "Travellers to Wales",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P013678/1",
+      "lead_applicant": "Anna Woodham",
+      "lead_organisation": "King's College London",
+      "title": "Integrating Forms of Care: Building Communities of Practice around Reserve Collections",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P014194/1",
+      "lead_applicant": "Sally Frampton",
+      "lead_organisation": "University of Oxford",
+      "title": "Mind-Boggling Medical History",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R000026/1",
+      "lead_applicant": "David Studdert",
+      "lead_organisation": "Cardiff University",
+      "title": "Using a co-production method to engage with local history: linking Museums and local history Facebook groups.",
+      "score": "5"
+    }
+  ],
+  "meeting_name": "Follow-on Funding Q1 2017 (February)",
+  "source": "Follow-on Funding for Impact and Engagement Q1 2017 Meetings.xlsx",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

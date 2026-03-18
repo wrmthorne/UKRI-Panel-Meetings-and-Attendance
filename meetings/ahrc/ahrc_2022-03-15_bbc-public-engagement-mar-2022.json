@@ -1,0 +1,273 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-777729000",
+  "meeting_name": "BBC Public Engagement Mar 2022",
+  "applications": [
+    {
+      "application_id": "AH/X001156/1",
+      "route": "Standard",
+      "lead_applicant": "Shane O'Sullivan",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Kingston University",
+      "title": "Make Film History: Opening up the BBC Archives to Young Filmmakers",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001016/1",
+      "route": "Standard",
+      "lead_applicant": "Karen Wood",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Coventry University",
+      "title": "'Strictly' Inclusive: Co-creating the past, present and future",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000958/1",
+      "route": "Standard",
+      "lead_applicant": "Aasiya Lodhi",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Westminster",
+      "title": "Reclaiming a Lost Past: Black British Women, Visibility and the BBC.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X001237/1",
+      "route": "Standard",
+      "lead_applicant": "Pritipuspa Mishra",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Southampton",
+      "title": "Make yourself at home (MY-HOME): Co-curating the South Asian community experience at Southampton",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000672/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew Linfoot",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Westminster",
+      "title": "Hearing our Stories: LGBTQ+ Lives and the BBC",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000850/1",
+      "route": "Standard",
+      "lead_applicant": "Alice Watson",
+      "score": "4",
+      "rank": "6",
+      "lead_organisation": "University of Oxford",
+      "title": "\"Nonnatus House, Midwife Speaking\": co-curating a new oral history of Call the Midwife with BBC audiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000842/1",
+      "route": "Standard",
+      "lead_applicant": "Mark Goodall",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "University of Bradford",
+      "title": "New Postscripts: Reinventing J.B. Priestley's BBC Broadcasts for a diverse and contemporary Bradford.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X000923/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001199/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00113X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001059/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X00080X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000699/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000737/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000761/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000869/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000931/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000974/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X000990/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001083/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001164/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001245/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X001261/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Katharina Zinn",
+      "organisation": "University of Wales Trinity Saint David",
+      "role": "Member"
+    },
+    {
+      "name": "Katherine Sian Griffiths",
+      "organisation": "National Museum Wales",
+      "role": "Member"
+    },
+    {
+      "name": "Brett Mills",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Declan Keeney",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "Martin Johnes",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    },
+    {
+      "name": "Shawn Sobers",
+      "organisation": "University of the West of England",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-03-15",
+  "meeting_end": "2022-03-15"
+}

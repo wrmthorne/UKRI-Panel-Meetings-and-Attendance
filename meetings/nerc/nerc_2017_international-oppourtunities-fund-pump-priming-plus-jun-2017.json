@@ -1,0 +1,77 @@
+{
+  "council": "NERC",
+  "count_of_applications": "13",
+  "count_of_awards": "2",
+  "year": "2017",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R004994/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R005079/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005303/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005028/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005036/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005249/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R00496X/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R004900/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005001/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005311/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005338/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005095/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R005060/1",
+      "rank": "11"
+    }
+  ],
+  "meeting_name": "INTERNATIONAL OPPOURTUNITIES FUND, PUMP PRIMING PLUS, JUN 2017",
+  "source": "NERC-061021-InternationalOpportunitiesFundPumpPrimingPlus-Funding-June2017.pdf",
+  "meeting_start": "2017",
+  "meeting_end": "2017"
+}

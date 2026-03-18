@@ -1,0 +1,253 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-608513021",
+  "meeting_name": "Research Grants - October 2020",
+  "applications": [
+    {
+      "application_id": "AH/V00266X/1",
+      "route": "Standard",
+      "lead_applicant": "Danielle Elisabeth Hipkins",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Exeter",
+      "title": "A Girls' Eye-view: Girlhood on the Italian screen since the 1950s",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V006045/1",
+      "route": "Standard",
+      "lead_applicant": "Clive James Nwonka",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University College London",
+      "title": "The Colour of Diversity: A Longitudinal Analysis of BFI Diversity Standards Data and Racial Inequality in the UK Film Industry",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V001213/1",
+      "route": "Standard",
+      "lead_applicant": "Peter Knight",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "The University of Manchester",
+      "title": "Everything Is Connected: Conspiracy Theories in the Age of the Internet",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V002015/1",
+      "route": "Standard",
+      "lead_applicant": "Sharon Ruston",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Lancaster University",
+      "title": "Humphry Davy's Notebooks: How Poetry Helped Create Scientific Knowledge",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T013362/1",
+      "route": "Standard",
+      "lead_applicant": "Jo Bates",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Sheffield",
+      "title": "Patterns in Practice: cultures of data mining in science, education and the arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004972/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V003399/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V005081/1",
+      "route": "Early Career",
+      "lead_applicant": "Jade French",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Leeds",
+      "title": "'Irregular' Art Schools: Methods for Supporting the Professional Development of Learning Disabled Artists",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V003488/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V005731/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V000837/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001116/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001914/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002961/1",
+      "route": "Early Career",
+      "lead_applicant": "Michael Joseph Fletcher",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "Birmingham City University",
+      "title": "Silent form: embodied structure in transitional jazz performance practice",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V005723/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T005238/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V001752/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V002147/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T01377X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T013699/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T012706/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Andrew Church",
+      "organisation": "University of East Anglia",
+      "role": "Chair"
+    },
+    {
+      "name": "Anthony Joseph Musson",
+      "organisation": "Historic Royal Palaces",
+      "role": "Member"
+    },
+    {
+      "name": "Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Jane Ginsborg",
+      "organisation": "Royal Northern College of Music",
+      "role": "Member"
+    },
+    {
+      "name": "Kate Heron Pahl",
+      "organisation": "\tLondon Institute for Mathematical Sciences",
+      "role": "Member"
+    },
+    {
+      "name": "Stefan Manz",
+      "organisation": "Ravensbourne University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-10-29",
+  "meeting_end": "2020-10-29"
+}

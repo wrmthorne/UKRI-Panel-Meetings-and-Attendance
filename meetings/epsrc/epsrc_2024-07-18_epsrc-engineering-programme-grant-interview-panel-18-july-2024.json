@@ -1,0 +1,53 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN438",
+  "meeting_name": "EPSRC Engineering Programme Grant Interview Panel - 18 July 2024",
+  "meeting_convenor": "Z Brown",
+  "applications": [
+    {
+      "application_id": "APP21976",
+      "title": "Making Hydrogen Work in Zero Carbon Jet Engines",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "8193777.63",
+      "award_id": "EP/Z534456/1",
+      "opportunity_number": "349",
+      "lead_applicant": "P Ireland",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ534456%2F1",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    },
+    {
+      "application_id": "APP22203",
+      "title": "Sustainable, Multi-sector Electrification using Advanced Integrated Motor Drive Technologies",
+      "lead_organisation": "University of Nottingham",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "7022706.38",
+      "award_id": "EP/Z536295/1",
+      "opportunity_number": "349",
+      "lead_applicant": "L de Lillo",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ536295%2F1",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    },
+    {
+      "application_id": "APP22220",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "349",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC programme grants: full application winter 2023"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-07-18",
+  "meeting_end": "2024-07-18"
+}

@@ -1,0 +1,42 @@
+{
+  "council": "MRC",
+  "count_of_applications": "6",
+  "count_of_awards": "2",
+  "notes": "Proposals are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment. \n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are not able to award scores of 6. It is not valid to make comparisons across different Board meetings. \n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred. \n\nFor this meeting, 4/12 applications did not pass an initial triage stage and were not considered further. Of the 8 applications that did pass the initial triage stage, 2 applications were withdrawn by the applicants prior to the meeting and no applications were withdrawn by the applicants following the meeting.",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/T001402/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T001593/1"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T001321/1"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "MR/T001712/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T001682/1"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "MR/T001763/1"
+    }
+  ],
+  "meeting_name": "Clinical Scientist Fellowship - 20 June 2019",
+  "source": "Clinician-scientist-fellowship/MRC-12102021-ClinicalScientistFellowship-20June2019.xlsx",
+  "meeting_start": "2019-06-20",
+  "meeting_end": "2019-06-20"
+}

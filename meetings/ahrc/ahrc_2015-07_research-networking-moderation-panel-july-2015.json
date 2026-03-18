@@ -1,0 +1,91 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "12",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N002180/1",
+      "lead_applicant": "Liz Campbell",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Corruption in (Non-)Criminal Commercial Enterprise: Law, Theory and Practice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N001907/1",
+      "lead_applicant": "Marion Schmid",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Film and the Other Arts : Intermediality, Medium Specificity, Creativity",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N001761/1",
+      "lead_applicant": "Stephanie Rhona Dennison",
+      "lead_organisation": "University of Leeds",
+      "title": "Soft Power, Cinema and the BRICS",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003020/1",
+      "lead_applicant": "Su Lin Lewis",
+      "lead_organisation": "University of Bristol",
+      "title": "Afro-Asian Networks in the Early Cold War, 1945-1960",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00292X/1",
+      "lead_applicant": "Paul Bowman",
+      "lead_organisation": "Cardiff University",
+      "title": "Martial Arts Studies Research Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N001400/1",
+      "lead_applicant": "Sita Popat",
+      "lead_organisation": "University of Leeds",
+      "title": "The Error Network",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002067/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00129X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001117/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002148/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001532/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003373/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, July 2015",
+  "source": "Research Networking, July 2015 Meeting.xlsx",
+  "meeting_start": "2015-07",
+  "meeting_end": "2015-07"
+}

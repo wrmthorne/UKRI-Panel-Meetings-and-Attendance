@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "count_of_applications": "4",
+  "count_of_awards": "4",
+  "year": "2019",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/T003871/1",
+      "rank": "1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/T003863/1",
+      "rank": "1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/T00388X/1",
+      "rank": "1"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/T003898/1",
+      "rank": "1"
+    }
+  ],
+  "meeting_name": "Understanding & Representing Atmospheric Convection across Scales (ParaCon) Phase 2 Rank",
+  "source": "Atmospheric Convection Phase 2 - April 2019.pdf",
+  "meeting_start": "2019",
+  "meeting_end": "2019"
+}

@@ -1,0 +1,278 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "34",
+  "count_of_awards": "24",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P005217/1",
+      "lead_applicant": "Vinita Damodaran",
+      "lead_organisation": "University of Sussex",
+      "title": "The Botanical and Meteorological history of the Indian Ocean 1500-1900",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P004652/1",
+      "lead_applicant": "Simon Palfrey",
+      "lead_organisation": "University of Oxford",
+      "title": "Demons land: a poem come true",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P004660/1",
+      "lead_applicant": "Diana Paton",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Freedom to Believe: A Theatre-in-Education Project exploring Caribbean Social and Religious Histories",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/N009568/1",
+      "lead_applicant": "Helen Manchester",
+      "lead_organisation": "University of Bristol",
+      "title": "Tangible Memories: Parlours of Wonder",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P005063/1",
+      "lead_applicant": "Michael Northcott",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Finding Common Ground",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P00394X/1",
+      "lead_applicant": "Katherine Astbury",
+      "lead_organisation": "University of Warwick",
+      "title": "Staging Napoleonic theatre",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P005764/1",
+      "lead_applicant": "Alison Cooley",
+      "lead_organisation": "University of Warwick",
+      "title": "Latin inscriptions in the Ashmolean Museum: influencing curatorial practice and extending educational scope to new audiences",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P003680/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006477/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P006116/1",
+      "lead_applicant": "Steven Hooper",
+      "lead_organisation": "University of East Anglia",
+      "title": "Fiji's artistic heritage: impact and engagement in Fiji",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P006256/1",
+      "lead_applicant": "Robin Coningham",
+      "lead_organisation": "Durham University",
+      "title": "Can We Rebuild the Kasthamandap? Promoting Post-Disaster Rescue Excavations, Salvage and Subsurface Heritage Protection Protocols in Kathmandu",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P005268/1",
+      "lead_applicant": "Paul Cooke",
+      "lead_organisation": "University of Leeds",
+      "title": "Using Digital Tools to Challenge Xenophobia and Support International Development in South Africa",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P006051/1",
+      "lead_applicant": "Morag Shiach",
+      "lead_organisation": "Queen Mary, University of London",
+      "title": "Creative Hubs and Urban Development Goals (UK/Brazil)",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P006469/1",
+      "lead_applicant": "Lizelle Bisschoff",
+      "lead_organisation": "University of Glasgow",
+      "title": "Africa's Lost Classics' in Context",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P005594/1",
+      "lead_applicant": "Steven Mithen",
+      "lead_organisation": "University of Reading",
+      "title": "Discovering WF16: Building Engagement with Neolithic Archaeology as Pathway to Economic Development in Southern Jordan",
+      "score": "5.2"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005578/1",
+      "lead_applicant": "Claire Jowitt",
+      "lead_organisation": "University of East Anglia",
+      "title": "Hakluyt@400: A Commemorative Series to Enhance Public Understanding of the History of English Exploration and Voyages of Discovery",
+      "score": "5.1"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P006000/1",
+      "lead_applicant": "David Whitley",
+      "lead_organisation": "University of Cambridge",
+      "title": "Healthy Waterways: Connecting communities locally and globally",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005543/1",
+      "lead_applicant": "Jonathan Saha",
+      "lead_organisation": "University of Leeds",
+      "title": "Elephants and Empire in Colonial Burma: Exhibiting Historical Photographs in Myanmar and the UK",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P005918/1",
+      "lead_applicant": "Simon Popple",
+      "lead_organisation": "University of Leeds",
+      "title": "Digital Community Workspaces: Delivering Impact through Public Library and Archive networks",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P00637X/1",
+      "lead_applicant": "Tom Wakeford",
+      "lead_organisation": "Coventry University",
+      "title": "Resources of Hope: Giving voice to underprivileged communities in India",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P006329/1",
+      "lead_applicant": "Daniel Ploeger",
+      "lead_organisation": "Royal Central Sch of Speech and Drama",
+      "title": "Electronics Consumption, Waste and the Informal Trade Sector in Sub-Saharan Africa",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "FoF Highlight",
+      "application_id": "AH/P006035/1",
+      "lead_applicant": "Andy Dearden",
+      "lead_organisation": "Sheffield Hallam University",
+      "title": "Creating, Connecting and Sustaining Links with the Indonesian Craft Economy",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006809/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005799/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006337/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006817/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005535/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P00556X/1",
+      "lead_applicant": "Simon Kaner",
+      "lead_organisation": "University of East Anglia",
+      "title": "Global perspectives on British Archaeology: an East Anglian model for positioning our heritage in international context",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P007864/1",
+      "lead_applicant": "Krista Cowman",
+      "lead_organisation": "University of Lincoln",
+      "title": "What Difference did the War Make?  World War One and Votes for Women",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Assessment",
+      "application_id": "AH/P008879/1",
+      "lead_applicant": "Leigh Payne",
+      "lead_organisation": "University of Oxford",
+      "title": "Innovative Uses of Transitional Justice in Ongoing Conflict and for Corporate Complicity",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Moderation",
+      "application_id": "AH/P00850X/1",
+      "lead_applicant": "Sasha Handley",
+      "lead_organisation": "The University of Manchester",
+      "title": "How we used to sleep",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006949/1",
+      "score": "4.2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P007562/1",
+      "score": "4.1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006043/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow on Fund for Impact & Engagement, July 2016 Moderation",
+  "source": "Follow-on Funding for Impact and Engagement Q3 2016 Meetings.xlsx",
+  "meeting_start": "2016-07",
+  "meeting_end": "2016-07"
+}

@@ -1,0 +1,153 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee C",
+  "panellists": [
+    {
+      "name": "Lorna Harries",
+      "role": "Chair",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Helen Parkinson",
+      "role": "Deputy Chair",
+      "organisation": "European Bioinformatics Institute"
+    },
+    {
+      "name": "Corinne Houart",
+      "role": "Deputy Chair",
+      "organisation": "Kings College London"
+    },
+    {
+      "name": "Thorsten Allers",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Hilary Ashe",
+      "role": "Member",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Paul Badenhorst",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Christoph Ballestrem (",
+      "role": "Member",
+      "organisation": "The University of"
+    },
+    {
+      "name": "Manchester)",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "George Bassel",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Tracey Chapman",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Shaun Cowley",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Cyril Dominguez",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Elizabeth Duncan",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Robert Hindges",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Jonathan Houseley",
+      "role": "Member",
+      "organisation": "Babraham Institute"
+    },
+    {
+      "name": "Robert Hynds",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Andrew Jones",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Alastair Kerr",
+      "role": "Member",
+      "organisation": "Genomics England"
+    },
+    {
+      "name": "Alistair McGregor",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Sebastian Oltean",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Vardhman Rakyan (Queen Mary",
+      "role": "Member",
+      "organisation": "University of"
+    },
+    {
+      "name": "London)",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Henry Roehl",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Steffen Scholpp",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Daniel St Johnston",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Martyn David Winn (Science and Technology Facilities",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Council)",
+      "role": "Member",
+      "organisation": ""
+    },
+    {
+      "name": "Nicolae Radu Zabet (Queen Mary",
+      "role": "Member",
+      "organisation": "University of"
+    },
+    {
+      "name": "London)",
+      "role": "Member",
+      "organisation": ""
+    }
+  ],
+  "meeting_name": "Research Committee Membership2023 RM2 - Committee C",
+  "source": "membership/BBSRC-060224-ResearchCommitteeMembership2023-RM2.pdf"
+}

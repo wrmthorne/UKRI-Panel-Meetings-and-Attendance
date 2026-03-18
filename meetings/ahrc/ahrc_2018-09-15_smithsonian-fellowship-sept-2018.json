@@ -1,0 +1,98 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-368014902",
+  "meeting_name": "Smithsonian Fellowship Sept 2018",
+  "applications": [
+    {
+      "application_id": "AH/S006028/1",
+      "route": "Standard",
+      "lead_applicant": "Emma Georgiana Reisz",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Reframing the Networks and Visualities of Imperial War Photography: Felice Beato in Asia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005994/1",
+      "route": "Standard",
+      "lead_applicant": "Caitlin Condell",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Design Impact, Archival  Discovery, and  Digital  Engagement: Expanding  the  Story  of  Modernist  E.  McKnight Kauffer",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006001/1",
+      "route": "Standard",
+      "lead_applicant": "Emily Orr",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Design Impact, Archival Discovery, and Digital Engagement: Expanding the Story of Modernist E. McKnight Kauffer",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006044/1",
+      "route": "Standard",
+      "lead_applicant": "Elspeth Margaret Haston",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Royal Botanic Garden Edinburgh",
+      "title": "Designing a state-of-the-art taxonomic research workstation integrating digital and physical resources",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006036/1",
+      "route": "Standard",
+      "lead_applicant": "Marie Foulston",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Videogames: Perspectives from the Museum",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005862/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005986/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Keith Mark Johnston",
+      "organisation": "York St John University",
+      "role": "Chair"
+    },
+    {
+      "name": "Areti Galani",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Thomas Betteridge",
+      "organisation": "Brunel University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-09-15",
+  "meeting_end": "2018-09-15"
+}

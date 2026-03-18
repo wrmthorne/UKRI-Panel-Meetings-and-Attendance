@@ -1,0 +1,137 @@
+{
+  "council": "MRC",
+  "count_of_applications": "25",
+  "count_of_awards": "5",
+  "notes": "APP19109* was Held Over for consideration at the next Funding meeting.\n\nApplications are scored by all Board or Panel members after the presentation by designated Board or Panel members and discussion against criteria to reflect their scientific excellence and potential impact, leading to a single median score. At the end of the meeting they are then grouped according to their median scores as a basis for further discussion, which may bring into consideration strategic priorities and portfolio balance. Final funding decisions aim to provide the optimum package of investment.\n\nMedian scores of 6 and above are considered fundable, but the funding cut-off is dependent on the budget available at any given meeting. Given very strong competition we are only rarely able to award scores of 7, and never scores of 6. It is not valid to make comparisons across different Funding meetings.\n\nApplications are listed in numerical order within blocks according to i) their median score groups and ii) their funding outcome. No ranking within blocks should be inferred.\n\nFor this opportunity, 14 out of 39 applications did not pass an initial shortlisting stage and were not considered further.",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP17752\nUKRI089"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP18037\nUKRI146"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP17176"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP17108"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP16980"
+    },
+    {
+      "score": "4",
+      "outcome": "Unsuccessful",
+      "application_id": "APP17074"
+    },
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "APP18690\nUKRI078"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP20091\nUKRI076"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP17320"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP17385"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP18236"
+    },
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "APP20414\nUKRI077"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19059"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19510"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19036"
+    },
+    {
+      "score": "8",
+      "outcome": null,
+      "application_id": "APP19109*"
+    },
+    {
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19801"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19718"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19766"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP19855"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP20749"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP20434"
+    },
+    {
+      "score": "5",
+      "outcome": "Unsuccessful",
+      "application_id": "APP20987"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP20619"
+    },
+    {
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "application_id": "APP21252"
+    }
+  ],
+  "meeting_name": "Better Methods Better Research 08-09 May 2024",
+  "source": "Better-methods-better-research-previously-known-as/MRC-230724-BetterMethodsBetterResearchFundingDecisionsMay2024.xlsx",
+  "meeting_start": "2024-05-01",
+  "meeting_end": "2024-05-01"
+}

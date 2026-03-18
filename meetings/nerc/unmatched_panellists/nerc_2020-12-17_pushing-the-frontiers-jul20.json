@@ -1,0 +1,71 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Daniel Knight",
+  "panellists": [
+    {
+      "name": "Jane Hill",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Ric Williams",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Zongbo Shi",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "John Woodward",
+      "role": "Member",
+      "organisation": "Northumbria University"
+    },
+    {
+      "name": "Julia Slingo",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Tamara Galloway",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Nia Whiteley",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Farideh Honary",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Peter Holland",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Alan (Rus) Hoelzel",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Mike Branney",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Luca Borger",
+      "role": "Member",
+      "organisation": "Swansea University"
+    }
+  ],
+  "meeting_name": "Pushing the Frontiers JUL20",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-ECR-Shortlist-210720.pdf",
+  "meeting_start": "2020-12-17",
+  "meeting_end": "2020-12-17"
+}

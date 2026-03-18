@@ -1,0 +1,135 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendanceTFSApplications/PanelSelectPage",
+  "meeting_name": "OPP319: AHRC: Apply to become the Hub for Public Engagement with Music Research",
+  "applications": [
+    {
+      "application_id": "28347",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "2"
+    },
+    {
+      "application_id": "25603",
+      "title": "",
+      "score": "8",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "3"
+    },
+    {
+      "application_id": "26799",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "4"
+    },
+    {
+      "application_id": "28073",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "5"
+    },
+    {
+      "application_id": "25566",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "6"
+    },
+    {
+      "application_id": "19955",
+      "title": "",
+      "score": "7",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "7"
+    },
+    {
+      "application_id": "24957",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "8"
+    },
+    {
+      "application_id": "25072",
+      "title": "",
+      "score": "6",
+      "outcome": "Unsuccessful",
+      "lead_applicant": "",
+      "lead_organisation": "",
+      "rank": "9"
+    },
+    {
+      "application_id": "25773",
+      "title": "AHRCMusicHub University of Southampton, Centre for Music Education and Social Justice",
+      "score": "8",
+      "outcome": "Successful",
+      "lead_applicant": "Erin Johnson-Williams",
+      "lead_organisation": "University of Southampton",
+      "rank": "1"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Helena Gaunt",
+      "organisation": "Unknown",
+      "role": "Chair"
+    },
+    {
+      "name": "Andrew Mowlah",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Chi-Chi Nwanoku OBE",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Dominic Galliano",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Lizzie Bracegirdle",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Matt Brennan",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Matthew Seager",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Stephen Cottrell",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    },
+    {
+      "name": "Rosie Perkins",
+      "organisation": "Unknown",
+      "role": "Panellist"
+    }
+  ]
+}

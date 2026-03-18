@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Nikki Cholod CHAIR: Professor Mark Hodson University of York",
+  "panellists": [
+    {
+      "name": "Kelly Redeker",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Sheldon Bacon",
+      "role": "Deputy Chair",
+      "organisation": "National Oceanography Centre"
+    },
+    {
+      "name": "Hugh Coe The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "William Collins",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Emma Ferranti",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Mattias Green",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Clare Heaviside",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Martin Hiscock",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Manoj Joshi",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Cristina Santin",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Daniela Schmidt",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Martyn Tranter",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Mark Trimmer Queen Mary",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Claire Walsh",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Jim Wharfe",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Andrew Willmott",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "IRF OCT22 Independent Research Fellowship Interview Panel A",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-15052023-Independent-Research-Fellowship-Interview-Panels-closing-date-11-October-2022.pdf",
+  "meeting_start": "2023-03-14",
+  "meeting_end": "2023-03-15"
+}

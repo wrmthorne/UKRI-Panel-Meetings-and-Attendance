@@ -1,0 +1,72 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "10",
+  "count_of_awards": "3",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P003575/1",
+      "lead_applicant": "David Goldberg",
+      "lead_organisation": "National Museums of Scotland",
+      "title": "Silver, Status and Society - the transition from Late Roman to Early Medieval Europe",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P003664/1",
+      "lead_applicant": "Emma Josephine Stafford",
+      "lead_organisation": "University of Leeds",
+      "title": "Hercules: a hero for all ages",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P005241/1",
+      "lead_applicant": "Rosa Freedman",
+      "lead_organisation": "University of Reading",
+      "title": "The Sexual Violence and Peacekeeping Network",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004547/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005179/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004180/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004512/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005276/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P004067/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P005683/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, June 2016",
+  "source": "Research Networking June 2016 Meeting.xlsx",
+  "meeting_start": "2016-06",
+  "meeting_end": "2016-06"
+}

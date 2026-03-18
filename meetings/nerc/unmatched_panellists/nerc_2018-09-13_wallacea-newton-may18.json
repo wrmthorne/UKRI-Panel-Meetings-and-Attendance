@@ -1,0 +1,74 @@
+{
+  "council": "NERC",
+  "meeting_location": "London",
+  "panel_secretary": "Lucy Hopewell",
+  "panellists": [
+    {
+      "name": "Steve Ormerod",
+      "role": "Chair",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Thomas Bell",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Luca Borger",
+      "role": "Member",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "Jo Chamberlain",
+      "role": "Member",
+      "organisation": "NERC Centre for Ecology and"
+    },
+    {
+      "name": "David Feary",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Abdul Haris",
+      "role": "Member",
+      "organisation": "University of Indonesia"
+    },
+    {
+      "name": "Agus Trianto",
+      "role": "Member",
+      "organisation": "University of Diponegero"
+    },
+    {
+      "name": "Catherine Walton The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Simon Kerley",
+      "role": "Member",
+      "organisation": "NERC Head of Research: Terrestrial Ecosystems"
+    },
+    {
+      "name": "Amy Vitale",
+      "role": "Member",
+      "organisation": "NERC Senior Programme Manager (Research)"
+    },
+    {
+      "name": "Adhi Hermanu",
+      "role": "Member"
+    },
+    {
+      "name": "Ocky",
+      "role": "Member",
+      "organisation": "Radjasa, Ministry of Research, Technology and Higher Education of the"
+    },
+    {
+      "name": "FCO Triny Tresnawulan",
+      "role": "Member"
+    }
+  ],
+  "meeting_name": "Wallacea (Newton) MAY18",
+  "source": "NERC-funding-assessment-panel-members-2018/newton-wallacea-region-moderating-panel.pdf",
+  "meeting_start": "2018-09-13",
+  "meeting_end": "2018-09-13"
+}

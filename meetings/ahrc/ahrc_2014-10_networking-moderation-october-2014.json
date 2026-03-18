@@ -1,0 +1,114 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "16",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008312/1",
+      "lead_applicant": "Edward Allington",
+      "lead_organisation": "University College London",
+      "title": "Modern Japanese Sculpture Network",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M00872X/1",
+      "lead_applicant": "Laura Brooks",
+      "lead_organisation": "University of Southampton",
+      "title": "Sound Heritage",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M003973/1",
+      "lead_applicant": "David Grumett",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Church Network Responses to Poverty",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006395/1",
+      "lead_applicant": "Sophie Gibb",
+      "lead_organisation": "Durham University",
+      "title": "Emergence: Where is the Evidence?",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M006336/1",
+      "lead_applicant": "Erik Knudsen",
+      "lead_organisation": "University of Salford",
+      "title": "StoryLab: International Film Development Research Network",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008185/1",
+      "lead_applicant": "Andrey Rosowsky",
+      "lead_organisation": "University of Sheffield",
+      "title": "Heavenly acts: aspects of performance through an interdisciplinary lens",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/M008495/1",
+      "lead_applicant": "Philip Shaw",
+      "lead_organisation": "University of Leicester",
+      "title": "Passions of War: Cross-disiplinary Perspectives on Gender, Sexuality and Conflict",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M007960/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008673/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M007987/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006689/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M007995/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006549/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008371/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M008150/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006697/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Networking Moderation October 2014",
+  "source": "Networking Moderation October 2014.xlsx",
+  "meeting_start": "2014-10",
+  "meeting_end": "2014-10"
+}

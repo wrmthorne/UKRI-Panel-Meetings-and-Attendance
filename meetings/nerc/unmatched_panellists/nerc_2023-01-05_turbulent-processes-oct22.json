@@ -1,0 +1,41 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Joseph Taylor",
+  "panellists": [
+    {
+      "name": "Ian Renfrew",
+      "role": "Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Massimo Cassiani",
+      "role": "Member",
+      "organisation": "Norwegian Institute for Air Research"
+    },
+    {
+      "name": "Anurag Dipankar",
+      "role": "Member",
+      "organisation": "ETH Zurich"
+    },
+    {
+      "name": "Micha Gryschka Leibniz",
+      "role": "Member",
+      "organisation": "University of Hannover"
+    },
+    {
+      "name": "Louise Nuijens Delft",
+      "role": "Member",
+      "organisation": "University of Technology"
+    },
+    {
+      "name": "Mathias Rotach",
+      "role": "Member",
+      "organisation": "University of Innsbruck"
+    }
+  ],
+  "meeting_name": "Turbulent Processes OCT22",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-090123-TurbulentAtmosphericProcessesInterviewPanelClosingDate19Oct2022.pdf",
+  "meeting_start": "2023-01-05",
+  "meeting_end": "2023-01-06"
+}

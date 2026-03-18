@@ -1,0 +1,183 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-363360523",
+  "meeting_name": "Leadership Fellows - December 2018",
+  "applications": [
+    {
+      "application_id": "AH/S005498/1",
+      "route": "Standard",
+      "lead_applicant": "Rory Naismith",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Cambridge",
+      "title": "Foundations of Gold and Silver",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005692/1",
+      "route": "Early Career",
+      "lead_applicant": "Mariza Maria Dima",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Brunel University London",
+      "title": "A framework for designing Mixed Reality situated learning experiences in cultural heritage sites using AR glasses",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00310X/1",
+      "route": "Standard",
+      "lead_applicant": "Louise Miskell",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Swansea University",
+      "title": "The Social Worlds of Steel. Re-thinking Industrial History and Heritage",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S003711/1",
+      "route": "Standard",
+      "lead_applicant": "Philip John Shaw",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Leicester",
+      "title": "Wordsworth 2020",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S005226/1",
+      "route": "Early Career",
+      "lead_applicant": "Emily Anne Thomas",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Durham University",
+      "title": "Inventing Time: Past, Present, and Future in British Metaphysics 1878-1938",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S006281/1",
+      "route": "Standard",
+      "lead_applicant": "Sinead O'Sullivan",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Crafting knowledge in the early medieval West: Glosses, learning and culture, circa 800-1050",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004750/1",
+      "route": "Early Career",
+      "lead_applicant": "Catherine Elizabeth Spencer",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of St Andrews",
+      "title": "Green Unpleasant Land: Art, Abstraction and the Politics of Location",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S004874/1",
+      "route": "Early Career",
+      "lead_applicant": "Hedi Viterbo",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Rethinking Child Law and Policy",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S00565X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003703/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00355X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00629X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S003029/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S005080/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Ruth Livesey",
+      "organisation": "Royal Holloway, Univ of London",
+      "role": "Chair"
+    },
+    {
+      "name": "Frederik Jakob Pedersen",
+      "organisation": "Imperial War Museum",
+      "role": "Moderator"
+    },
+    {
+      "name": "Martin Hewitt",
+      "organisation": "Private Address",
+      "role": "Moderator"
+    },
+    {
+      "name": "Alice Entwistle",
+      "organisation": "University of South Wales",
+      "role": "Moderator"
+    },
+    {
+      "name": "Frances Elizabeth Andrews",
+      "organisation": "University of Worcester",
+      "role": "Moderator"
+    },
+    {
+      "name": "Ros King",
+      "organisation": "University of Southampton",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2018-12-04",
+  "meeting_end": "2018-12-04"
+}

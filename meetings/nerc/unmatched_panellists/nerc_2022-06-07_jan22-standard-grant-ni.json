@@ -1,0 +1,67 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Joe Taylor",
+  "panel_name": "JAN22 Standard Grant & NI Panel A",
+  "panellists": [
+    {
+      "name": "Mark Hodson",
+      "role": "Chair",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Louise Sime",
+      "role": "Deputy Chair",
+      "organisation": "British Antarctic Survey"
+    },
+    {
+      "name": "Madeleine Humphreys",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Michael Cassidy",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Jason Harvey",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "David Healy",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Martin Palmer",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Andrew Russell",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Matthew Bennett",
+      "role": "Member",
+      "organisation": "Bournemouth University"
+    },
+    {
+      "name": "Jonathan Chambers",
+      "role": "Member",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Julia Lee-Thorp",
+      "role": "Member",
+      "organisation": "University of Oxford"
+    }
+  ],
+  "meeting_name": "JAN22 Standard Grant & NI",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-250522-StandardandNewInvestigatorPanelsJan22.pdf",
+  "meeting_start": "2022-06-07",
+  "meeting_end": "2022-06-08"
+}

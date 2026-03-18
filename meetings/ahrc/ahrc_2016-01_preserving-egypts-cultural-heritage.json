@@ -1,0 +1,119 @@
+{
+  "council": "AHRC",
+  "year": "2016",
+  "count_of_applications": "17",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009371/1",
+      "lead_applicant": "Eva Panagiotakopulu",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Past environments, future challenges: Fossil insects and the preservation of environmental evidence from Egyptian archaeological sites",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009312/1",
+      "lead_applicant": "Caroline Rooney",
+      "lead_organisation": "University of Kent",
+      "title": "Egypt's Living Heritage: Community Engagement in Re-Creating the Past",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009282/1",
+      "lead_applicant": "James Moore",
+      "lead_organisation": "University of Leicester",
+      "title": "Sounds from a Threatened Suburb: Developing a People's History of Heliopolis as a Route to a Sustainable Urban Future",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009169/1",
+      "lead_applicant": "Neveen Hamza",
+      "lead_organisation": "Newcastle University",
+      "title": "Sustainable Green Markets, regenerating the urban historic core to sustain Socio-Cultural heritage and economic activities",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009193/1",
+      "lead_applicant": "Ilona Regulski",
+      "lead_organisation": "The British Museum",
+      "title": "Sustainable solutions towards cultural heritage preservation in the Asyut region.",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009320/1",
+      "lead_applicant": "Magda Sibley",
+      "lead_organisation": "University of Sheffield",
+      "title": "\"Belle Epoque \" Cairo Museums Itinerary (BECAMI)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N009347/1",
+      "lead_applicant": "Mohamed Gamal Abdelmonem",
+      "lead_organisation": "University of Wolverhampton",
+      "title": "Virtual Reality of Medieval Culture: Collaborative Network for Cultural-Feed Virtual Heritage (CfVH) platforms of medieval Cairo",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009150/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009118/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009274/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009355/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00907X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009266/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009339/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009363/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009304/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009592/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Preserving Egypt's Cultural Heritage",
+  "source": "Preserving Egypt's Cultural Heritage January 2016 Meeting.xlsx",
+  "meeting_start": "2016-01",
+  "meeting_end": "2016-01"
+}

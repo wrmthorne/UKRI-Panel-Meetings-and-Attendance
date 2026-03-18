@@ -1,0 +1,52 @@
+{
+  "council": "NERC",
+  "meeting_location": "Zoom Virtual Meeting",
+  "panel_secretary": "Dr Lisa Hole",
+  "panel_name": "Oct 21 IRF Panel A",
+  "panellists": [
+    {
+      "name": "Melanie Leng",
+      "role": "Chair",
+      "organisation": "NERC British Geological"
+    },
+    {
+      "name": "Bill Austin",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Tiffany Barry",
+      "role": "Member",
+      "organisation": "University of Leicester"
+    },
+    {
+      "name": "Colin",
+      "role": "Member",
+      "organisation": "Forsyth, University College"
+    },
+    {
+      "name": "Margaret",
+      "role": "Member",
+      "organisation": "Hartley, University of"
+    },
+    {
+      "name": "Simon Hunt",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Sarah Sherlock",
+      "role": "Member",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Rebecca Williams",
+      "role": "Member",
+      "organisation": "University of Hull"
+    }
+  ],
+  "meeting_name": "Independent Research Fellowships Oct 2021",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-IRF-Sift-1021.pdf",
+  "meeting_start": "2022-02-23",
+  "meeting_end": "2022-02-23"
+}

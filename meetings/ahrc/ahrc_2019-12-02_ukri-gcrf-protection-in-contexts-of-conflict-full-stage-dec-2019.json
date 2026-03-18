@@ -1,0 +1,78 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-451540641",
+  "meeting_name": "UKRI GCRF Protection in Contexts of Conflict Full stage Dec 2019",
+  "applications": [
+    {
+      "application_id": "AH/T008024/1",
+      "route": "Standard",
+      "lead_applicant": "Berit Bliesemann de Guevara",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Aberystwyth University",
+      "title": "Creating Safer Space: Strengthening Civilian Protection Amidst Violent Conflict",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008091/1",
+      "route": "Standard",
+      "lead_applicant": "Heather Flowe",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Birmingham",
+      "title": "Time for Rights/Rights for Time: Responding to the times of violence, conflict, and displacement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T008008/1",
+      "route": "Standard",
+      "lead_applicant": "Mariangela Palladino",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Keele University",
+      "title": "Maghreb Action on Displacement and Rights (MADAR) Network Plus",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T007818/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "4",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T008032/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Zoe Trodd",
+      "organisation": "National Oceanography Centre",
+      "role": "Chair"
+    },
+    {
+      "name": "Louise Arimatsu",
+      "organisation": "London School of Economics & Pol Sci",
+      "role": "Member"
+    },
+    {
+      "name": "K McEvoy",
+      "organisation": "Queen's University of Belfast",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-12-02",
+  "meeting_end": "2019-12-02"
+}

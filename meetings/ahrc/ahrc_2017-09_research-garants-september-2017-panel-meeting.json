@@ -1,0 +1,188 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "27",
+  "count_of_awards": "9",
+  "count_of_deferred": "1",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R003556/1",
+      "lead_applicant": "Rosemary Cramp",
+      "lead_organisation": "Durham University",
+      "title": "Worked in Stone: Completing the Corpus of Anglo-Saxon Stone Sculpture",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R002622/1",
+      "lead_applicant": "Penny Bickle",
+      "lead_organisation": "University of York",
+      "title": "Counter Culture: investigating Neolithic social diversity",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R002657/1",
+      "lead_applicant": "Michael Grierson",
+      "lead_organisation": "Goldsmiths College",
+      "title": "MIMIC: Musically Intelligent Machines Interacting Creatively",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R001197/1",
+      "lead_applicant": "Alan Finlayson",
+      "lead_organisation": "University of East Anglia",
+      "title": "Political Ideology, Rhetoric and Aesthetics in the Twenty-First Century: The Case of the 'Alt-Right'",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R002770/1",
+      "lead_applicant": "Steven King",
+      "lead_organisation": "University of Leicester",
+      "title": "In Their Own Write: Contesting the New Poor Law 1834-1900",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R001545/1",
+      "lead_applicant": "Richard Gameson",
+      "lead_organisation": "Durham University",
+      "title": "The Pigments of British Illuminators: A Scientific and Cultural Investigation",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R00353X/1",
+      "lead_applicant": "David Wengrow",
+      "lead_organisation": "University College London",
+      "title": "Radical Death and Early State Formation in the Ancient Near East",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R00126X/1",
+      "lead_applicant": "Mary Fulbrook",
+      "lead_organisation": "University College London",
+      "title": "Compromised Identities? Reflections on perpetration and complicity under Nazism",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R003521/1",
+      "lead_applicant": "Florence Sutcliffe-Braithwaite",
+      "lead_organisation": "University College London",
+      "title": "Women in the miners' strike, 1984-5: Charting changing gender roles in working-class communities in post-1945 Britain",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003254/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009794/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Deferred",
+      "route": "Standard",
+      "application_id": "AH/R003459/1",
+      "lead_applicant": "Lucy Kimbell",
+      "lead_organisation": "University of the Arts London",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001782/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R00336X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002673/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004587/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002827/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003106/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001790/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003394/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001839/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R003238/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01416X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P015131/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001561/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001812/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R002290/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Garants, September 2017 Panel Meeting",
+  "source": "1709-research-grants-meeting.xlsx",
+  "meeting_start": "2017-09",
+  "meeting_end": "2017-09"
+}

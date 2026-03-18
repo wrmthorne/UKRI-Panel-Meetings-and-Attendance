@@ -1,0 +1,143 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-673062131",
+  "meeting_name": "Follow on Fund - July 2021",
+  "applications": [
+    {
+      "application_id": "AH/W004283/1",
+      "route": "Standard",
+      "lead_applicant": "Jonathan Rogers",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Cambridge",
+      "title": "Criminal Law Reform Now Network: Follow-on Impact (Computer Misuse Act)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W000776/1",
+      "route": "Standard",
+      "lead_applicant": "David Lennard Clough",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Christian Ethics of Farmed Animal Welfare - Impact in Schools and Theological Education",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01398X/1",
+      "route": "Standard",
+      "lead_applicant": "Tanya Wyatt",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "Northumbria University",
+      "title": "New Ways to Improve the Convention on International Trade in Endangered Species (CITES): exchanging knowledge to protect wildlife and public health",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W000865/1",
+      "route": "Standard",
+      "lead_applicant": "Christopher Bannerman",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Middlesex University",
+      "title": "Producers Toolbox: The Way/Dao of the Producer",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W00268X/1",
+      "route": "Standard",
+      "lead_applicant": "Oliver Philip Davis",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "Cardiff University",
+      "title": "CAER Connected",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002876/1",
+      "route": "Standard",
+      "lead_applicant": "John Wedgwood Clarke",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Exeter",
+      "title": "Filming Cornwall's Red River",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V008870/1",
+      "route": "Standard",
+      "lead_applicant": "Richard Simon Phillips",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Sheffield",
+      "title": "INCLUSIVE RELATIONSHIPS AND SEX EDUCATION: SUPPORTING CHILDREN FROM FAITH COMMUNITIES",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011359/1",
+      "route": "Standard",
+      "lead_applicant": "Chiara Bonacchi",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "University of Stirling",
+      "title": "Co-Producing Tolerant Futures through Ancient Identities",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002140/1",
+      "route": "Standard",
+      "lead_applicant": "Tim Snelson",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "University of East Anglia",
+      "title": "Objects of the Mind: engaging digital publics in material cultures of mental health and media",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001292/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000504/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002256/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Helen Freshwater",
+      "organisation": "Newcastle University",
+      "role": "Member"
+    },
+    {
+      "name": "Soumyen Bandyopadhyay Bandyopadhyay",
+      "organisation": "Bournemouth University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-07-01",
+  "meeting_end": "2021-07-01"
+}

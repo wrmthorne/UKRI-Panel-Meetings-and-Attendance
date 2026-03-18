@@ -1,0 +1,278 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2022,
+  "meeting_reference": "1-874228182",
+  "meeting_name": "CResCa Strand 1 November 2022",
+  "applications": [
+    {
+      "application_id": "AH/X010252/1",
+      "route": "Standard",
+      "lead_applicant": "Naomi Sykes",
+      "score": "5",
+      "rank": "1",
+      "lead_organisation": "University of Exeter",
+      "title": "Science, Heritage, and Archaeology Digital 3D Labratory",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010309/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Lavender",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Guildhall School of Music and Drama",
+      "title": "Upgrade of Production Arts IT infrastructure to enable a future Performance Industry Centre for the Research and Application of Creative Technologies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010104/1",
+      "route": "Standard",
+      "lead_applicant": "Lyn Wilson",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Historic Environment Scotland",
+      "title": "Creating Immersive Experiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010260/1",
+      "route": "Standard",
+      "lead_applicant": "Andrew Peter Knight-Hill",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Greenwich",
+      "title": "SHIFT - Shared Hub for Immersive Future Technologies",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009874/1",
+      "route": "Standard",
+      "lead_applicant": "Sarah Whatley",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Coventry University",
+      "title": "ICC Lab: Expanding practice-led capability in the Creative Arts",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009939/1",
+      "route": "Standard",
+      "lead_applicant": "Diane Gwilt",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "National Museum Wales",
+      "title": "Developing Amgueddfa Cymru's contemporary art collection as a resource for research and community-led display",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X01021X/1",
+      "route": "Standard",
+      "lead_applicant": "Stephen Russell",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Leeds",
+      "title": "On-Demand Design & Manufacturing of Customised 3D Fashion & Textile Products",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010384/1",
+      "route": "Standard",
+      "lead_applicant": "Lee Miller",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Falmouth University",
+      "title": "Gate Ways: Immersive Technologies for Heritage Archives",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009289/1",
+      "route": "Standard",
+      "lead_applicant": "Tarnya Helen Cooper",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "The National Trust",
+      "title": "Future Heritage Now: Delivering Creative Research Through Enhanced Scientific Analysis",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X01004X/1",
+      "route": "Standard",
+      "lead_applicant": "Jorg Fachner",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "Anglia Ruskin University",
+      "title": "TOPUP: Transform Outcome and Process Utilities and Programs - Upgrading music performance and intervention research equipment for creative processes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009807/1",
+      "route": "Standard",
+      "lead_applicant": "Louis Nixon",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "Norwich University of the Arts",
+      "title": "Volumetric assets and immersive environments depicting future impacts of rising sealevels on the Broads and East Anglia coastline.",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009971/1",
+      "route": "Standard",
+      "lead_applicant": "Aaron Michael Einbond",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "City, University of London",
+      "title": "City Immersive Sound and Movement Environment (CISME)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010333/1",
+      "route": "Standard",
+      "lead_applicant": "Derwin Derwin Gregory",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "Bishop Grosseteste University",
+      "title": "The Lincolnshire Cultural Heritage Research Hub",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X009890/1",
+      "route": "Standard",
+      "lead_applicant": "Holly Miller",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "University of Nottingham",
+      "title": "Building networks for creative and cultural responses to historic pollution and climate change research",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X01018X/1",
+      "route": "Standard",
+      "lead_applicant": "Alexandra Rose Gent",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "National Portrait Gallery",
+      "title": "Faces in Focus: Equipping the National Portrait Gallery's New Conservation Laboratory for Photography, Works on Paper and Miniatures",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010228/1",
+      "route": "Standard",
+      "lead_applicant": "Colin Holden",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "University for the Creative Arts",
+      "title": "TrakLab Upgrade at UCA CResCa Strand 1",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010139/1",
+      "route": "Standard",
+      "lead_applicant": "Konstantin Vikhorev",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "University of Liverpool",
+      "title": "UK Digital Heritage Centre (DHC)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X010058/1",
+      "route": "Standard",
+      "lead_applicant": "Emma Smart",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "British Film Institute",
+      "title": "Library storage facilities redesign & refurbishment at BFI National Archive Conservation Centre",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/X01035X/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009947/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X009955/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010015/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/X010112/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Damian Murphy",
+      "organisation": "Liverpool John Moores University",
+      "role": "Chair"
+    },
+    {
+      "name": "Daniel Edward Pett",
+      "organisation": "Historic Bldgs & Mnts Commis for England",
+      "role": "Member"
+    },
+    {
+      "name": "Graham Hitchen",
+      "organisation": "Loughborough University",
+      "role": "Member"
+    },
+    {
+      "name": "Helen Wendy Kennedy",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Jon Dovey",
+      "organisation": "University of the West of England",
+      "role": "Member"
+    },
+    {
+      "name": "Jonathan Freeman",
+      "organisation": "Goldsmiths College",
+      "role": "Member"
+    },
+    {
+      "name": "Tilly Blyth",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2022-11-08",
+  "meeting_end": "2022-11-08"
+}

@@ -1,0 +1,157 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "24",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R014752/1",
+      "lead_applicant": "David Clough",
+      "lead_organisation": "University of Chester",
+      "title": "Christian Ethics of Farmed Animal Welfare",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R014817/1",
+      "lead_applicant": "Howard Hotson",
+      "lead_organisation": "University of Oxford",
+      "title": "Networking Archives: Assembling and analysing a meta-archive of correspondence, 1509-1714",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S000542/1",
+      "lead_applicant": "Josie McLellan",
+      "lead_organisation": "University of Bristol",
+      "title": "Single Parent Action Network: a participatory history",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001158/1",
+      "lead_applicant": "Nicola Shaughnessy",
+      "lead_organisation": "University of Kent",
+      "title": "Playing A/Part: Investigating the female experience of autism through drama, interactive media and participatory arts.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/S001387/1",
+      "lead_applicant": "Reina Lewis",
+      "lead_organisation": "University of the Arts London",
+      "title": "Modest Fashion in UK Women's Working Life",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000569/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013004/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/S000062/1",
+      "lead_applicant": "Adrian Grant",
+      "lead_organisation": "University of Ulster",
+      "title": "Divided Pasts - Design Futures",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013802/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00145X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014922/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014795/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014698/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000151/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000259/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014728/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000399/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001379/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S000038/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001166/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001255/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001263/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001492/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S001468/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, May 2018 Panel Meeting",
+  "source": "Research Grants Panel, May 2018 Meeting.xlsx",
+  "meeting_start": "2018-05",
+  "meeting_end": "2018-05"
+}

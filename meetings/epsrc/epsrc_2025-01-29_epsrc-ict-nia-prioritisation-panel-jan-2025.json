@@ -1,0 +1,265 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN824",
+  "meeting_name": "EPSRC: ICT NIA Prioritisation Panel Jan 2025",
+  "meeting_convenor": "S Russin",
+  "applications": [
+    {
+      "application_id": "APP15391",
+      "title": "PRECISE-AI: Probabilistic reasoning with circuits for safe and explainable artificial intelligence",
+      "lead_organisation": "King's College London",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "335280.99",
+      "award_id": "UKRI918",
+      "opportunity_number": "136",
+      "lead_applicant": "D Watson",
+      "link": "https://gtr.ukri.org/projects?ref=918",
+      "opportunity": "EPSRC new investigator award, May 2023: responsive mode"
+    },
+    {
+      "application_id": "APP28426",
+      "title": "Real-time High-Fidelity Augmented Reality in Laparoscopic Liver Resection",
+      "lead_organisation": "University of Leeds",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "591518.39",
+      "award_id": "UKRI914",
+      "opportunity_number": "320",
+      "lead_applicant": "S Ali",
+      "link": "https://gtr.ukri.org/projects?ref=914",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP11268",
+      "title": "Advancing Wireless Communication Reliability through Tailored Machine Learning Solutions",
+      "lead_organisation": "Queen's University Belfast",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "314007.61",
+      "award_id": "UKRI917",
+      "opportunity_number": "136",
+      "lead_applicant": "N Simmons",
+      "link": "https://gtr.ukri.org/projects?ref=917",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP26493",
+      "title": "Understanding Exciton Dynamics Under Device Operation Conditions: Towards the Breakthrough of Organic Electronics",
+      "lead_organisation": "University of Sheffield",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "545448.16",
+      "award_id": "UKRI915",
+      "opportunity_number": "320",
+      "lead_applicant": "P dos Santos",
+      "link": "https://gtr.ukri.org/projects?ref=915",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP34706",
+      "title": "PerceptiFi: Integrated Light Sensing and Communications for Perceptive LiFi",
+      "lead_organisation": "University of Glasgow",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "462230.71",
+      "award_id": "UKRI916",
+      "opportunity_number": "320",
+      "lead_applicant": "H Abumarshoud",
+      "link": "https://gtr.ukri.org/projects?ref=916",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP32673",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP27098",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP31052",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP25926",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP37670",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP36028",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP37231",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "11",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP31517",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "12",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "K Crockett",
+      "role": "Chair",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "R Abdur",
+      "role": "Panellist",
+      "organisation": "Coventry University"
+    },
+    {
+      "name": "R Bahsoon",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "E Boiten",
+      "role": "Panellist",
+      "organisation": "De Montfort University"
+    },
+    {
+      "name": "S Cairns",
+      "role": "Panellist",
+      "organisation": "Metasphere"
+    },
+    {
+      "name": "D Cleaver",
+      "role": "Panellist",
+      "organisation": "Sheffield Hallam University"
+    },
+    {
+      "name": "G Cosma",
+      "role": "Panellist",
+      "organisation": "Loughborough University"
+    },
+    {
+      "name": "T Erlebach",
+      "role": "Panellist",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "H Haas",
+      "role": "Panellist",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "J Herrnsdorf",
+      "role": "Panellist",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "C Hwang See",
+      "role": "Panellist",
+      "organisation": "Edinburgh Napier University"
+    },
+    {
+      "name": "J Lloyd-Hughes",
+      "role": "Panellist",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "P Scarfe",
+      "role": "Panellist",
+      "organisation": ""
+    },
+    {
+      "name": "D Stamate",
+      "role": "Panellist",
+      "organisation": "Goldsmiths University of London"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-01-29",
+  "meeting_end": "2025-01-29"
+}

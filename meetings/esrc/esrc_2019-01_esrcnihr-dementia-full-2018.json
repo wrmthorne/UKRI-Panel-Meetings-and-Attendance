@@ -1,0 +1,66 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "9",
+  "count_of_awards": "4",
+  "applications": [
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010467/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010351/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010408/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/S010327/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010297/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010289/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010319/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010270/1"
+    },
+    {
+      "opportunity": "ESRC/NIHR Dementia Full 2018",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S010505/1"
+    }
+  ],
+  "meeting_name": "ESRC/NIHR Dementia Full 2018",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-01",
+  "meeting_end": "2019-01"
+}

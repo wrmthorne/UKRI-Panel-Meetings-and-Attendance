@@ -1,0 +1,24 @@
+{
+  "council": "ESRC",
+  "year": "2022",
+  "count_of_applications": "2",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "FDS Strategic Fellowship",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/X00127X/1"
+    },
+    {
+      "opportunity": "FDS Strategic Fellowship",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/X001237/1"
+    }
+  ],
+  "meeting_name": "FDS Strategic Fellowship",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2022-06",
+  "meeting_end": "2022-06"
+}

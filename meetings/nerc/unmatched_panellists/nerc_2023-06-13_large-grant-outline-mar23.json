@@ -1,0 +1,111 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Darby Knight",
+  "panellists": [
+    {
+      "name": "Melanie Leng",
+      "role": "Chair",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Simon Butler",
+      "role": "Deputy Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Michaela Bray",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Sasha Dall",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    },
+    {
+      "name": "Christopher Davies",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Rachel Dunk",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Mat Evans",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Markus Frey",
+      "role": "Member",
+      "organisation": "NERC British Antarctic Survey"
+    },
+    {
+      "name": "Margaret Hartley The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Stuart Haszeldine",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Andrew Hirst",
+      "role": "Member",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "Chris Joyce",
+      "role": "Member",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "Robert Kalin",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Ian Kane The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Charles Knapp",
+      "role": "Member",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Michael Kosch",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Ken McCaffrey",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Erin McClymont",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Colin Osborne",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Nick Ostle",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    }
+  ],
+  "meeting_name": "Large Grant Outline MAR23",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-260623-LargeGrantsOutlineAssessmentPanelMarch2023.pdf",
+  "meeting_start": "2023-06-13",
+  "meeting_end": "2023-06-14"
+}

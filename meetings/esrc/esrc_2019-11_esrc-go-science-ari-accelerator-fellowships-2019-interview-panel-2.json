@@ -1,0 +1,42 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "5",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "opportunity": "ESRC-GOS ARI Fellowships 2019",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/T009128/1"
+    },
+    {
+      "opportunity": "ESRC-GOS ARI Fellowships 2019",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T009160/1"
+    },
+    {
+      "opportunity": "ESRC-GOS ARI Fellowships 2019",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T008202/1"
+    },
+    {
+      "opportunity": "ESRC-GOS ARI Fellowships 2019",
+      "score_range": "8–8.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T008784/1"
+    },
+    {
+      "opportunity": "ESRC-GOS ARI Fellowships 2019",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T009241/1"
+    }
+  ],
+  "meeting_name": "ESRC-GO Science ARI Accelerator Fellowships 2019 Interview Panel 2",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-11",
+  "meeting_end": "2019-11"
+}

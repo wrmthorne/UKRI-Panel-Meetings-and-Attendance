@@ -1,0 +1,348 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2020,
+  "meeting_reference": "1-601058431",
+  "meeting_name": "GCRF Intl Develop FoF High 13/10/20",
+  "applications": [
+    {
+      "application_id": "AH/V011626/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Cooke",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Leeds",
+      "title": "Developing a Youth-Leadership Programme for Deaf Children in, and beyond, South Africa",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012363/1",
+      "route": "Standard",
+      "lead_applicant": "Paul Heritage",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "Building the Barricades (ES/S000720/1) Follow-On: mobilising research on mental health and substance use in Complexo da Maré, Rio de Janeiro",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011871/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012215/1",
+      "route": "Standard",
+      "lead_applicant": "Nina Laurie",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of St Andrews",
+      "title": "El Nino a phenomenon with opportunities: learning history and valuing community assets for an empowering digital curriculum in northern Peru",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012347/1",
+      "route": "Standard",
+      "lead_applicant": "Helen Ruth McCabe",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Nottingham",
+      "title": "Survivors' Voices, Stories, and Images: Survivor-Led Empowerment Through Ethical Story-Telling and Participatory Photography in Kenya",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V012436/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew David Brown",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Bristol",
+      "title": "Truth on the Margins: Bringing Memories to Support Transitional Justice in Colombia",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V01210X/1",
+      "route": "Standard",
+      "lead_applicant": "Benedetta Rossi",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University College London",
+      "title": "Legacies of Slavery in Niger 2: Mobilising Memory, Heritage, and Politics to End Abuse (LESLAN 2)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V011731/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011367/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012274/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012177/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012479/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011863/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011979/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012231/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012096/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011618/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012568/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011499/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011650/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012053/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012061/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "22",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011545/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011553/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011596/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011782/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V011804/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "2",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012037/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/V012126/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Naomi Sykes",
+      "organisation": "University of Exeter",
+      "role": "Chair"
+    },
+    {
+      "name": "Rozhen Kamal Mohammed-Amin",
+      "organisation": "Kurdistan Institution (KISSR)",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Ginger",
+      "organisation": "Northeastern University",
+      "role": "Member"
+    },
+    {
+      "name": "David Lambert",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "David Zeitlyn",
+      "organisation": "University of Oxford",
+      "role": "Member"
+    },
+    {
+      "name": "Lisa Anne-Marie Dikomitis",
+      "organisation": "University of Kent",
+      "role": "Member"
+    },
+    {
+      "name": "Loredana Polezzi",
+      "organisation": "Stony Brook University",
+      "role": "Member"
+    },
+    {
+      "name": "Madhu Krishnan",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Mohamed Gamal Abdelmonem",
+      "organisation": "University of Westminster",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2020-11-25",
+  "meeting_end": "2020-11-25"
+}

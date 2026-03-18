@@ -1,0 +1,116 @@
+{
+  "council": "NERC",
+  "meeting_location": "Polaris House, Swindon",
+  "panel_secretary": "Jennifer Wickens",
+  "panellists": [
+    {
+      "name": "Georgina Mace",
+      "role": "Chair",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Samantha Aspinall",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Elizabeth Baggs",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Sarah Brasher",
+      "role": "Member",
+      "organisation": "University of Cardiff"
+    },
+    {
+      "name": "Wouter Buytaert",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Richard Corfield",
+      "role": "Member",
+      "organisation": "BP"
+    },
+    {
+      "name": "Paul Eggleton",
+      "role": "Member",
+      "organisation": "Natural History Museum"
+    },
+    {
+      "name": "Gary Kass Natural",
+      "role": "Member",
+      "organisation": "England"
+    },
+    {
+      "name": "Simon Leather Harper Adams",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Rob MacKenzie",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Gareth Phoenix",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Simon Redfern",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Heather Sears Coventry",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Paula Stockley",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Craig Storey",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Martyn Tranter",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "John Turner",
+      "role": "Member",
+      "organisation": "Bangor University"
+    },
+    {
+      "name": "Tobias von der Haar",
+      "role": "Member",
+      "organisation": "University of Kent"
+    },
+    {
+      "name": "Simon Watts",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Piran White",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Christopher Wood",
+      "role": "Member",
+      "organisation": "University of Exeter"
+    }
+  ],
+  "meeting_name": "DTP2 MAY18",
+  "source": "NERC-funding-assessment-panel-members-2018/DTP2 Panel Membership.pdf",
+  "meeting_start": "2018-09-05",
+  "meeting_end": "2018-09-06"
+}

@@ -1,0 +1,18 @@
+{
+  "council": "ESRC",
+  "year": "2023",
+  "count_of_applications": "1",
+  "count_of_awards": "1",
+  "applications": [
+    {
+      "opportunity": "ESRC Data Infrastructure",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/Y005538/1"
+    }
+  ],
+  "meeting_name": "UKDS Recommissioning Panel",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2023-09",
+  "meeting_end": "2023-09"
+}

@@ -1,0 +1,178 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-731523347",
+  "meeting_name": "Research Networking - July 2021",
+  "applications": [
+    {
+      "application_id": "AH/W000903/1",
+      "route": "Standard",
+      "lead_applicant": "Samantha Jury",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Hertfordshire",
+      "title": "Visual Arts and Theatre Collaboration - new models for art practices in post-conflict situations",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002752/1",
+      "route": "Standard",
+      "lead_applicant": "Camille Mathieu",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "University of Exeter",
+      "title": "Aqueous Territory: Learning from Louisiana's Colonial Histories and Watery Extremes",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W000695/1",
+      "route": "Standard",
+      "lead_applicant": "Roisin Higgins",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "Teesside University",
+      "title": "Towards a Sociosomatic History of Northern Ireland's Troubles",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W000849/1",
+      "route": "Standard",
+      "lead_applicant": "Luc-André Brunet",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "The Open University",
+      "title": "Global Histories of Peace and Anti-Nuclear Activism",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W001497/1",
+      "route": "Standard",
+      "lead_applicant": "Julia Laite",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Birkbeck College",
+      "title": "What is Public History Now?  Exploring engagement, impact, collaboration and coproduction in History Higher Education",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/W002175/1",
+      "route": "Standard",
+      "lead_applicant": "Cassandra Elizabeth Gorman",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "Anglia Ruskin University",
+      "title": "Northern Networks: Astronomical and Medical Knowledge from the Baltic to East Central Europe, 1550-1750",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V015524/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "7",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000075/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000377/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000660/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002795/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W000679/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001012/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001128/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W001136/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/W002191/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Nicola Kerrie Shaughnessy",
+      "organisation": "University of Kent",
+      "role": "Moderator"
+    }
+  ],
+  "meeting_start": "2021-08-09",
+  "meeting_end": "2021-08-09"
+}

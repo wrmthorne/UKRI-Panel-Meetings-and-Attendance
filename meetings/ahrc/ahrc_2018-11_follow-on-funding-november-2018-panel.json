@@ -1,0 +1,86 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "11",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S005560/1",
+      "lead_applicant": "Sara Jones",
+      "lead_organisation": "University of Birmingham",
+      "title": "Testimony in Practice: Working with Stories of the Self and Others",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S004580/1",
+      "lead_applicant": "Alice Stevenson",
+      "lead_organisation": "University College London",
+      "title": "Egypt's Dispersed Heritage: views from Egypt",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S00517X/1",
+      "lead_applicant": "Rupert Read",
+      "lead_organisation": "University of East Anglia",
+      "title": "Taking the debate on nature's value to the valuers  [A follow on funding bid based upon the AHRC Research Network on 'Debating Nature's Value']",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S00324X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S005072/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006311/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S008055/1",
+      "lead_applicant": "Sharon Ruston",
+      "lead_organisation": "Lancaster University",
+      "title": "Crowdsourced Transcriptions of Humphry Davy's Notebooks",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007628/1",
+      "lead_applicant": "Shelley Trower",
+      "lead_organisation": "Roehampton University",
+      "title": "Living Libraries",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/S007075/1",
+      "lead_applicant": "Lee Edwards",
+      "lead_organisation": "London School of Economics & Pol Sci",
+      "title": "Follow-on Funding: Improving Deliberation, Improving Copyright",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006109/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/S006788/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Follow on Funding November 2018 panel",
+  "source": "Follow-on Funding for Impact and Engagement Q4 2018 Meeting.xlsx",
+  "meeting_start": "2018-11",
+  "meeting_end": "2018-11"
+}

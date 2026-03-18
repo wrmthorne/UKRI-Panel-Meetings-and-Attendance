@@ -1,0 +1,247 @@
+{
+  "council": "AHRC",
+  "year": "2018",
+  "count_of_applications": "38",
+  "count_of_awards": "11",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R012768/1",
+      "lead_applicant": "Gordon McMullan",
+      "lead_organisation": "King's College London",
+      "title": "Shakespeare in the Royal Collections (ShaRC)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R01308X/1",
+      "lead_applicant": "Elizabeth Thynne",
+      "lead_organisation": "University of Sussex",
+      "title": "Jill Craigie: Film Pioneer",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R012857/1",
+      "lead_applicant": "A G Brown",
+      "lead_organisation": "University of Southampton",
+      "title": "Waves of colonization around the Sea of Moyle: Linking population history, resilience and landscape change of island communities",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R013292/1",
+      "lead_applicant": "Colin Jones",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "The Duchesse d'Elbeuf's Letters to a Friend, 1788-94",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R013861/1",
+      "lead_applicant": "Aleksander Pluskowski",
+      "lead_organisation": "University of Reading",
+      "title": "Landscapes of (Re)Conquest: Dynamics of Multicultural Frontiers in Medieval SW Europe",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R013845/1",
+      "lead_applicant": "George Lau",
+      "lead_organisation": "University of East Anglia",
+      "title": "(NSF/SBE-RCUK) Rise of divine lordships in the ancient Andes: ancestors and polity in northern Peru",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R013055/1",
+      "lead_applicant": "Camillia Kong",
+      "lead_organisation": "University of Oxford",
+      "title": "The Role of Values and Participation in Judicial Deliberation and Mental Capacity Law",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/R01356X/1",
+      "lead_applicant": "Hannah Barker",
+      "lead_organisation": "The University of Manchester",
+      "title": "Faith in the town: lay religion, urbanisation and industrialisation in England, 1740-1830",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013381/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013594/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014736/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008485/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013918/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R012032/1",
+      "lead_applicant": "Nicholas Webb",
+      "lead_organisation": "University of Liverpool",
+      "title": "Tracing the past: analysing the design and construction of English medieval vaults using digital techniques.",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013284/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013586/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R013071/1",
+      "lead_applicant": "Chloe Kathleen Preedy",
+      "lead_organisation": "University of Exeter",
+      "title": "Atmospheric Theatre: Open-Air Performance and the Environment",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/R008760/1",
+      "lead_applicant": "Leila Jancovich",
+      "lead_organisation": "University of Leeds",
+      "title": "Cultural participation: Stories of success, histories of failure",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012911/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013683/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014906/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014949/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008612/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014809/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013721/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R011435/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013799/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R01342X/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014701/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014027/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R008167/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R012687/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013047/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013101/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013179/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R013152/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R01406X/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R014787/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Research Grants, April 2018 Panel Meeting",
+  "source": "Research Grants Panel, April 2018 Meeting.xlsx",
+  "meeting_start": "2018-04",
+  "meeting_end": "2018-04"
+}

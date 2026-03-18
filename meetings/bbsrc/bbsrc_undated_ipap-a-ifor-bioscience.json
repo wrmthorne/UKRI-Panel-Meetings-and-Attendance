@@ -1,0 +1,138 @@
+{
+  "council": "BBSRC",
+  "year": null,
+  "count_of_applications": "32",
+  "count_of_awards": "32",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513787/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513866/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513799/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513805/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513921/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513854/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513817/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513829/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513830/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513970/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513842/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513878/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513891/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y51388X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513763/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y51391X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513908/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513933/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513945/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513957/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513969/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513982/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y513994/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y514056/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y514007/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y514019/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y514032/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y514020/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Z514329/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Z514305/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Z514317/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/Y514044/1"
+    }
+  ],
+  "meeting_name": "IPAP A Ifor Bioscience",
+  "source": "awarded_grants/BBSRC-060625-IPAP-AIforBioscience-awards.xlsx"
+}

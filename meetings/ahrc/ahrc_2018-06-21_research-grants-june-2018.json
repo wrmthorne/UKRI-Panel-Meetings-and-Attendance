@@ -1,0 +1,273 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2018,
+  "meeting_reference": "1-346003378",
+  "meeting_name": "Research Grants - June 2018",
+  "applications": [
+    {
+      "application_id": "AH/S001271/1",
+      "route": "Standard",
+      "lead_applicant": "JoAnn McGregor",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Sussex",
+      "title": "Making African Connections: Decolonial Futures for Colonial Collections",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001824/1",
+      "route": "Standard",
+      "lead_applicant": "Chris Rodgers",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "Newcastle University",
+      "title": "Wastes and Strays: The Past, Present and Future of English Urban Commons",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001212/1",
+      "route": "Standard",
+      "lead_applicant": "Salomé Voegelin",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of the Arts London",
+      "title": "Listening Across Disciplines II",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002596/1",
+      "route": "Standard",
+      "lead_applicant": "Arezou Azad",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "University of Oxford",
+      "title": "Persian in Documents (PersDoc): Language and Islamisation in the pre-Mongol Eastern Islamic Lands",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001743/1",
+      "route": "Standard",
+      "lead_applicant": "Alison Grace Salvesen",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "University of Oxford",
+      "title": "Critical Editions of the Hebrew Bible",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001484/1",
+      "route": "Standard",
+      "lead_applicant": "Oliver Paul Richmond",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "The University of Manchester",
+      "title": "The art of peace: Interrogating community devised arts based peacebuilding",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S000380/1",
+      "route": "Standard",
+      "lead_applicant": "Oliver Hamilton Creighton",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Exeter",
+      "title": "Warhorse: The Archaeology of a Military Revolution?",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001425/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001654/1",
+      "route": "Early Career",
+      "lead_applicant": "Brodie Waddell",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "Birkbeck College",
+      "title": "The Power of Petitioning in Seventeenth-Century England",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S001875/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001573/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S00209X/1",
+      "route": "Early Career",
+      "lead_applicant": "Ting Guo",
+      "score": "4",
+      "rank": "12",
+      "lead_organisation": "University of Exeter",
+      "title": "Translating for change: Anglophone queer cinema and the Chinese LGBT+ movement",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/S002588/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "13",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001336/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R014841/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/R008299/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S002103/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S002529/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S000445/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001018/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S001638/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/S002057/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Joseph Phelan",
+      "organisation": "De Montfort University",
+      "role": "Chair"
+    },
+    {
+      "name": "Elizabeth Anne New",
+      "organisation": "Aberystwyth University",
+      "role": "Member"
+    },
+    {
+      "name": "Patrick Samuel Bullard",
+      "organisation": "University of Reading",
+      "role": "Member"
+    },
+    {
+      "name": "Brandon Hamber",
+      "organisation": "University of Ulster",
+      "role": "Member"
+    },
+    {
+      "name": "James Gilbert Mansell",
+      "organisation": "National Oceanography Centre",
+      "role": "Member"
+    },
+    {
+      "name": "Jane Pavitt",
+      "organisation": "Zaha Hadid Foundation",
+      "role": "Member"
+    },
+    {
+      "name": "Sarah Hibberd",
+      "organisation": "University of Bristol",
+      "role": "Member"
+    },
+    {
+      "name": "Stefan Manz",
+      "organisation": "Ravensbourne University London",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2018-06-21",
+  "meeting_end": "2018-06-21"
+}

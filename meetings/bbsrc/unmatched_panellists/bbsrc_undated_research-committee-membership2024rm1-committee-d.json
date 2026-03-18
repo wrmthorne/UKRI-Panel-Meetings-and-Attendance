@@ -1,0 +1,158 @@
+{
+  "council": "BBSRC",
+  "panel_name": "Committee D",
+  "panellists": [
+    {
+      "name": "Martin Cann",
+      "role": "Chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Carolyn Moores",
+      "role": "Deputy Chair",
+      "organisation": "Birkbeck College"
+    },
+    {
+      "name": "Andrew Pitt",
+      "role": "Deputy Chair",
+      "organisation": "The University of Manchester"
+    },
+    {
+      "name": "Paolo Actis",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Sohail Tahir Ali",
+      "role": "Member",
+      "organisation": "Independent"
+    },
+    {
+      "name": "Tessa Crompton",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Hai Deng",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "Andrew Gates",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Robert Graham",
+      "role": "Member",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "Jennifer Hay",
+      "role": "Member",
+      "organisation": "Francis Crick Institute"
+    },
+    {
+      "name": "Sian Henson",
+      "role": "Member",
+      "organisation": "Queen Mary, University of London"
+    },
+    {
+      "name": "Edward Hutchinson",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Sarah Jones",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Alastair Kerr",
+      "role": "Member",
+      "organisation": "Genomics England"
+    },
+    {
+      "name": "Birgit Leitinger",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "David Leys",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Jody Mason",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Elek Molnar",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Helen Mott",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "Yvonne Nyathi",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "Annalisa Occhipinti",
+      "role": "Member",
+      "organisation": "Teesside University"
+    },
+    {
+      "name": "Sonia Rocha",
+      "role": "Member",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Gaynor Ann Smith",
+      "role": "Member",
+      "organisation": "Cardiff University"
+    },
+    {
+      "name": "Phillip Stansfield",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Leanne Stokes",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Edward Tate",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Jessica Teeling",
+      "role": "Member",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Jamie Twycross",
+      "role": "Member",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "Tuck Seng Wong",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Christoph Wuelfing",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    }
+  ],
+  "meeting_name": "Research Committee Membership2024RM1 - Committee D",
+  "source": "membership/BBSRC-191124-ResearchCommitteeMembership2024RM1.pdf"
+}

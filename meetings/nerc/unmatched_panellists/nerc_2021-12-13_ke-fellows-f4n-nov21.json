@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Amber Blundell",
+  "panellists": [
+    {
+      "name": "Shewly Choudhury",
+      "role": "Chair",
+      "organisation": "NERC"
+    },
+    {
+      "name": "James Box",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Simon Kerley",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Gemma Truelove",
+      "role": "Member",
+      "organisation": "NERC"
+    },
+    {
+      "name": "Simon Zadek Finance",
+      "role": "Member",
+      "organisation": "for Biodiversity (F4B)"
+    }
+  ],
+  "meeting_name": "KE Fellows (F4N) NOV21",
+  "source": "NERC-funding-assessment-panel-members-2021/NERC-090322-Panel-FinanceForNature-KEF-181121.pdf",
+  "meeting_start": "2021-12-13",
+  "meeting_end": "2021-12-13"
+}

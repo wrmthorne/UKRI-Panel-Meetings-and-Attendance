@@ -1,0 +1,56 @@
+{
+  "council": "BBSRC",
+  "year": "2021",
+  "count_of_applications": "11",
+  "count_of_awards": "11",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W018802/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W019132/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W019183/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W018853/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W018772/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W019108/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W018780/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W019051/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W019221/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W01923X/1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "BB/W019116/1"
+    }
+  ],
+  "meeting_name": "Awarded Research Grants Bioinformatics Biological Resources Fund2021",
+  "source": "awarded_grants/BBSRC-021224-AwardedResearchGrantsBioinformaticsBiologicalResourcesFund2021.xlsx",
+  "meeting_start": "2021",
+  "meeting_end": "2021"
+}

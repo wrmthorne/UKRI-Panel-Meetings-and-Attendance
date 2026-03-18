@@ -1,0 +1,66 @@
+{
+  "council": "NERC",
+  "meeting_location": "Virtual",
+  "panel_secretary": "Nikki Cholod",
+  "panellists": [
+    {
+      "name": "Helen Featherstone",
+      "role": "Chair",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Helen Roy",
+      "role": "Deputy Chair",
+      "organisation": "UK Centre for Ecology and Hydrology"
+    },
+    {
+      "name": "Ioana Colfescu",
+      "role": "Member",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "David Demeritt",
+      "role": "Member",
+      "organisation": "Kings College London"
+    },
+    {
+      "name": "Amanna Giles",
+      "role": "Member",
+      "organisation": "DEFRA"
+    },
+    {
+      "name": "Simon Jude",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Hazel Napier",
+      "role": "Member",
+      "organisation": "British Geographical Survey"
+    },
+    {
+      "name": "Peter Sammonds",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Deepa Senapathi",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Emma Visman Save",
+      "role": "Member",
+      "organisation": "the Children"
+    },
+    {
+      "name": "Jim Wharfe Wharfe",
+      "role": "Member",
+      "organisation": "Independent Consulting"
+    }
+  ],
+  "meeting_name": "Knowledge Exchange Fellowships (KE JUN23)",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-210723-KEFellowshipsPanelMembershipJune2023.pdf",
+  "meeting_start": "2023-07-27",
+  "meeting_end": "2023-07-27"
+}

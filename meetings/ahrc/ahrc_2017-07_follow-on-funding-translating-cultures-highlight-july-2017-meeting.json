@@ -1,0 +1,71 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "8",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004579/1",
+      "lead_applicant": "Raquel de Pedro Ricoy",
+      "lead_organisation": "Heriot-Watt University",
+      "title": "Improving women's lives through the role of female social interpreters in rural Peru",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004773/1",
+      "lead_applicant": "Feargal Mac Ionnrachtaigh",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "The Féile Journey at 30: Translating Culture through Community Festivals",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004617/1",
+      "lead_applicant": "Giovanna Fassetta",
+      "lead_organisation": "University of Glasgow",
+      "title": "The impact of language. Collaborating across borders to the design, development and promotion of an Online Palestinian Arabic Course",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004781/1",
+      "lead_applicant": "Jane Andrews",
+      "lead_organisation": "University of the West of England",
+      "title": "Creating Welcoming Learning Environments: Disseminating Arts-Based Approaches to Including All Learners in Their Education",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R004714/1",
+      "lead_applicant": "Barbara Spadaro",
+      "lead_organisation": "University of Liverpool",
+      "title": "Translating an Exhibition. Co-producing Local Responses to Transnational Research.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/R003750/1",
+      "lead_applicant": "Alys Young",
+      "lead_organisation": "The University of Manchester",
+      "title": "Translating the Deaf Self: engagement and exploration through artistic transformations",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004676/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R004692/1",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Follow-on Funding Translating Cultures Highlight - July 2017 Meeting",
+  "source": "Follow-on Funding for Impact and Engagement, Translating Cultures Highlight Notice, July 2017 Meeting.xlsx",
+  "meeting_start": "2017-07",
+  "meeting_end": "2017-07"
+}

@@ -1,0 +1,25 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1412",
+  "meeting_name": "EPSRC Physical Sciences Interview Panel 5 September 2025 – Open Plus Fellowships",
+  "meeting_convenor": "A Kumar",
+  "applications": [
+    {
+      "application_id": "APP28924",
+      "title": "Embracing disorder: Pioneering catalyst disorder for transformative carbon dioxide conversion",
+      "lead_organisation": "Cardiff University",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "2525422.16",
+      "award_id": "UKRI3371",
+      "opportunity_number": "295",
+      "lead_applicant": "S Taylor",
+      "link": "https://gtr.ukri.org/projects?ref=3371",
+      "opportunity": "EPSRC open plus fellowships, Dec 2023: responsive mode"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-09-05",
+  "meeting_end": "2025-09-05"
+}

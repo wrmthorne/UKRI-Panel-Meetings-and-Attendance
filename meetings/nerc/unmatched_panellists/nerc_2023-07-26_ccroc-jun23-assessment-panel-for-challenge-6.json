@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Jess Surma",
+  "panellists": [
+    {
+      "name": "Douglas Wallace Dalhousie",
+      "role": "Chair",
+      "organisation": "University"
+    },
+    {
+      "name": "John Dunne National Oceanic",
+      "role": "Member",
+      "organisation": "and Atmospheric"
+    },
+    {
+      "name": "Anand Gnanadesikan Johns Hopkins",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Graeme MacGilchrist",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    }
+  ],
+  "meeting_name": "CCROC JUN23 Assessment Panel for Challenge 6",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-010823-CCROCAssessmentPanelMembershipChallengeSixJune2023.pdf",
+  "meeting_start": "2023-07-26",
+  "meeting_end": "2023-07-26"
+}

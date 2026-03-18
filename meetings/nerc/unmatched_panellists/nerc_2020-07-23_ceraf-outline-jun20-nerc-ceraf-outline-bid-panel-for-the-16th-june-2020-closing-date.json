@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Liz Rowse",
+  "panellists": [
+    {
+      "name": "Julia Slingo",
+      "role": "Chair",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Martin Baxter Inst",
+      "role": "Member",
+      "organisation": "of Env Management and Assessment"
+    },
+    {
+      "name": "David Demeritt",
+      "role": "Member",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Neil Chue Hong Software",
+      "role": "Member",
+      "organisation": "Sustainability Institute"
+    },
+    {
+      "name": "Lee Chapman",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Marian Scott",
+      "role": "Member",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "Maryam Golnaraghi Geneva",
+      "role": "Member",
+      "organisation": "Association"
+    },
+    {
+      "name": "Ben Carr Aviva",
+      "role": "Member",
+      "organisation": "Plc"
+    },
+    {
+      "name": "Edward Hogg Dept",
+      "role": "Member",
+      "organisation": "for Bus, Energy & Ind Strat (BEIS)"
+    }
+  ],
+  "meeting_name": "CERAF Outline JUN20 NERC CERAF Outline Bid Panel for the 16th June 2020 Closing Date",
+  "source": "NERC-funding-assessment-panel-members-2020/NERC-090322-Panel-CERAF-OutlineBid-160620.pdf",
+  "meeting_start": "2020-07-23",
+  "meeting_end": "2020-07-23"
+}

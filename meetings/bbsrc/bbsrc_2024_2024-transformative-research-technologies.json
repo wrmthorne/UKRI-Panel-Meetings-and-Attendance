@@ -1,0 +1,88 @@
+{
+  "council": "BBSRC",
+  "year": "2024",
+  "count_of_applications": "19",
+  "count_of_awards": "19",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "APP54789"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP54857"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP54914"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP54979"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP55447"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP57495"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP58092"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP60593"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP61538"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP61673"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP62334"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP62695"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP62791"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP62929"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP63061"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP63110"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP63254"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP64319"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "APP64325"
+    }
+  ],
+  "meeting_name": "2024 Transformative Research Technologies",
+  "source": "awarded_grants/080925-BBSRC-AwardedGrants2024-TransformativeResearchTechnologies.xlsx",
+  "meeting_start": "2024",
+  "meeting_end": "2024"
+}

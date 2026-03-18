@@ -1,0 +1,36 @@
+{
+  "council": "NERC",
+  "count_of_applications": "4",
+  "count_of_awards": "1",
+  "year": "2016",
+  "applications": [
+    {
+      "score": "8",
+      "outcome": "Successful",
+      "application_id": "NE/P012345/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/P011861/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P012132/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/P01187X/1",
+      "rank": "4"
+    }
+  ],
+  "meeting_name": "Modelling and quantitative skills in ecology and evolution Centre for Doctoral Training call - July 2016",
+  "source": "Modelling and quantitative skills in ecology and evolution CDT 2016.pdf",
+  "meeting_start": "2016",
+  "meeting_end": "2016"
+}

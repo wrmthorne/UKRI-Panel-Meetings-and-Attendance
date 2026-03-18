@@ -1,0 +1,31 @@
+{
+  "council": "NERC",
+  "meeting_location": "Regus London King’s Cross St Pancras",
+  "panel_secretary": "Dr Jennifer Morris",
+  "panellists": [
+    {
+      "name": "Mark Brandon",
+      "role": "Chair",
+      "organisation": "Open University"
+    },
+    {
+      "name": "Bruno Delille",
+      "role": "Member",
+      "organisation": "University of Liege"
+    },
+    {
+      "name": "Miguel Ángel Morales Maqueda",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Christoph Voelker Alfred Wegener",
+      "role": "Member",
+      "organisation": "Institute"
+    }
+  ],
+  "meeting_name": "Southern Ocean SEP19",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-RosesChallenge3-190919.pdf",
+  "meeting_start": "2019-11-15",
+  "meeting_end": "2019-11-15"
+}

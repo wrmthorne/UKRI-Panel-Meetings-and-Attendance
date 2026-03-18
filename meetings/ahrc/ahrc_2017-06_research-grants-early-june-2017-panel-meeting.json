@@ -1,0 +1,157 @@
+{
+  "council": "AHRC",
+  "year": "2017",
+  "count_of_applications": "24",
+  "count_of_awards": "6",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P013910/1",
+      "lead_applicant": "Jeffrey Dean",
+      "lead_organisation": "Birmingham City University",
+      "title": "Interpreting the Mensural Notation of Music: An Expert System Based on the Theory of Johannes Tinctoris",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P015069/1",
+      "lead_applicant": "Stephen Lambert",
+      "lead_organisation": "Cardiff University",
+      "title": "Attic inscriptions in UK collections (AIUK)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P014569/1",
+      "lead_applicant": "Stephen Pinfield",
+      "lead_organisation": "University of Sheffield",
+      "title": "Open Access in Theory and Practice: The Uses of Theory in Research on Open Access and their Relationship with Practice",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/P014976/1",
+      "lead_applicant": "Martin Zebracki",
+      "lead_organisation": "University of Leeds",
+      "title": "Queer Memorials: International Comparative Perspectives on Sexual Diversity and Social Inclusivity (QMem)",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P015077/1",
+      "lead_applicant": "Derek Matravers",
+      "lead_organisation": "Open University",
+      "title": "Cultural Property",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/P014178/1",
+      "lead_applicant": "Peter Shirlow",
+      "lead_organisation": "University of Liverpool",
+      "title": "The Art of Reconciliation: Do reconciliation-funded arts projects transform conflict?",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013872/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013813/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01450X/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N009762/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009409/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P009123/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P006108/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P008518/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014062/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000352/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000042/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R001499/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000166/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P014151/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P013953/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/P01366X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000069/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/R000271/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants, early June 2017 Panel Meeting",
+  "source": "1706-early-research-grants-meeting.xlsx",
+  "meeting_start": "2017-06",
+  "meeting_end": "2017-06"
+}

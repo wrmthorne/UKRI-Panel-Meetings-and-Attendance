@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2021,
+  "meeting_reference": "1-645513723",
+  "meeting_name": "Follow on Fund - Jan 2021",
+  "applications": [
+    {
+      "application_id": "AH/V008048/1",
+      "route": "Standard",
+      "lead_applicant": "Jennifer Smith",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "University of Glasgow",
+      "title": "Speak for Yersel: Mapping Scots in the 21st Century Classroom Scots",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010786/1",
+      "route": "Standard",
+      "lead_applicant": "Ruth Livesey",
+      "score": "5",
+      "rank": "2",
+      "lead_organisation": "Royal Holloway, Univ of London",
+      "title": "Finding Middlemarch in Coventry, 2021",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V013165/1",
+      "route": "Standard",
+      "lead_applicant": "Matthew Bevis",
+      "score": "5",
+      "rank": "3",
+      "lead_organisation": "University of Oxford",
+      "title": "Edward Lear, Moment to Moment",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004891/1",
+      "route": "Standard",
+      "lead_applicant": "Ryan John Rabett",
+      "score": "5",
+      "rank": "4",
+      "lead_organisation": "Queen's University of Belfast",
+      "title": "Portrayals of Prehistoric Tràng An",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V004751/1",
+      "route": "Standard",
+      "lead_applicant": "Stefan Manz",
+      "score": "5",
+      "rank": "5",
+      "lead_organisation": "Aston University",
+      "title": "World War I in South Africa: Digital and Virtual Experiences",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/V010093/1",
+      "route": "Standard",
+      "lead_applicant": "Eleni Philippou",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Oxford",
+      "title": "Prismatic Jane Eyre",
+      "outcome": "Successful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Joanna Drugan",
+      "organisation": "Anglia Ruskin University",
+      "role": "Chair"
+    },
+    {
+      "name": "Alex G Hale",
+      "organisation": "Historic Environment Scotland",
+      "role": "Member"
+    },
+    {
+      "name": "Linda Monckton",
+      "organisation": "Historic Bldgs & Mnts Commis for England",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2021-01-18",
+  "meeting_end": "2021-01-18"
+}

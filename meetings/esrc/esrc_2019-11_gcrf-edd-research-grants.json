@@ -1,0 +1,144 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "22",
+  "count_of_awards": "7",
+  "applications": [
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T004851/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T004983/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/T005149/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T005068/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T004789/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T005130/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "7–7.9",
+      "outcome": "Successful",
+      "application_id": "ES/T004959/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005084/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005025/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T00505X/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T004991/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T004975/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T004908/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005106/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005157/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005165/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T004932/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005181/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005335/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005114/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005122/1"
+    },
+    {
+      "opportunity": "UKRI-GCRF EDD Research Grants",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/T005009/1"
+    }
+  ],
+  "meeting_name": "GCRF - EDD Research Grants",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-11",
+  "meeting_end": "2019-11"
+}

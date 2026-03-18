@@ -1,0 +1,47 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN686",
+  "meeting_name": "OPP645 - EPSRC Ministry of Defence Hypersonics Champion",
+  "meeting_convenor": "A Luqmani",
+  "applications": [
+    {
+      "application_id": "APP50378",
+      "title": "EPSRC Ministry of Defence Hypersonics Champion",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "1316000",
+      "award_id": "UKRI1256",
+      "opportunity_number": "645",
+      "lead_applicant": "M McGilvray",
+      "link": "https://gtr.ukri.org/projects?ref=1256",
+      "opportunity": "MOD Hypersonics Champion 2024"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Noakes",
+      "role": "Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "T Birch",
+      "role": "Panellist",
+      "organisation": "Defence Science & Tech Lab DSTL"
+    },
+    {
+      "name": "J G",
+      "role": "Panellist",
+      "organisation": "Government Communications Headquarters"
+    },
+    {
+      "name": "P Wilson",
+      "role": "Panellist",
+      "organisation": "Ministry of Defence"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-08-22",
+  "meeting_end": "2024-08-22"
+}

@@ -1,0 +1,289 @@
+{
+  "council": "NERC",
+  "count_of_applications": "56",
+  "count_of_awards": "26",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017492/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017573/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017883/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017964/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017972/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018022/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018030/1",
+      "rank": "185"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018065/1",
+      "rank": "2185"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018162/1",
+      "rank": "2185"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017689/1",
+      "rank": "2285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R01776X/1",
+      "rank": "2285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017816/1",
+      "rank": "2285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017859/1",
+      "rank": "2285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017867/1",
+      "rank": "2285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017948/1",
+      "rank": "2285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017719/1",
+      "rank": "2375"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017794/1",
+      "rank": "2375"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017824/1",
+      "rank": "2375"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R018111/1",
+      "rank": "2375"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R01745X/1",
+      "rank": "3195"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017484/1",
+      "rank": "3195"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017565/1",
+      "rank": "3195"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017840/1",
+      "rank": "3195"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018006/1",
+      "rank": "3195"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018057/1",
+      "rank": "195"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017743/1",
+      "rank": "3285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017778/1",
+      "rank": "3285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R01793X/1",
+      "rank": "3285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R018073/1",
+      "rank": "3285"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017557/1",
+      "rank": "3365"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017581/1",
+      "rank": "3365"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017700/1",
+      "rank": "3365"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017506/1",
+      "rank": "3443"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017697/1",
+      "rank": "3443"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017891/1",
+      "rank": "3443"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017905/1",
+      "rank": "3443"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017360/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017549/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017638/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017832/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017913/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017956/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018049/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R01809X/1",
+      "rank": "4175"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R017727/1",
+      "rank": "185"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018146/1",
+      "rank": "5285"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "NE/R018138/1",
+      "rank": "5376"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R018154/1",
+      "rank": "5475"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017476/1",
+      "rank": "5575"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017603/1",
+      "rank": "5675"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017735/1",
+      "rank": "5765"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R018081/1",
+      "rank": "5863"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R01762X/1",
+      "rank": "5964"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017751/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R017875/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "NE/R01759X/1",
+      "rank": "5"
+    }
+  ],
+  "meeting_name": "Unconventional Hydrocarbons in the UK Energy System: Environmental & socio-economic impacts & processes Challenge 1: The evolving shale gas landscape (one project)",
+  "source": "UH outcomes for website final.pdf"
+}

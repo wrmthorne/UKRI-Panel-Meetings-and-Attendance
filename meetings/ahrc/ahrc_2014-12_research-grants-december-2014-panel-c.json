@@ -1,0 +1,88 @@
+{
+  "council": "AHRC",
+  "year": "2014",
+  "count_of_applications": "11",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel\nNote 2. Early Career and Standard Route applications are assessed under the same criteria and graded and ranked alongside each other at the panel meeting. As part of our commitment to ensuring a slightly higher success rate for the early career route, early career proposals ranked lower than standard proposals are sometimes funded.",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M006522/1",
+      "lead_applicant": "Martin Millett",
+      "lead_organisation": "University of Cambridge",
+      "title": "Beneath the surface of Roman Republican cities",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008304/1",
+      "lead_applicant": "Jim Leary",
+      "lead_organisation": "University of Reading",
+      "title": "Neolithic Pilgrimage? Rivers, mobility and monumentality in the land between Avebury and Stonehenge: The Vale of Pewsey project",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Standard",
+      "application_id": "AH/M005704/1",
+      "lead_applicant": "Peter Pormann",
+      "lead_organisation": "The University of Manchester",
+      "title": "The Syriac Galen Palimpsest: Galen's On Simple Drugs and the Recovery of Lost Texts through Sophisticated Imaging Techniques.",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M006441/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008266/1",
+      "lead_applicant": "Karina Croucher",
+      "lead_organisation": "University of Bradford",
+      "title": "Continuing Bonds: Exploring the meaning and legacy of death through past and contemporary practice.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "route": "Early Career",
+      "application_id": "AH/M008177/1",
+      "lead_applicant": "Jen Ross",
+      "lead_organisation": "University of Edinburgh",
+      "title": "Artcasting and ARTIST ROOMS on Tour: Using mobilities-informed methods to support new approaches to arts evaluation",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005976/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005720/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005690/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M005844/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/M00693X/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Grants December 2014 Panel C",
+  "source": "ResearchGrantsPanelCDec2014.xlsx",
+  "meeting_start": "2014-12",
+  "meeting_end": "2014-12"
+}

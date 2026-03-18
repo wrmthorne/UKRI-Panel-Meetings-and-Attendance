@@ -1,0 +1,46 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remote – via Zoom",
+  "panel_secretary": "Jess Surma",
+  "panellists": [
+    {
+      "name": "Richard Williams",
+      "role": "Chair",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "Stuart Bishop North Carolina",
+      "role": "Member",
+      "organisation": "State University"
+    },
+    {
+      "name": "Martha Buckley George Mason",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Leon Chafik Stockholm",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "Miguel Ángel Morales Maqueda",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Eduardo",
+      "role": "Member",
+      "organisation": "Moreno-Chamarro Barcelona Supercomputing Center"
+    },
+    {
+      "name": "Simon Tett",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "meeting_name": "CCROC Assessment - Challenge 2-5 Panel",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-240723-PanelMeetingListCCROC15Jun2023.pdf",
+  "meeting_start": "2023-07-20",
+  "meeting_end": "2023-07-20"
+}

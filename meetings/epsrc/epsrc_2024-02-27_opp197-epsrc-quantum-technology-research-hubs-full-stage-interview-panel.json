@@ -1,0 +1,169 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN191",
+  "meeting_name": "OPP197 EPSRC Quantum Technology Research Hubs Full Stage Interview Panel",
+  "meeting_convenor": "A Bignall",
+  "applications": [
+    {
+      "application_id": "APP8163",
+      "title": "UK Quantum Technology Hub in Sensing, Imaging and Timing (QuSIT)",
+      "lead_organisation": "University of Birmingham",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "21969588.16",
+      "award_id": "EP/Z533166/1",
+      "opportunity_number": "197",
+      "lead_applicant": "M Holynski",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533166%2F1",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP8240",
+      "title": "INTEGRATED QUANTUM NETWORKS (IQN) RESEARCH HUB",
+      "lead_organisation": "Heriot-Watt University",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "21872249.09",
+      "award_id": "EP/Z533208/1",
+      "opportunity_number": "197",
+      "lead_applicant": "G Buller",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533208%2F1",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP9926",
+      "title": "A U.K. Hub for Quantum Enabled Position, Navigation and Timing (QEPNT)",
+      "lead_organisation": "University of Glasgow",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "21885197.91",
+      "award_id": "EP/Z533178/1",
+      "opportunity_number": "197",
+      "lead_applicant": "D Paul",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533178%2F1",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP10873",
+      "title": "Quantum Biomedical Sensing Research Hub (Q-BIOMED): Delivering the quantum-enabled future of early disease diagnosis and treatment",
+      "lead_organisation": "University College London",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "21955289.51",
+      "award_id": "EP/Z533191/1",
+      "opportunity_number": "197",
+      "lead_applicant": "J Morton",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ533191%2F1",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP17780",
+      "title": "Hub for Quantum Computing via Integrated and Interconnected Implementations (QCI3)",
+      "lead_organisation": "University of Oxford",
+      "outcome": "Successful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "21948358.172",
+      "award_id": "EP/Z53318X/1",
+      "opportunity_number": "197",
+      "lead_applicant": "D O'Brien",
+      "link": "https://gtr.ukri.org/projects?ref=EP%2FZ53318X%2F1",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP8172",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "197",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP8361",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "197",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP9685",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "197",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    },
+    {
+      "application_id": "APP16628",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "",
+      "rank_group": "Unranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "197",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC Quantum Technology Research Hubs: Full stage"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C W",
+      "role": "Chair",
+      "organisation": "GCHQ"
+    },
+    {
+      "name": "S Eriksson",
+      "role": "Deputy chair",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "J Twamley",
+      "role": "Deputy chair",
+      "organisation": "Okinawa Institute of Science and Technology"
+    },
+    {
+      "name": "N Korolkova",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "G Leuchs",
+      "role": "Panellist",
+      "organisation": "Max Planck Institute for the Science of Light"
+    },
+    {
+      "name": "I Reid",
+      "role": "Panellist",
+      "organisation": "CENSIS"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-02-27",
+  "meeting_end": "2024-02-27"
+}

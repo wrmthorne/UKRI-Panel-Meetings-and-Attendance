@@ -1,0 +1,223 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN1086",
+  "meeting_name": "EPSRC Engineering Prioritisation Panel April 2025 - New Investigator Awards",
+  "meeting_convenor": "K Davies",
+  "applications": [
+    {
+      "application_id": "APP29275",
+      "title": "Fluid dynamics-Like Open-source Crowd Knowledge-driven Simulator (FLOCKS)",
+      "lead_organisation": "University of Edinburgh",
+      "outcome": "Successful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "492987.21",
+      "award_id": "UKRI2419",
+      "opportunity_number": "320",
+      "lead_applicant": "L Gibelli",
+      "link": "https://gtr.ukri.org/projects?ref=2419",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP43281",
+      "title": "Enabling failure prediction of large-scale structural components from laboratory size specimens",
+      "lead_organisation": "National Nuclear Laboratory",
+      "outcome": "Successful",
+      "rank": "2",
+      "rank_group": "Ranked",
+      "awarded_amount": "539435.23",
+      "award_id": "UKRI3538",
+      "opportunity_number": "320",
+      "lead_applicant": "M Gintalas",
+      "link": "https://gtr.ukri.org/projects?ref=3538",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP35922",
+      "title": "Discrete Dislocation modelling of low cycle thermomechanical fatigue in Nickel alloys",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "3",
+      "rank_group": "Ranked",
+      "awarded_amount": "544856.18",
+      "award_id": "UKRI2420",
+      "opportunity_number": "320",
+      "lead_applicant": "C Skamniotis",
+      "link": "https://gtr.ukri.org/projects?ref=2420",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP51426",
+      "title": "Hydrogen Embrittlement Mitigation by Engineering Grain Boundary Composition (HEnGB)",
+      "lead_organisation": "Imperial College London",
+      "outcome": "Successful",
+      "rank": "4",
+      "rank_group": "Ranked",
+      "awarded_amount": "687456.04",
+      "award_id": "UKRI2421",
+      "opportunity_number": "320",
+      "lead_applicant": "L Cupertino Malheiros",
+      "link": "https://gtr.ukri.org/projects?ref=2421",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP32900",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "5",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP41839",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "6",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23093",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "7",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP23949",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "8",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP37996",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "9",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    },
+    {
+      "application_id": "APP38056",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "10",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "320",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC new investigator award, November 2023: responsive mode"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "C Davis",
+      "role": "Chair",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "A Alderson",
+      "role": "Panellist",
+      "organisation": "Sheffield Hallam University"
+    },
+    {
+      "name": "G Barakos",
+      "role": "Panellist",
+      "organisation": "University of Glasgow"
+    },
+    {
+      "name": "L Black",
+      "role": "Panellist",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "E Gibson",
+      "role": "Panellist",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Y Hardalupas",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "D JENKINS",
+      "role": "Panellist",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "G Leeke",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "B MacCarthy",
+      "role": "Panellist",
+      "organisation": "University of Nottingham"
+    },
+    {
+      "name": "L Mahdjoubi",
+      "role": "Panellist",
+      "organisation": "University of the West of England"
+    },
+    {
+      "name": "O Menshykov",
+      "role": "Panellist",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "P Nithiarasu",
+      "role": "Panellist",
+      "organisation": "Swansea University"
+    },
+    {
+      "name": "E Tsekleves",
+      "role": "Panellist",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "B Webb",
+      "role": "Panellist",
+      "organisation": "University of Edinburgh"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2025-04-08",
+  "meeting_end": "2025-04-08"
+}

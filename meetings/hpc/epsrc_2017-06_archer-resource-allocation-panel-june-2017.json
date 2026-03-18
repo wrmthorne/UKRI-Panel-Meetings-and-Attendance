@@ -1,0 +1,250 @@
+{
+  "council": "EPSRC",
+  "year": "2017",
+  "count_of_applications": "25",
+  "count_of_awards": "16",
+  "notes": "Nine applications were unsuccessful in the June 2017 ARCHER resource allocation panel.",
+  "panellists": [
+    {
+      "name": "Adrian Mulholland",
+      "organisation": "University of Bristol",
+      "role": "Chair"
+    },
+    {
+      "name": "Rob Lewis",
+      "organisation": "TotalSim Ltd",
+      "role": "Member"
+    },
+    {
+      "name": "Andrew Teale",
+      "organisation": "University of Nottingham",
+      "role": "Member"
+    },
+    {
+      "name": "Gabriela Slavcheva",
+      "organisation": "University of Bath",
+      "role": "Member"
+    },
+    {
+      "name": "Irina Tikhonova",
+      "organisation": "QUB",
+      "role": "Member"
+    },
+    {
+      "name": "Martijn A. Zwijnenburg",
+      "organisation": "UCL",
+      "role": "Member"
+    },
+    {
+      "name": "Xi Jiang",
+      "organisation": "Lancaster University",
+      "role": "Member"
+    }
+  ],
+  "applications": [
+    {
+      "type_of_application": "new submission",
+      "title": "Attosecond dynamics of radio sensitizer molecules",
+      "outcome": "Successful",
+      "kaus_awarded": "36634",
+      "lead_applicant": "Daniel Dundas",
+      "lead_organisation": "Queen's University Belfast"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Large scale atomistic spin dynamics of advanced magnetic materials and devices",
+      "outcome": "Successful",
+      "kaus_awarded": "19354",
+      "lead_applicant": "Richard Evans",
+      "lead_organisation": "University of York"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "IBM Investigation of drag in dense, polydisperse, saturated grain packings",
+      "outcome": "Successful",
+      "kaus_awarded": "19595.52",
+      "lead_applicant": "Catherine O'Sullivan",
+      "lead_organisation": "Imperial College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "High fidelity non-equilibrium DSMC flow simulations at scale using SPARTA",
+      "outcome": "Successful",
+      "kaus_awarded": "31968",
+      "lead_applicant": "Benzi John",
+      "lead_organisation": "STFC"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Benchmarking the calculation of low frequency phonons in organic semiconductors",
+      "outcome": "Successful",
+      "kaus_awarded": "24051",
+      "lead_applicant": "Alessandro Troisi",
+      "lead_organisation": "University of Liverpool"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Optical and electronic properties of two-dimensional metal chalcogenides",
+      "outcome": "Successful",
+      "kaus_awarded": "30427",
+      "lead_applicant": "Johannes Lischner",
+      "lead_organisation": "Imperial College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Aerodynamics of Intake-fan interaction under crosswinds",
+      "outcome": "Successful",
+      "kaus_awarded": "25228.8",
+      "lead_applicant": "Paul Tucker",
+      "lead_organisation": "University of Cambridge"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Compliant coatings for friction drag reduction",
+      "outcome": "Successful",
+      "kaus_awarded": "18259.2",
+      "lead_applicant": "Ignazio Maria Viola",
+      "lead_organisation": "University of Edinburgh"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "In-Silico fabrication of graphene oxide membranes",
+      "outcome": "Successful",
+      "kaus_awarded": "24550",
+      "lead_applicant": "Paola Carbone",
+      "lead_organisation": "University of Manchester"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Preparing for Exascale with Mini-applications",
+      "outcome": "Successful",
+      "kaus_awarded": "9694.8",
+      "lead_applicant": "Gihan Mudalige",
+      "lead_organisation": "University of Warwick"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Molecular kinetics for ligand binding",
+      "outcome": "Successful",
+      "kaus_awarded": "22636",
+      "lead_applicant": "Edina Rosta",
+      "lead_organisation": "King's College London"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "Modelling of nano-confined phase change materials",
+      "outcome": "Successful",
+      "kaus_awarded": "11205",
+      "lead_applicant": "David Quigley",
+      "lead_organisation": "University of Warwick"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "The emergence of chirality in solutions of DNA origamis",
+      "outcome": "Successful",
+      "kaus_awarded": "27327",
+      "lead_applicant": "Jonathan Doye",
+      "lead_organisation": "University of Oxford"
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "new submission",
+      "title": "",
+      "outcome": "Unsuccessful",
+      "kaus_awarded": "0",
+      "lead_applicant": "",
+      "lead_organisation": ""
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Designing alloys for resource efficiency (DARE) - a manufacturing approach",
+      "outcome": "Successful",
+      "kaus_awarded": "57024",
+      "lead_applicant": "William Rainforth",
+      "lead_organisation": "King's College London"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Putting Low Coordination into Practice by the Exploration of Metal-sigma-Interactions: Fundamentals, New Catalysts and Catalysis for New Materials",
+      "outcome": "Successful",
+      "kaus_awarded": "152280",
+      "lead_applicant": "Stuart Macgregor",
+      "lead_organisation": "Heriot-Watt University"
+    },
+    {
+      "type_of_application": "top-up resource on standard grants",
+      "title": "Integration of Computation and Experiment for Accelerated Materials Discovery",
+      "outcome": "Successful",
+      "kaus_awarded": "788314",
+      "lead_applicant": "Matthew Rosseinsky",
+      "lead_organisation": "University of Liverpool"
+    }
+  ],
+  "meeting_name": "ARCHER resource allocation panel - June 2017",
+  "source": "EPSRC-041021-ArcherResourceAllocationPanelOutcomes-June2017.xlsx",
+  "meeting_start": "2017-06",
+  "meeting_end": "2017-06"
+}

@@ -1,0 +1,51 @@
+{
+  "council": "NERC",
+  "meeting_location": "Swindon",
+  "panel_secretary": "Weihao Zhong",
+  "panellists": [
+    {
+      "name": "Penny Johnes",
+      "role": "Chair",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Peter Alexander",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Alessandro Gimona The James",
+      "role": "Member",
+      "organisation": "Hutton Institute"
+    },
+    {
+      "name": "Paul Harris",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Saul Jacka",
+      "role": "Member",
+      "organisation": "University of Warwick"
+    },
+    {
+      "name": "Francesca Pianosi",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "Richard Wilkinson",
+      "role": "Member",
+      "organisation": "University of Sheffield"
+    },
+    {
+      "name": "Sibylle Schroll",
+      "role": "Member",
+      "organisation": "University of Leicester - Observer"
+    }
+  ],
+  "meeting_name": "(Landscape Decisions Maths APR19)",
+  "source": "NERC-funding-assessment-panel-members-2019/NERC-090322-Panel-LandscapeDecisionsMaths-250419.pdf",
+  "meeting_start": "2019-06-28",
+  "meeting_end": "2019-06-28"
+}

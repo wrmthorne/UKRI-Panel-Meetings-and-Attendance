@@ -1,0 +1,96 @@
+{
+  "council": "STFC",
+  "year": "2020",
+  "count_of_applications": "12",
+  "count_of_awards": "2",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005278/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005537/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005529/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V00574X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005227/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005235/1",
+      "rank": "6"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V00526X/1",
+      "rank": "7"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005391/1",
+      "rank": "8"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005308/1",
+      "rank": "9"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005251/1",
+      "rank": "10"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005421/1",
+      "rank": "11"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "Leadership Fellowships in PE 2020/21",
+      "year": "2020",
+      "application_id": "ST/V005316/1",
+      "rank": "12"
+    }
+  ],
+  "meeting_name": "Leadership Fellowships in PE 2020/21",
+  "source": "STFC-leadership-fellowships-in-public-engagement-2/STFC-251021-LeadershipFellowshipsInPE-2020-RankingList.xlsx",
+  "meeting_start": "2020",
+  "meeting_end": "2020"
+}

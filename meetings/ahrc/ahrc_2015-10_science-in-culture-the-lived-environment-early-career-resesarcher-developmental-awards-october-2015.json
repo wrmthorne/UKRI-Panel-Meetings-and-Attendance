@@ -1,0 +1,103 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "15",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007085/1",
+      "lead_applicant": "Robert Fletcher",
+      "lead_organisation": "University of Warwick",
+      "title": "The War of the Locust: science, politics, culture and collaboration in the Anti-Locust Research Centre, 1940-45",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00714X/1",
+      "lead_applicant": "Ian James Ewart",
+      "lead_organisation": "University of Reading",
+      "title": "Sensations of Roman life: Reconstructing and experiencing a multi-sensory virtual reality environment.",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007182/1",
+      "lead_applicant": "Niamh Downing",
+      "lead_organisation": "Falmouth University",
+      "title": "Orkney: 'Beside the Ocean of Time'",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007107/1",
+      "lead_applicant": "Josie Gill",
+      "lead_organisation": "University of Bristol",
+      "title": "'Literary Archaeology': Exploring the Lived Environment of the Slave",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N007174/1",
+      "lead_applicant": "Thibaut Deviese",
+      "lead_organisation": "University of Oxford",
+      "title": "From natural resources to packaging, an interdisciplinary study of skincare products over time",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007131/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007123/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007034/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N006992/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007050/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007158/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007190/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007093/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007115/1",
+      "score": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N007166/1",
+      "score": "2"
+    }
+  ],
+  "meeting_name": "Science in Culture: The Lived Environment Early Career Resesarcher Developmental Awards October 2015",
+  "source": "Science in Culture - The Lived Environment Developmental Awards October 2015 Meeting.xlsx",
+  "meeting_start": "2015-10",
+  "meeting_end": "2015-10"
+}

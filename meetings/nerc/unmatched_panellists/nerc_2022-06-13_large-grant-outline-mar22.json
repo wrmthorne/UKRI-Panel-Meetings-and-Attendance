@@ -1,0 +1,101 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Jessica Lucia",
+  "panellists": [
+    {
+      "name": "Jonathan Bull",
+      "role": "Chair",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Nicola Allison",
+      "role": "Member",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "Jennifer Best",
+      "role": "Member",
+      "organisation": "Scottish Environment Protection Agency"
+    },
+    {
+      "name": "Richard Brown",
+      "role": "Member",
+      "organisation": "University of Durham"
+    },
+    {
+      "name": "William Collins",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Fay Couceiro",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Robert Dorrell",
+      "role": "Member",
+      "organisation": "University of Hull"
+    },
+    {
+      "name": "Stephan Haefele",
+      "role": "Member",
+      "organisation": "Rothamsted Research"
+    },
+    {
+      "name": "Paul Hallett",
+      "role": "Member",
+      "organisation": "University of Aberdeen"
+    },
+    {
+      "name": "James Hammond Birkbeck",
+      "role": "Member",
+      "organisation": "University of London"
+    },
+    {
+      "name": "Andrew Henderson",
+      "role": "Member",
+      "organisation": "University of Newcastle"
+    },
+    {
+      "name": "Richard Horne",
+      "role": "Member",
+      "organisation": "British Antarctic Survey"
+    },
+    {
+      "name": "Graziella Iossa",
+      "role": "Member",
+      "organisation": "University of Lincoln"
+    },
+    {
+      "name": "Barbara Kasprzyk-Hordern",
+      "role": "Member",
+      "organisation": "University of Bath"
+    },
+    {
+      "name": "Anne Robertson",
+      "role": "Member",
+      "organisation": "University of Roehampton"
+    },
+    {
+      "name": "Jennifer Rowntree",
+      "role": "Member",
+      "organisation": "University of Plymouth"
+    },
+    {
+      "name": "Greg Sambrook Smith",
+      "role": "Member",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "Daniela Schmidt",
+      "role": "Member",
+      "organisation": "University of Bristol"
+    }
+  ],
+  "meeting_name": "Large Grant Outline MAR22",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-10062022-Large-Grant-Outline-Assessment-Panel-closing-date-8-March-2022.pdf",
+  "meeting_start": "2022-06-13",
+  "meeting_end": "2022-06-14"
+}

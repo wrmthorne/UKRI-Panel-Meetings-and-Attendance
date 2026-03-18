@@ -1,0 +1,54 @@
+{
+  "council": "STFC",
+  "year": "2022",
+  "count_of_applications": "6",
+  "count_of_awards": "3",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022A",
+      "year": "2022",
+      "application_id": "ST/X001695/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022A",
+      "year": "2022",
+      "application_id": "ST/X001717/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Successful",
+      "opportunity": "PE SPARK Awards 2022A",
+      "year": "2022",
+      "application_id": "ST/X001768/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022A",
+      "year": "2022",
+      "application_id": "ST/X00175X/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022A",
+      "year": "2022",
+      "application_id": "ST/X001733/1",
+      "rank": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "opportunity": "PE SPARK Awards 2022A",
+      "year": "2022",
+      "application_id": "ST/X001725/1",
+      "rank": "6"
+    }
+  ],
+  "meeting_name": "PE SPARK Awards 2022A",
+  "source": "Public-engagement-PE-legacy-nucleus-and-SPARK-awar/STFC-150223-RankingListForSparks2022A.xlsx",
+  "meeting_start": "2022",
+  "meeting_end": "2022"
+}

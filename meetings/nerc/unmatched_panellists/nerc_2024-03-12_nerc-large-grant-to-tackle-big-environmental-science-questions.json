@@ -1,0 +1,91 @@
+{
+  "council": "NERC",
+  "meeting_location": "Videoconference",
+  "panel_secretary": "Darby Knight",
+  "panellists": [
+    {
+      "name": "Melanie Leng",
+      "role": "Chair",
+      "organisation": "British Geological Survey"
+    },
+    {
+      "name": "Simon Butler",
+      "role": "Deputy Chair",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Michelle Cain",
+      "role": "Member",
+      "organisation": "Cranfield University"
+    },
+    {
+      "name": "Rachel Dunk",
+      "role": "Member",
+      "organisation": "Manchester Metropolitan University"
+    },
+    {
+      "name": "Mathew Evans",
+      "role": "Member",
+      "organisation": "University of York"
+    },
+    {
+      "name": "Markus Frey",
+      "role": "Member",
+      "organisation": "British Antarctic Survey"
+    },
+    {
+      "name": "Ian Kane The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Hilary Kennedy",
+      "role": "Member",
+      "organisation": "University of Bangor"
+    },
+    {
+      "name": "Linda Kirstein",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Ken McCaffrey",
+      "role": "Member",
+      "organisation": "University of Durham"
+    },
+    {
+      "name": "Erin McClymont",
+      "role": "Member",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "Phil Murray Royal Agricultural",
+      "role": "Member",
+      "organisation": "University"
+    },
+    {
+      "name": "David Stevens",
+      "role": "Member",
+      "organisation": "University of East Anglia"
+    },
+    {
+      "name": "Andrew Tanentzap",
+      "role": "Member",
+      "organisation": "University of Cambridge"
+    },
+    {
+      "name": "David Thornalley",
+      "role": "Member",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Andrew Willmott",
+      "role": "Member",
+      "organisation": "Newcastle University"
+    }
+  ],
+  "meeting_name": "NERC large grant to tackle big environmental science questions",
+  "source": "NERC-funding-assessment-panel-members-2023/NERC-120324-LargeGrantInterviewPanelForThe16Nov2023ClosingDate.pdf",
+  "meeting_start": "2024-03-12",
+  "meeting_end": "2024-03-13"
+}

@@ -1,0 +1,458 @@
+{
+  "council": "AHRC",
+  "source": "https://public.tableau.com/app/profile/arts.and.humanities.research.council/viz/PanelsOutcomeAttendance/NavigationDash",
+  "year": 2019,
+  "meeting_reference": "1-441206671",
+  "meeting_name": "Research Grants - September 2019",
+  "applications": [
+    {
+      "application_id": "AH/S013067/1",
+      "route": "Standard",
+      "lead_applicant": "Rachel Woodward",
+      "score": "6",
+      "rank": "1",
+      "lead_organisation": "Newcastle University",
+      "title": "Turning Fylingdales inside out: making practice visible at the UK's ballistic missile early warning and space monitoring station.l",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001895/1",
+      "route": "Standard",
+      "lead_applicant": "Jessica Lucy Harrison-Hall",
+      "score": "6",
+      "rank": "2",
+      "lead_organisation": "The British Museum",
+      "title": "Cultural Creativity in Qing China 1796-1912",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002409/1",
+      "route": "Standard",
+      "lead_applicant": "David Mattingly",
+      "score": "6",
+      "rank": "3",
+      "lead_organisation": "University of Leicester",
+      "title": "OasCiv: Making Oasis Civilisation in the Moroccan Sahara",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001631/1",
+      "route": "Standard",
+      "lead_applicant": "Seren Griffiths",
+      "score": "6",
+      "rank": "4",
+      "lead_organisation": "Manchester Metropolitan University",
+      "title": "Third and fourth millennia Ireland and Britain: a history of Major social change Explored (TIME)",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002859/1",
+      "route": "Standard",
+      "lead_applicant": "Neil Halford Bermel",
+      "score": "6",
+      "rank": "5",
+      "lead_organisation": "University of Sheffield",
+      "title": "Feast and Famine: Confronting Overabundance and Defectivity in Language",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002344/1",
+      "route": "Standard",
+      "lead_applicant": "Jacqueline Michelle Willson",
+      "score": "5",
+      "rank": "6",
+      "lead_organisation": "University of Leeds",
+      "title": "Fabulous Femininities: Extravagant Costume and Transformative Thresholds",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T002638/1",
+      "route": "Standard",
+      "lead_applicant": "Philip Alexander Ebert",
+      "score": "5",
+      "rank": "7",
+      "lead_organisation": "University of Stirling",
+      "title": "Varieties of Risk",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T00276X/1",
+      "route": "Early Career",
+      "lead_applicant": "Simone Natale",
+      "score": "5",
+      "rank": "8",
+      "lead_organisation": "Loughborough University",
+      "title": "Circuits of practice: Narrating modern computing in museum environments",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001976/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "9",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003014/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "10",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003146/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "11",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003707/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "12",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002875/1",
+      "route": "Early Career",
+      "lead_applicant": "Sharon Prendeville",
+      "score": "5",
+      "rank": "13",
+      "lead_organisation": "Loughborough University",
+      "title": "Counter-framing design: Radical Design Practices for Sustainability and Social Change",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001968/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "14",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003235/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "15",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000902/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "16",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002751/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "17",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000937/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "18",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002670/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "19",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003669/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "20",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001860/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "5",
+      "rank": "21",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003030/1",
+      "route": "Early Career",
+      "lead_applicant": "Aki Pasoulas",
+      "score": "5",
+      "rank": "22",
+      "lead_organisation": "University of Kent",
+      "title": "A Sonic Palimpsest: Revisiting Chatham Historic Dockyards",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T003138/1",
+      "route": "Early Career",
+      "lead_applicant": "Christopher Vaughan",
+      "score": "4",
+      "rank": "23",
+      "lead_organisation": "Liverpool John Moores University",
+      "title": "Regionalism in East Africa c. 1900 to the present",
+      "outcome": "Successful"
+    },
+    {
+      "application_id": "AH/T001933/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "24",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003642/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "25",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002042/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "26",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002514/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "27",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T000325/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "28",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002883/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "29",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001879/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "30",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002786/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "31",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001992/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "32",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T00181X/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "33",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003677/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "34",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002891/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "35",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002123/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "36",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T003081/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "37",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T001070/1",
+      "route": "Not Disclosed",
+      "lead_applicant": "",
+      "score": "4",
+      "rank": "38",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    },
+    {
+      "application_id": "AH/T002913/1",
+      "route": "",
+      "lead_applicant": "",
+      "score": "3",
+      "rank": "",
+      "lead_organisation": "",
+      "title": "",
+      "outcome": "Unsuccessful"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "Allan Sudlow",
+      "organisation": "British Library",
+      "role": "Chair"
+    },
+    {
+      "name": "Adam Stock",
+      "organisation": "York St John University",
+      "role": "Member"
+    },
+    {
+      "name": "Anna Pakes",
+      "organisation": "Roehampton University",
+      "role": "Member"
+    },
+    {
+      "name": "Edward Paleit",
+      "organisation": "University of Salford",
+      "role": "Member"
+    },
+    {
+      "name": "Joanne Louise Buckberry",
+      "organisation": "Nottingham Trent University",
+      "role": "Member"
+    },
+    {
+      "name": "Kerri Louise Andrews",
+      "organisation": "Edge Hill University",
+      "role": "Member"
+    },
+    {
+      "name": "Anna McMullan",
+      "organisation": "University of Reading",
+      "role": "Member"
+    },
+    {
+      "name": "Dafydd Robert Moore",
+      "organisation": "University of Plymouth",
+      "role": "Member"
+    },
+    {
+      "name": "Lucy Noakes",
+      "organisation": "Royal Central School of Speech and Drama",
+      "role": "Member"
+    },
+    {
+      "name": "Nathan Abrams",
+      "organisation": "Bangor University",
+      "role": "Member"
+    },
+    {
+      "name": "Ruth Ann McElroy",
+      "organisation": "Bangor University",
+      "role": "Member"
+    }
+  ],
+  "meeting_start": "2019-09-02",
+  "meeting_end": "2019-09-02"
+}

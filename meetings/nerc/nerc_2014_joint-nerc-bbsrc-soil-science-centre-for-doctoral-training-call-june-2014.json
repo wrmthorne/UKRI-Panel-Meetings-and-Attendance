@@ -1,0 +1,42 @@
+{
+  "council": "NERC",
+  "count_of_applications": "5",
+  "count_of_awards": "1",
+  "year": "2014",
+  "applications": [
+    {
+      "score": "9",
+      "outcome": "Successful",
+      "application_id": "NE/M009106/1",
+      "rank": "1"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "8",
+      "application_id": "NE/M009076/1",
+      "rank": "2"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "7",
+      "application_id": "NE/M009130/1",
+      "rank": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/M009092/1",
+      "rank": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "score": "6",
+      "application_id": "NE/M009041/1",
+      "rank": "5"
+    }
+  ],
+  "meeting_name": "Joint NERC-BBSRC Soil Science Centre for Doctoral Training call - June 2014",
+  "source": "soil-cdt.pdf",
+  "meeting_start": "2014",
+  "meeting_end": "2014"
+}

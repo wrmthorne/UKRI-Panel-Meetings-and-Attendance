@@ -1,0 +1,56 @@
+{
+  "council": "NERC",
+  "meeting_location": "Remotely via Zoom",
+  "panel_secretary": "Nikki Cholod",
+  "panellists": [
+    {
+      "name": "Alexander",
+      "role": "Chair",
+      "organisation": "MilnerUniversity of Birmingham"
+    },
+    {
+      "name": "Liz Baggs",
+      "role": "Member",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Nicolas Bellouin",
+      "role": "Member",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "Nick Chappell",
+      "role": "Member",
+      "organisation": "Lancaster University"
+    },
+    {
+      "name": "Liz Elvidge",
+      "role": "Member",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "Andrew Gibson",
+      "role": "Member",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Gordon McFiggans The",
+      "role": "Member",
+      "organisation": "University of Manchester"
+    },
+    {
+      "name": "Rebekah Smith-McGloin",
+      "role": "Member",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "Erica Thompson",
+      "role": "Member",
+      "organisation": "London School of Economics & Pol Sci"
+    }
+  ],
+  "meeting_name": "Advanced Training ADVANCED TRAINING PANEL 2022",
+  "source": "NERC-funding-assessment-panel-members-2022/NERC-160622-AdvancedTrainingPanel2022Membership.pdf",
+  "meeting_start": "2022-06-09",
+  "meeting_end": "2022-06-09"
+}

@@ -1,0 +1,84 @@
+{
+  "council": "ESRC",
+  "year": "2019",
+  "count_of_applications": "12",
+  "count_of_awards": "5",
+  "applications": [
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "9–10",
+      "outcome": "Successful",
+      "application_id": "ES/S015752/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S015787/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S015809/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S015825/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "8–8.9",
+      "outcome": "Successful",
+      "application_id": "ES/S015744/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015736/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015639/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "7–7.9",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015817/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015760/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015779/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S01568X/1"
+    },
+    {
+      "opportunity": "Large Grants fulls 2018/19",
+      "score_range": "<7",
+      "outcome": "Unsuccessful",
+      "application_id": "ES/S015795/1"
+    }
+  ],
+  "meeting_name": "ESRC Large Grants invite only 2018/19 meeting",
+  "source": "ESRC-020925-Funding-Decisions.xlsx",
+  "meeting_start": "2019-10",
+  "meeting_end": "2019-10"
+}

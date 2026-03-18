@@ -1,0 +1,124 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "18",
+  "count_of_awards": "7",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the moderator",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004043/1",
+      "lead_applicant": "Edward Harcourt",
+      "lead_organisation": "University of Oxford",
+      "title": "The Development of Character: Attachment Theory and the Moral Psychology of Vice and Virtue",
+      "score": "6"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N004736/1",
+      "lead_applicant": "Joyce S R Yee",
+      "lead_organisation": "Northumbria University",
+      "title": "Design for Social Innovation Research Network: Bridging the UK and Asia-Pacific Practices",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003640/1",
+      "lead_applicant": "Paul Rodgers",
+      "lead_organisation": "Northumbria University",
+      "title": "DESIGN SCHOOL: The Future of the Project",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003225/1",
+      "lead_applicant": "Douglas Hamilton",
+      "lead_organisation": "University of Winchester",
+      "title": "An empire of islands: concepts, contexts and collections",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N002989/1",
+      "lead_applicant": "Thomas Armstrong",
+      "lead_organisation": "University of Surrey",
+      "title": "Music Composition as Interdisciplinary Practice",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00373X/1",
+      "lead_applicant": "Kurt Walter Lampe",
+      "lead_organisation": "University of Bristol",
+      "title": "Continental Stoicisms: Beyond Reason and Wellbeing",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003160/1",
+      "lead_applicant": "Ian Russell",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Memory, Music and Movement: Inspiring and Facilitating Innovative Research in North Atlantic Fiddle and Dance Studies",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003950/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003985/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002725/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001338/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003152/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003756/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N003993/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004167/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N00423X/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004329/1",
+      "score": "3"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N004442/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Research Networking Moderation Panel, September 2015",
+  "source": "Research Networking, September 2015 Meeting.xlsx",
+  "meeting_start": "2015-09",
+  "meeting_end": "2015-09"
+}

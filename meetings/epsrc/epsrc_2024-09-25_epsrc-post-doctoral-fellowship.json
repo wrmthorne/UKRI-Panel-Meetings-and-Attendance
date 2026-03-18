@@ -1,0 +1,107 @@
+{
+  "council": "EPSRC",
+  "meeting_reference": "PAN688",
+  "meeting_name": "EPSRC Post Doctoral Fellowship",
+  "meeting_convenor": "U Sharma",
+  "applications": [
+    {
+      "application_id": "APP12035",
+      "title": "",
+      "lead_organisation": "",
+      "outcome": "Unsuccessful",
+      "rank": "1",
+      "rank_group": "Ranked",
+      "awarded_amount": "",
+      "award_id": "",
+      "opportunity_number": "141",
+      "lead_applicant": "",
+      "link": "",
+      "opportunity": "EPSRC post doctoral fellowship, May 2023"
+    }
+  ],
+  "panellists": [
+    {
+      "name": "S Marsden",
+      "role": "Chair",
+      "organisation": "University of Leeds"
+    },
+    {
+      "name": "P Dyer",
+      "role": "Deputy chair",
+      "organisation": "Durham University"
+    },
+    {
+      "name": "N Banerjee",
+      "role": "Panellist",
+      "organisation": "Imperial College London"
+    },
+    {
+      "name": "C Bell",
+      "role": "Panellist",
+      "organisation": "University of Bristol"
+    },
+    {
+      "name": "D Carey",
+      "role": "Panellist",
+      "organisation": "University of Surrey"
+    },
+    {
+      "name": "N Champness",
+      "role": "Panellist",
+      "organisation": "University of Birmingham"
+    },
+    {
+      "name": "D Coe",
+      "role": "Panellist",
+      "organisation": "GSK"
+    },
+    {
+      "name": "S Contera",
+      "role": "Panellist",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "J Cooper",
+      "role": "Panellist",
+      "organisation": "University of Reading"
+    },
+    {
+      "name": "A Cowan",
+      "role": "Panellist",
+      "organisation": "University of Liverpool"
+    },
+    {
+      "name": "A Di Falco",
+      "role": "Panellist",
+      "organisation": "University of St Andrews"
+    },
+    {
+      "name": "P Gould",
+      "role": "Panellist",
+      "organisation": "QinetiQ"
+    },
+    {
+      "name": "B Patel",
+      "role": "Panellist",
+      "organisation": "University of Brighton"
+    },
+    {
+      "name": "M Paternostro",
+      "role": "Panellist",
+      "organisation": "Queen's University Belfast"
+    },
+    {
+      "name": "D Robinson",
+      "role": "Panellist",
+      "organisation": "Nottingham Trent University"
+    },
+    {
+      "name": "N Telling",
+      "role": "Panellist",
+      "organisation": "Keele University"
+    }
+  ],
+  "source": "https://public.tableau.com/app/profile/epsrcdatateam/viz/EPSRCFundingApplicationOutcomes/MeetingList",
+  "meeting_start": "2024-09-25",
+  "meeting_end": "2024-09-25"
+}

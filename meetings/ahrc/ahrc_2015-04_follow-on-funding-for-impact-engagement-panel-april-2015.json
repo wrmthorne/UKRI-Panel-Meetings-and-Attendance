@@ -1,0 +1,73 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "9",
+  "count_of_awards": "5",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001311/1",
+      "score": "5"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N000196/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N001265/1",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N00289X/1",
+      "lead_applicant": "Avril Maddrell",
+      "lead_organisation": "University of the West of England",
+      "title": "Creating a virtual pilgrimage trail in the Isle of Man: faithscape, landscape and heritage",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N001729/1",
+      "lead_applicant": "Josie McLellan",
+      "lead_organisation": "University of Bristol",
+      "title": "Mapping LGBT Histories with Outstories Bristol",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003047/1",
+      "lead_applicant": "David Barnett",
+      "lead_organisation": "University of York",
+      "title": "Brecht in Practice: Staging Drama Dialectically",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N002733/1",
+      "lead_applicant": "Andrew McRae",
+      "lead_organisation": "University of Exeter",
+      "title": "The Stuart Successions: fresh approaches to the understanding of seventeenth-century history and literature",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N003128/1",
+      "lead_applicant": "Wayne Martin",
+      "lead_organisation": "University of Essex",
+      "title": "UK Preparation for the UN CRPD Engagement Process: A Three-Jurisdiction Approach",
+      "score": "4"
+    },
+    {
+      "outcome": "Unsuccessful",
+      "application_id": "AH/N002644/1",
+      "score": "3"
+    }
+  ],
+  "meeting_name": "Follow On Funding for Impact & Engagement Panel, April 2015",
+  "source": "Follow-on Funding for IE Q2 2015 Meetings.xlsx",
+  "meeting_start": "2015-04",
+  "meeting_end": "2015-04"
+}

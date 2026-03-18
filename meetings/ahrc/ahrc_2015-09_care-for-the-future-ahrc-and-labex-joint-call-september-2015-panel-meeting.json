@@ -1,0 +1,69 @@
+{
+  "council": "AHRC",
+  "year": "2015",
+  "count_of_applications": "8",
+  "count_of_awards": "8",
+  "notes": "Note 1. This list does not include applications that have failed sift and therefore were not considered by the panel",
+  "applications": [
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504580/1",
+      "lead_organisation": "University of Exeter",
+      "title": "The Criminalisation of Dictatorial Pasts in Europe and Latin America in Global Perspective",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504543/1",
+      "lead_organisation": "University of Aberdeen",
+      "title": "Animals, Lifeways and Lifeworlds in Yup’ik Archaeology (ALLY): Subsistence, Technologies, and Communities of Change",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504555/1",
+      "lead_organisation": "University of Liverpool",
+      "title": "‘Dark Tourism' in Comparative Perspective: Sites of Suffering, Sites of Memory",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504579/1",
+      "lead_organisation": "Bath Spa University",
+      "title": "Disrupted Histories, Recovered Pasts: A Cross-Disciplinary Analysis and Cross-Case Synthesis of Oral Histories and History in Post-Conflict and Postcolonial Contexts",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/P504609/1",
+      "lead_organisation": "University of Oxford",
+      "title": "OPAL the Oxford-Paris Alexander Project - Transnational Perspectives in a Digital Age",
+      "score": "5"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504531/1",
+      "lead_organisation": "Queen Mary University of London",
+      "title": "DaCaRyH (Data science for the study of calypso-rhythm through history)",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504592/1",
+      "lead_organisation": "University of Kent",
+      "title": "Reviewing Spectacle: The Pasts, Presents and Futures of the Situationist International in Contemporary Performance",
+      "score": "4"
+    },
+    {
+      "outcome": "Successful",
+      "application_id": "AH/N504567/1",
+      "lead_organisation": "Victoria and Albert Museum",
+      "title": "Universal histories and universal museums: a transnational comparison",
+      "score": "4"
+    }
+  ],
+  "meeting_name": "Care for the Future, AHRC and LABEX joint call, September 2015 panel meeting",
+  "source": "AHRC and LABEX Joint Care for the Future Call, September 2015 Meeting.xlsx",
+  "meeting_start": "2015-09",
+  "meeting_end": "2015-09"
+}
